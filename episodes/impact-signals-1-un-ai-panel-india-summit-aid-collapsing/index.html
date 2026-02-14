@@ -85,10 +85,16 @@
 <body>
     <a href="#main-content" class="skip-link">Skip to content</a>
 
+    <!-- Top CTA Bar -->
+    <div class="top-bar" role="banner">
+        Get daily intelligence on AI for social impact — free.
+        <a href="https://impactsignalsai.substack.com" rel="noopener">Subscribe →</a>
+    </div>
+
     <nav class="site-nav" role="navigation" aria-label="Main navigation">
         <div class="nav-inner">
             <a href="/" class="nav-brand">
-                <img src="/artwork.jpg" alt="Impact Signals logo" class="nav-artwork" width="34" height="34">
+                <img src="/artwork.jpg" alt="Impact Signals logo" class="nav-artwork" width="32" height="32">
                 <span>Impact Signals</span>
             </a>
             <div class="nav-links">
@@ -99,7 +105,7 @@
         </div>
     </nav>
 
-    <main id="main-content" class="content-wrapper episode-page" role="main">
+    <main id="main-content" class="episode-page" role="main">
         <nav class="breadcrumbs" aria-label="Breadcrumb">
             <a href="/">Home</a> <span class="separator">›</span>
             <a href="/#archive">Episodes</a> <span class="separator">›</span>
@@ -108,12 +114,18 @@
 
         <article itemscope itemtype="https://schema.org/PodcastEpisode">
             <header>
-                <div class="episode-header">
-                    <span class="episode-number">Episode 1</span>
-                    <time datetime="2026-02-13" itemprop="datePublished">February 13, 2026</time>
+                <div class="episode-header-tags">
+                    <span class="topic-tag tag-policy">🔵 Policy &amp; Governance</span>
+                    <span class="topic-tag tag-humanitarian">🟠 Humanitarian AI</span>
+                    <span class="topic-tag tag-climate">🟢 Climate Resilience</span>
+                    <span class="topic-tag tag-innovation">🟣 Innovation</span>
                 </div>
-                <h1 itemprop="name">Impact Signals #1: The UN's New AI Panel, India's AI Summit, and Why Aid Is Collapsing</h1>
-                <p class="subtitle"><em>AI for Impact Daily Briefing — February 13, 2026</em></p>
+                <div class="episode-meta-row">
+                    <span class="episode-number-label">Episode 1</span>
+                    <time class="episode-date" datetime="2026-02-13" itemprop="datePublished">February 13, 2026</time>
+                </div>
+                <h1 itemprop="name">The UN's New AI Panel, India's AI Summit, and Why Aid Is Collapsing</h1>
+                <p class="subtitle">AI for Impact Daily Briefing — February 13, 2026</p>
             </header>
 
             <section aria-label="Video" class="video-player">
@@ -126,6 +138,15 @@
                 </audio>
                 <span class="duration">🎧 4:03</span>
             </section>
+
+            <div class="listen-on" aria-label="Listen on platforms">
+                <span>Listen on:</span>
+                <a href="https://open.spotify.com/show/4xkRnw54RVZFVgVYI7wMZQ" rel="noopener">Spotify</a>
+                <a href="https://podcasts.apple.com/podcast/id1877390015" rel="noopener">Apple Podcasts</a>
+                <a href="https://www.youtube.com/watch?v=FTLREseUKaU" rel="noopener">YouTube</a>
+                <a href="https://impactsignalsai.substack.com" rel="noopener">Substack</a>
+                <a href="/feed.xml">RSS</a>
+            </div>
 
             <section class="stories" aria-label="Top stories">
                 <h2>🔥 Top Stories</h2>
@@ -260,19 +281,25 @@
 
     <footer class="site-footer" role="contentinfo">
         <div class="footer-inner">
-            <p class="footer-brand">Impact Signals</p>
-            <p class="footer-tagline">Social impact at the scale of AI</p>
-            <nav class="footer-platforms" aria-label="Platform links">
+            <div class="footer-brand-section">
+                <p class="footer-brand">Impact Signals</p>
+                <p class="footer-tagline">Social impact at the scale of AI</p>
+            </div>
+            <div class="footer-nav-section">
+                <h4>Listen</h4>
                 <a href="https://open.spotify.com/show/4xkRnw54RVZFVgVYI7wMZQ" rel="noopener">Spotify</a>
                 <a href="https://podcasts.apple.com/podcast/id1877390015" rel="noopener">Apple Podcasts</a>
                 <a href="https://www.youtube.com/@ImpactSignalsAI" rel="noopener">YouTube</a>
                 <a href="https://impactsignalsai.substack.com" rel="noopener">Substack</a>
+                <a href="/feed.xml">RSS Feed</a>
+            </div>
+            <div class="footer-nav-section footer-legal-section">
+                <h4>Connect</h4>
                 <a href="https://x.com/ImpactSignalAI" rel="noopener">Twitter/X</a>
                 <a href="https://www.linkedin.com/company/impact-signals-ai" rel="noopener">LinkedIn</a>
-                <a href="/feed.xml">RSS Feed</a>
                 <a href="/about/">About</a>
-            </nav>
-            <p class="footer-legal">&copy; 2026 Impact Signals AI. All rights reserved.</p>
+                <p class="footer-legal" style="margin-top: 1rem;">&copy; 2026 Impact Signals AI.<br>All rights reserved.</p>
+            </div>
         </div>
     </footer>
 </body>

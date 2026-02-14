@@ -81,10 +81,16 @@
 <body>
     <a href="#main-content" class="skip-link">Skip to content</a>
 
+    <!-- Top CTA Bar -->
+    <div class="top-bar" role="banner">
+        Get daily intelligence on AI for social impact — free.
+        <a href="https://impactsignalsai.substack.com" rel="noopener">Subscribe →</a>
+    </div>
+
     <nav class="site-nav" role="navigation" aria-label="Main navigation">
         <div class="nav-inner">
             <a href="/" class="nav-brand">
-                <img src="/artwork.jpg" alt="Impact Signals logo" class="nav-artwork" width="34" height="34">
+                <img src="/artwork.jpg" alt="Impact Signals logo" class="nav-artwork" width="32" height="32">
                 <span>Impact Signals</span>
             </a>
             <div class="nav-links">
@@ -95,59 +101,111 @@
         </div>
     </nav>
 
-    <header class="hero" role="banner">
-        <img src="/artwork.jpg" alt="Impact Signals podcast artwork" class="hero-artwork" width="140" height="140">
-        <h1>Impact Signals</h1>
-        <p class="tagline">Social impact at the scale of AI</p>
-        <p class="description">Daily AI-powered intelligence for people working at the intersection of technology and social impact.</p>
-        <div class="subscribe-buttons" role="group" aria-label="Subscribe to Impact Signals">
-            <a href="https://open.spotify.com/show/4xkRnw54RVZFVgVYI7wMZQ" class="subscribe-btn btn-secondary" rel="noopener">🎧 Spotify</a>
-            <a href="https://podcasts.apple.com/podcast/id1877390015" class="subscribe-btn btn-secondary" rel="noopener">🍎 Apple Podcasts</a>
-            <a href="https://www.youtube.com/@ImpactSignalsAI" class="subscribe-btn btn-secondary" rel="noopener">▶️ YouTube</a>
-            <a href="https://impactsignalsai.substack.com" class="subscribe-btn btn-primary" rel="noopener">📩 Substack</a>
-            <a href="/feed.xml" class="subscribe-btn btn-secondary">📡 RSS</a>
-        </div>
-        <div class="social-row" aria-label="Social media links">
-            <a href="https://x.com/ImpactSignalAI" rel="noopener">Twitter/X</a>
-            <a href="https://www.linkedin.com/company/impact-signals-ai" rel="noopener">LinkedIn</a>
-        </div>
-    </header>
-
     <main id="main-content" class="content-wrapper" role="main">
-        <!-- Latest Episode -->
-        <section class="latest-episode" aria-label="Latest episode">
-            <span class="section-label">Latest Episode</span>
-            <div class="episode-card">
-                <div class="episode-card-meta">
-                    <span class="episode-badge">Episode 2</span>
-                    <time datetime="2026-02-14">February 14, 2026</time>
+
+        <!-- Featured Episode — News Grid -->
+        <section class="featured-section" aria-label="Featured episode">
+            <div class="section-header">
+                <h2>Latest Briefing</h2>
+                <a href="#archive">All Episodes →</a>
+            </div>
+
+            <div class="news-grid">
+                <div class="featured-main">
+                    <a href="/episodes/impact-signals-2-ai-drones-turning-wars-on-civilians/" class="featured-image" aria-hidden="true">
+                        <span class="featured-play">▶</span>
+                    </a>
+                    <div class="featured-tags">
+                        <span class="topic-tag tag-disaster">🔴 Disaster Response</span>
+                        <span class="topic-tag tag-climate">🟢 Climate Resilience</span>
+                        <span class="topic-tag tag-policy">🔵 Policy &amp; Governance</span>
+                    </div>
+                    <h3><a href="/episodes/impact-signals-2-ai-drones-turning-wars-on-civilians/">AI Drones Turning Wars on Civilians, World's First Wildfire Early Action Protocol, Google Expands Flood Forecasting Across Africa</a></h3>
+                    <p class="featured-summary">ICRC warns AI drones turning wars on civilians at Munich Security Conference. IFRC activates the world's first wildfire Early Action Protocol in Chile. Google expands flood forecasting across Africa with the African Union.</p>
+                    <div class="featured-meta"><strong>Impact Signals #2</strong> · <time datetime="2026-02-14">February 14, 2026</time></div>
                 </div>
-                <h3><a href="/episodes/impact-signals-2-ai-drones-turning-wars-on-civilians/">Impact Signals #2: AI Drones Turning Wars on Civilians, World's First Wildfire Early Action Protocol, Google Expands Flood Forecasting Across Africa</a></h3>
-                <p>ICRC warns AI drones turning wars on civilians at Munich Security Conference. IFRC activates the world's first wildfire Early Action Protocol in Chile. Google expands flood forecasting across Africa with the African Union.</p>
-                <div class="episode-card-links">
-                    <a href="/episodes/impact-signals-2-ai-drones-turning-wars-on-civilians/">Read &amp; Listen →</a>
-                    <a href="https://www.youtube.com/watch?v=Xo5h-kYpbxg" rel="noopener">Watch on YouTube</a>
+
+                <div class="featured-sidebar">
+                    <div class="sidebar-story">
+                        <span class="topic-tag tag-disaster">🔴 Disaster Response</span>
+                        <h4><a href="/episodes/impact-signals-2-ai-drones-turning-wars-on-civilians/">ICRC Chief Warns AI & Drones Turning Wars Into Wars on Civilians</a></h4>
+                        <p class="sidebar-meta">Munich Security Conference · Feb 14</p>
+                    </div>
+                    <div class="sidebar-story">
+                        <span class="topic-tag tag-innovation">🟣 Innovation</span>
+                        <h4><a href="/episodes/impact-signals-2-ai-drones-turning-wars-on-civilians/">IFRC Activates World's First Wildfire Early Action Protocol in Chile</a></h4>
+                        <p class="sidebar-meta">Forecast-based financing in action · Feb 14</p>
+                    </div>
+                    <div class="sidebar-story">
+                        <span class="topic-tag tag-climate">🟢 Climate Resilience</span>
+                        <h4><a href="/episodes/impact-signals-2-ai-drones-turning-wars-on-civilians/">Google Expands AI Flood Forecasting Across Africa, Partners with AU</a></h4>
+                        <p class="sidebar-meta">Pre-disaster cash transfers in Nigeria · Feb 14</p>
+                    </div>
+                    <div class="sidebar-story">
+                        <span class="topic-tag tag-humanitarian">🟠 Humanitarian AI</span>
+                        <h4><a href="/episodes/impact-signals-2-ai-drones-turning-wars-on-civilians/">WHO Launches AI-Powered Emergency Response Toolkit</a></h4>
+                        <p class="sidebar-meta">Document production: weeks → minutes · Feb 14</p>
+                    </div>
                 </div>
             </div>
         </section>
 
-        <!-- Archive -->
-        <section class="archive" id="archive" aria-label="Episode archive">
-            <h2>All Episodes</h2>
-            <ul class="archive-list">
-                <li class="archive-item">
-                    <a href="/episodes/impact-signals-2-ai-drones-turning-wars-on-civilians/">Impact Signals #2: AI Drones Turning Wars on Civilians, World's First Wildfire Early Action Protocol, Google Expands Flood Forecasting Across Africa</a>
-                    <time datetime="2026-02-14">Feb 14, 2026</time>
+        <hr class="section-divider">
+
+        <!-- All Episodes -->
+        <section class="episodes-section" id="archive" aria-label="Episode archive">
+            <div class="section-header">
+                <h2>All Episodes</h2>
+            </div>
+
+            <ul class="episode-list">
+                <li class="episode-list-item">
+                    <span class="episode-number-badge">2</span>
+                    <div class="episode-list-content">
+                        <div>
+                            <span class="topic-tag tag-disaster">🔴 Disaster Response</span>
+                            <span class="topic-tag tag-climate">🟢 Climate Resilience</span>
+                            <span class="topic-tag tag-innovation">🟣 Innovation</span>
+                        </div>
+                        <h3><a href="/episodes/impact-signals-2-ai-drones-turning-wars-on-civilians/">AI Drones Turning Wars on Civilians, World's First Wildfire Early Action Protocol, Google Expands Flood Forecasting Across Africa</a></h3>
+                        <p>ICRC warns AI drones turning wars on civilians at Munich Security Conference. IFRC activates the world's first wildfire Early Action Protocol in Chile. Google expands flood forecasting across Africa.</p>
+                    </div>
+                    <time class="episode-list-date" datetime="2026-02-14">Feb 14, 2026</time>
                 </li>
-                <li class="archive-item">
-                    <a href="/episodes/impact-signals-1-un-ai-panel-india-summit-aid-collapsing/">Impact Signals #1: The UN's New AI Panel, India's AI Summit, and Why Aid Is Collapsing</a>
-                    <time datetime="2026-02-13">Feb 13, 2026</time>
+                <li class="episode-list-item">
+                    <span class="episode-number-badge">1</span>
+                    <div class="episode-list-content">
+                        <div>
+                            <span class="topic-tag tag-policy">🔵 Policy &amp; Governance</span>
+                            <span class="topic-tag tag-humanitarian">🟠 Humanitarian AI</span>
+                        </div>
+                        <h3><a href="/episodes/impact-signals-1-un-ai-panel-india-summit-aid-collapsing/">The UN's New AI Panel, India's AI Summit, and Why Aid Is Collapsing</a></h3>
+                        <p>The UN voted 117-2 to create its first AI Scientific Panel. India hosts the biggest Global South AI summit. The IRC warns of humanitarian funding collapse.</p>
+                    </div>
+                    <time class="episode-list-date" datetime="2026-02-13">Feb 13, 2026</time>
                 </li>
             </ul>
         </section>
 
+        <hr class="section-divider">
+
+        <!-- Podcast Subscribe Section -->
+        <section class="podcast-section" aria-label="Subscribe to podcast">
+            <h2>Listen Everywhere</h2>
+            <p>Subscribe to Impact Signals on your favorite platform. New episodes daily.</p>
+            <div class="platform-buttons" role="group" aria-label="Podcast platforms">
+                <a href="https://open.spotify.com/show/4xkRnw54RVZFVgVYI7wMZQ" class="platform-btn" rel="noopener">🎧 Spotify</a>
+                <a href="https://podcasts.apple.com/podcast/id1877390015" class="platform-btn" rel="noopener">🍎 Apple Podcasts</a>
+                <a href="https://www.youtube.com/@ImpactSignalsAI" class="platform-btn" rel="noopener">▶️ YouTube</a>
+                <a href="https://impactsignalsai.substack.com" class="platform-btn primary" rel="noopener">📩 Substack</a>
+                <a href="/feed.xml" class="platform-btn">📡 RSS Feed</a>
+            </div>
+        </section>
+
+        <hr class="section-divider">
+
         <!-- FAQ for GEO -->
-        <section class="faq" aria-label="Frequently asked questions">
+        <section class="faq-section" aria-label="Frequently asked questions">
             <h2>Frequently Asked Questions</h2>
             <div class="faq-item" itemscope itemtype="https://schema.org/Question">
                 <h3 itemprop="name">What is Impact Signals?</h3>
@@ -206,19 +264,25 @@
 
     <footer class="site-footer" role="contentinfo">
         <div class="footer-inner">
-            <p class="footer-brand">Impact Signals</p>
-            <p class="footer-tagline">Social impact at the scale of AI</p>
-            <nav class="footer-platforms" aria-label="Platform links">
+            <div class="footer-brand-section">
+                <p class="footer-brand">Impact Signals</p>
+                <p class="footer-tagline">Social impact at the scale of AI</p>
+            </div>
+            <div class="footer-nav-section">
+                <h4>Listen</h4>
                 <a href="https://open.spotify.com/show/4xkRnw54RVZFVgVYI7wMZQ" rel="noopener">Spotify</a>
                 <a href="https://podcasts.apple.com/podcast/id1877390015" rel="noopener">Apple Podcasts</a>
                 <a href="https://www.youtube.com/@ImpactSignalsAI" rel="noopener">YouTube</a>
                 <a href="https://impactsignalsai.substack.com" rel="noopener">Substack</a>
+                <a href="/feed.xml">RSS Feed</a>
+            </div>
+            <div class="footer-nav-section footer-legal-section">
+                <h4>Connect</h4>
                 <a href="https://x.com/ImpactSignalAI" rel="noopener">Twitter/X</a>
                 <a href="https://www.linkedin.com/company/impact-signals-ai" rel="noopener">LinkedIn</a>
-                <a href="/feed.xml">RSS Feed</a>
                 <a href="/about/">About</a>
-            </nav>
-            <p class="footer-legal">&copy; 2026 Impact Signals AI. All rights reserved.</p>
+                <p class="footer-legal" style="margin-top: 1rem;">&copy; 2026 Impact Signals AI.<br>All rights reserved.</p>
+            </div>
         </div>
     </footer>
 </body>

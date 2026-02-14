@@ -58,10 +58,16 @@
 <body>
     <a href="#main-content" class="skip-link">Skip to content</a>
 
+    <!-- Top CTA Bar -->
+    <div class="top-bar" role="banner">
+        Get daily intelligence on AI for social impact — free.
+        <a href="https://impactsignalsai.substack.com" rel="noopener">Subscribe →</a>
+    </div>
+
     <nav class="site-nav" role="navigation" aria-label="Main navigation">
         <div class="nav-inner">
             <a href="/" class="nav-brand">
-                <img src="/artwork.jpg" alt="Impact Signals logo" class="nav-artwork" width="34" height="34">
+                <img src="/artwork.jpg" alt="Impact Signals logo" class="nav-artwork" width="32" height="32">
                 <span>Impact Signals</span>
             </a>
             <div class="nav-links">
@@ -72,7 +78,7 @@
         </div>
     </nav>
 
-    <main id="main-content" class="content-wrapper about-content" role="main">
+    <main id="main-content" class="about-content" role="main">
         <nav class="breadcrumbs" aria-label="Breadcrumb">
             <a href="/">Home</a> <span class="separator">›</span>
             <span aria-current="page">About</span>
@@ -129,12 +135,12 @@
 
             <p>Impact Signals is available wherever you listen to podcasts and as a newsletter:</p>
 
-            <div class="subscribe-buttons" style="justify-content: flex-start; margin: 1rem 0;">
-                <a href="https://open.spotify.com/show/4xkRnw54RVZFVgVYI7wMZQ" class="subscribe-btn btn-secondary" rel="noopener">🎧 Spotify</a>
-                <a href="https://podcasts.apple.com/podcast/id1877390015" class="subscribe-btn btn-secondary" rel="noopener">🍎 Apple Podcasts</a>
-                <a href="https://www.youtube.com/@ImpactSignalsAI" class="subscribe-btn btn-secondary" rel="noopener">▶️ YouTube</a>
-                <a href="https://impactsignalsai.substack.com" class="subscribe-btn btn-primary" rel="noopener">📩 Substack</a>
-                <a href="/feed.xml" class="subscribe-btn btn-secondary">📡 RSS</a>
+            <div class="platform-buttons" style="justify-content: flex-start; margin: 1.25rem 0;">
+                <a href="https://open.spotify.com/show/4xkRnw54RVZFVgVYI7wMZQ" class="platform-btn" rel="noopener">🎧 Spotify</a>
+                <a href="https://podcasts.apple.com/podcast/id1877390015" class="platform-btn" rel="noopener">🍎 Apple Podcasts</a>
+                <a href="https://www.youtube.com/@ImpactSignalsAI" class="platform-btn" rel="noopener">▶️ YouTube</a>
+                <a href="https://impactsignalsai.substack.com" class="platform-btn primary" rel="noopener">📩 Substack</a>
+                <a href="/feed.xml" class="platform-btn">📡 RSS</a>
             </div>
 
             <h2>Connect</h2>
@@ -149,19 +155,25 @@
 
     <footer class="site-footer" role="contentinfo">
         <div class="footer-inner">
-            <p class="footer-brand">Impact Signals</p>
-            <p class="footer-tagline">Social impact at the scale of AI</p>
-            <nav class="footer-platforms" aria-label="Platform links">
+            <div class="footer-brand-section">
+                <p class="footer-brand">Impact Signals</p>
+                <p class="footer-tagline">Social impact at the scale of AI</p>
+            </div>
+            <div class="footer-nav-section">
+                <h4>Listen</h4>
                 <a href="https://open.spotify.com/show/4xkRnw54RVZFVgVYI7wMZQ" rel="noopener">Spotify</a>
                 <a href="https://podcasts.apple.com/podcast/id1877390015" rel="noopener">Apple Podcasts</a>
                 <a href="https://www.youtube.com/@ImpactSignalsAI" rel="noopener">YouTube</a>
                 <a href="https://impactsignalsai.substack.com" rel="noopener">Substack</a>
+                <a href="/feed.xml">RSS Feed</a>
+            </div>
+            <div class="footer-nav-section footer-legal-section">
+                <h4>Connect</h4>
                 <a href="https://x.com/ImpactSignalAI" rel="noopener">Twitter/X</a>
                 <a href="https://www.linkedin.com/company/impact-signals-ai" rel="noopener">LinkedIn</a>
-                <a href="/feed.xml">RSS Feed</a>
                 <a href="/about/">About</a>
-            </nav>
-            <p class="footer-legal">&copy; 2026 Impact Signals AI. All rights reserved.</p>
+                <p class="footer-legal" style="margin-top: 1rem;">&copy; 2026 Impact Signals AI.<br>All rights reserved.</p>
+            </div>
         </div>
     </footer>
 </body>
