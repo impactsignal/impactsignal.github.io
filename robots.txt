@@ -1,0 +1,36 @@
+# Impact Signals - impactsignals.ai
+# We welcome all crawlers including AI/LLM search bots
+
+User-agent: *
+Allow: /
+
+# AI and LLM crawlers - explicitly welcomed
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+# LLM-optimized content
+# /llms.txt - concise site summary for LLMs
+# /llms-full.txt - comprehensive content for LLMs
+
+Sitemap: https://impactsignals.ai/sitemap.xml

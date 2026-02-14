@@ -1,0 +1,57 @@
+# Impact Signals
+> Social impact at the scale of AI
+
+## What is Impact Signals?
+Impact Signals is a daily podcast and newsletter delivering AI-powered intelligence for people working at the intersection of technology and social impact. It covers AI for disaster relief, humanitarian operations, climate resilience, public health, and social good worldwide.
+
+Website: https://impactsignals.ai
+RSS Feed: https://impactsignals.ai/feed.xml
+Substack: https://impactsignalsai.substack.com
+Full LLM content: https://impactsignals.ai/llms-full.txt
+
+## Who is it for?
+- Humanitarian practitioners and NGO workers
+- Social impact professionals and funders
+- AI researchers working on applications for good
+- Policymakers in disaster risk reduction and AI governance
+- Emergency management professionals
+- Students and academics in humanitarian technology
+
+## Format
+Each daily episode includes:
+- 8 curated stories with analysis and source attribution
+- Framework tags: Resilience, Response, Relief, Recovery, Enablement, Co-Creation
+- Upcoming events relevant to AI-for-impact community
+- Active disaster monitoring from GDACS and OCHA
+
+## Episodes
+
+### Episode 2 — February 14, 2026
+**AI Drones Turning Wars on Civilians, World's First Wildfire Early Action Protocol, Google Expands Flood Forecasting Across Africa**
+
+Top stories: ICRC warns AI drones turning wars on civilians at Munich Security Conference. IFRC activates world's first wildfire Early Action Protocol in Chile using forecast-based financing. Google expands AI flood forecasting across Africa with the African Union. WHO launches AI-powered emergency response toolkit (AIM). Caltech unveils X1 multi-modal search-and-rescue robot. University of Twente tests AI drone logistics simulation on six historical disasters. Salesforce Agentforce powers Good360 disaster relief matching during LA wildfires. Khalifa University study on AI heatwave early warning for Gulf region.
+
+URL: https://impactsignals.ai/episodes/impact-signals-2-ai-drones-turning-wars-on-civilians/
+YouTube: https://www.youtube.com/watch?v=Xo5h-kYpbxg
+Audio: https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-2/episode-2.mp3
+
+### Episode 1 — February 13, 2026
+**The UN's New AI Panel, India's AI Summit, and Why Aid Is Collapsing**
+
+Top stories: UN General Assembly votes 117-2 to create first-ever AI Scientific Panel. India hosts largest Global South AI summit (Feb 16-20, New Delhi). Tata launches AI Sakhi program empowering rural women. IRC 2026 Emergency Watchlist warns of "New World Disorder" as aid collapses. Yemen health system buckles under USAID cuts. International AI Safety Report 2026 released. Africa expands multi-hazard early warning systems. University of Michigan AI reads brain MRIs at 97.5% accuracy.
+
+URL: https://impactsignals.ai/episodes/impact-signals-1-un-ai-panel-india-summit-aid-collapsing/
+YouTube: https://www.youtube.com/watch?v=FTLREseUKaU
+Audio: https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-1/episode-1.mp3
+
+## Subscribe
+- Spotify: https://open.spotify.com/show/4xkRnw54RVZFVgVYI7wMZQ
+- Apple Podcasts: https://podcasts.apple.com/podcast/id1877390015
+- YouTube: https://www.youtube.com/@ImpactSignalsAI
+- Substack: https://impactsignalsai.substack.com
+- RSS: https://impactsignals.ai/feed.xml
+
+## Contact
+- Twitter/X: https://x.com/ImpactSignalAI
+- LinkedIn: https://www.linkedin.com/company/impact-signals-ai
+- Email: polly@impactsignals.ai
