@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>Impact Signal</title>
-    <description>Daily intelligence where AI meets disaster response</description>
+    <title>Impact Signals</title>
+    <description>Social impact at the scale of AI</description>
     <link>https://impactsignal.substack.com</link>
     <language>en-us</language>
-    <generator>Impact Signal Pipeline</generator>
+    <generator>Impact Signals Pipeline</generator>
     <atom:link href="https://impactsignal.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <itunes:author>Impact Signal</itunes:author>
-    <itunes:summary>Daily intelligence where AI meets disaster response</itunes:summary>
+    <itunes:author>Impact Signals</itunes:author>
+    <itunes:summary>Social impact at the scale of AI</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
-      <itunes:name>Impact Signal</itunes:name>
+      <itunes:name>Impact Signals</itunes:name>
     </itunes:owner>
     <itunes:category text="News">
       <itunes:category text="Daily News" />
     </itunes:category>
     <itunes:image href="https://impactsignal.github.io/artwork.jpg" />
     <item>
-      <title>Impact Signal #1: The UN's New AI Panel, India's AI Summit, and Why Aid Is Collapsing</title>
+      <title>Impact Signals #1: The UN's New AI Panel, India's AI Summit, and Why Aid Is Collapsing</title>
       <description>The UN voted 117-2 to create its first AI Scientific Panel. India hosts the biggest Global South AI summit. The IRC warns of humanitarian funding collapse. Plus: Vanuatu earthquake update, Africa's expanding early warning systems, and AI reading brain MRIs at 97.5% accuracy.</description>
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-1/episode-1.mp3" length="2435996" type="audio/mpeg" />
       <pubDate>Sat, 14 Feb 2026 07:00:00 +0000</pubDate>
