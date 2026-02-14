@@ -2,13 +2,13 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Impact Signals</title>
-    <description>Social impact at the scale of AI</description>
+    <description>Social impact at the scale of AI: Impact Signals delivers daily AI-powered intelligence for people working at the intersection of technology and social impact. Website: impactsignals.ai</description>
     <link>https://impactsignal.substack.com</link>
     <language>en-us</language>
     <generator>Impact Signals Pipeline</generator>
     <atom:link href="https://impactsignals.ai/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Impact Signals</itunes:author>
-    <itunes:summary>Social impact at the scale of AI</itunes:summary>
+    <itunes:summary>Social impact at the scale of AI: Impact Signals delivers daily AI-powered intelligence for people working at the intersection of technology and social impact. Website: impactsignals.ai</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
