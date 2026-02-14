@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Impact Signal</title>
+    <description>Daily intelligence where AI meets disaster response</description>
+    <link>https://impactsignal.substack.com</link>
+    <language>en-us</language>
+    <generator>Impact Signal Pipeline</generator>
+    <atom:link href="https://impactsignal.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>Impact Signal</itunes:author>
+    <itunes:summary>Daily intelligence where AI meets disaster response</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Impact Signal</itunes:name>
+    </itunes:owner>
+    <itunes:category text="News">
+      <itunes:category text="Daily News" />
+    </itunes:category>
+    <itunes:image href="https://impactsignal.github.io/artwork.jpg" />
+  </channel>
+</rss>
