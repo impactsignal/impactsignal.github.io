@@ -6,7 +6,7 @@
     <link>https://impactsignal.substack.com</link>
     <language>en-us</language>
     <generator>Impact Signals Pipeline</generator>
-    <atom:link href="https://impactsignals.ai/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://impactsignal.ai/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Impact Signals</itunes:author>
     <itunes:summary>Social impact at the scale of AI</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -17,7 +17,7 @@
     <itunes:category text="News">
       <itunes:category text="Daily News" />
     </itunes:category>
-    <itunes:image href="https://impactsignals.ai/artwork.jpg" />
+    <itunes:image href="https://impactsignal.ai/artwork.jpg" />
     <item>
       <title>Impact Signals #1: The UN's New AI Panel, India's AI Summit, and Why Aid Is Collapsing</title>
       <description>The UN voted 117-2 to create its first AI Scientific Panel. India hosts the biggest Global South AI summit. The IRC warns of humanitarian funding collapse. Plus: Vanuatu earthquake update, Africa's expanding early warning systems, and AI reading brain MRIs at 97.5% accuracy.</description>
