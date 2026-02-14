@@ -1,6 +1,6 @@
 # Impact Signals
 
-**Daily intelligence where AI meets disaster response.**
+**Social Impact At The Scale of AI.**
 
 🎙️ [Podcast RSS Feed](https://impactsignal.github.io/feed.xml)
 📩 [Subscribe on Substack](https://impactsignal.substack.com)
