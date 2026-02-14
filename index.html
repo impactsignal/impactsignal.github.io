@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Impact Signal — Daily AI + Disaster Response Intelligence</title>
+    <meta name="description" content="Daily intelligence where AI meets disaster response. Podcast, newsletter, and briefings for the humanitarian community.">
+    <meta property="og:title" content="Impact Signal">
+    <meta property="og:description" content="Daily intelligence where AI meets disaster response">
+    <meta property="og:image" content="https://impactsignal.github.io/artwork.jpg">
+    <meta property="og:url" content="https://impactsignal.github.io">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@ImpactSignalAI">
+    <link rel="alternate" type="application/rss+xml" title="Impact Signal Podcast" href="https://impactsignal.github.io/feed.xml">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #0a0a1a;
+            color: #e0e0e0;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+        }
+        .container {
+            max-width: 600px;
+            text-align: center;
+        }
+        .artwork {
+            width: 200px;
+            height: 200px;
+            border-radius: 16px;
+            margin-bottom: 2rem;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+        }
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: #fff;
+            margin-bottom: 0.5rem;
+        }
+        .tagline {
+            font-size: 1.1rem;
+            color: #a0a0b0;
+            margin-bottom: 2rem;
+            line-height: 1.5;
+        }
+        .links {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            justify-content: center;
+            margin-bottom: 2rem;
+        }
+        .links a {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.75rem 1.5rem;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.95rem;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .links a:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 16px rgba(0,0,0,0.3);
+        }
+        .btn-primary {
+            background: #e85d26;
+            color: #fff;
+        }
+        .btn-secondary {
+            background: #1a1a2e;
+            color: #fff;
+            border: 1px solid #333;
+        }
+        .rss-link {
+            margin-top: 1rem;
+        }
+        .rss-link a {
+            color: #e85d26;
+            text-decoration: none;
+            font-size: 0.85rem;
+        }
+        .rss-link a:hover {
+            text-decoration: underline;
+        }
+        .episodes {
+            margin-top: 3rem;
+            text-align: left;
+            width: 100%;
+        }
+        .episodes h2 {
+            font-size: 1.2rem;
+            color: #fff;
+            margin-bottom: 1rem;
+        }
+        .episode {
+            background: #1a1a2e;
+            border-radius: 8px;
+            padding: 1rem 1.25rem;
+            margin-bottom: 0.75rem;
+        }
+        .episode-title {
+            font-weight: 600;
+            color: #fff;
+            margin-bottom: 0.25rem;
+        }
+        .episode-meta {
+            font-size: 0.85rem;
+            color: #888;
+        }
+        .episode audio {
+            width: 100%;
+            margin-top: 0.5rem;
+        }
+        footer {
+            margin-top: 3rem;
+            font-size: 0.8rem;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="artwork.jpg" alt="Impact Signal" class="artwork" onerror="this.style.display='none'">
+        <h1>Impact Signal</h1>
+        <p class="tagline">Daily intelligence where AI meets disaster response</p>
+        
+        <div class="links">
+            <a href="https://impactsignal.substack.com" class="btn-primary">📩 Subscribe</a>
+            <a href="https://x.com/ImpactSignalAI" class="btn-secondary">𝕏 Follow</a>
+            <a href="https://youtube.com/@ImpactSignalsAI" class="btn-secondary">▶ YouTube</a>
+        </div>
+        
+        <div class="rss-link">
+            <a href="feed.xml">🔗 Podcast RSS Feed</a> — Add to Spotify, Apple Podcasts, or your player
+        </div>
+
+        <div class="episodes" id="episodes">
+            <h2>Latest Episodes</h2>
+            <div id="episode-list">Loading...</div>
+        </div>
+    </div>
+
+    <footer>
+        &copy; 2026 Impact Signal. Built for people who respond when it matters most.
+    </footer>
+
+    <script>
+        fetch('feed.xml')
+            .then(r => r.text())
+            .then(xml => {
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(xml, 'text/xml');
+                const items = doc.querySelectorAll('item');
+                const list = document.getElementById('episode-list');
+                
+                if (items.length === 0) {
+                    list.innerHTML = '<p style="color:#888">First episode coming soon!</p>';
+                    return;
+                }
+                
+                list.innerHTML = '';
+                items.forEach(item => {
+                    const title = item.querySelector('title')?.textContent || 'Untitled';
+                    const date = item.querySelector('pubDate')?.textContent || '';
+                    const desc = item.querySelector('description')?.textContent || '';
+                    const enclosure = item.querySelector('enclosure');
+                    const mp3 = enclosure?.getAttribute('url') || '';
+                    const duration = item.getElementsByTagNameNS('http://www.itunes.com/dtds/podcast-1.0.dtd', 'duration')[0]?.textContent || '';
+                    
+                    const div = document.createElement('div');
+                    div.className = 'episode';
+                    div.innerHTML = `
+                        <div class="episode-title">${title}</div>
+                        <div class="episode-meta">${new Date(date).toLocaleDateString('en-US', {month: 'long', day: 'numeric', year: 'numeric'})} · ${duration}</div>
+                        <p style="font-size:0.9rem;color:#aaa;margin-top:0.5rem">${desc}</p>
+                        ${mp3 ? `<audio controls preload="none"><source src="${mp3}" type="audio/mpeg"></audio>` : ''}
+                    `;
+                    list.appendChild(div);
+                });
+            })
+            .catch(() => {
+                document.getElementById('episode-list').innerHTML = '<p style="color:#888">First episode coming soon!</p>';
+            });
+    </script>
+</body>
+</html>
