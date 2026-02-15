@@ -1,0 +1,46 @@
+{
+  "show": {
+    "name": "Impact Signals",
+    "tagline": "Social impact at the scale of AI: Impact Signals delivers daily AI-powered intelligence for people working at the intersection of technology and social impact. Website: impactsignals.ai",
+    "substack": "impactsignalsai.substack.com",
+    "twitter": "@ImpactSignalAI",
+    "youtube": "@ImpactSignalAI",
+    "language": "en-us",
+    "category": "News > Daily News",
+    "author": "Impact Signals",
+    "explicit": false
+  },
+  "nextEpisode": 4,
+  "episodes": [
+    {
+      "number": 1,
+      "date": "2026-02-14",
+      "title": "Impact Signals #1: The UN's New AI Panel, India's AI Summit, and Why Aid Is Collapsing",
+      "headline": "The UN's New AI Panel, India's AI Summit, and Why Aid Is Collapsing",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-1/episode-1.mp3",
+      "mp3_bytes": 2435996,
+      "duration_seconds": 243,
+      "description": "The UN voted 117-2 to create its first AI Scientific Panel. India hosts the biggest Global South AI summit. The IRC warns of humanitarian funding collapse. Plus: Vanuatu earthquake update, Africa's expanding early warning systems, and AI reading brain MRIs at 97.5% accuracy.",
+      "youtube_id": "B6yitlQuv4w"
+    },
+    {
+      "number": 2,
+      "date": "2026-02-14",
+      "title": "Impact Signals #2: AI Drones Turning Wars on Civilians, World's First Wildfire Early Action Protocol, Google Expands Flood Forecasting Across Africa",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-2/episode-2.mp3",
+      "mp3_bytes": 3817004,
+      "duration_seconds": 382,
+      "description": "Impact Signals #2: AI Drones Turning Wars on Civilians, World's First Wildfire Early Action Protocol, Google Expands Flood Forecasting Across Africa\n\nAI for Impact Daily Briefing \u2014 February 14, 2026\n\nThe ICRC president warns at Munich Security Conference that AI-powered drones are turning wars into wars on civilians. Meanwhile, the IFRC activates the world's first AI-driven wildfire Early Action Protocol in Chile \u2014 forecast-based financing that released funds automatically before fires hit peak intensity. Google expands flood forecasting across Africa with the AU, WHO launches an AI emergency response toolkit, and Caltech unveils a multi-modal search-and-rescue robot.\n\nTOP STORIES\n\n1. ICRC Chief Warns AI & Drones Turning Wars on Civilians \u2014 ICRC President Spoljaric at Munich Security Conference: \"There's never a moment where drones fight against drones.\" Calls for protective interpretation of international humanitarian law.\n\n2. IFRC Activates World's First Wildfire Early Action Protocol in Chile \u2014 Predictive models triggered automatic release of 95,000 CHF to help 2,000 people before fires peaked. Additional 500,000 CHF supported evacuation of 50,000.\n\n3. Google Expands AI Flood Forecasting Across Africa \u2014 Flood Hub expands to Nigeria and Ethiopia. GiveDirectly delivers pre-disaster cash transfers based on AI predictions. AU Commission partnership signals continental scale.\n\n4. WHO Launches AI-Powered Emergency Response Toolkit (AIM) \u2014 Generative AI compresses emergency response documents from weeks to minutes. Now in production.\n\n5. Caltech Unveils X1: Multi-Modal SAR Robot \u2014 Hybrid humanoid-drone that walks, flies, and drives autonomously. GPS-denied drone navigation also released by Sparc AI.\n\n6. University of Twente: AI + Drone Logistics Simulation \u2014 Tested on six historical disasters. Optimizes for cost, speed, risk, and suffering reduction simultaneously.\n\n7. Salesforce Agentforce Powers Good360 Disaster Relief Matching \u2014 AI cut donation-matching time from 30 to 10 minutes during LA wildfires.\n\n8. AI Heatwave Early Warning for Gulf Region \u2014 Khalifa University study on 2024 Makkah heatwave (1,300+ deaths). AI can predict extreme heat days in advance.\n\nUPCOMING: India AI Impact Summit (Feb 16-20, New Delhi) \u2014 first Global South AI summit. IBM Impact Accelerator applications open through March 25. AAAI AI+HADR Symposium April 7-9.\n\nACTIVE MONITORING: Vanuatu M6.4 earthquake (Feb 14). Colombia flooding \u2014 HNRP 2026 launched. South Sudan Jonglei conflict \u2014 280K displaced. Syria ongoing response. Haiti displacement from Port-au-Prince attacks.\n\nFull research, sources, and links at impactsignalsai.substack.com\n"
+    },
+    {
+      "number": 3,
+      "date": "2026-02-15",
+      "title": "AI for Social Impact \u2014 Daily Briefing",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-3/episode-3.mp3",
+      "mp3_bytes": 2314868,
+      "duration_seconds": 223,
+      "description": "Impact Signals #3: India AI Summit Opens as First Global South Host, AI Prosthetics Transform Lives in Pakistan, UN Proposes Global AI Fund\n\nAI for Impact Daily Briefing \u2014 February 15, 2026\n\nThe India AI Impact Summit 2026 kicks off tomorrow in New Delhi \u2014 the first major global AI summit hosted in the Global South, with 700+ sessions and attendees including UN SG Guterres, Pichai, Altman, Amodei, and Gates. Meanwhile, UN Women and Bioniks Technologies are delivering AI-powered prosthetic limbs to women in Pakistan, and UN SG Guterres proposed a Global Fund on AI at the African Union Summit.\n\nTOP STORIES\n\n1. India AI Summit Opens Tomorrow \u2014 First Global AI Summit in the Global South\n700+ sessions at Bharat Mandapam, New Delhi (Feb 16-20). Theme: \"People, Planet, and Progress.\" 4,650+ AI challenge applications on healthcare, climate, and inclusive growth. UN side events showcase UNICEF, WHO, UNDP deployments.\n\n2. AI-Powered Prosthetics Transform Lives in Pakistan\nBioniks Technologies + UN Women deliver AI prosthetic limbs for women in Sindh province who lost hands to fodder-cutting machines. Lightweight bionic arms enable return to hand embroidery \u2014 their primary income source.\n\n3. UN SG Proposes Global Fund on AI at AU Summit\nAt 39th AU Summit in Addis Ababa, Guterres proposed a Global Fund on AI for developing nations. Nations missing AI adoption risk falling 50 years behind. Targets African data sovereignty and compute ownership.\n\n4. AXA + Planet Labs for Real-Time Disaster Monitoring\nPlanet Labs' near-daily satellite imagery integrated into AXA's AI risk platform. Monitors and predicts floods, wildfires, hurricanes in near-real-time. Direct humanitarian applications.\n\n5. SPARC AI: GPS-Denied Drone Navigation for SAR\nSoftware-only update enables drones in GPS-jammed environments using ML + visual cues. Critical for conflict zones and disaster areas. Zero-signature protects humanitarian workers.\n\n6. 60-Day Flood Forecasting Framework\nCNNs + hydrological modeling achieve 60-day streamflow forecasting \u2014 extending early warning from days to months.\n\n7. East Africa Drought: 4.6M Affected\nSevere drought across Somalia, Ethiopia, Kenya. 135K+ displaced in Somalia. Copernicus EMS + FEWS NET satellite-AI systems actively tracking conditions.\n\n8. OpenStreetMap Photon 1.0.0\nMajor geocoder update reduces hardware needs \u2014 field teams run offline search on laptops in disaster zones.\n\nUPCOMING: India AI Summit (Feb 16-20, New Delhi). Sankalp Africa Summit (Feb 25-26, Nairobi). AI for Good Hackathon (Mar 14, Waterloo). AAAI AI+HADR Symposium (Apr 7-9, Burlingame).\n\nACTIVE MONITORING: East Africa drought \u2014 4.6M affected. Forest fires across Myanmar, Cambodia, Ethiopia, Senegal, Guinea, CAR. Colombia flooding. South Sudan \u2014 280K displaced. Haiti displacement.\n\nFull research, sources, and links at impactsignalsai.substack.com\n",
+      "youtube_id": "mf5xDQr2M-o"
+    }
+  ]
+}
