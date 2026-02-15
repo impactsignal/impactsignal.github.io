@@ -20,6 +20,91 @@
     </itunes:category>
     <itunes:image href="https://impactsignals.ai/artwork.jpg" />
     <item>
+      <title>AI for Social Impact — Daily Briefing</title>
+      <description>Impact Signals #3: India AI Summit Opens as First Global South Host, AI Prosthetics Transform Lives in Pakistan, UN Proposes Global AI Fund
+
+AI for Impact Daily Briefing — February 15, 2026
+
+The India AI Impact Summit 2026 kicks off tomorrow in New Delhi — the first major global AI summit hosted in the Global South, with 700+ sessions and attendees including UN SG Guterres, Pichai, Altman, Amodei, and Gates. Meanwhile, UN Women and Bioniks Technologies are delivering AI-powered prosthetic limbs to women in Pakistan, and UN SG Guterres proposed a Global Fund on AI at the African Union Summit.
+
+TOP STORIES
+
+1. India AI Summit Opens Tomorrow — First Global AI Summit in the Global South
+700+ sessions at Bharat Mandapam, New Delhi (Feb 16-20). Theme: "People, Planet, and Progress." 4,650+ AI challenge applications on healthcare, climate, and inclusive growth. UN side events showcase UNICEF, WHO, UNDP deployments.
+
+2. AI-Powered Prosthetics Transform Lives in Pakistan
+Bioniks Technologies + UN Women deliver AI prosthetic limbs for women in Sindh province who lost hands to fodder-cutting machines. Lightweight bionic arms enable return to hand embroidery — their primary income source.
+
+3. UN SG Proposes Global Fund on AI at AU Summit
+At 39th AU Summit in Addis Ababa, Guterres proposed a Global Fund on AI for developing nations. Nations missing AI adoption risk falling 50 years behind. Targets African data sovereignty and compute ownership.
+
+4. AXA + Planet Labs for Real-Time Disaster Monitoring
+Planet Labs' near-daily satellite imagery integrated into AXA's AI risk platform. Monitors and predicts floods, wildfires, hurricanes in near-real-time. Direct humanitarian applications.
+
+5. SPARC AI: GPS-Denied Drone Navigation for SAR
+Software-only update enables drones in GPS-jammed environments using ML + visual cues. Critical for conflict zones and disaster areas. Zero-signature protects humanitarian workers.
+
+6. 60-Day Flood Forecasting Framework
+CNNs + hydrological modeling achieve 60-day streamflow forecasting — extending early warning from days to months.
+
+7. East Africa Drought: 4.6M Affected
+Severe drought across Somalia, Ethiopia, Kenya. 135K+ displaced in Somalia. Copernicus EMS + FEWS NET satellite-AI systems actively tracking conditions.
+
+8. OpenStreetMap Photon 1.0.0
+Major geocoder update reduces hardware needs — field teams run offline search on laptops in disaster zones.
+
+UPCOMING: India AI Summit (Feb 16-20, New Delhi). Sankalp Africa Summit (Feb 25-26, Nairobi). AI for Good Hackathon (Mar 14, Waterloo). AAAI AI+HADR Symposium (Apr 7-9, Burlingame).
+
+ACTIVE MONITORING: East Africa drought — 4.6M affected. Forest fires across Myanmar, Cambodia, Ethiopia, Senegal, Guinea, CAR. Colombia flooding. South Sudan — 280K displaced. Haiti displacement.
+
+Full research, sources, and links at impactsignalsai.substack.com
+</description>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-3/episode-3.mp3" length="1488884" type="audio/mpeg" />
+      <pubDate>Sun, 15 Feb 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">impact-signal-3</guid>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:27</itunes:duration>
+      <itunes:summary>Impact Signals #3: India AI Summit Opens as First Global South Host, AI Prosthetics Transform Lives in Pakistan, UN Proposes Global AI Fund
+
+AI for Impact Daily Briefing — February 15, 2026
+
+The India AI Impact Summit 2026 kicks off tomorrow in New Delhi — the first major global AI summit hosted in the Global South, with 700+ sessions and attendees including UN SG Guterres, Pichai, Altman, Amodei, and Gates. Meanwhile, UN Women and Bioniks Technologies are delivering AI-powered prosthetic limbs to women in Pakistan, and UN SG Guterres proposed a Global Fund on AI at the African Union Summit.
+
+TOP STORIES
+
+1. India AI Summit Opens Tomorrow — First Global AI Summit in the Global South
+700+ sessions at Bharat Mandapam, New Delhi (Feb 16-20). Theme: "People, Planet, and Progress." 4,650+ AI challenge applications on healthcare, climate, and inclusive growth. UN side events showcase UNICEF, WHO, UNDP deployments.
+
+2. AI-Powered Prosthetics Transform Lives in Pakistan
+Bioniks Technologies + UN Women deliver AI prosthetic limbs for women in Sindh province who lost hands to fodder-cutting machines. Lightweight bionic arms enable return to hand embroidery — their primary income source.
+
+3. UN SG Proposes Global Fund on AI at AU Summit
+At 39th AU Summit in Addis Ababa, Guterres proposed a Global Fund on AI for developing nations. Nations missing AI adoption risk falling 50 years behind. Targets African data sovereignty and compute ownership.
+
+4. AXA + Planet Labs for Real-Time Disaster Monitoring
+Planet Labs' near-daily satellite imagery integrated into AXA's AI risk platform. Monitors and predicts floods, wildfires, hurricanes in near-real-time. Direct humanitarian applications.
+
+5. SPARC AI: GPS-Denied Drone Navigation for SAR
+Software-only update enables drones in GPS-jammed environments using ML + visual cues. Critical for conflict zones and disaster areas. Zero-signature protects humanitarian workers.
+
+6. 60-Day Flood Forecasting Framework
+CNNs + hydrological modeling achieve 60-day streamflow forecasting — extending early warning from days to months.
+
+7. East Africa Drought: 4.6M Affected
+Severe drought across Somalia, Ethiopia, Kenya. 135K+ displaced in Somalia. Copernicus EMS + FEWS NET satellite-AI systems actively tracking conditions.
+
+8. OpenStreetMap Photon 1.0.0
+Major geocoder update reduces hardware needs — field teams run offline search on laptops in disaster zones.
+
+UPCOMING: India AI Summit (Feb 16-20, New Delhi). Sankalp Africa Summit (Feb 25-26, Nairobi). AI for Good Hackathon (Mar 14, Waterloo). AAAI AI+HADR Symposium (Apr 7-9, Burlingame).
+
+ACTIVE MONITORING: East Africa drought — 4.6M affected. Forest fires across Myanmar, Cambodia, Ethiopia, Senegal, Guinea, CAR. Colombia flooding. South Sudan — 280K displaced. Haiti displacement.
+
+Full research, sources, and links at impactsignalsai.substack.com
+</itunes:summary>
+    </item>
+    <item>
       <title>Impact Signals #2: AI Drones Turning Wars on Civilians, World's First Wildfire Early Action Protocol, Google Expands Flood Forecasting Across Africa</title>
       <description>Impact Signals #2: AI Drones Turning Wars on Civilians, World's First Wildfire Early Action Protocol, Google Expands Flood Forecasting Across Africa
 
