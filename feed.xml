@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>Impact Signals</title>
-    <description>Social impact at the scale of AI: Impact Signals delivers daily AI-powered intelligence for people working at the intersection of technology and social impact. Website: impactsignals.ai</description>
+    <title>Impact Signals — AI for Social Impact Daily Briefing</title>
+    <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <link>https://impactsignalsai.substack.com</link>
     <language>en-us</language>
     <generator>Impact Signals Pipeline</generator>
     <atom:link href="https://impactsignals.ai/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Impact Signals</itunes:author>
-    <itunes:summary>Social impact at the scale of AI: Impact Signals delivers daily AI-powered intelligence for people working at the intersection of technology and social impact. Website: impactsignals.ai</itunes:summary>
+    <itunes:summary>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
       <itunes:name>Impact Signals</itunes:name>
       <itunes:email>abe.ai.bot@icloud.com</itunes:email>
     </itunes:owner>
+    <itunes:category text="Technology" />
     <itunes:category text="News">
       <itunes:category text="Daily News" />
     </itunes:category>
+    <itunes:keywords>social impact of ai, ai for social impact, artificial intelligence impact, social impact tech, ai for social good, humanitarian ai, disaster technology, tech for social good, ai ethics, responsible ai</itunes:keywords>
     <itunes:image href="https://impactsignals.ai/artwork.jpg" />
     <item>
-      <title>#3: India AI Summit Opens, AI Prosthetics in Pakistan, UN Global AI Fund</title>
-      <description>Impact Signals #3: India AI Summit Opens as First Global South Host, AI Prosthetics Transform Lives in Pakistan, UN Proposes Global AI Fund
+      <title>#3: AI and Humanitarian Aid — India AI Summit, AI Prosthetics in Pakistan, UN Global AI Fund</title>
+      <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+Impact Signals #3: India AI Summit Opens as First Global South Host, AI Prosthetics Transform Lives in Pakistan, UN Proposes Global AI Fund
 
 AI for Impact Daily Briefing — February 15, 2026
 
@@ -69,7 +73,9 @@ Full research, sources, and links at impactsignalsai.substack.com
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>3:43</itunes:duration>
-      <itunes:summary>Impact Signals #3: India AI Summit Opens as First Global South Host, AI Prosthetics Transform Lives in Pakistan, UN Proposes Global AI Fund
+      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+Impact Signals #3: India AI Summit Opens as First Global South Host, AI Prosthetics Transform Lives in Pakistan, UN Proposes Global AI Fund
 
 AI for Impact Daily Briefing — February 15, 2026
 
@@ -111,10 +117,13 @@ Full research, sources, and links at impactsignalsai.substack.com
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=mf5xDQr2M-o
 📩 Subscribe: https://impactsignalsai.substack.com
 🌐 Website: https://impactsignals.ai/episodes/3</itunes:summary>
+      <itunes:keywords>ai humanitarian aid, india ai summit 2026, ai prosthetics, un global ai fund, ai for social good</itunes:keywords>
     </item>
     <item>
-      <title>#2: AI Drones Turning Wars on Civilians, Wildfire Early Action Protocol</title>
-      <description>Impact Signals #2: AI Drones Turning Wars on Civilians, World's First Wildfire Early Action Protocol, Google Expands Flood Forecasting Across Africa
+      <title>#2: Social Impact of AI — AI Drones in War, Wildfire Early Action Protocol</title>
+      <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+Impact Signals #2: AI Drones Turning Wars on Civilians, World's First Wildfire Early Action Protocol, Google Expands Flood Forecasting Across Africa
 
 AI for Impact Daily Briefing — February 14, 2026
 
@@ -143,14 +152,20 @@ UPCOMING: India AI Impact Summit (Feb 16-20, New Delhi) — first Global South A
 ACTIVE MONITORING: Vanuatu M6.4 earthquake (Feb 14). Colombia flooding — HNRP 2026 launched. South Sudan Jonglei conflict — 280K displaced. Syria ongoing response. Haiti displacement from Port-au-Prince attacks.
 
 Full research, sources, and links at impactsignalsai.substack.com
-</description>
+
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=Xo5h-kYpbxg
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/2</description>
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-2/episode-2.mp3" length="5414393" type="audio/mpeg" />
       <pubDate>Sat, 14 Feb 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-2</guid>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>6:22</itunes:duration>
-      <itunes:summary>Impact Signals #2: AI Drones Turning Wars on Civilians, World's First Wildfire Early Action Protocol, Google Expands Flood Forecasting Across Africa
+      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+Impact Signals #2: AI Drones Turning Wars on Civilians, World's First Wildfire Early Action Protocol, Google Expands Flood Forecasting Across Africa
 
 AI for Impact Daily Briefing — February 14, 2026
 
@@ -179,11 +194,18 @@ UPCOMING: India AI Impact Summit (Feb 16-20, New Delhi) — first Global South A
 ACTIVE MONITORING: Vanuatu M6.4 earthquake (Feb 14). Colombia flooding — HNRP 2026 launched. South Sudan Jonglei conflict — 280K displaced. Syria ongoing response. Haiti displacement from Port-au-Prince attacks.
 
 Full research, sources, and links at impactsignalsai.substack.com
-</itunes:summary>
+
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=Xo5h-kYpbxg
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/2</itunes:summary>
+      <itunes:keywords>social impact of ai, ai drones warfare, wildfire early warning, ai flood forecasting, disaster response ai</itunes:keywords>
     </item>
     <item>
-      <title>#1: UN's New AI Panel, India's AI Summit, and Why Aid Is Collapsing</title>
-      <description>The UN voted 117-2 to create its first AI Scientific Panel. India hosts the biggest Global South AI summit. The IRC warns of humanitarian funding collapse. Plus: Vanuatu earthquake update, Africa's expanding early warning systems, and AI reading brain MRIs at 97.5% accuracy.
+      <title>#1: AI for Social Impact — UN AI Panel, India Summit, and Why Aid Is Collapsing</title>
+      <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+The UN voted 117-2 to create its first AI Scientific Panel. India hosts the biggest Global South AI summit. The IRC warns of humanitarian funding collapse. Plus: Vanuatu earthquake update, Africa's expanding early warning systems, and AI reading brain MRIs at 97.5% accuracy.
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=B6yitlQuv4w
 📩 Subscribe: https://impactsignalsai.substack.com
@@ -194,11 +216,14 @@ Full research, sources, and links at impactsignalsai.substack.com
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:03</itunes:duration>
-      <itunes:summary>The UN voted 117-2 to create its first AI Scientific Panel. India hosts the biggest Global South AI summit. The IRC warns of humanitarian funding collapse. Plus: Vanuatu earthquake update, Africa's expanding early warning systems, and AI reading brain MRIs at 97.5% accuracy.
+      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+The UN voted 117-2 to create its first AI Scientific Panel. India hosts the biggest Global South AI summit. The IRC warns of humanitarian funding collapse. Plus: Vanuatu earthquake update, Africa's expanding early warning systems, and AI reading brain MRIs at 97.5% accuracy.
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=B6yitlQuv4w
 📩 Subscribe: https://impactsignalsai.substack.com
 🌐 Website: https://impactsignals.ai/episodes/1</itunes:summary>
+      <itunes:keywords>ai for social impact, un ai panel, humanitarian aid collapse, india ai summit, artificial intelligence impact</itunes:keywords>
     </item>
   </channel>
 </rss>
