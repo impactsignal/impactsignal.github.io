@@ -3,7 +3,7 @@
   <channel>
     <title>Impact Signals — AI for Social Impact Daily Briefing</title>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
-    <link>https://impactsignalsai.substack.com</link>
+    <link>https://impactsignals.ai</link>
     <language>en-us</language>
     <generator>Impact Signals Pipeline</generator>
     <atom:link href="https://impactsignals.ai/feed.xml" rel="self" type="application/rss+xml" />
@@ -20,6 +20,7 @@
       <itunes:category text="Daily News" />
     </itunes:category>
     <itunes:keywords>social impact of ai, ai for social impact, artificial intelligence impact, social impact tech, ai for social good, humanitarian ai, disaster technology, tech for social good, ai ethics, responsible ai</itunes:keywords>
+    <copyright>© 2026 Impact Signals AI</copyright>
     <itunes:image href="https://impactsignals.ai/artwork.jpg" />
     <item>
       <title>#3: AI and Humanitarian Aid — India AI Summit, AI Prosthetics in Pakistan, UN Global AI Fund</title>
