@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://impactsignals.ai/</loc>
-        <lastmod>2026-02-14</lastmod>
+        <lastmod>2026-02-19</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
@@ -13,15 +13,45 @@
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://impactsignals.ai/episodes/impact-signals-2-ai-drones-turning-wars-on-civilians/</loc>
-        <lastmod>2026-02-14</lastmod>
-        <changefreq>never</changefreq>
-        <priority>0.9</priority>
-    </url>
-    <url>
-        <loc>https://impactsignals.ai/episodes/impact-signals-1-un-ai-panel-india-summit-aid-collapsing/</loc>
+        <loc>https://impactsignals.ai/episodes/1-un-ai-panel-india-summit-aid-collapsing/</loc>
         <lastmod>2026-02-13</lastmod>
         <changefreq>never</changefreq>
         <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://impactsignals.ai/episodes/2-ai-drones-civilians-wildfire-early-action/</loc>
+        <lastmod>2026-02-14</lastmod>
+        <changefreq>never</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://impactsignals.ai/episodes/3-india-ai-summit-prosthetics-global-ai-fund/</loc>
+        <lastmod>2026-02-15</lastmod>
+        <changefreq>never</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://impactsignals.ai/episodes/4-india-summit-legal-gaps-hunger-crisis/</loc>
+        <lastmod>2026-02-16</lastmod>
+        <changefreq>never</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://impactsignals.ai/episodes/5-india-sahi-healthcare-undrr-disaster-frameworks/</loc>
+        <lastmod>2026-02-17</lastmod>
+        <changefreq>never</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://impactsignals.ai/episodes/6-wfp-ai-food-google-60m-cyclone-gezani/</loc>
+        <lastmod>2026-02-18</lastmod>
+        <changefreq>never</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://impactsignals.ai/episodes/7-wfp-grain-atms-google-75m-latam-gpt/</loc>
+        <lastmod>2026-02-19</lastmod>
+        <changefreq>never</changefreq>
+        <priority>0.9</priority>
     </url>
 </urlset>
