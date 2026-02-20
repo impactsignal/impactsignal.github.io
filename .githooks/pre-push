@@ -1,0 +1,25 @@
+#!/bin/bash
+# Git pre-push hook for Impact Signals website
+# Runs critical file validation before allowing any push.
+# Install: git config core.hooksPath .githooks
+
+REPO_DIR="$(git rev-parse --show-toplevel)"
+TESTS="$REPO_DIR/tests/test-critical-files.sh"
+
+echo ""
+echo "🔒 Running pre-push validation..."
+echo ""
+
+if [ -x "$TESTS" ]; then
+    if ! "$TESTS"; then
+        echo ""
+        echo "🛑 PUSH BLOCKED — critical file validation failed!"
+        echo "   Fix the issues above and try again."
+        echo "   To bypass (DANGEROUS): git push --no-verify"
+        echo ""
+        exit 1
+    fi
+else
+    echo "⚠️  Pre-push test not found at $TESTS"
+    echo "   Allowing push, but tests should be restored."
+fi
