@@ -26,22 +26,231 @@ Each daily episode includes:
 
 ## Episodes
 
-### Episode 2 — February 14, 2026
-**AI Drones Turning Wars on Civilians, World's First Wildfire Early Action Protocol, Google Expands Flood Forecasting Across Africa**
+### Episode 7 — 2026-02-19
+**#7: Social Impact of AI — WFP Grain ATMs, Google $75M Pledge, Latam-GPT Launch**
 
-Top stories: ICRC warns AI drones turning wars on civilians at Munich Security Conference. IFRC activates world's first wildfire Early Action Protocol in Chile using forecast-based financing. Google expands AI flood forecasting across Africa with the African Union. WHO launches AI-powered emergency response toolkit (AIM). Caltech unveils X1 multi-modal search-and-rescue robot. University of Twente tests AI drone logistics simulation on six historical disasters. Salesforce Agentforce powers Good360 disaster relief matching during LA wildfires. Khalifa University study on AI heatwave early warning for Gulf region.
+AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: WFP deploys grain ATMs and route AI serving 800 million, Google commits $75M+ to AI for social good, and Latin America first open-source LLM launches for 700 million speakers.
 
-URL: https://impactsignals.ai/episodes/impact-signals-2-ai-drones-turning-wars-on-civilians/
+URL: https://impactsignals.ai/episodes/7-wfp-grain-atms-google-75m-latam-gpt/
+YouTube: https://www.youtube.com/watch?v=WPQCddpLa8E
+Audio: https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-7/episode-7.mp3
+Substack: https://impactsignalsai.substack.com/p/7-social-impact-of-ai-wfp-grain-atms
+
+### Episode 6 — 2026-02-18
+**#6: AI for Social Impact — WFP Food Distribution AI, Google $60M Impact Challenge, NASA Cyclone Mapping**
+
+AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: WFP showcases AI food distribution at India's AI Summit, Google commits $60M to AI impact challenges, and NASA deploys satellite AI for Cyclone Gezani.
+
+TOP STORIES
+
+1. WFP & India Showcase AI-Powered Food Distribution at Scale
+The World Food Programme unveiled AI-driven tools at the India AI Impact Summit: Grain ATMs, Smart Warehouses, and Route Optimization — all operational in India's Public Distribution System. WFP needs $13B to assist 110M people in 2026 but faces funding shortfalls forcing ration cuts.
+
+2. Google Commits $60M to AI for Government & Science Challenges
+$30M for government innovation, $30M for scientific research. Google DeepMind national partnership with India. Center for Climate Technology launched. $15B infrastructure investment. 74% of public servants use AI, only 18% believe governments deploy it effectively.
+
+3. NASA Satellite AI Maps Cyclone Gezani Damage in Madagascar
+MODIS, Landsat 8, and IMERG data deployed. Category 3 cyclone: 63+ dead, 16,000+ displaced, 25,000 homes destroyed. Second cyclone in 11 days. Copernicus EMSR and SADC geospatial team activated.
+
+4. India AI Summit Sets Guinness Record: 250,946 Responsible AI Pledges
+First Global South AI summit. 250,946 pledges in 24 hours via IndiaAI Mission and Intel India. 110+ countries, ~20 heads of state. UN Human Rights Commissioner: "AI needs guardrails and constraints."
+
+5. ICRC Appeals for ~$2B for 2026 Conflict Zone Operations
+1.8B Swiss francs for humanitarian operations. 89,000+ missing in Ukraine. AI-assisted case management and predictive modeling for anticipatory action.
+
+6. Pakistan Food Insecurity Data Meets $1B AI Commitment
+IPC acute analysis published as Pakistan commits $1B to AI by 2030. Opportunity for AI early warning and precision agriculture.
+
+7. Multi-Crisis: Indonesia Floods, Sudan Refugees, Burkina Faso Appeal
+2,400+ displaced in Central Java. Sudan influx to Chad. Burkina Faso: 2.7M need aid. 21 forest fire alerts across three continents.
+
+UPCOMING: India AI Summit (Feb 16-20, New Delhi). IEEE CAI 2026 (May 8-10, Granada). AAAI AI+HADR (Apr 7-9, Burlingame).
+
+MONITORING: Madagascar Cyclone Gezani — 63+ dead. Indonesia floods. Sudan refugee crisis. Syria DREF operation. Sri Lanka multi-hazard. Pakistan food insecurity. Burkina Faso humanitarian appeal.
+
+Full research and sources at impactsignals.ai
+
+
+URL: https://impactsignals.ai/episodes/6-wfp-ai-food-google-60m-cyclone-gezani/
+YouTube: https://www.youtube.com/watch?v=iPC1nqnJB2M
+Audio: https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-6/episode-6.mp3
+
+### Episode 5 — 2026-02-17
+**#5: Artificial Intelligence Impact — India Healthcare AI, UNICEF Child Safety, Emergency Drones**
+
+AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: India launches first national AI healthcare strategy in South-East Asia, UNICEF mandates child rights impact assessments for AI, and autonomous drones go operational in Stockholm.
+
+TOP STORIES
+
+1. India Launches SAHI & BODH — First National AI Healthcare Strategy in South-East Asia
+India's Health Minister launched SAHI and BODH at the India AI Impact Summit. WHO called India the first country in South-East Asia with a comprehensive national AI health strategy. Already using AI for TB risk prediction, diabetic retinopathy screening, and telemedicine. BODH benchmarks AI tools for safety and effectiveness.
+
+2. India AI Impact Summit — Largest Global AI Governance Gathering Yet
+250,000+ visitors at Bharat Mandapam, New Delhi. Released the "AI Compendium" playbook and "Seven Chakras" framework. $68B in AI investment commitments through 2030.
+
+3. UNDRR: AI Disaster Tools Need Legal Frameworks
+UNDRR warns ground-level officials cannot rely on AI predictions without legal backing. Could help reduce $200B in annual disaster losses.
+
+4. UNICEF AI and Children 3.0 — Child Rights Impact Assessments Mandated
+10 core requirements including Safety by Design, bans on biometric data harvesting from children in refugee settings, algorithmic fairness audits.
+
+5. Good360 AI Agent Cuts Disaster Relief Matching Time 67%
+AI reduced donation matching from 30 to 10 minutes during LA wildfires. Proactively anticipated supplies needed.
+
+6. IRC ReachMap: AI Finds 10-20% More Unvaccinated Children
+Amid 83% USAID grant cuts, satellite imagery + AI route planning reaches more zero-dose children while cutting costs 15-25%.
+
+7. Everdrone Autonomous Emergency Drones Go Live in Stockholm
+Defibrillator-delivering drones launch with ambulances. Computer vision navigation. Fully integrated municipal service.
+
+8. Drones Cut Humanitarian Delivery Delays 85%
+University of Twente research across six historical disasters. Most effective for hardest-to-reach locations.
+
+UPCOMING: India AI Summit (Feb 16-20, New Delhi). NVIDIA GTC (Mar 16-19, San Jose). AAAI AI+HADR (Apr 7-9, Burlingame). Responsible AI Forum (May 19-20, Munich).
+
+ACTIVE MONITORING: M6.0 earthquake Russia (Feb 16). M5.7 Solomon Islands. Floods across US, Peru, Turkey, Afghanistan, Ukraine, Montenegro. Sudan war year 4. Yemen displacement.
+
+SIGNAL WATCH: USAID 83% grant cancellations — 6M+ clients disrupted. Google Flood Hub at 80+ countries, 460M+ people. Dual-use surveillance risks in conflict zones.
+
+Full research and sources at impactsignals.ai
+
+
+URL: https://impactsignals.ai/episodes/5-india-healthcare-ai-unicef-child-safety/
+YouTube: https://www.youtube.com/watch?v=iayPmduxnRg
+Audio: https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-5/episode-5.mp3
+
+### Episode 4 — 2026-02-16
+**#4: AI for Social Good — India Summit, Legal Gaps in Disaster AI, 1.1B Hunger Crisis**
+
+AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: India AI Impact Summit opens as the first major AI summit in the Global South, UNDRR warns legal gaps block AI disaster response, and an AI model predicts 1.1 billion could face hunger by 2100.
+
+TOP STORIES
+
+1. India AI Impact Summit Opens — 250,000 Expected at First Global South AI Summit
+PM Modi inaugurated the five-day summit at Bharat Mandapam, New Delhi. 20 national leaders, 45 ministerial delegations, tech CEOs from Google, NVIDIA, Microsoft, OpenAI. India positions "Digital Public Infrastructure" as AI-as-public-utility model.
+
+2. UNDRR: AI Disaster Apps Useless Without Legal Framework
+UNDRR's Sujit Mohanty: district magistrates cannot legally rely on AI predictions for evacuations. Global disaster losses ~$200B annually. Calls for regulatory scaffolding alongside technology deployment.
+
+3. AI Model: Climate Change Could Push 1.1 Billion Into Hunger by 2100
+Nature Scientific Reports study using only temperature/precipitation data. 600M+ children at risk. Africa: 170M face starvation in 2099. Minimal-data approach makes it deployable in data-scarce humanitarian regions.
+
+4. India Launches SAHI & BODH Healthcare AI Frameworks
+National AI healthcare strategy plus open benchmarking platform for health AI models. BODH fills critical gap for transparent model comparison in low-resource settings.
+
+5. Nonprofit AI Report: 92% Adopt, Only 7% See Impact
+346-org study. 81% use AI individually without shared workflows. 47% no governance. Real impact requires workflow redesign, not just tool adoption.
+
+6. Kerala AI Disaster Preparedness Roadmap
+AI heat stress predictions, mobile-first emergency alerts from 2018 flood lessons. Transferable to climate-vulnerable regions globally.
+
+7. China: AI Security = National Disaster Category
+First nation to classify AI incidents alongside earthquakes in emergency response plans.
+
+8. UN Women + Bioniks: AI Prosthetics in Pakistan
+AI-powered prosthetic limbs for rural women at dramatically lower costs. Homegrown Global South AI innovation.
+
+UPCOMING: India AI Summit (Feb 16-20, New Delhi). ITU AI for Good (Feb 18, virtual). Stanford HAI Africa AI Leaders (Feb 25). Code4Sudan Hackathon (through Feb 28). AAAI AI+HADR Symposium (Apr 7-9, Burlingame).
+
+ACTIVE MONITORING: Madagascar Cyclone Gezani — 59+ dead, 400K in need. East Africa drought — 4.6M affected. Sudan conflict — 862K reached by Human Appeal. South Sudan — 280K displaced. Haiti displacement ongoing.
+
+Full research and sources at impactsignals.ai
+
+URL: https://impactsignals.ai/episodes/4-india-summit-legal-gaps-hunger-crisis/
+YouTube: https://www.youtube.com/watch?v=bkxTqb91CG4
+Audio: https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-4/episode-4.mp3
+
+### Episode 3 — 2026-02-15
+**#3: AI and Humanitarian Aid — India AI Summit, AI Prosthetics in Pakistan, UN Global AI Fund**
+
+Impact Signals #3: India AI Summit Opens as First Global South Host, AI Prosthetics Transform Lives in Pakistan, UN Proposes Global AI Fund
+
+AI for Impact Daily Briefing — February 15, 2026
+
+The India AI Impact Summit 2026 kicks off tomorrow in New Delhi — the first major global AI summit hosted in the Global South, with 700+ sessions and attendees including UN SG Guterres, Pichai, Altman, Amodei, and Gates. Meanwhile, UN Women and Bioniks Technologies are delivering AI-powered prosthetic limbs to women in Pakistan, and UN SG Guterres proposed a Global Fund on AI at the African Union Summit.
+
+TOP STORIES
+
+1. India AI Summit Opens Tomorrow — First Global AI Summit in the Global South
+700+ sessions at Bharat Mandapam, New Delhi (Feb 16-20). Theme: "People, Planet, and Progress." 4,650+ AI challenge applications on healthcare, climate, and inclusive growth. UN side events showcase UNICEF, WHO, UNDP deployments.
+
+2. AI-Powered Prosthetics Transform Lives in Pakistan
+Bioniks Technologies + UN Women deliver AI prosthetic limbs for women in Sindh province who lost hands to fodder-cutting machines. Lightweight bionic arms enable return to hand embroidery — their primary income source.
+
+3. UN SG Proposes Global Fund on AI at AU Summit
+At 39th AU Summit in Addis Ababa, Guterres proposed a Global Fund on AI for developing nations. Nations missing AI adoption risk falling 50 years behind. Targets African data sovereignty and compute ownership.
+
+4. AXA + Planet Labs for Real-Time Disaster Monitoring
+Planet Labs' near-daily satellite imagery integrated into AXA's AI risk platform. Monitors and predicts floods, wildfires, hurricanes in near-real-time. Direct humanitarian applications.
+
+5. SPARC AI: GPS-Denied Drone Navigation for SAR
+Software-only update enables drones in GPS-jammed environments using ML + visual cues. Critical for conflict zones and disaster areas. Zero-signature protects humanitarian workers.
+
+6. 60-Day Flood Forecasting Framework
+CNNs + hydrological modeling achieve 60-day streamflow forecasting — extending early warning from days to months.
+
+7. East Africa Drought: 4.6M Affected
+Severe drought across Somalia, Ethiopia, Kenya. 135K+ displaced in Somalia. Copernicus EMS + FEWS NET satellite-AI systems actively tracking conditions.
+
+8. OpenStreetMap Photon 1.0.0
+Major geocoder update reduces hardware needs — field teams run offline search on laptops in disaster zones.
+
+UPCOMING: India AI Summit (Feb 16-20, New Delhi). Sankalp Africa Summit (Feb 25-26, Nairobi). AI for Good Hackathon (Mar 14, Waterloo). AAAI AI+HADR Symposium (Apr 7-9, Burlingame).
+
+ACTIVE MONITORING: East Africa drought — 4.6M affected. Forest fires across Myanmar, Cambodia, Ethiopia, Senegal, Guinea, CAR. Colombia flooding. South Sudan — 280K displaced. Haiti displacement.
+
+Full research, sources, and links at impactsignalsai.substack.com
+
+
+URL: https://impactsignals.ai/episodes/3-india-ai-summit-prosthetics-global-ai-fund/
+YouTube: https://www.youtube.com/watch?v=mf5xDQr2M-o
+Audio: https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-3/episode-3.mp3
+
+### Episode 2 — 2026-02-14
+**#2: Social Impact of AI — AI Drones in War, Wildfire Early Action Protocol**
+
+Impact Signals #2: AI Drones Turning Wars on Civilians, World's First Wildfire Early Action Protocol, Google Expands Flood Forecasting Across Africa
+
+AI for Impact Daily Briefing — February 14, 2026
+
+The ICRC president warns at Munich Security Conference that AI-powered drones are turning wars into wars on civilians. Meanwhile, the IFRC activates the world's first AI-driven wildfire Early Action Protocol in Chile — forecast-based financing that released funds automatically before fires hit peak intensity. Google expands flood forecasting across Africa with the AU, WHO launches an AI emergency response toolkit, and Caltech unveils a multi-modal search-and-rescue robot.
+
+TOP STORIES
+
+1. ICRC Chief Warns AI & Drones Turning Wars on Civilians — ICRC President Spoljaric at Munich Security Conference: "There's never a moment where drones fight against drones." Calls for protective interpretation of international humanitarian law.
+
+2. IFRC Activates World's First Wildfire Early Action Protocol in Chile — Predictive models triggered automatic release of 95,000 CHF to help 2,000 people before fires peaked. Additional 500,000 CHF supported evacuation of 50,000.
+
+3. Google Expands AI Flood Forecasting Across Africa — Flood Hub expands to Nigeria and Ethiopia. GiveDirectly delivers pre-disaster cash transfers based on AI predictions. AU Commission partnership signals continental scale.
+
+4. WHO Launches AI-Powered Emergency Response Toolkit (AIM) — Generative AI compresses emergency response documents from weeks to minutes. Now in production.
+
+5. Caltech Unveils X1: Multi-Modal SAR Robot — Hybrid humanoid-drone that walks, flies, and drives autonomously. GPS-denied drone navigation also released by Sparc AI.
+
+6. University of Twente: AI + Drone Logistics Simulation — Tested on six historical disasters. Optimizes for cost, speed, risk, and suffering reduction simultaneously.
+
+7. Salesforce Agentforce Powers Good360 Disaster Relief Matching — AI cut donation-matching time from 30 to 10 minutes during LA wildfires.
+
+8. AI Heatwave Early Warning for Gulf Region — Khalifa University study on 2024 Makkah heatwave (1,300+ deaths). AI can predict extreme heat days in advance.
+
+UPCOMING: India AI Impact Summit (Feb 16-20, New Delhi) — first Global South AI summit. IBM Impact Accelerator applications open through March 25. AAAI AI+HADR Symposium April 7-9.
+
+ACTIVE MONITORING: Vanuatu M6.4 earthquake (Feb 14). Colombia flooding — HNRP 2026 launched. South Sudan Jonglei conflict — 280K displaced. Syria ongoing response. Haiti displacement from Port-au-Prince attacks.
+
+Full research, sources, and links at impactsignalsai.substack.com
+
+
+URL: https://impactsignals.ai/episodes/2-ai-drones-civilians-wildfire-early-action/
 YouTube: https://www.youtube.com/watch?v=Xo5h-kYpbxg
 Audio: https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-2/episode-2.mp3
 
-### Episode 1 — February 13, 2026
-**The UN's New AI Panel, India's AI Summit, and Why Aid Is Collapsing**
+### Episode 1 — 2026-02-14
+**#1: AI for Social Impact — UN AI Panel, India Summit, and Why Aid Is Collapsing**
 
-Top stories: UN General Assembly votes 117-2 to create first-ever AI Scientific Panel. India hosts largest Global South AI summit (Feb 16-20, New Delhi). Tata launches AI Sakhi program empowering rural women. IRC 2026 Emergency Watchlist warns of "New World Disorder" as aid collapses. Yemen health system buckles under USAID cuts. International AI Safety Report 2026 released. Africa expands multi-hazard early warning systems. University of Michigan AI reads brain MRIs at 97.5% accuracy.
+The UN voted 117-2 to create its first AI Scientific Panel. India hosts the biggest Global South AI summit. The IRC warns of humanitarian funding collapse. Plus: Vanuatu earthquake update, Africa's expanding early warning systems, and AI reading brain MRIs at 97.5% accuracy.
 
-URL: https://impactsignals.ai/episodes/impact-signals-1-un-ai-panel-india-summit-aid-collapsing/
-YouTube: https://www.youtube.com/watch?v=FTLREseUKaU
+URL: https://impactsignals.ai/episodes/1-un-ai-panel-india-summit-aid-collapsing/
+YouTube: https://www.youtube.com/watch?v=B6yitlQuv4w
 Audio: https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-1/episode-1.mp3
 
 ## Subscribe

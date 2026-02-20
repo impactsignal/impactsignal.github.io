@@ -145,6 +145,28 @@
         "nasa cyclone mapping",
         "humanitarian ai"
       ]
+    },
+    {
+      "number": 7,
+      "date": "2026-02-19",
+      "title": "#7: Social Impact of AI \u2014 WFP Grain ATMs, Google $75M Pledge, Latam-GPT Launch",
+      "slug": "7-wfp-grain-atms-google-75m-latam-gpt",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-7/episode-7.mp3",
+      "mp3_size": 4913852,
+      "duration": "5:36",
+      "duration_seconds": 336,
+      "youtube_id": "WPQCddpLa8E",
+      "keywords": [
+        "social impact of ai",
+        "ai for social good",
+        "wfp grain atm",
+        "latam-gpt",
+        "cyclone gezani"
+      ],
+      "description": "AI for social impact daily briefing \u2014 Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: WFP deploys grain ATMs and route AI serving 800 million, Google commits $75M+ to AI for social good, and Latin America first open-source LLM launches for 700 million speakers.",
+      "tweet_id": "2024491665864700140",
+      "substack_url": "https://impactsignalsai.substack.com/p/7-social-impact-of-ai-wfp-grain-atms",
+      "substack_id": "188504075"
     }
   ]
 }
