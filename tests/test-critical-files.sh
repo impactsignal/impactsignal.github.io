@@ -129,7 +129,43 @@ if [ -f "$REPO_DIR/feed.xml" ]; then
     fi
 fi
 
-# ── 6. Check for deleted episode directories (git) ──
+# ── 6. Sitemap completeness ─────────────────────
+echo ""
+echo "🗺️  Validating sitemap.xml completeness..."
+
+if [ -f "$REPO_DIR/sitemap.xml" ]; then
+    # Check that every episode directory with index.html is in the sitemap
+    SITEMAP_MISSING=0
+    for ep_dir in "$REPO_DIR"/episodes/*/; do
+        if [ -f "$ep_dir/index.html" ]; then
+            SLUG=$(basename "$ep_dir")
+            if grep -q "$SLUG" "$REPO_DIR/sitemap.xml"; then
+                : # found
+            else
+                fail "sitemap.xml missing episode: $SLUG"
+                SITEMAP_MISSING=$((SITEMAP_MISSING + 1))
+            fi
+        fi
+    done
+    if [ "$SITEMAP_MISSING" -eq 0 ]; then
+        SITEMAP_URLS=$(grep -c '<loc>' "$REPO_DIR/sitemap.xml" 2>/dev/null || echo 0)
+        pass "sitemap.xml has all episodes ($SITEMAP_URLS URLs total)"
+    fi
+
+    # Verify GA4 tag is on all episode pages
+    GA4_MISSING=0
+    for ep_html in "$REPO_DIR"/episodes/*/index.html; do
+        if [ -f "$ep_html" ] && ! grep -q "G-GDXTQYK561" "$ep_html" 2>/dev/null; then
+            fail "GA4 tag missing from $(basename $(dirname "$ep_html"))"
+            GA4_MISSING=$((GA4_MISSING + 1))
+        fi
+    done
+    if [ "$GA4_MISSING" -eq 0 ]; then
+        pass "GA4 tag present on all episode pages"
+    fi
+fi
+
+# ── 7. Check for deleted episode directories (git) ──
 echo ""
 echo "🔍 Checking for deleted episodes in git diff..."
 
@@ -156,7 +192,7 @@ if [ -d "$REPO_DIR/.git" ]; then
     fi
 fi
 
-# ── 7. CNAME validation ─────────────────────────
+# ── 8. CNAME validation ─────────────────────────
 echo ""
 echo "🌐 Validating CNAME..."
 
