@@ -23,91 +23,87 @@
     <copyright>© 2026 Impact Signals AI</copyright>
     <itunes:image href="https://impactsignals.ai/artwork.jpg" />
     <item>
-      <title>Impact Signals #10 — India Disaster Robot Dog, Agentic AI for Nonprofits, Philippines AI Center</title>
+      <title>Impact Signals #10: India Unveils Disaster Robot Dog, Sanders Warns of AI Tsunami, Philippines Launches National AI Center</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
-# Impact Signals #10 — India Disaster Robot Dog, Agentic AI for Nonprofits, Philippines AI Center
+# Impact Signals #10: India Unveils Disaster Robot Dog, Sanders Warns of AI Tsunami, Philippines Launches National AI Center
 
 **AI for Impact Daily Briefing — February 22, 2026 (Weekend Edition)**
 
 🔥 **Top Stories**
 
----
+**1. SVAN-M2: India Unveils Affordable Disaster-Response Robot Dog at AI Summit Finale**
+As the India AI Impact Summit 2026 wrapped its final sessions, one standout exhibit was SVAN-M2 — a quadruped "robot dog" developed by xTerra Robotics, incubated at IIT Kanpur. Equipped with LiDAR for 3D mapping, thermal imaging, and AI-powered autonomous navigation, it's designed for hazardous site inspections in disaster zones — navigating rubble, stairs, and unstructured terrain that wheeled vehicles can't access. Unlike Western equivalents costing ~$75K, SVAN-M2 represents affordable, locally serviceable robotics for the Global South. The Indian Army is separately piloting "Robotic Mules" for high-altitude logistics, signaling dual-use potential.
+**Framework tags:** Response, Compounding Innovation
+**Sources:** Economic Times, The Federal
 
-## 1. SVAN-M2: India Unveils Affordable Disaster-Response Robot Dog at AI Summit Finale
-**Score: 91 | Category: Response (Technology) | Region: South Asia (India)**
+**2. Sanders &amp; Khanna Warn of AI "Tsunami" at Stanford**
+Senator Bernie Sanders and Rep. Ro Khanna headlined a packed Stanford event titled "Who Controls the Future of AI: The Oligarchs or the People." Sanders called AI "a revolution which will bring unimaginable changes" and warned the "scale, scope, and speed of that change is unprecedented." Khanna outlined seven principles for preventing an AI dystopia, including halting data center construction, mandatory worker protections, and requiring AI companies to fund retraining programs. Sanders challenged tech billionaires directly: "I know those guys — I don't believe them."
+**Framework tags:** Resilience, Co-Creation
+**Sources:** The Guardian, SF Standard, Palo Alto Online
 
-As the India AI Impact Summit 2026 wrapped its final sessions on February 21, one of the standout exhibits was SVAN-M2 — a quadruped "robot dog" developed by xTerra Robotics, incubated at IIT Kanpur. Equipped with LiDAR for 3D mapping, thermal imaging, and AI-powered autonomous navigation, the robot is designed for hazardous site inspections in disaster zones — navigating rubble, stairs, and unstructured terrain that wheeled vehicles can't access. Unlike expensive Western equivalents (Boston Dynamics' Spot costs ~$75K), the SVAN-M2 represents affordable, locally serviceable robotics for the Global South. The Indian Army is separately piloting "Robotic Mules" for high-altitude logistics, signaling broader military-humanitarian dual-use potential.
+**3. Salesforce Launches "Agents for Impact" — Agentic AI for Indian Nonprofits**
+Salesforce launched the India cohort of its "Agents for Impact Accelerator," providing ~$800K USD plus pro-bono technical support to four Indian nonprofits. The program deploys "Agentforce" — agentic AI systems capable of autonomous donor outreach, volunteer coordination, and program management. Unlike chatbots, these agents reason through multi-step workflows: identifying donors likely to lapse, triggering re-engagement campaigns, and routing volunteer inquiries without human intervention. This is the first major deployment of agentic AI specifically designed for humanitarian nonprofit operations.
+**Framework tags:** Preparedness, Enablement
+**Sources:** SMEStreet, Economic Times
 
-**Why it matters for practitioners:** Indigenous disaster robotics from Global South nations changes the cost equation for deploying physical AI in humanitarian settings. If SVAN-M2 scales to production, it could make post-earthquake search-and-rescue technology accessible to agencies that can't afford Western alternatives. The convergence of affordable robotics + AI navigation represents the "Physical AI" era arriving in disaster response.
+**4. Philippines Launches National AI Research Center (NAICRI)**
+The Philippine Department of Science and Technology will formally launch the National AI Center for Research and Innovation (NAICRI) on February 26. The center focuses on disaster resilience (the Philippines averages 20 typhoons annually), agriculture optimization, and healthcare. This follows Japan-backed Spectee deployments already operational in the country, creating a dual track of indigenous R&amp;D plus international tech transfer for disaster AI.
+**Framework tags:** Preparedness, Enablement
+**Sources:** NewsBytesPhilippines, DOST
 
-**Sources:** [Economic Times](https://economictimes.indiatimes.com/tech/technology/ai-impact-summit-2026-svan-m2-robot-dog) | [The Federal](https://thefederal.com/tech/svan-m2-indian-robot-dog-ai-summit)
+**5. Atmospheric River Hits US West Coast — AI Weather Models Enable 72-Hour Pre-Positioning**
+A severe Atmospheric River event began impacting Oregon and Northern California on February 21-22, with CW3E issuing &gt;90% confidence forecasts using the AI-augmented West-WRF ensemble model. The models predicted Integrated Vapor Transport with enough precision for emergency managers to issue specific flood warnings for the Coast Ranges and Klamath Mountains — and pre-position rescue assets — 72 hours before impact. Meanwhile, Winter Storm Fern recovery continues in the US Southeast with edge computing deployed for damage assessment.
+**Framework tags:** Response, Compounding Innovation
+**Sources:** The Watchers, CW3E/NOAA
 
----
+**6. ICRC Advances Digital Emblem — Protecting Humanitarian Servers from Cyberat
 
-## 2. Salesforce Launches "Agents for Impact" Accelerator — Agentic AI for Indian Nonprofits
-**Score: 87 | Category: Preparedness | Region: South Asia (India)**
-
-Salesforce launched the India cohort of its "Agents for Impact Accelerator" on February 21, providing INR 6.8 crore (~$800K USD) plus pro-bono technical support to four Indian nonprofits. The program deploys Salesforce's "Agentforce" — agentic AI systems capable of autonomous donor outreach, volunteer coordination, and program management. Unlike basic chatbots, these agents can reason through multi-step workflows: identifying donors likely to lapse, triggering personalized re-engagement campaigns, and routing volunteer inquiries without human intervention. The initiative represents the operationalization of agentic AI in the nonprofit sector, moving beyond pilot projects to scalable infrastructure.
-
-**Why it matters for practitioners:** This is the first major deployment of agentic AI specifically designed for humanitarian nonprofit operations. If successful, the model could scale to disaster-response NGOs that need to coordinate thousands of volunteers and donors during surge events. The key shift: from AI as an analysis tool to AI as an autonomous operational agent handling routine workflows — freeing human staff for decision-making during crises.
-
-**Sources:** [Salesforce India](https://smestreet.in/technology/salesforce-agents-for-impact-accelerator-india) | [Economic Times](https://economictimes.indiatimes.com/tech/salesforce-agents-for-impact)
-
----
-
-## 3. Philippines DOST to Launch National AI Research Center (NAICRI) on February 26
-**Score: 85 | Category: Preparedness | Region: Southeast Asia (Philippines) 🟢**
-
-The Philippine Department of Science and Technology (DOST) will formally launch the National AI Center for Research and Innovation (NAICRI) on February 26, housed within the Philippine Council for Industry, Energy and Emerging Technology Research and Development (PCIEERD). The center is positioned as the country's flagship institution for sovereign AI R&amp;D, with an initial focus on disaster resilience (the Philippines averages 20 typhoons annually), agriculture optimization, and healthcare delive
-
-▶️ Watch on YouTube: https://www.youtube.com/watch?v=lm-2_FDkwRo
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=z_wx7pVQvxg
 📩 Subscribe: https://impactsignalsai.substack.com
 🌐 Website: https://impactsignals.ai/episodes/10</description>
-      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-10/episode-10.mp3" length="5955278" type="audio/mpeg" />
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-10/episode-10.mp3" length="5943162" type="audio/mpeg" />
       <pubDate>Sun, 22 Feb 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-10</guid>
       <itunes:episode>10</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>6:39</itunes:duration>
+      <itunes:duration>6:33</itunes:duration>
       <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
-# Impact Signals #10 — India Disaster Robot Dog, Agentic AI for Nonprofits, Philippines AI Center
+# Impact Signals #10: India Unveils Disaster Robot Dog, Sanders Warns of AI Tsunami, Philippines Launches National AI Center
 
 **AI for Impact Daily Briefing — February 22, 2026 (Weekend Edition)**
 
 🔥 **Top Stories**
 
----
+**1. SVAN-M2: India Unveils Affordable Disaster-Response Robot Dog at AI Summit Finale**
+As the India AI Impact Summit 2026 wrapped its final sessions, one standout exhibit was SVAN-M2 — a quadruped "robot dog" developed by xTerra Robotics, incubated at IIT Kanpur. Equipped with LiDAR for 3D mapping, thermal imaging, and AI-powered autonomous navigation, it's designed for hazardous site inspections in disaster zones — navigating rubble, stairs, and unstructured terrain that wheeled vehicles can't access. Unlike Western equivalents costing ~$75K, SVAN-M2 represents affordable, locally serviceable robotics for the Global South. The Indian Army is separately piloting "Robotic Mules" for high-altitude logistics, signaling dual-use potential.
+**Framework tags:** Response, Compounding Innovation
+**Sources:** Economic Times, The Federal
 
-## 1. SVAN-M2: India Unveils Affordable Disaster-Response Robot Dog at AI Summit Finale
-**Score: 91 | Category: Response (Technology) | Region: South Asia (India)**
+**2. Sanders &amp; Khanna Warn of AI "Tsunami" at Stanford**
+Senator Bernie Sanders and Rep. Ro Khanna headlined a packed Stanford event titled "Who Controls the Future of AI: The Oligarchs or the People." Sanders called AI "a revolution which will bring unimaginable changes" and warned the "scale, scope, and speed of that change is unprecedented." Khanna outlined seven principles for preventing an AI dystopia, including halting data center construction, mandatory worker protections, and requiring AI companies to fund retraining programs. Sanders challenged tech billionaires directly: "I know those guys — I don't believe them."
+**Framework tags:** Resilience, Co-Creation
+**Sources:** The Guardian, SF Standard, Palo Alto Online
 
-As the India AI Impact Summit 2026 wrapped its final sessions on February 21, one of the standout exhibits was SVAN-M2 — a quadruped "robot dog" developed by xTerra Robotics, incubated at IIT Kanpur. Equipped with LiDAR for 3D mapping, thermal imaging, and AI-powered autonomous navigation, the robot is designed for hazardous site inspections in disaster zones — navigating rubble, stairs, and unstructured terrain that wheeled vehicles can't access. Unlike expensive Western equivalents (Boston Dynamics' Spot costs ~$75K), the SVAN-M2 represents affordable, locally serviceable robotics for the Global South. The Indian Army is separately piloting "Robotic Mules" for high-altitude logistics, signaling broader military-humanitarian dual-use potential.
+**3. Salesforce Launches "Agents for Impact" — Agentic AI for Indian Nonprofits**
+Salesforce launched the India cohort of its "Agents for Impact Accelerator," providing ~$800K USD plus pro-bono technical support to four Indian nonprofits. The program deploys "Agentforce" — agentic AI systems capable of autonomous donor outreach, volunteer coordination, and program management. Unlike chatbots, these agents reason through multi-step workflows: identifying donors likely to lapse, triggering re-engagement campaigns, and routing volunteer inquiries without human intervention. This is the first major deployment of agentic AI specifically designed for humanitarian nonprofit operations.
+**Framework tags:** Preparedness, Enablement
+**Sources:** SMEStreet, Economic Times
 
-**Why it matters for practitioners:** Indigenous disaster robotics from Global South nations changes the cost equation for deploying physical AI in humanitarian settings. If SVAN-M2 scales to production, it could make post-earthquake search-and-rescue technology accessible to agencies that can't afford Western alternatives. The convergence of affordable robotics + AI navigation represents the "Physical AI" era arriving in disaster response.
+**4. Philippines Launches National AI Research Center (NAICRI)**
+The Philippine Department of Science and Technology will formally launch the National AI Center for Research and Innovation (NAICRI) on February 26. The center focuses on disaster resilience (the Philippines averages 20 typhoons annually), agriculture optimization, and healthcare. This follows Japan-backed Spectee deployments already operational in the country, creating a dual track of indigenous R&amp;D plus international tech transfer for disaster AI.
+**Framework tags:** Preparedness, Enablement
+**Sources:** NewsBytesPhilippines, DOST
 
-**Sources:** [Economic Times](https://economictimes.indiatimes.com/tech/technology/ai-impact-summit-2026-svan-m2-robot-dog) | [The Federal](https://thefederal.com/tech/svan-m2-indian-robot-dog-ai-summit)
+**5. Atmospheric River Hits US West Coast — AI Weather Models Enable 72-Hour Pre-Positioning**
+A severe Atmospheric River event began impacting Oregon and Northern California on February 21-22, with CW3E issuing &gt;90% confidence forecasts using the AI-augmented West-WRF ensemble model. The models predicted Integrated Vapor Transport with enough precision for emergency managers to issue specific flood warnings for the Coast Ranges and Klamath Mountains — and pre-position rescue assets — 72 hours before impact. Meanwhile, Winter Storm Fern recovery continues in the US Southeast with edge computing deployed for damage assessment.
+**Framework tags:** Response, Compounding Innovation
+**Sources:** The Watchers, CW3E/NOAA
 
----
+**6. ICRC Advances Digital Emblem — Protecting Humanitarian Servers from Cyberat
 
-## 2. Salesforce Launches "Agents for Impact" Accelerator — Agentic AI for Indian Nonprofits
-**Score: 87 | Category: Preparedness | Region: South Asia (India)**
-
-Salesforce launched the India cohort of its "Agents for Impact Accelerator" on February 21, providing INR 6.8 crore (~$800K USD) plus pro-bono technical support to four Indian nonprofits. The program deploys Salesforce's "Agentforce" — agentic AI systems capable of autonomous donor outreach, volunteer coordination, and program management. Unlike basic chatbots, these agents can reason through multi-step workflows: identifying donors likely to lapse, triggering personalized re-engagement campaigns, and routing volunteer inquiries without human intervention. The initiative represents the operationalization of agentic AI in the nonprofit sector, moving beyond pilot projects to scalable infrastructure.
-
-**Why it matters for practitioners:** This is the first major deployment of agentic AI specifically designed for humanitarian nonprofit operations. If successful, the model could scale to disaster-response NGOs that need to coordinate thousands of volunteers and donors during surge events. The key shift: from AI as an analysis tool to AI as an autonomous operational agent handling routine workflows — freeing human staff for decision-making during crises.
-
-**Sources:** [Salesforce India](https://smestreet.in/technology/salesforce-agents-for-impact-accelerator-india) | [Economic Times](https://economictimes.indiatimes.com/tech/salesforce-agents-for-impact)
-
----
-
-## 3. Philippines DOST to Launch National AI Research Center (NAICRI) on February 26
-**Score: 85 | Category: Preparedness | Region: Southeast Asia (Philippines) 🟢**
-
-The Philippine Department of Science and Technology (DOST) will formally launch the National AI Center for Research and Innovation (NAICRI) on February 26, housed within the Philippine Council for Industry, Energy and Emerging Technology Research and Development (PCIEERD). The center is positioned as the country's flagship institution for sovereign AI R&amp;D, with an initial focus on disaster resilience (the Philippines averages 20 typhoons annually), agriculture optimization, and healthcare delive
-
-▶️ Watch on YouTube: https://www.youtube.com/watch?v=lm-2_FDkwRo
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=z_wx7pVQvxg
 📩 Subscribe: https://impactsignalsai.substack.com
 🌐 Website: https://impactsignals.ai/episodes/10</itunes:summary>
       <itunes:keywords>ai for social impact, ai for social good, disaster robotics, agentic ai, philippines ai center</itunes:keywords>
