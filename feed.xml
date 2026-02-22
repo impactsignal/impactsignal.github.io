@@ -5,7 +5,7 @@
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <link>https://impactsignals.ai</link>
     <language>en-us</language>
-    <generator>Impact Signals Pipeline</generator>
+    <generator>Impact Signals AI Pipeline</generator>
     <atom:link href="https://impactsignals.ai/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Impact Signals</itunes:author>
     <itunes:summary>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</itunes:summary>
@@ -22,6 +22,29 @@
     <itunes:keywords>social impact of ai, ai for social impact, artificial intelligence impact, social impact tech, ai for social good, humanitarian ai, disaster technology, tech for social good, ai ethics, responsible ai</itunes:keywords>
     <copyright>© 2026 Impact Signals AI</copyright>
     <itunes:image href="https://impactsignals.ai/artwork.jpg" />
+    <item>
+      <title>Impact Signals #10 — India Summit Robot Dogs &amp; Agentic AI, Sanders AI Tsunami Warning, Philippines National AI Center</title>
+      <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+India unveils affordable SVAN-M2 disaster robot dog. Sanders warns of AI tsunami at Stanford. Salesforce deploys agentic AI for Indian nonprofits. Philippines launches National AI Research Center. AI weather models enable 72-hour pre-positioning for atmospheric river. ICRC advances Digital Emblem for cyber-protected humanitarian servers.
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=cyzbDJF6GJ0
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/10</description>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-10/episode-10.mp3" length="0" type="audio/mpeg" />
+      <pubDate>Sun, 22 Feb 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">impact-signal-10</guid>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+India unveils affordable SVAN-M2 disaster robot dog. Sanders warns of AI tsunami at Stanford. Salesforce deploys agentic AI for Indian nonprofits. Philippines launches National AI Research Center. AI weather models enable 72-hour pre-positioning for atmospheric river. ICRC advances Digital Emblem for cyber-protected humanitarian servers.
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=cyzbDJF6GJ0
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/10</itunes:summary>
+      <itunes:keywords>ai for social impact, disaster robotics, agentic ai, philippines ai, ai policy, humanitarian ai, digital emblem</itunes:keywords>
+    </item>
     <item>
       <title>Impact Signals #9 — Delhi Declaration by 88 Nations, Google $60M, FEMA Fund Crisis</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
