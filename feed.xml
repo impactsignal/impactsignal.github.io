@@ -23,10 +23,10 @@
     <copyright>© 2026 Impact Signals AI</copyright>
     <itunes:image href="https://impactsignals.ai/artwork.jpg" />
     <item>
-      <title>Impact Signals #10: India Unveils Disaster Robot Dog, Sanders Warns of AI Tsunami, Philippines Launches National AI Center</title>
+      <title>Impact Signals #10: India Unveils Disaster Robot Dog, Philippines Launches National AI Center</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
-# Impact Signals #10: India Unveils Disaster Robot Dog, Sanders Warns of AI Tsunami, Philippines Launches National AI Center
+# Impact Signals #10: India Unveils Disaster Robot Dog, Philippines Launches National AI Center
 
 **AI for Impact Daily Briefing — February 22, 2026 (Weekend Edition)**
 
@@ -37,40 +37,41 @@ As the India AI Impact Summit 2026 wrapped its final sessions, one standout exhi
 **Framework tags:** Response, Compounding Innovation
 **Sources:** Economic Times, The Federal
 
-**2. Sanders &amp; Khanna Warn of AI "Tsunami" at Stanford**
-Senator Bernie Sanders and Rep. Ro Khanna headlined a packed Stanford event titled "Who Controls the Future of AI: The Oligarchs or the People." Sanders called AI "a revolution which will bring unimaginable changes" and warned the "scale, scope, and speed of that change is unprecedented." Khanna outlined seven principles for preventing an AI dystopia, including halting data center construction, mandatory worker protections, and requiring AI companies to fund retraining programs. Sanders challenged tech billionaires directly: "I know those guys — I don't believe them."
-**Framework tags:** Resilience, Co-Creation
-**Sources:** The Guardian, SF Standard, Palo Alto Online
-
-**3. Salesforce Launches "Agents for Impact" — Agentic AI for Indian Nonprofits**
+**2. Salesforce Launches "Agents for Impact" — Agentic AI for Indian Nonprofits**
 Salesforce launched the India cohort of its "Agents for Impact Accelerator," providing ~$800K USD plus pro-bono technical support to four Indian nonprofits. The program deploys "Agentforce" — agentic AI systems capable of autonomous donor outreach, volunteer coordination, and program management. Unlike chatbots, these agents reason through multi-step workflows: identifying donors likely to lapse, triggering re-engagement campaigns, and routing volunteer inquiries without human intervention. This is the first major deployment of agentic AI specifically designed for humanitarian nonprofit operations.
 **Framework tags:** Preparedness, Enablement
 **Sources:** SMEStreet, Economic Times
 
-**4. Philippines Launches National AI Research Center (NAICRI)**
+**3. Philippines Launches National AI Research Center (NAICRI)**
 The Philippine Department of Science and Technology will formally launch the National AI Center for Research and Innovation (NAICRI) on February 26. The center focuses on disaster resilience (the Philippines averages 20 typhoons annually), agriculture optimization, and healthcare. This follows Japan-backed Spectee deployments already operational in the country, creating a dual track of indigenous R&amp;D plus international tech transfer for disaster AI.
 **Framework tags:** Preparedness, Enablement
 **Sources:** NewsBytesPhilippines, DOST
 
-**5. Atmospheric River Hits US West Coast — AI Weather Models Enable 72-Hour Pre-Positioning**
+**4. Atmospheric River Hits US West Coast — AI Weather Models Enable 72-Hour Pre-Positioning**
 A severe Atmospheric River event began impacting Oregon and Northern California on February 21-22, with CW3E issuing &gt;90% confidence forecasts using the AI-augmented West-WRF ensemble model. The models predicted Integrated Vapor Transport with enough precision for emergency managers to issue specific flood warnings for the Coast Ranges and Klamath Mountains — and pre-position rescue assets — 72 hours before impact. Meanwhile, Winter Storm Fern recovery continues in the US Southeast with edge computing deployed for damage assessment.
 **Framework tags:** Response, Compounding Innovation
 **Sources:** The Watchers, CW3E/NOAA
 
-**6. ICRC Advances Digital Emblem — Protecting Humanitarian Servers from Cyberat
+**5. ICRC Advances Digital Emblem — Protecting Humanitarian Servers from Cyberattack**
+The ICRC is advancing technical standards through the IETF to create a "Digital Emblem" — the cyber equivalent of the Red Cross emblem that protects hospitals from attack. The project aims to mark humanitarian data servers, aid distribution databases, and beneficiary registries as protected under International Humanitarian Law. As NGOs digitize operations (biometric ID, mobile cash, health records), their infrastructure becomes a prime target. Attacking a marked humanitarian database would constitute a war crime equivalent to bombing a Red Cross hospital.
+**Framework tags:** Resilience, Enablement
+**Sources:** ICRC, ITU
 
-▶️ Watch on YouTube: https://www.youtube.com/watch?v=z_wx7pVQvxg
+**6. Youth Eco Summit 2026: Students from 66 Indian Cities Build AI Solutions**
+The Youth Eco Summit 2026, organized by Bajaj F
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=SntEPYejOzs
 📩 Subscribe: https://impactsignalsai.substack.com
 🌐 Website: https://impactsignals.ai/episodes/10</description>
-      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-10/episode-10.mp3" length="5943162" type="audio/mpeg" />
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-10/episode-10.mp3" length="4648714" type="audio/mpeg" />
       <pubDate>Sun, 22 Feb 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-10</guid>
       <itunes:episode>10</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>6:33</itunes:duration>
+      <itunes:duration>5:17</itunes:duration>
       <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
-# Impact Signals #10: India Unveils Disaster Robot Dog, Sanders Warns of AI Tsunami, Philippines Launches National AI Center
+# Impact Signals #10: India Unveils Disaster Robot Dog, Philippines Launches National AI Center
 
 **AI for Impact Daily Briefing — February 22, 2026 (Weekend Edition)**
 
@@ -81,29 +82,30 @@ As the India AI Impact Summit 2026 wrapped its final sessions, one standout exhi
 **Framework tags:** Response, Compounding Innovation
 **Sources:** Economic Times, The Federal
 
-**2. Sanders &amp; Khanna Warn of AI "Tsunami" at Stanford**
-Senator Bernie Sanders and Rep. Ro Khanna headlined a packed Stanford event titled "Who Controls the Future of AI: The Oligarchs or the People." Sanders called AI "a revolution which will bring unimaginable changes" and warned the "scale, scope, and speed of that change is unprecedented." Khanna outlined seven principles for preventing an AI dystopia, including halting data center construction, mandatory worker protections, and requiring AI companies to fund retraining programs. Sanders challenged tech billionaires directly: "I know those guys — I don't believe them."
-**Framework tags:** Resilience, Co-Creation
-**Sources:** The Guardian, SF Standard, Palo Alto Online
-
-**3. Salesforce Launches "Agents for Impact" — Agentic AI for Indian Nonprofits**
+**2. Salesforce Launches "Agents for Impact" — Agentic AI for Indian Nonprofits**
 Salesforce launched the India cohort of its "Agents for Impact Accelerator," providing ~$800K USD plus pro-bono technical support to four Indian nonprofits. The program deploys "Agentforce" — agentic AI systems capable of autonomous donor outreach, volunteer coordination, and program management. Unlike chatbots, these agents reason through multi-step workflows: identifying donors likely to lapse, triggering re-engagement campaigns, and routing volunteer inquiries without human intervention. This is the first major deployment of agentic AI specifically designed for humanitarian nonprofit operations.
 **Framework tags:** Preparedness, Enablement
 **Sources:** SMEStreet, Economic Times
 
-**4. Philippines Launches National AI Research Center (NAICRI)**
+**3. Philippines Launches National AI Research Center (NAICRI)**
 The Philippine Department of Science and Technology will formally launch the National AI Center for Research and Innovation (NAICRI) on February 26. The center focuses on disaster resilience (the Philippines averages 20 typhoons annually), agriculture optimization, and healthcare. This follows Japan-backed Spectee deployments already operational in the country, creating a dual track of indigenous R&amp;D plus international tech transfer for disaster AI.
 **Framework tags:** Preparedness, Enablement
 **Sources:** NewsBytesPhilippines, DOST
 
-**5. Atmospheric River Hits US West Coast — AI Weather Models Enable 72-Hour Pre-Positioning**
+**4. Atmospheric River Hits US West Coast — AI Weather Models Enable 72-Hour Pre-Positioning**
 A severe Atmospheric River event began impacting Oregon and Northern California on February 21-22, with CW3E issuing &gt;90% confidence forecasts using the AI-augmented West-WRF ensemble model. The models predicted Integrated Vapor Transport with enough precision for emergency managers to issue specific flood warnings for the Coast Ranges and Klamath Mountains — and pre-position rescue assets — 72 hours before impact. Meanwhile, Winter Storm Fern recovery continues in the US Southeast with edge computing deployed for damage assessment.
 **Framework tags:** Response, Compounding Innovation
 **Sources:** The Watchers, CW3E/NOAA
 
-**6. ICRC Advances Digital Emblem — Protecting Humanitarian Servers from Cyberat
+**5. ICRC Advances Digital Emblem — Protecting Humanitarian Servers from Cyberattack**
+The ICRC is advancing technical standards through the IETF to create a "Digital Emblem" — the cyber equivalent of the Red Cross emblem that protects hospitals from attack. The project aims to mark humanitarian data servers, aid distribution databases, and beneficiary registries as protected under International Humanitarian Law. As NGOs digitize operations (biometric ID, mobile cash, health records), their infrastructure becomes a prime target. Attacking a marked humanitarian database would constitute a war crime equivalent to bombing a Red Cross hospital.
+**Framework tags:** Resilience, Enablement
+**Sources:** ICRC, ITU
 
-▶️ Watch on YouTube: https://www.youtube.com/watch?v=z_wx7pVQvxg
+**6. Youth Eco Summit 2026: Students from 66 Indian Cities Build AI Solutions**
+The Youth Eco Summit 2026, organized by Bajaj F
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=SntEPYejOzs
 📩 Subscribe: https://impactsignalsai.substack.com
 🌐 Website: https://impactsignals.ai/episodes/10</itunes:summary>
       <itunes:keywords>ai for social impact, ai for social good, disaster robotics, agentic ai, philippines ai center</itunes:keywords>
