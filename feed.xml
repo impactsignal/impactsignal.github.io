@@ -23,10 +23,10 @@
     <copyright>© 2026 Impact Signals AI</copyright>
     <itunes:image href="https://impactsignals.ai/artwork.jpg" />
     <item>
-      <title>Impact Signals #10: India Summit Closes with Robot Dogs &amp; Agentic AI for Nonprofits, Sanders Warns of AI "Tsunami," Philippines Launches National AI Center</title>
+      <title>Impact Signals #10: India Summit Robot Dogs &amp; Agentic AI for Nonprofits, Philippines Launches National AI Center, AI Weather Models Enable 72-Hour Flood Prediction</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
-# Impact Signals #10: India Summit Closes with Robot Dogs &amp; Agentic AI for Nonprofits, Sanders Warns of AI "Tsunami," Philippines Launches National AI Center
+# Impact Signals #10: India Summit Robot Dogs &amp; Agentic AI for Nonprofits, Philippines Launches National AI Center, AI Weather Models Enable 72-Hour Flood Prediction
 
 **AI for Impact Daily Briefing — February 22, 2026 (Weekend Edition)**
 
@@ -45,34 +45,34 @@ As the India AI Impact Summit 2026 wrapped its final sessions on February 21, on
 
 ---
 
-## 2. Sanders &amp; Khanna Warn of AI "Tsunami" at Stanford: "Slow This Thing Down"
-**Score: 88 | Category: DSS/Policy | Region: United States**
+## 2. Salesforce Launches "Agents for Impact" Accelerator — Agentic AI for Indian Nonprofits
+**Score: 87 | Category: Preparedness | Region: South Asia (India)**
 
-Senator Bernie Sanders and Rep. Ro Khanna headlined a packed event at Stanford University on February 21 titled "Who Controls the Future of AI: The Oligarchs or the People." Sanders called AI "a revolution which will bring unimaginable changes" and warned that the "scale, scope, and speed of that change is unprecedented." He directly challenged tech billionaires' intentions: "I know those guys — I don't believe them." Khanna outlined seven principles for preventing an AI dystopia, including halting data center construction, enacting regulations ensuring AI augments workers rather than replacing them, and requiring AI companies to fund retraining programs. Sanders emphasized that AI threatens democratic institutions, emotional wellbeing, education, warfare, and the economy simultaneously.
+Salesforce launched the India cohort of its "Agents for Impact Accelerator" on February 21, providing INR 6.8 crore (~$800K USD) plus pro-bono technical support to four Indian nonprofits. The program deploys Salesforce's "Agentforce" — agentic AI systems capable of autonomous donor outreach, volunteer coordination, and program management. Unlike basic chatbots, these agents can reason through multi-step workflows: identifying donors likely to lapse, triggering personalized re-engagement campaigns, and routing volunteer inquiries without human intervention. The initiative represents the operationalization of agentic AI in the nonprofit sector, moving beyond pilot projects to scalable infrastructure.
 
-**Why it matters for practitioners:** Several of Khanna's seven principles — particularly data center construction pauses and mandatory worker augmentation requirements — could directly affect the regulatory environment for AI deployments in the humanitarian sector. Practitioners should monitor whether these proposals gain legislative traction, as new compliance requirements around labor impact assessments could affect tech partnerships and AI procurement timelines. The growing policy attention to AI workforce impacts may also influence funding priorities for social impact programs that rely on AI tools.
+**Why it matters for practitioners:** This is the first major deployment of agentic AI specifically designed for humanitarian nonprofit operations. If successful, the model could scale to disaster-response NGOs that need to coordinate thousands of volunteers and donors during surge events. The key shift: from AI as an analysis tool to AI as an autonomous operational agent handling routine workflows — freeing human staff for decision-making during crises.
 
-**Sources:** [The Guardian](https://www.theguardian.com/us-news/2026/feb/21/ai-revolution-bernie-sanders-warning) | [SF Standard](https://sfstandard.com/2026/02/21/bernie-sanders-rips-silicon-valley-s-supposed-good-intentions-i-don-t-believe/) | [Palo Alto Online](https://www.paloaltoonline.com/regional-politics/2026/02/21/bernie-sanders-warns-about-ai-tsunami-at-stanford-town-hall/)
+**Sources:** [Salesforce India](https://smestreet.in/technology/salesforce-agents-for-impact-accelerator-india) | [Economic Times](https://economictimes.indiatimes.com/tech/salesforce-agents-for-impact)
 
 ---
 
-## 3. Salesforce Launches "Agents for Impact" Accelerator — Agentic AI for Indian Nonprofits
-**Score: 87 | Category: Preparedness | Region: South Asia (India)**
+## 3. Philippines DOST to Launch National AI Research Center (NAICRI) on February 26
+**Score: 85 | Category: Preparedness | Region: Southeast Asia (Philippines) 🟢**
 
-Salesforce launched the India cohort of
+The Philippine Department of Science and Technology (DOST) will formally launch the National AI Center for Research and Innovation (NAICRI) on February 26, housed within the Philippine Council for Industry, Energy and Emerging Technology Research and Development (PCIEERD). The center is positioned as the country's flagship institution for sovereign AI R&amp;D, with an initial focus on disaster resilience (the Philippines averages 20 t
 
-▶️ Watch on YouTube: https://www.youtube.com/watch?v=k_mnFeJ4YM4
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=c6X7kPj5-OE
 📩 Subscribe: https://impactsignalsai.substack.com
 🌐 Website: https://impactsignals.ai/episodes/10</description>
-      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-10/episode-10.mp3" length="6316266" type="audio/mpeg" />
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-10/episode-10.mp3" length="5955278" type="audio/mpeg" />
       <pubDate>Sun, 22 Feb 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-10</guid>
       <itunes:episode>10</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>7:03</itunes:duration>
+      <itunes:duration>6:39</itunes:duration>
       <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
-# Impact Signals #10: India Summit Closes with Robot Dogs &amp; Agentic AI for Nonprofits, Sanders Warns of AI "Tsunami," Philippines Launches National AI Center
+# Impact Signals #10: India Summit Robot Dogs &amp; Agentic AI for Nonprofits, Philippines Launches National AI Center, AI Weather Models Enable 72-Hour Flood Prediction
 
 **AI for Impact Daily Briefing — February 22, 2026 (Weekend Edition)**
 
@@ -91,26 +91,26 @@ As the India AI Impact Summit 2026 wrapped its final sessions on February 21, on
 
 ---
 
-## 2. Sanders &amp; Khanna Warn of AI "Tsunami" at Stanford: "Slow This Thing Down"
-**Score: 88 | Category: DSS/Policy | Region: United States**
+## 2. Salesforce Launches "Agents for Impact" Accelerator — Agentic AI for Indian Nonprofits
+**Score: 87 | Category: Preparedness | Region: South Asia (India)**
 
-Senator Bernie Sanders and Rep. Ro Khanna headlined a packed event at Stanford University on February 21 titled "Who Controls the Future of AI: The Oligarchs or the People." Sanders called AI "a revolution which will bring unimaginable changes" and warned that the "scale, scope, and speed of that change is unprecedented." He directly challenged tech billionaires' intentions: "I know those guys — I don't believe them." Khanna outlined seven principles for preventing an AI dystopia, including halting data center construction, enacting regulations ensuring AI augments workers rather than replacing them, and requiring AI companies to fund retraining programs. Sanders emphasized that AI threatens democratic institutions, emotional wellbeing, education, warfare, and the economy simultaneously.
+Salesforce launched the India cohort of its "Agents for Impact Accelerator" on February 21, providing INR 6.8 crore (~$800K USD) plus pro-bono technical support to four Indian nonprofits. The program deploys Salesforce's "Agentforce" — agentic AI systems capable of autonomous donor outreach, volunteer coordination, and program management. Unlike basic chatbots, these agents can reason through multi-step workflows: identifying donors likely to lapse, triggering personalized re-engagement campaigns, and routing volunteer inquiries without human intervention. The initiative represents the operationalization of agentic AI in the nonprofit sector, moving beyond pilot projects to scalable infrastructure.
 
-**Why it matters for practitioners:** Several of Khanna's seven principles — particularly data center construction pauses and mandatory worker augmentation requirements — could directly affect the regulatory environment for AI deployments in the humanitarian sector. Practitioners should monitor whether these proposals gain legislative traction, as new compliance requirements around labor impact assessments could affect tech partnerships and AI procurement timelines. The growing policy attention to AI workforce impacts may also influence funding priorities for social impact programs that rely on AI tools.
+**Why it matters for practitioners:** This is the first major deployment of agentic AI specifically designed for humanitarian nonprofit operations. If successful, the model could scale to disaster-response NGOs that need to coordinate thousands of volunteers and donors during surge events. The key shift: from AI as an analysis tool to AI as an autonomous operational agent handling routine workflows — freeing human staff for decision-making during crises.
 
-**Sources:** [The Guardian](https://www.theguardian.com/us-news/2026/feb/21/ai-revolution-bernie-sanders-warning) | [SF Standard](https://sfstandard.com/2026/02/21/bernie-sanders-rips-silicon-valley-s-supposed-good-intentions-i-don-t-believe/) | [Palo Alto Online](https://www.paloaltoonline.com/regional-politics/2026/02/21/bernie-sanders-warns-about-ai-tsunami-at-stanford-town-hall/)
+**Sources:** [Salesforce India](https://smestreet.in/technology/salesforce-agents-for-impact-accelerator-india) | [Economic Times](https://economictimes.indiatimes.com/tech/salesforce-agents-for-impact)
 
 ---
 
-## 3. Salesforce Launches "Agents for Impact" Accelerator — Agentic AI for Indian Nonprofits
-**Score: 87 | Category: Preparedness | Region: South Asia (India)**
+## 3. Philippines DOST to Launch National AI Research Center (NAICRI) on February 26
+**Score: 85 | Category: Preparedness | Region: Southeast Asia (Philippines) 🟢**
 
-Salesforce launched the India cohort of
+The Philippine Department of Science and Technology (DOST) will formally launch the National AI Center for Research and Innovation (NAICRI) on February 26, housed within the Philippine Council for Industry, Energy and Emerging Technology Research and Development (PCIEERD). The center is positioned as the country's flagship institution for sovereign AI R&amp;D, with an initial focus on disaster resilience (the Philippines averages 20 t
 
-▶️ Watch on YouTube: https://www.youtube.com/watch?v=k_mnFeJ4YM4
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=c6X7kPj5-OE
 📩 Subscribe: https://impactsignalsai.substack.com
 🌐 Website: https://impactsignals.ai/episodes/10</itunes:summary>
-      <itunes:keywords>ai for social impact, disaster robotics, agentic ai, philippines ai, ai policy, humanitarian ai, digital emblem</itunes:keywords>
+      <itunes:keywords>ai for social impact, disaster robotics, agentic ai, philippines ai, humanitarian ai, ai weather prediction</itunes:keywords>
     </item>
     <item>
       <title>Impact Signals #9 — Delhi Declaration by 88 Nations, Google $60M, FEMA Fund Crisis</title>
