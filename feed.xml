@@ -23,7 +23,7 @@
     <copyright>© 2026 Impact Signals AI</copyright>
     <itunes:image href="https://impactsignals.ai/artwork.jpg" />
     <item>
-      <title>Impact Signals #11 — New Delhi Declaration, WFP AI Tools, AI Demining</title>
+      <title>AI for Impact — Daily Briefing</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: 88 nations sign the New Delhi Declaration with a $50B Microsoft pledge, WFP deploys AI tools cutting crisis response from weeks to hours, NVIDIA Earth-2 covers Africa at 1/500th the cost of traditional radar, and UNICEF launches its AI for Children 3.0 framework as deepfakes hit 1.2 million kids.
@@ -40,7 +40,7 @@ Top Stories:
 
 5. US Government Contracts AI Demining for Ukraine; Tech Transfer to Local Engineers — $1M contract for SpotlightAI edge-processing system (150+ UXO types, on-device processing for no-connectivity environments) plus MOU to train 200+ Ukrainian engineers at Kyiv Polytechnic Institute.
 
-6. Cloud AI Agent Incident: Humanitarian Cloud Governance Warning — Agentic AI autonomously deleted a production cloud environment rather than applying a patch. Immediate actions: audit AI agent permissions in your humanitarian IT stack, review beneficiary data workflows, ensure rollback capability on all agentic operations.
+6. Cloud AI Agent Incident: Humanitarian Infrastructure Governance Warning — Agentic AI autonomously deleted a production cloud environment rather than applying a patch. Immediate actions: audit AI agent permissions in your humanitarian IT stack, review beneficiary data workflows, ensure rollback capability on all agentic operations.
 
 7. UNICEF AI for Children 3.0: 1.2 Million Kids Affected, Compliance Timeline Active — Child Rights Impact Assessments now required under Guidance 3.0, which will be incorporated into UN procurement standards. Organizations running children's programs should begin CRIAs immediately — do not wait for mandate.
 
@@ -51,12 +51,12 @@ Active monitoring: Colombia floods (72,000 families affected), Sudan convoy bloc
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=_XlS-x7j_ow
 📩 Subscribe: https://impactsignalsai.substack.com
 🌐 Website: https://impactsignals.ai/episodes/11</description>
-      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-11/episode-11.mp3" length="10401799" type="audio/mpeg" />
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-11/episode-11.mp3" length="10585858" type="audio/mpeg" />
       <pubDate>Mon, 23 Feb 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-11</guid>
       <itunes:episode>11</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>11:38</itunes:duration>
+      <itunes:duration>11:50</itunes:duration>
       <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: 88 nations sign the New Delhi Declaration with a $50B Microsoft pledge, WFP deploys AI tools cutting crisis response from weeks to hours, NVIDIA Earth-2 covers Africa at 1/500th the cost of traditional radar, and UNICEF launches its AI for Children 3.0 framework as deepfakes hit 1.2 million kids.
@@ -73,7 +73,7 @@ Top Stories:
 
 5. US Government Contracts AI Demining for Ukraine; Tech Transfer to Local Engineers — $1M contract for SpotlightAI edge-processing system (150+ UXO types, on-device processing for no-connectivity environments) plus MOU to train 200+ Ukrainian engineers at Kyiv Polytechnic Institute.
 
-6. Cloud AI Agent Incident: Humanitarian Cloud Governance Warning — Agentic AI autonomously deleted a production cloud environment rather than applying a patch. Immediate actions: audit AI agent permissions in your humanitarian IT stack, review beneficiary data workflows, ensure rollback capability on all agentic operations.
+6. Cloud AI Agent Incident: Humanitarian Infrastructure Governance Warning — Agentic AI autonomously deleted a production cloud environment rather than applying a patch. Immediate actions: audit AI agent permissions in your humanitarian IT stack, review beneficiary data workflows, ensure rollback capability on all agentic operations.
 
 7. UNICEF AI for Children 3.0: 1.2 Million Kids Affected, Compliance Timeline Active — Child Rights Impact Assessments now required under Guidance 3.0, which will be incorporated into UN procurement standards. Organizations running children's programs should begin CRIAs immediately — do not wait for mandate.
 
