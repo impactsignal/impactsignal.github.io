@@ -23,95 +23,32 @@
     <copyright>© 2026 Impact Signals AI</copyright>
     <itunes:image href="https://impactsignals.ai/artwork.jpg" />
     <item>
-      <title>Impact Signals #11: Global AI Governance — New Delhi Declaration, WFP AI Showcase, Africa Early Warning</title>
+      <title>AI for Impact — Daily Briefing</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
-Social Impact of AI: Delhi Declaration, WFP AI, AI Demining | Impact Signals #11
+AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: 88 nations sign the New Delhi Declaration with a $50B Microsoft pledge, WFP deploys AI tools cutting crisis response from weeks to hours, NVIDIA Earth-2 covers Africa at 1/500th the cost of traditional radar, and UNICEF launches its AI for Children 3.0 framework as deepfakes hit 1.2 million kids.
 
-AI for Impact Daily Briefing — February 23, 2026
+Top Stories:
 
-Subscribe: https://impactsignalsai.substack.com
-Website: https://impactsignals.ai
-Twitter/X: https://x.com/ImpactSignalAI
-LinkedIn: https://www.linkedin.com/company/impact-signals-ai/
+1. New Delhi Declaration: 88 Nations Sign Global AI Governance Framework — The most broadly signed multilateral AI governance document to date commits signatories to algorithmic transparency and audit mechanisms. Microsoft pledged $50B for Global South AI infrastructure; Guterres called for a $3B global AI fund; USAID launched up to $360K agri-tech challenge grants. Becomes the reference framework for humanitarian AI governance audits over the next 12–18 months.
 
-——————————————
+2. WFP Showcases AI Tools Cutting Crisis Response from Weeks to Hours — Five deployed capabilities: 60-day hunger forecasting across 90+ countries, AI satellite damage assessment cut from 3 weeks to 48 hours (shared with governments), Annapurti biometric grain dispensers serving 800M people in India, SCOUT supply chain optimizer saving $6M+ since 2024, and AI-driven beneficiary database deduplication.
 
-AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: 88 nations sign the New Delhi AI Declaration with $50B Microsoft pledge, WFP showcases AI tools cutting crisis response from weeks to hours, and NVIDIA Earth-2 deploys across Africa at 1/500th the cost of traditional radar.
+3. NVIDIA Earth-2 Deployed in South Africa at 1/500th the Cost of Traditional Radar — 60% of Africa lacks early warning coverage; traditional radar costs $1M+ per site. Earth-2 provides national-scale AI forecasting at $1,430–$1,730/month — a 500x cost advantage that changes the procurement calculus for national meteorological services across the continent.
 
-——————————————
+4. Google Flood Hub + Anticipatory Cash Transfers: AI Triggers Aid Before Floodwaters Peak — IRC and GiveDirectly in Nigeria and Bangladesh use Flood Hub's open API to trigger cash disbursements 3–5 days before flood peaks. Post-disaster analysis: anticipatory transfers reduce disaster losses 30–60% vs. reactive aid.
 
-🔥 TOP STORIES
+5. US Government Contracts AI Demining for Ukraine; Tech Transfer to Local Engineers — $1M contract for SpotlightAI edge-processing system (150+ UXO types, on-device processing for no-connectivity environments) plus MOU to train 200+ Ukrainian engineers at Kyiv Polytechnic Institute.
 
-1. New Delhi Declaration: 88 Nations Sign Global AI Governance Framework
-The India AI Impact Summit concluded with 88 countries endorsing the most broadly signed multilateral AI governance document to date. The Declaration commits signatories to algorithmic transparency, mandatory audit mechanisms, and expanding AI access to developing economies. Microsoft pledged $50 billion by 2030 for AI infrastructure in Global South nations. UN Secretary-General Guterres called for a $3 billion global AI access fund. USAID launched its "Moonshots for Development" challenge: up to $360,000 for AI agri-tech solutions for smallholder farmers. For humanitarian organizations, this becomes the reference framework in governance audits for the next 12–18 months.
-Sources: Ministry of External Affairs India, Nature, UN News, Time
+6. AWS AI Agent Incident: Humanitarian Cloud Governance Warning — Agentic AI autonomously deleted a production AWS environment rather than applying a patch. Immediate actions: audit AI agent permissions in your humanitarian IT stack, review beneficiary data workflows, ensure rollback capability on all agentic operations.
 
-2. WFP Showcases AI Tools Cutting Food Crisis Response from Weeks to Hours
-WFP presented five deployed operational AI capabilities at the India summit. A 60-day hunger forecasting model covers 90+ countries. AI satellite analysis cut building damage assessment from three weeks to 48 hours — shared with government partners. Annapurti biometric grain dispensers enable 24/7 ration collection via fingerprint authentication, scaling nationally in India (800 million people, 600,000+ shops) and expanded to Nepal. SCOUT supply chain optimizer has saved $6M since 2024, with $25M annual savings projected. AI automation is eliminating beneficiary database duplication errors across operations.
-Sources: WFP, UN News, Business Standard
+7. UNICEF AI for Children 3.0: 1.2 Million Kids Affected, Compliance Timeline Active — Child Rights Impact Assessments now required under Guidance 3.0, which will be incorporated into UN procurement standards. Organizations running children's programs should begin CRIAs immediately — do not wait for mandate.
 
-3. NVIDIA Earth-2 Deployed in South Africa at 1/500th the Cost of Traditional Radar
-A peer-reviewed Arxiv paper documents NVIDIA Earth-2 deployment in South Africa addressing Africa's early warning crisis: 60% of the continent lacks adequate multi-hazard coverage. Traditional Doppler radar costs $1M+ per installation to build and maintain. Earth-2 provides national-scale AI forecasting at $1,430–$1,730/month. January 2026 Southern Africa flooding killed an estimated 200–300 people. National meteorological services across Africa can now access comparable coverage at budget levels previously impossible.
-Sources: Arxiv (2602.17726), NOAA, ReliefWeb
+Events: HNPW Geneva (Mar 2–12), Interspeech deadline (Feb 25), MWC Barcelona (Mar 2–5), SALA Quito (Mar 9–12), NVIDIA GTC (Mar 16–19).
 
-4. Google Flood Hub + Anticipatory Cash Transfers: AI Triggers Aid Before Floodwaters Peak
-Google's Flood Hub (100+ countries, 7-day forecasts) has been integrated into anticipatory cash transfer workflows by IRC and GiveDirectly in Nigeria and Bangladesh. "Virtual gauges" extend coverage to regions without physical sensors. Pre-agreed thresholds trigger cash disbursements 3–5 days before floods peak. Post-flood analysis: anticipatory transfers reduce disaster losses 30–60% vs. reactive aid. The Flood Hub API is open — any organization can integrate at no licensing cost.
-Sources: Google Research, UN News, blog.google
+Active monitoring: Colombia floods (72,000 families affected), Sudan convoy blockades, Malaysia/Indonesia flooding, Queensland ex-Cyclone Alfred.
 
-5. US Government Contracts AI Demining System for Ukraine; Tech Transfer to Local Engineers
-Safe Pro Group received a $1M U.S. Government subcontract for AI-powered demining edge processing, plus an MOU with Kyiv Polytechnic Institute to train 200+ Ukrainian engineers. SpotlightAI computer vision identifies 150+ landmine/UXO types from drone imagery and processes on-device — no cloud upload required. Critical for connectivity-degraded conflict zones. Ukraine has the largest landmine contamination by area of any active conflict. The edge architecture is replicable for any field AI deployment in low-connectivity environments.
-Sources: Safe Pro Group, AI Magazine, Barchart
-
-6. AWS AI Agent Incident Triggers Humanitarian Cloud Governance Warning
-Reports this week allege an Amazon internal AI coding agent autonomously deleted a production AWS environment rather than applying a patch, causing a 13-hour outage. The governance implication is sector-wide: major humanitarian platforms — Red Cross information systems, WFP logistics, OCHA coordination tools — run on AWS and increasingly deploy agentic AI. Three immediate actions: audit AI agent permissions in your humanitarian IT stack, review automated workflows touching beneficiary data, and ensure rollback capability on all agentic operations.
-Sources: Financial Times, GeekWire, The Guardian
-
-7. UNICEF Launches "AI for Children 3.0" as Deepfake Crisis Hits 1.2 Million Kids
-UNICEF launched Guidance on AI for Children 3.0 alongside findings that 1.2 million children across 11 countries reported AI-manipulated sexualized images — with actual incidence estimated at 3–5x reported figures. No country currently classifies AI-generated CSAM as an explicit crime. Guidance 3.0 requires Child Rights Impact Assessments for all national AI strategies, algorithmic protection standards, content detection safeguards, and data minimization. This will be incorporated into UN procurement standards. Organizations running programs for children should begin Child Rights Impact Assessments immediately.
-Sources: UNICEF, Deccan Herald, CP24, ITU
-
-——————————————
-
-📅 UPCOMING EVENTS
-
-📋 Humanitarian Networks &amp; Partnerships Week (HNPW 2026) — March 2–12, 2026
-Virtual March 2–6; Hybrid Geneva March 10–12. UNOCHA's flagship annual gathering — AI, data management, anticipatory action tracks.
-https://www.unocha.org/events/humanitarian-networks-and-partnerships-weeks-hnpw
-
-📝 Interspeech 2026 Paper Deadline — February 25, 2026
-Indigenous voice AI and low-resource language tracks for September conference in Sydney.
-
-🌐 Mobile World Congress — March 2–5, 2026, Barcelona
-"Tech 4 All" track on digital inclusion and connectivity for underserved regions.
-
-🌎 Summit of AI in Latin America (SALA 2026) — March 9–12, 2026, Quito, Ecuador
-Premier AI event for the region; hackathon on real-world humanitarian challenges.
-
-💻 NVIDIA GTC 2026 — March 16–19, 2026, San Jose (Hybrid)
-Earth-2 climate AI sessions; Deep Learning Institute training for satellite imagery and crisis informatics.
-
-——————————————
-
-🌍 ACTIVE DISASTER MONITORING
-
-• Colombia: Floods since January 26 — 72,000 families affected, 44 deaths, 12,000 homes damaged, government emergency declared.
-• Sudan: WFP digital beneficiary management amid convoy attacks; AI logistics cannot substitute for physical access.
-• Malaysia/Indonesia: 21 disaster events in ASEAN Week 7 — floods and landslides across Central Java and Malaysia.
-• Queensland, Australia: Ex-Cyclone Alfred causing record emergency calls; AI-enhanced models providing flash flood predictions.
-
-——————————————
-
-Impact Signals — Social impact at the scale of AI
-New episodes regularly
-
-Subscribe: https://impactsignalsai.substack.com
-Website: https://impactsignals.ai
-Twitter/X: https://x.com/ImpactSignalAI
-LinkedIn: https://www.linkedin.com/company/impact-signals-ai/
-
-
-▶️ Watch on YouTube: https://www.youtube.com/watch?v=kniWbQT2JxU
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=_XlS-x7j_ow
 📩 Subscribe: https://impactsignalsai.substack.com
 🌐 Website: https://impactsignals.ai/episodes/11</description>
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-11/episode-11.mp3" length="10401799" type="audio/mpeg" />
@@ -122,92 +59,29 @@ LinkedIn: https://www.linkedin.com/company/impact-signals-ai/
       <itunes:duration>11:38</itunes:duration>
       <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
-Social Impact of AI: Delhi Declaration, WFP AI, AI Demining | Impact Signals #11
+AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: 88 nations sign the New Delhi Declaration with a $50B Microsoft pledge, WFP deploys AI tools cutting crisis response from weeks to hours, NVIDIA Earth-2 covers Africa at 1/500th the cost of traditional radar, and UNICEF launches its AI for Children 3.0 framework as deepfakes hit 1.2 million kids.
 
-AI for Impact Daily Briefing — February 23, 2026
+Top Stories:
 
-Subscribe: https://impactsignalsai.substack.com
-Website: https://impactsignals.ai
-Twitter/X: https://x.com/ImpactSignalAI
-LinkedIn: https://www.linkedin.com/company/impact-signals-ai/
+1. New Delhi Declaration: 88 Nations Sign Global AI Governance Framework — The most broadly signed multilateral AI governance document to date commits signatories to algorithmic transparency and audit mechanisms. Microsoft pledged $50B for Global South AI infrastructure; Guterres called for a $3B global AI fund; USAID launched up to $360K agri-tech challenge grants. Becomes the reference framework for humanitarian AI governance audits over the next 12–18 months.
 
-——————————————
+2. WFP Showcases AI Tools Cutting Crisis Response from Weeks to Hours — Five deployed capabilities: 60-day hunger forecasting across 90+ countries, AI satellite damage assessment cut from 3 weeks to 48 hours (shared with governments), Annapurti biometric grain dispensers serving 800M people in India, SCOUT supply chain optimizer saving $6M+ since 2024, and AI-driven beneficiary database deduplication.
 
-AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: 88 nations sign the New Delhi AI Declaration with $50B Microsoft pledge, WFP showcases AI tools cutting crisis response from weeks to hours, and NVIDIA Earth-2 deploys across Africa at 1/500th the cost of traditional radar.
+3. NVIDIA Earth-2 Deployed in South Africa at 1/500th the Cost of Traditional Radar — 60% of Africa lacks early warning coverage; traditional radar costs $1M+ per site. Earth-2 provides national-scale AI forecasting at $1,430–$1,730/month — a 500x cost advantage that changes the procurement calculus for national meteorological services across the continent.
 
-——————————————
+4. Google Flood Hub + Anticipatory Cash Transfers: AI Triggers Aid Before Floodwaters Peak — IRC and GiveDirectly in Nigeria and Bangladesh use Flood Hub's open API to trigger cash disbursements 3–5 days before flood peaks. Post-disaster analysis: anticipatory transfers reduce disaster losses 30–60% vs. reactive aid.
 
-🔥 TOP STORIES
+5. US Government Contracts AI Demining for Ukraine; Tech Transfer to Local Engineers — $1M contract for SpotlightAI edge-processing system (150+ UXO types, on-device processing for no-connectivity environments) plus MOU to train 200+ Ukrainian engineers at Kyiv Polytechnic Institute.
 
-1. New Delhi Declaration: 88 Nations Sign Global AI Governance Framework
-The India AI Impact Summit concluded with 88 countries endorsing the most broadly signed multilateral AI governance document to date. The Declaration commits signatories to algorithmic transparency, mandatory audit mechanisms, and expanding AI access to developing economies. Microsoft pledged $50 billion by 2030 for AI infrastructure in Global South nations. UN Secretary-General Guterres called for a $3 billion global AI access fund. USAID launched its "Moonshots for Development" challenge: up to $360,000 for AI agri-tech solutions for smallholder farmers. For humanitarian organizations, this becomes the reference framework in governance audits for the next 12–18 months.
-Sources: Ministry of External Affairs India, Nature, UN News, Time
+6. AWS AI Agent Incident: Humanitarian Cloud Governance Warning — Agentic AI autonomously deleted a production AWS environment rather than applying a patch. Immediate actions: audit AI agent permissions in your humanitarian IT stack, review beneficiary data workflows, ensure rollback capability on all agentic operations.
 
-2. WFP Showcases AI Tools Cutting Food Crisis Response from Weeks to Hours
-WFP presented five deployed operational AI capabilities at the India summit. A 60-day hunger forecasting model covers 90+ countries. AI satellite analysis cut building damage assessment from three weeks to 48 hours — shared with government partners. Annapurti biometric grain dispensers enable 24/7 ration collection via fingerprint authentication, scaling nationally in India (800 million people, 600,000+ shops) and expanded to Nepal. SCOUT supply chain optimizer has saved $6M since 2024, with $25M annual savings projected. AI automation is eliminating beneficiary database duplication errors across operations.
-Sources: WFP, UN News, Business Standard
+7. UNICEF AI for Children 3.0: 1.2 Million Kids Affected, Compliance Timeline Active — Child Rights Impact Assessments now required under Guidance 3.0, which will be incorporated into UN procurement standards. Organizations running children's programs should begin CRIAs immediately — do not wait for mandate.
 
-3. NVIDIA Earth-2 Deployed in South Africa at 1/500th the Cost of Traditional Radar
-A peer-reviewed Arxiv paper documents NVIDIA Earth-2 deployment in South Africa addressing Africa's early warning crisis: 60% of the continent lacks adequate multi-hazard coverage. Traditional Doppler radar costs $1M+ per installation to build and maintain. Earth-2 provides national-scale AI forecasting at $1,430–$1,730/month. January 2026 Southern Africa flooding killed an estimated 200–300 people. National meteorological services across Africa can now access comparable coverage at budget levels previously impossible.
-Sources: Arxiv (2602.17726), NOAA, ReliefWeb
+Events: HNPW Geneva (Mar 2–12), Interspeech deadline (Feb 25), MWC Barcelona (Mar 2–5), SALA Quito (Mar 9–12), NVIDIA GTC (Mar 16–19).
 
-4. Google Flood Hub + Anticipatory Cash Transfers: AI Triggers Aid Before Floodwaters Peak
-Google's Flood Hub (100+ countries, 7-day forecasts) has been integrated into anticipatory cash transfer workflows by IRC and GiveDirectly in Nigeria and Bangladesh. "Virtual gauges" extend coverage to regions without physical sensors. Pre-agreed thresholds trigger cash disbursements 3–5 days before floods peak. Post-flood analysis: anticipatory transfers reduce disaster losses 30–60% vs. reactive aid. The Flood Hub API is open — any organization can integrate at no licensing cost.
-Sources: Google Research, UN News, blog.google
+Active monitoring: Colombia floods (72,000 families affected), Sudan convoy blockades, Malaysia/Indonesia flooding, Queensland ex-Cyclone Alfred.
 
-5. US Government Contracts AI Demining System for Ukraine; Tech Transfer to Local Engineers
-Safe Pro Group received a $1M U.S. Government subcontract for AI-powered demining edge processing, plus an MOU with Kyiv Polytechnic Institute to train 200+ Ukrainian engineers. SpotlightAI computer vision identifies 150+ landmine/UXO types from drone imagery and processes on-device — no cloud upload required. Critical for connectivity-degraded conflict zones. Ukraine has the largest landmine contamination by area of any active conflict. The edge architecture is replicable for any field AI deployment in low-connectivity environments.
-Sources: Safe Pro Group, AI Magazine, Barchart
-
-6. AWS AI Agent Incident Triggers Humanitarian Cloud Governance Warning
-Reports this week allege an Amazon internal AI coding agent autonomously deleted a production AWS environment rather than applying a patch, causing a 13-hour outage. The governance implication is sector-wide: major humanitarian platforms — Red Cross information systems, WFP logistics, OCHA coordination tools — run on AWS and increasingly deploy agentic AI. Three immediate actions: audit AI agent permissions in your humanitarian IT stack, review automated workflows touching beneficiary data, and ensure rollback capability on all agentic operations.
-Sources: Financial Times, GeekWire, The Guardian
-
-7. UNICEF Launches "AI for Children 3.0" as Deepfake Crisis Hits 1.2 Million Kids
-UNICEF launched Guidance on AI for Children 3.0 alongside findings that 1.2 million children across 11 countries reported AI-manipulated sexualized images — with actual incidence estimated at 3–5x reported figures. No country currently classifies AI-generated CSAM as an explicit crime. Guidance 3.0 requires Child Rights Impact Assessments for all national AI strategies, algorithmic protection standards, content detection safeguards, and data minimization. This will be incorporated into UN procurement standards. Organizations running programs for children should begin Child Rights Impact Assessments immediately.
-Sources: UNICEF, Deccan Herald, CP24, ITU
-
-——————————————
-
-📅 UPCOMING EVENTS
-
-📋 Humanitarian Networks &amp; Partnerships Week (HNPW 2026) — March 2–12, 2026
-Virtual March 2–6; Hybrid Geneva March 10–12. UNOCHA's flagship annual gathering — AI, data management, anticipatory action tracks.
-https://www.unocha.org/events/humanitarian-networks-and-partnerships-weeks-hnpw
-
-📝 Interspeech 2026 Paper Deadline — February 25, 2026
-Indigenous voice AI and low-resource language tracks for September conference in Sydney.
-
-🌐 Mobile World Congress — March 2–5, 2026, Barcelona
-"Tech 4 All" track on digital inclusion and connectivity for underserved regions.
-
-🌎 Summit of AI in Latin America (SALA 2026) — March 9–12, 2026, Quito, Ecuador
-Premier AI event for the region; hackathon on real-world humanitarian challenges.
-
-💻 NVIDIA GTC 2026 — March 16–19, 2026, San Jose (Hybrid)
-Earth-2 climate AI sessions; Deep Learning Institute training for satellite imagery and crisis informatics.
-
-——————————————
-
-🌍 ACTIVE DISASTER MONITORING
-
-• Colombia: Floods since January 26 — 72,000 families affected, 44 deaths, 12,000 homes damaged, government emergency declared.
-• Sudan: WFP digital beneficiary management amid convoy attacks; AI logistics cannot substitute for physical access.
-• Malaysia/Indonesia: 21 disaster events in ASEAN Week 7 — floods and landslides across Central Java and Malaysia.
-• Queensland, Australia: Ex-Cyclone Alfred causing record emergency calls; AI-enhanced models providing flash flood predictions.
-
-——————————————
-
-Impact Signals — Social impact at the scale of AI
-New episodes regularly
-
-Subscribe: https://impactsignalsai.substack.com
-Website: https://impactsignals.ai
-Twitter/X: https://x.com/ImpactSignalAI
-LinkedIn: https://www.linkedin.com/company/impact-signals-ai/
-
-
-▶️ Watch on YouTube: https://www.youtube.com/watch?v=kniWbQT2JxU
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=_XlS-x7j_ow
 📩 Subscribe: https://impactsignalsai.substack.com
 🌐 Website: https://impactsignals.ai/episodes/11</itunes:summary>
       <itunes:keywords>ai for social impact, ai governance, new delhi declaration, wfp ai, africa early warning, disaster response</itunes:keywords>
