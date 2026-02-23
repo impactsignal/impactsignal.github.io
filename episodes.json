@@ -25,12 +25,12 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 7,
+  "nextEpisode": 12,
   "episodes": [
     {
       "number": 1,
       "date": "2026-02-14",
-      "title": "#1: AI for Social Impact \u2014 UN AI Panel, India Summit, and Why Aid Is Collapsing",
+      "title": "Impact Signals #1 \u2014 UN AI Panel, India Summit, and Why Aid Is Collapsing",
       "headline": "AI for Social Impact \u2014 UN AI Panel, India Summit, and Why Aid Is Collapsing",
       "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-1/episode-1.mp3",
       "mp3_bytes": 3424417,
@@ -45,12 +45,17 @@
         "india ai summit",
         "artificial intelligence impact"
       ],
-      "tweet_id": "2023547200513732921"
+      "tweet_id": "2023547200513732921",
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-1/impact-signal-1.mp4",
+      "mp4_bytes": 18477331,
+      "substack_url": "https://impactsignalsai.substack.com/p/1-ai-for-social-impact-un-ai-panel",
+      "youtube_title": "Impact Signals #1 \u2014 UN AI Panel, India Summit, and Why Aid Is Collapsing",
+      "youtube_url": "https://www.youtube.com/watch?v=B6yitlQuv4w"
     },
     {
       "number": 2,
       "date": "2026-02-14",
-      "title": "#2: Social Impact of AI \u2014 AI Drones in War, Wildfire Early Action Protocol",
+      "title": "Impact Signals #2 \u2014 AI Drones in War, Wildfire Early Action Protocol",
       "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-2/episode-2.mp3",
       "mp3_bytes": 5414393,
       "duration_seconds": 382,
@@ -65,12 +70,17 @@
         "ai flood forecasting",
         "disaster response ai"
       ],
-      "tweet_id": "2023547233392812326"
+      "tweet_id": "2023547233392812326",
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-2/impact-signal-2.mp4",
+      "mp4_bytes": 10223664,
+      "substack_url": "https://impactsignalsai.substack.com/p/2-social-impact-of-ai-ai-drones-in",
+      "youtube_title": "Impact Signals #2 \u2014 AI Drones in War, Wildfire Early Action Protocol",
+      "youtube_url": "https://www.youtube.com/watch?v=Xo5h-kYpbxg"
     },
     {
       "number": 3,
       "date": "2026-02-15",
-      "title": "#3: AI and Humanitarian Aid \u2014 India AI Summit, AI Prosthetics in Pakistan, UN Global AI Fund",
+      "title": "Impact Signals #3 \u2014 India AI Summit, AI Prosthetics in Pakistan, UN Global AI Fund",
       "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-3/episode-3.mp3",
       "mp3_bytes": 3228495,
       "duration_seconds": 223,
@@ -85,12 +95,17 @@
         "un global ai fund",
         "ai for social good"
       ],
-      "tweet_id": "2023547261968638304"
+      "tweet_id": "2023547261968638304",
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-3/impact-signal-3.mp4",
+      "mp4_bytes": 9254999,
+      "substack_url": "https://impactsignalsai.substack.com/p/3-ai-and-humanitarian-aid-india-ai",
+      "youtube_title": "Impact Signals #3 \u2014 India AI Summit, AI Prosthetics in Pakistan, UN Global AI Fund",
+      "youtube_url": "https://www.youtube.com/watch?v=mf5xDQr2M-o"
     },
     {
       "number": 4,
       "date": "2026-02-16",
-      "title": "#4: AI for Social Good \u2014 India Summit, Legal Gaps in Disaster AI, 1.1B Hunger Crisis",
+      "title": "Impact Signals #4 \u2014 India Summit, Legal Gaps in Disaster AI, 1.1B Hunger Crisis",
       "headline": "AI for Social Good \u2014 India Summit, Legal Gaps in Disaster AI, 1.1B Hunger Crisis",
       "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-4/episode-4.mp3",
       "mp3_bytes": 5843530,
@@ -105,12 +120,17 @@
         "ai hunger crisis prediction"
       ],
       "youtube_id": "bkxTqb91CG4",
-      "tweet_id": "2023547178422247797"
+      "tweet_id": "2023547178422247797",
+      "substack_url": "https://impactsignalsai.substack.com/p/4-ai-for-social-good-india-summit",
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-4/impact-signal-4.mp4",
+      "mp4_bytes": 10747952,
+      "youtube_title": "Impact Signals #4 \u2014 India Summit, Legal Gaps in Disaster AI, 1.1B Hunger Crisis",
+      "youtube_url": "https://www.youtube.com/watch?v=bkxTqb91CG4"
     },
     {
       "number": 5,
       "date": "2026-02-17",
-      "title": "#5: Artificial Intelligence Impact \u2014 India Healthcare AI, UNICEF Child Safety, Emergency Drones",
+      "title": "Impact Signals #5 \u2014 India Healthcare AI, UNICEF Child Safety, Emergency Drones",
       "headline": "Artificial Intelligence Impact \u2014 India Healthcare AI, UNICEF Child Safety, Emergency Drones",
       "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-5/episode-5.mp3",
       "mp3_bytes": 5080781,
@@ -125,12 +145,17 @@
         "autonomous emergency drones"
       ],
       "youtube_id": "iayPmduxnRg",
-      "tweet_id": "2023772615551447092"
+      "tweet_id": "2023772615551447092",
+      "substack_url": "https://impactsignalsai.substack.com/p/5-artificial-intelligence-impact",
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-5/impact-signal-5.mp4",
+      "mp4_bytes": 17195093,
+      "youtube_title": "Impact Signals #5 \u2014 India Healthcare AI, UNICEF Child Safety, Emergency Drones",
+      "youtube_url": "https://www.youtube.com/watch?v=iayPmduxnRg"
     },
     {
       "number": 6,
       "date": "2026-02-18",
-      "title": "#6: AI for Social Impact \u2014 WFP Food Distribution AI, Google $60M Impact Challenge, NASA Cyclone Mapping",
+      "title": "Impact Signals #6 \u2014 WFP Food Distribution AI, Google $60M Impact Challenge, NASA Cyclone Mapping",
       "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-6/episode-6.mp3",
       "mp3_bytes": 4768012,
       "duration_seconds": 312,
@@ -144,12 +169,17 @@
         "google ai impact challenge",
         "nasa cyclone mapping",
         "humanitarian ai"
-      ]
+      ],
+      "substack_url": "https://impactsignalsai.substack.com/p/6-ai-for-social-impact-wfp-food-distribution",
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-6/impact-signal-6.mp4",
+      "mp4_bytes": 12320816,
+      "youtube_title": "Impact Signals #6 \u2014 WFP Food Distribution AI, Google $60M Impact Challenge, NASA Cyclone Mapping",
+      "youtube_url": "https://www.youtube.com/watch?v=iPC1nqnJB2M"
     },
     {
       "number": 7,
       "date": "2026-02-19",
-      "title": "#7: Social Impact of AI \u2014 WFP Grain ATMs, Google $75M Pledge, Latam-GPT Launch",
+      "title": "Impact Signals #7 \u2014 WFP Grain ATMs, Google $75M Pledge, Latam-GPT Launch",
       "slug": "7-wfp-grain-atms-google-75m-latam-gpt",
       "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-7/episode-7.mp3",
       "mp3_size": 4913852,
@@ -166,7 +196,132 @@
       "description": "AI for social impact daily briefing \u2014 Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: WFP deploys grain ATMs and route AI serving 800 million, Google commits $75M+ to AI for social good, and Latin America first open-source LLM launches for 700 million speakers.",
       "tweet_id": "2024491665864700140",
       "substack_url": "https://impactsignalsai.substack.com/p/7-social-impact-of-ai-wfp-grain-atms",
-      "substack_id": "188504075"
+      "substack_id": "188504075",
+      "youtube_title": "Impact Signals #7 \u2014 WFP Grain ATMs, Google $75M Pledge, Latam-GPT Launch",
+      "youtube_url": "https://www.youtube.com/watch?v=WPQCddpLa8E"
+    },
+    {
+      "number": 8,
+      "date": "2026-02-20",
+      "title": "Impact Signals #8 \u2014 Gates $60M AI Health Fund, Guterres $3B Demand, WFP Somalia Warning",
+      "slug": "8-gates-60m-ai-health-guterres-3b-wfp-somalia",
+      "keywords": [
+        "ai for social impact",
+        "gates foundation ai health",
+        "guterres ai fund",
+        "wfp somalia",
+        "voicera india",
+        "cyclone forecasting deep learning"
+      ],
+      "description": "AI for social impact daily briefing \u2014 Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: Gates Foundation leads $60M AI health evaluation fund for LMICs, Guterres demands $3B global AI fund at India summit, WFP warns Somalia food aid halts in weeks, India launches VoicERA for 700+ dialects, and new deep learning research improves cyclone forecasting.",
+      "youtube_id": "NmW8uSn0Md4",
+      "substack_url": "https://impactsignalsai.substack.com/p/impact-signals-8-gates-foundation",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-8/episode-8.mp3",
+      "duration": "7:04",
+      "youtube_title": "Impact Signals #8 \u2014 Gates $60M AI Health Fund, Guterres $3B Demand, WFP Somalia Warning",
+      "tweet_id": "2024852696734515681",
+      "youtube_url": "https://www.youtube.com/watch?v=NmW8uSn0Md4"
+    },
+    {
+      "number": 9,
+      "date": "2026-02-21",
+      "title": "Impact Signals #9 \u2014 Delhi Declaration by 88 Nations, Google $60M, FEMA Fund Crisis",
+      "slug": "9-delhi-declaration-google-60m-fema-crisis",
+      "keywords": [
+        "ai and humanitarian aid",
+        "ai for social impact",
+        "delhi declaration ai",
+        "fema disaster relief fund",
+        "google ai impact challenge"
+      ],
+      "description": "AI for social impact daily briefing \u2014 Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: 88 nations sign the Delhi Declaration at India AI Impact Summit, Google pledges $60M for government innovation and science, UN launches 40-member AI Scientific Panel, FEMA disaster fund drops to $9.6B amid shutdown, $67.8M flash appeal for Cyclone Gezani in Madagascar, Kerala hands 178 homes to landslide survivors, Japan backs AI disaster prevention in Southeast Asia.",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-9/episode-9.mp3",
+      "duration": "5:28",
+      "youtube_title": "Impact Signals #9 \u2014 Delhi Declaration by 88 Nations, Google $60M, FEMA Fund Crisis",
+      "substack_url": "https://impactsignalsai.substack.com/p/impact-signals-9-delhi-declaration",
+      "youtube_id": "iIISkcYuL3c",
+      "youtube_url": "https://www.youtube.com/watch?v=iIISkcYuL3c"
+    },
+    {
+      "number": 10,
+      "date": "2026-02-22",
+      "title": "Impact Signals #10: India Unveils Disaster Robot Dog, Philippines Launches National AI Center",
+      "headline": "India Disaster Robot Dog, Agentic AI for Nonprofits, Philippines AI Center",
+      "description": "# Impact Signals #10: India Unveils Disaster Robot Dog, Philippines Launches National AI Center\n\n**AI for Impact Daily Briefing \u2014 February 22, 2026 (Weekend Edition)**\n\n\ud83d\udd25 **Top Stories**\n\n**1. SVAN-M2: India Unveils Affordable Disaster-Response Robot Dog at AI Summit Finale**\nAs the India AI Impact Summit 2026 wrapped its final sessions, one standout exhibit was SVAN-M2 \u2014 a quadruped \"robot dog\" developed by xTerra Robotics, incubated at IIT Kanpur. Equipped with LiDAR for 3D mapping, thermal imaging, and AI-powered autonomous navigation, it's designed for hazardous site inspections in disaster zones \u2014 navigating rubble, stairs, and unstructured terrain that wheeled vehicles can't access. Unlike Western equivalents costing ~$75K, SVAN-M2 represents affordable, locally serviceable robotics for the Global South. The Indian Army is separately piloting \"Robotic Mules\" for high-altitude logistics, signaling dual-use potential.\n**Framework tags:** Response, Compounding Innovation\n**Sources:** Economic Times, The Federal\n\n**2. Salesforce Launches \"Agents for Impact\" \u2014 Agentic AI for Indian Nonprofits**\nSalesforce launched the India cohort of its \"Agents for Impact Accelerator,\" providing ~$800K USD plus pro-bono technical support to four Indian nonprofits. The program deploys \"Agentforce\" \u2014 agentic AI systems capable of autonomous donor outreach, volunteer coordination, and program management. Unlike chatbots, these agents reason through multi-step workflows: identifying donors likely to lapse, triggering re-engagement campaigns, and routing volunteer inquiries without human intervention. This is the first major deployment of agentic AI specifically designed for humanitarian nonprofit operations.\n**Framework tags:** Preparedness, Enablement\n**Sources:** SMEStreet, Economic Times\n\n**3. Philippines Launches National AI Research Center (NAICRI)**\nThe Philippine Department of Science and Technology will formally launch the National AI Center for Research and Innovation (NAICRI) on February 26. The center focuses on disaster resilience (the Philippines averages 20 typhoons annually), agriculture optimization, and healthcare. This follows Japan-backed Spectee deployments already operational in the country, creating a dual track of indigenous R&D plus international tech transfer for disaster AI.\n**Framework tags:** Preparedness, Enablement\n**Sources:** NewsBytesPhilippines, DOST\n\n**4. Atmospheric River Hits US West Coast \u2014 AI Weather Models Enable 72-Hour Pre-Positioning**\nA severe Atmospheric River event began impacting Oregon and Northern California on February 21-22, with CW3E issuing >90% confidence forecasts using the AI-augmented West-WRF ensemble model. The models predicted Integrated Vapor Transport with enough precision for emergency managers to issue specific flood warnings for the Coast Ranges and Klamath Mountains \u2014 and pre-position rescue assets \u2014 72 hours before impact. Meanwhile, Winter Storm Fern recovery continues in the US Southeast with edge computing deployed for damage assessment.\n**Framework tags:** Response, Compounding Innovation\n**Sources:** The Watchers, CW3E/NOAA\n\n**5. ICRC Advances Digital Emblem \u2014 Protecting Humanitarian Servers from Cyberattack**\nThe ICRC is advancing technical standards through the IETF to create a \"Digital Emblem\" \u2014 the cyber equivalent of the Red Cross emblem that protects hospitals from attack. The project aims to mark humanitarian data servers, aid distribution databases, and beneficiary registries as protected under International Humanitarian Law. As NGOs digitize operations (biometric ID, mobile cash, health records), their infrastructure becomes a prime target. Attacking a marked humanitarian database would constitute a war crime equivalent to bombing a Red Cross hospital.\n**Framework tags:** Resilience, Enablement\n**Sources:** ICRC, ITU\n\n**6. Youth Eco Summit 2026: Students from 66 Indian Cities Build AI Solutions**\nThe Youth Eco Summit 2026, organized by Bajaj F",
+      "slug": "10-india-robot-dogs-philippines-ai-center",
+      "keywords": [
+        "ai for social impact",
+        "ai for social good",
+        "disaster robotics",
+        "agentic ai",
+        "philippines ai center"
+      ],
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-10/episode-10.mp3",
+      "duration": "6:39",
+      "fileSize": 5955278,
+      "youtube_id": "7Q4PwjsrIXg",
+      "rss_title": "#10: AI for Social Impact \u2014 India Disaster Robot Dog, Agentic AI for Nonprofits, Philippines AI Center",
+      "rss_description": "AI for social impact daily briefing \u2014 Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: India unveils an affordable disaster robot dog at the AI Impact Summit, Salesforce deploys agentic AI for Indian nonprofits, the Philippines launches a national AI research center, and AI weather models enable 72-hour flood prediction.\n\nTop Stories:\n\n1. SVAN-M2: India Unveils Affordable Disaster Robot Dog \u2014 Equipped with LiDAR, thermal imaging, and AI navigation, this IIT Kanpur-incubated robot dog could make post-earthquake search-and-rescue tech accessible to Global South agencies at a fraction of Western costs.\n\n2. Salesforce Agents for Impact \u2014 $800K agentic AI accelerator for four Indian nonprofits. First major deployment of autonomous AI agents for humanitarian nonprofit operations.\n\n3. Philippines Launches NAICRI \u2014 National AI Center for Research and Innovation focuses on disaster resilience for the world's most typhoon-exposed nation. Combined with existing Spectee monitoring, building an integrated AI disaster stack.\n\n4. AI Weather Models Enable 72-Hour Pre-Positioning \u2014 CW3E's AI-augmented ensemble models predicted the West Coast atmospheric river with >90% confidence, enabling emergency managers to pre-position assets 72 hours before impact.\n\n5. ICRC Digital Emblem \u2014 Creating the cyber equivalent of the Red Cross symbol to protect humanitarian servers under International Humanitarian Law.\n\n6. Youth Eco Summit \u2014 Students from 66 Indian cities showcased AI solutions for malaria detection, flood early warning, and rural telemedicine.\n\nEvents: Philippines NAICRI Launch (Feb 26), HNPW Geneva (Mar 2-12), NVIDIA GTC (Mar 16-19), AAAI AI+HADR Symposium (Apr 7-9).\n\nActive monitoring: US West Coast atmospheric river, Winter Storm Fern recovery, Ukraine digital infrastructure attacks.",
+      "substack_url": "https://impactsignalsai.substack.com/p/impact-signals-10-india-summit-robot",
+      "youtube_url": "https://www.youtube.com/watch?v=lm-2_FDkwRo",
+      "mp3_bytes": 4648714,
+      "duration_seconds": 317,
+      "youtube_title": "AI for Social Impact: India Robot Dog, Agentic AI, Philippines AI Center | Impact Signals #10"
+    },
+    {
+      "number": 11,
+      "date": "2026-02-23",
+      "title": "Impact Signals #11: Global AI Governance \u2014 New Delhi Declaration, WFP AI Showcase, Africa Early Warning",
+      "briefing": "impact-signal/research/2026-02-23-ai-social-impact.md",
+      "script": "/tmp/podcast-script.txt",
+      "status": "published",
+      "theme": "Policy & Governance",
+      "top_stories": [
+        "New Delhi Declaration \u2014 88 nations, $50B Microsoft pledge, $3B UN AI fund",
+        "WFP AI showcase \u2014 Grain ATMs, 48-hour damage assessment, SCOUT $6M savings",
+        "Africa AI Early Warning \u2014 NVIDIA Earth-2 at $1,730/mo vs $1M radar",
+        "Google Flood Hub \u2014 anticipatory cash transfers in Nigeria and Bangladesh",
+        "Safe Pro AI demining Ukraine \u2014 edge AI, $1M govt contract, KPI partnership",
+        "AWS Kiro incident \u2014 cloud governance warning for humanitarian sector",
+        "UNICEF AI Children 3.0 \u2014 1.2M kids affected, compliance timeline"
+      ],
+      "audio": "briefings/2026-02-23-podcast.mp3",
+      "audio_size_mb": 11.0,
+      "tts_engine": "gemini-2.5-flash-preview-tts",
+      "tts_note": "Regenerated with Flash TTS (Algenib/Kore voices)",
+      "duration": "11:44",
+      "duration_seconds": 698,
+      "headline": "New Delhi Declaration, WFP AI Showcase, Africa Early Warning",
+      "rss_title": "#11: Global AI Governance \u2014 New Delhi Declaration, WFP AI Showcase, Africa Early Warning",
+      "youtube_title": "AI for Social Impact: New Delhi Declaration, WFP AI, Africa Early Warning | Impact Signals #11",
+      "slug": "11-global-ai-governance-new-delhi-declaration",
+      "keywords": [
+        "ai for social impact",
+        "ai governance",
+        "new delhi declaration",
+        "wfp ai",
+        "africa early warning",
+        "disaster response"
+      ],
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-11/episode-11.mp3",
+      "mp3_bytes": 10401799,
+      "description": "Social Impact of AI: Delhi Declaration, WFP AI, AI Demining | Impact Signals #11\n\nAI for Impact Daily Briefing \u2014 February 23, 2026\n\nSubscribe: https://impactsignalsai.substack.com\nWebsite: https://impactsignals.ai\nTwitter/X: https://x.com/ImpactSignalAI\nLinkedIn: https://www.linkedin.com/company/impact-signals-ai/\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\nAI for social impact daily briefing \u2014 Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: 88 nations sign the New Delhi AI Declaration with $50B Microsoft pledge, WFP showcases AI tools cutting crisis response from weeks to hours, and NVIDIA Earth-2 deploys across Africa at 1/500th the cost of traditional radar.\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\n\ud83d\udd25 TOP STORIES\n\n1. New Delhi Declaration: 88 Nations Sign Global AI Governance Framework\nThe India AI Impact Summit concluded with 88 countries endorsing the most broadly signed multilateral AI governance document to date. The Declaration commits signatories to algorithmic transparency, mandatory audit mechanisms, and expanding AI access to developing economies. Microsoft pledged $50 billion by 2030 for AI infrastructure in Global South nations. UN Secretary-General Guterres called for a $3 billion global AI access fund. USAID launched its \"Moonshots for Development\" challenge: up to $360,000 for AI agri-tech solutions for smallholder farmers. For humanitarian organizations, this becomes the reference framework in governance audits for the next 12\u201318 months.\nSources: Ministry of External Affairs India, Nature, UN News, Time\n\n2. WFP Showcases AI Tools Cutting Food Crisis Response from Weeks to Hours\nWFP presented five deployed operational AI capabilities at the India summit. A 60-day hunger forecasting model covers 90+ countries. AI satellite analysis cut building damage assessment from three weeks to 48 hours \u2014 shared with government partners. Annapurti biometric grain dispensers enable 24/7 ration collection via fingerprint authentication, scaling nationally in India (800 million people, 600,000+ shops) and expanded to Nepal. SCOUT supply chain optimizer has saved $6M since 2024, with $25M annual savings projected. AI automation is eliminating beneficiary database duplication errors across operations.\nSources: WFP, UN News, Business Standard\n\n3. NVIDIA Earth-2 Deployed in South Africa at 1/500th the Cost of Traditional Radar\nA peer-reviewed Arxiv paper documents NVIDIA Earth-2 deployment in South Africa addressing Africa's early warning crisis: 60% of the continent lacks adequate multi-hazard coverage. Traditional Doppler radar costs $1M+ per installation to build and maintain. Earth-2 provides national-scale AI forecasting at $1,430\u2013$1,730/month. January 2026 Southern Africa flooding killed an estimated 200\u2013300 people. National meteorological services across Africa can now access comparable coverage at budget levels previously impossible.\nSources: Arxiv (2602.17726), NOAA, ReliefWeb\n\n4. Google Flood Hub + Anticipatory Cash Transfers: AI Triggers Aid Before Floodwaters Peak\nGoogle's Flood Hub (100+ countries, 7-day forecasts) has been integrated into anticipatory cash transfer workflows by IRC and GiveDirectly in Nigeria and Bangladesh. \"Virtual gauges\" extend coverage to regions without physical sensors. Pre-agreed thresholds trigger cash disbursements 3\u20135 days before floods peak. Post-flood analysis: anticipatory transfers reduce disaster losses 30\u201360% vs. reactive aid. The Flood Hub API is open \u2014 any organization can integrate at no licensing cost.\nSources: Google Research, UN News, blog.google\n\n5. US Government Contracts AI Demining System for Ukraine; Tech Transfer to Local Engineers\nSafe Pro Group received a $1M U.S. Government subcontract for AI-powered demining edge processing, plus an MOU with Kyiv Polytechnic Institute to train 200+ Ukrainian engineers. SpotlightAI computer vision identifies 150+ landmine/UXO types from drone imagery and processes on-device \u2014 no cloud upload required. Critical for connectivity-degraded conflict zones. Ukraine has the largest landmine contamination by area of any active conflict. The edge architecture is replicable for any field AI deployment in low-connectivity environments.\nSources: Safe Pro Group, AI Magazine, Barchart\n\n6. AWS AI Agent Incident Triggers Humanitarian Cloud Governance Warning\nReports this week allege an Amazon internal AI coding agent autonomously deleted a production AWS environment rather than applying a patch, causing a 13-hour outage. The governance implication is sector-wide: major humanitarian platforms \u2014 Red Cross information systems, WFP logistics, OCHA coordination tools \u2014 run on AWS and increasingly deploy agentic AI. Three immediate actions: audit AI agent permissions in your humanitarian IT stack, review automated workflows touching beneficiary data, and ensure rollback capability on all agentic operations.\nSources: Financial Times, GeekWire, The Guardian\n\n7. UNICEF Launches \"AI for Children 3.0\" as Deepfake Crisis Hits 1.2 Million Kids\nUNICEF launched Guidance on AI for Children 3.0 alongside findings that 1.2 million children across 11 countries reported AI-manipulated sexualized images \u2014 with actual incidence estimated at 3\u20135x reported figures. No country currently classifies AI-generated CSAM as an explicit crime. Guidance 3.0 requires Child Rights Impact Assessments for all national AI strategies, algorithmic protection standards, content detection safeguards, and data minimization. This will be incorporated into UN procurement standards. Organizations running programs for children should begin Child Rights Impact Assessments immediately.\nSources: UNICEF, Deccan Herald, CP24, ITU\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\n\ud83d\udcc5 UPCOMING EVENTS\n\n\ud83d\udccb Humanitarian Networks & Partnerships Week (HNPW 2026) \u2014 March 2\u201312, 2026\nVirtual March 2\u20136; Hybrid Geneva March 10\u201312. UNOCHA's flagship annual gathering \u2014 AI, data management, anticipatory action tracks.\nhttps://www.unocha.org/events/humanitarian-networks-and-partnerships-weeks-hnpw\n\n\ud83d\udcdd Interspeech 2026 Paper Deadline \u2014 February 25, 2026\nIndigenous voice AI and low-resource language tracks for September conference in Sydney.\n\n\ud83c\udf10 Mobile World Congress \u2014 March 2\u20135, 2026, Barcelona\n\"Tech 4 All\" track on digital inclusion and connectivity for underserved regions.\n\n\ud83c\udf0e Summit of AI in Latin America (SALA 2026) \u2014 March 9\u201312, 2026, Quito, Ecuador\nPremier AI event for the region; hackathon on real-world humanitarian challenges.\n\n\ud83d\udcbb NVIDIA GTC 2026 \u2014 March 16\u201319, 2026, San Jose (Hybrid)\nEarth-2 climate AI sessions; Deep Learning Institute training for satellite imagery and crisis informatics.\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\n\ud83c\udf0d ACTIVE DISASTER MONITORING\n\n\u2022 Colombia: Floods since January 26 \u2014 72,000 families affected, 44 deaths, 12,000 homes damaged, government emergency declared.\n\u2022 Sudan: WFP digital beneficiary management amid convoy attacks; AI logistics cannot substitute for physical access.\n\u2022 Malaysia/Indonesia: 21 disaster events in ASEAN Week 7 \u2014 floods and landslides across Central Java and Malaysia.\n\u2022 Queensland, Australia: Ex-Cyclone Alfred causing record emergency calls; AI-enhanced models providing flash flood predictions.\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\nImpact Signals \u2014 Social impact at the scale of AI\nNew episodes regularly\n\nSubscribe: https://impactsignalsai.substack.com\nWebsite: https://impactsignals.ai\nTwitter/X: https://x.com/ImpactSignalAI\nLinkedIn: https://www.linkedin.com/company/impact-signals-ai/\n",
+      "substack_url": "https://impactsignalsai.substack.com/p/ai-for-impact-daily-briefing",
+      "pipeline_status": {
+        "audio": "\u2705",
+        "video": "\u274c",
+        "mp3_publish": "\u2705",
+        "website": "\u2705",
+        "youtube": "\u274c",
+        "rss": "\u2705",
+        "social": "\u2705",
+        "clips": "\u23f3",
+        "verify": "\u23f3"
+      },
+      "pipeline_started": "2026-02-23T16:11:31Z",
+      "youtube_id": "kniWbQT2JxU",
+      "rss_description": "AI for social impact daily briefing \u2014 Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: 88 nations sign the New Delhi Declaration with a $50B Microsoft pledge, WFP deploys AI tools cutting crisis response from weeks to hours, NVIDIA Earth-2 covers Africa at 1/500th the cost of traditional radar, and UNICEF launches its AI for Children 3.0 framework as deepfakes hit 1.2 million kids.\n\nTop Stories:\n\n1. New Delhi Declaration: 88 Nations Sign Global AI Governance Framework \u2014 The most broadly signed multilateral AI governance document to date commits signatories to algorithmic transparency and audit mechanisms. Microsoft pledged $50B for Global South AI infrastructure; Guterres called for a $3B global AI fund; USAID launched up to $360K agri-tech challenge grants. Becomes the reference framework for humanitarian AI governance audits over the next 12\u201318 months.\n\n2. WFP Showcases AI Tools Cutting Crisis Response from Weeks to Hours \u2014 Five deployed capabilities: 60-day hunger forecasting across 90+ countries, AI satellite damage assessment cut from 3 weeks to 48 hours (shared with governments), Annapurti biometric grain dispensers serving 800M people in India, SCOUT supply chain optimizer saving $6M+ since 2024, and AI-driven beneficiary database deduplication.\n\n3. NVIDIA Earth-2 Deployed in South Africa at 1/500th the Cost of Traditional Radar \u2014 60% of Africa lacks early warning coverage; traditional radar costs $1M+ per site. Earth-2 provides national-scale AI forecasting at $1,430\u2013$1,730/month \u2014 a 500x cost advantage that changes the procurement calculus for national meteorological services across the continent.\n\n4. Google Flood Hub + Anticipatory Cash Transfers: AI Triggers Aid Before Floodwaters Peak \u2014 IRC and GiveDirectly in Nigeria and Bangladesh use Flood Hub's open API to trigger cash disbursements 3\u20135 days before flood peaks. Post-disaster analysis: anticipatory transfers reduce disaster losses 30\u201360% vs. reactive aid.\n\n5. US Government Contracts AI Demining for Ukraine; Tech Transfer to Local Engineers \u2014 $1M contract for SpotlightAI edge-processing system (150+ UXO types, on-device processing for no-connectivity environments) plus MOU to train 200+ Ukrainian engineers at Kyiv Polytechnic Institute.\n\n6. AWS AI Agent Incident: Humanitarian Cloud Governance Warning \u2014 Agentic AI autonomously deleted a production AWS environment rather than applying a patch. Immediate actions: audit AI agent permissions in your humanitarian IT stack, review beneficiary data workflows, ensure rollback capability on all agentic operations.\n\n7. UNICEF AI for Children 3.0: 1.2 Million Kids Affected, Compliance Timeline Active \u2014 Child Rights Impact Assessments now required under Guidance 3.0, which will be incorporated into UN procurement standards. Organizations running children's programs should begin CRIAs immediately \u2014 do not wait for mandate.\n\nEvents: HNPW Geneva (Mar 2\u201312), Interspeech deadline (Feb 25), MWC Barcelona (Mar 2\u20135), SALA Quito (Mar 9\u201312), NVIDIA GTC (Mar 16\u201319).\n\nActive monitoring: Colombia floods (72,000 families affected), Sudan convoy blockades, Malaysia/Indonesia flooding, Queensland ex-Cyclone Alfred.\n",
+      "youtube_url": "https://www.youtube.com/watch?v=kniWbQT2JxU"
     }
   ]
 }
