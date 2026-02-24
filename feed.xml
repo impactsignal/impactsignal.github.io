@@ -23,7 +23,75 @@
     <copyright>© 2026 Impact Signals AI</copyright>
     <itunes:image href="https://impactsignals.ai/artwork.jpg" />
     <item>
-      <title>#11: Social Impact of AI — New Delhi Declaration, WFP AI Tools, AI Demining</title>
+      <title>Impact Signals Briefing — Tuesday, February 24, 2026</title>
+      <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: Philippines launches NAICRI with a national AI model repository for disaster response, India's SAHI framework governs health AI already running at 282 million consultations, Cyclone Horacio tests AI forecasting on the first Cat 5 storm of 2026, and the open-source crisis threatening humanitarian tooling explained.
+
+Top Stories:
+
+1. Philippines NAICRI Launch: National AI Hub with DIMER Disaster Model Repository — DOST formally launches NAICRI February 26, consolidating AI research into a shared national commons. DIMER lets accredited agencies and NGOs pull pre-built, field-tested disaster detection models — eliminating the build-from-scratch barrier. AI-as-a-Service via NAIRA means field teams don't need ML engineers on staff. A template for disaster-prone nations worldwide.
+
+2. India SAHI: AI Health Governance at Population Scale — SAHI governs infrastructure already running: 282M eSanjeevani telemedicine consultations, national digital health IDs, 4,500+ infectious disease alerts from AI media scanning. BODH benchmarking platform lets organizations independently test and score AI health tools before deployment. SAHI's "responsible innovation over cautionary restraint" principle is reshaping LMIC AI health governance.
+
+3. Cyclone Horacio: First Cat 5 of 2026 Tests AI Forecasting — 161 mph sustained winds as of Feb 24. JTWC running AI models + DeepMind weather AI alongside traditional ECMWF/GFS. Primary test: can AI catch rapid intensification events earlier? PDC Global dashboards active for Madagascar, Mozambique, Mascarene islands disaster managers.
+
+4. Vanuatu: Japan + UNICEF Disaster-Resilient Health Infrastructure — 20 facilities serving 30,000+ people will be hardened to cyclone standards, with safe water, sanitation, and generator backup. 25% of Vanuatu's health facilities currently have no electricity. Japan bilateral + UNICEF delivery model is transferable to other Pacific SIDS. Active pertussis outbreak context makes cold-chain infrastructure urgent.
+
+5. HLA AI Pulse Survey: 1,729 Humanitarians on AI Adoption Barriers — Broadest practitioner-level AI survey in the sector. Top barriers: training gaps and organizational policy uncertainty, not technology access. Free results webinar February 26 at humanitarianleadershipacademy.org — essential if building an AI investment case for your organization.
+
+6. Airbnb.org + Mexico City Emergency Shelter Protocol — 3-year formal partnership pre-integrates residential units into Mexico City's emergency housing infrastructure. AI demand forecasting pre-positions shelter capacity by hazard model. Built on Veracruz 2025 flood pilot. Replicable model for Manila, Lima, Dhaka.
+
+7. UNDRR-ECOWAS Copernicus Early Warning: The Last-Mile Data Gap — 170 participants from 39 countries reviewed Copernicus satellite tools for West Africa. Finding: satellite projections lose local accuracy without consistent ground-truth data uploads from national agencies. Organizations using earth observation tools must prioritize feeding data pipelines, not just consuming outputs.
+
+8. The AI Slop Crisis Threatening Humanitarian Open Source — cURL shut down its bug bounty after 20 invalid AI-generated reports in 21 days. Maintainers of open-source humanitarian tools — OpenStreetMap processors, HDX utilities — now spend majority of review time on AI spam. Require rigorous human review before AI-assisted contributions to critical infrastructure. Consider supporting maintainers via GitHub Sponsors or direct grants.
+
+Events: Interspeech deadline tomorrow (Feb 25), HLA webinar + NAICRI launch Thursday (Feb 26), MWC Barcelona (Mar 2–5), SALA Quito (Mar 9–12), HNPW Geneva (Mar 10–12), NVIDIA GTC (Mar 16–19).
+
+Active monitoring: Cyclone Horacio Cat 5 (Indian Ocean, PDC active), Vanuatu pertussis outbreak (declining), Colombia floods (72,000 families), Malaysia/Indonesia flooding ongoing, Sudan humanitarian access constraints.
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=IE9ijCUHJTc
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/12</description>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-12/episode-12.mp3" length="10713590" type="audio/mpeg" />
+      <pubDate>Tue, 24 Feb 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">impact-signal-12</guid>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>11:09</itunes:duration>
+      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: Philippines launches NAICRI with a national AI model repository for disaster response, India's SAHI framework governs health AI already running at 282 million consultations, Cyclone Horacio tests AI forecasting on the first Cat 5 storm of 2026, and the open-source crisis threatening humanitarian tooling explained.
+
+Top Stories:
+
+1. Philippines NAICRI Launch: National AI Hub with DIMER Disaster Model Repository — DOST formally launches NAICRI February 26, consolidating AI research into a shared national commons. DIMER lets accredited agencies and NGOs pull pre-built, field-tested disaster detection models — eliminating the build-from-scratch barrier. AI-as-a-Service via NAIRA means field teams don't need ML engineers on staff. A template for disaster-prone nations worldwide.
+
+2. India SAHI: AI Health Governance at Population Scale — SAHI governs infrastructure already running: 282M eSanjeevani telemedicine consultations, national digital health IDs, 4,500+ infectious disease alerts from AI media scanning. BODH benchmarking platform lets organizations independently test and score AI health tools before deployment. SAHI's "responsible innovation over cautionary restraint" principle is reshaping LMIC AI health governance.
+
+3. Cyclone Horacio: First Cat 5 of 2026 Tests AI Forecasting — 161 mph sustained winds as of Feb 24. JTWC running AI models + DeepMind weather AI alongside traditional ECMWF/GFS. Primary test: can AI catch rapid intensification events earlier? PDC Global dashboards active for Madagascar, Mozambique, Mascarene islands disaster managers.
+
+4. Vanuatu: Japan + UNICEF Disaster-Resilient Health Infrastructure — 20 facilities serving 30,000+ people will be hardened to cyclone standards, with safe water, sanitation, and generator backup. 25% of Vanuatu's health facilities currently have no electricity. Japan bilateral + UNICEF delivery model is transferable to other Pacific SIDS. Active pertussis outbreak context makes cold-chain infrastructure urgent.
+
+5. HLA AI Pulse Survey: 1,729 Humanitarians on AI Adoption Barriers — Broadest practitioner-level AI survey in the sector. Top barriers: training gaps and organizational policy uncertainty, not technology access. Free results webinar February 26 at humanitarianleadershipacademy.org — essential if building an AI investment case for your organization.
+
+6. Airbnb.org + Mexico City Emergency Shelter Protocol — 3-year formal partnership pre-integrates residential units into Mexico City's emergency housing infrastructure. AI demand forecasting pre-positions shelter capacity by hazard model. Built on Veracruz 2025 flood pilot. Replicable model for Manila, Lima, Dhaka.
+
+7. UNDRR-ECOWAS Copernicus Early Warning: The Last-Mile Data Gap — 170 participants from 39 countries reviewed Copernicus satellite tools for West Africa. Finding: satellite projections lose local accuracy without consistent ground-truth data uploads from national agencies. Organizations using earth observation tools must prioritize feeding data pipelines, not just consuming outputs.
+
+8. The AI Slop Crisis Threatening Humanitarian Open Source — cURL shut down its bug bounty after 20 invalid AI-generated reports in 21 days. Maintainers of open-source humanitarian tools — OpenStreetMap processors, HDX utilities — now spend majority of review time on AI spam. Require rigorous human review before AI-assisted contributions to critical infrastructure. Consider supporting maintainers via GitHub Sponsors or direct grants.
+
+Events: Interspeech deadline tomorrow (Feb 25), HLA webinar + NAICRI launch Thursday (Feb 26), MWC Barcelona (Mar 2–5), SALA Quito (Mar 9–12), HNPW Geneva (Mar 10–12), NVIDIA GTC (Mar 16–19).
+
+Active monitoring: Cyclone Horacio Cat 5 (Indian Ocean, PDC active), Vanuatu pertussis outbreak (declining), Colombia floods (72,000 families), Malaysia/Indonesia flooding ongoing, Sudan humanitarian access constraints.
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=IE9ijCUHJTc
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/12</itunes:summary>
+      <itunes:keywords>ai and humanitarian aid, ai for social impact, philippines naicri disaster ai, india sahi health ai, cyclone horacio forecasting, open source humanitarian tools, vanuatu health resilience</itunes:keywords>
+    </item>
+    <item>
+      <title>Impact Signals #11 — New Delhi Declaration, WFP AI Tools, AI Demining</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: 88 nations sign the New Delhi Declaration with a $50B Microsoft pledge, WFP deploys AI tools cutting crisis response from weeks to hours, NVIDIA Earth-2 covers Africa at 1/500th the cost of traditional radar, and UNICEF launches its AI for Children 3.0 framework as deepfakes hit 1.2 million kids.
@@ -87,7 +155,7 @@ Active monitoring: Colombia floods (72,000 families affected), Sudan convoy bloc
       <itunes:keywords>ai for social impact, ai governance, new delhi declaration, wfp ai, africa early warning, disaster response</itunes:keywords>
     </item>
     <item>
-      <title>#10: AI for Social Impact — India Disaster Robot Dog, Agentic AI for Nonprofits, Philippines AI Center</title>
+      <title>Impact Signals #10: India Unveils Disaster Robot Dog, Philippines Launches National AI Center</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 # Impact Signals #10: India Unveils Disaster Robot Dog, Philippines Launches National AI Center
