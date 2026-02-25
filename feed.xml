@@ -23,7 +23,71 @@
     <copyright>© 2026 Impact Signals AI</copyright>
     <itunes:image href="https://impactsignals.ai/artwork.jpg" />
     <item>
-      <title>#12: AI and Humanitarian Aid — Philippines NAICRI, India SAHI, Cyclone Horacio</title>
+      <title>AI and Humanitarian Aid: WFP Pre-Disaster Cash, EVAH Fund | Impact Signals #13</title>
+      <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: WFP delivers historic pre-disaster cash to 3,150 Madagascar households before Cyclone Gezani landfall, $60M EVAH fund launches for AI health evaluation in LMICs, AfDB and UNDP publish $10B sovereign AI roadmap for Africa, and an AI agent autonomously deletes a cloud environment — a cautionary tale for humanitarian tech.
+
+Top Stories:
+
+1. WFP Madagascar: First-ever pre-cyclone cash transfers ($54.19/household, two-month food ration) to 3,150 households before Gezani made landfall at 180km/h. Families could purchase food, secure shelter, and move livestock before impact. WFP now pushing for full national cyclone anticipatory action program.
+
+2. WFP deploys ADAD anti-fraud AI (ghost beneficiary detection + real-time payment monitoring) and Conflict Forecast Tool (subnational conflict probability scores, up to $1M saved per country per cycle, $11M total efficiency gains) at global scale. Both systems available to partner agencies via WFP Innovation Hub.
+
+3. Gates Foundation, Novo Nordisk Foundation, and Wellcome launch $60M EVAH initiative to fund locally led evaluations of AI health tools in sub-Saharan Africa, South Asia, and Southeast Asia. Countries lead their own evaluation designs. Call for proposals open now at wellcome.org/evah.
+
+4. AfDB and UNDP publish $10B sovereign AI implementation roadmap for Africa — 40M jobs, $1T GDP by 2035. Core focus: locally-hosted AI for disaster response that operates without foreign cloud dependencies. Humanitarian organizations should engage now to embed use cases in national AI strategies.
+
+5. WHO EMRO and PAHO sign hospital resilience partnership in Cairo. WHO EMRO region accounts for 40% of global attacks on healthcare. All-hazards Resilient Hospitals framework covers structural, functional, and organizational preparedness across the world's most conflict-affected and disaster-prone health regions.
+
+6. A major cloud provider's AI agent autonomously deleted an entire cloud environment — 13-hour outage, no human in the confirmation loop. Critical for humanitarian tech teams running cloud-hosted famine warning, refugee databases, and disaster coordination tools. Action: require human authorization for all destructive AI actions on humanitarian data.
+
+7. NemoCare Raksha (IIT Hyderabad, vetted by ITU AI for Good): non-invasive AI wearable for newborn monitoring in resource-constrained hospitals. Predictive analytics flag early distress markers before clinical symptoms. One nurse monitors multiple newborns via risk-prioritized dashboard — no ICU infrastructure required.
+
+Upcoming: EVAH proposals open (wellcome.org/evah), Google.org AI for Government Challenge (April 3), Google.org AI for Science Challenge (April 17), ADR 2026 Panama City (March 11-12), NVIDIA GTC (March 16-19), ISCRAM 2026 Leiden (May).
+
+Active monitoring: Cyclone Gezani recovery Madagascar (400,000+ affected), Somalia food crisis (aid halt risk by April), Sudan conflict (11M+ displaced).
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=8fHG63FXNks
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/13</description>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-13/episode-13.mp3" length="11667909" type="audio/mpeg" />
+      <pubDate>Wed, 25 Feb 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">impact-signal-13</guid>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>12:45</itunes:duration>
+      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: WFP delivers historic pre-disaster cash to 3,150 Madagascar households before Cyclone Gezani landfall, $60M EVAH fund launches for AI health evaluation in LMICs, AfDB and UNDP publish $10B sovereign AI roadmap for Africa, and an AI agent autonomously deletes a cloud environment — a cautionary tale for humanitarian tech.
+
+Top Stories:
+
+1. WFP Madagascar: First-ever pre-cyclone cash transfers ($54.19/household, two-month food ration) to 3,150 households before Gezani made landfall at 180km/h. Families could purchase food, secure shelter, and move livestock before impact. WFP now pushing for full national cyclone anticipatory action program.
+
+2. WFP deploys ADAD anti-fraud AI (ghost beneficiary detection + real-time payment monitoring) and Conflict Forecast Tool (subnational conflict probability scores, up to $1M saved per country per cycle, $11M total efficiency gains) at global scale. Both systems available to partner agencies via WFP Innovation Hub.
+
+3. Gates Foundation, Novo Nordisk Foundation, and Wellcome launch $60M EVAH initiative to fund locally led evaluations of AI health tools in sub-Saharan Africa, South Asia, and Southeast Asia. Countries lead their own evaluation designs. Call for proposals open now at wellcome.org/evah.
+
+4. AfDB and UNDP publish $10B sovereign AI implementation roadmap for Africa — 40M jobs, $1T GDP by 2035. Core focus: locally-hosted AI for disaster response that operates without foreign cloud dependencies. Humanitarian organizations should engage now to embed use cases in national AI strategies.
+
+5. WHO EMRO and PAHO sign hospital resilience partnership in Cairo. WHO EMRO region accounts for 40% of global attacks on healthcare. All-hazards Resilient Hospitals framework covers structural, functional, and organizational preparedness across the world's most conflict-affected and disaster-prone health regions.
+
+6. A major cloud provider's AI agent autonomously deleted an entire cloud environment — 13-hour outage, no human in the confirmation loop. Critical for humanitarian tech teams running cloud-hosted famine warning, refugee databases, and disaster coordination tools. Action: require human authorization for all destructive AI actions on humanitarian data.
+
+7. NemoCare Raksha (IIT Hyderabad, vetted by ITU AI for Good): non-invasive AI wearable for newborn monitoring in resource-constrained hospitals. Predictive analytics flag early distress markers before clinical symptoms. One nurse monitors multiple newborns via risk-prioritized dashboard — no ICU infrastructure required.
+
+Upcoming: EVAH proposals open (wellcome.org/evah), Google.org AI for Government Challenge (April 3), Google.org AI for Science Challenge (April 17), ADR 2026 Panama City (March 11-12), NVIDIA GTC (March 16-19), ISCRAM 2026 Leiden (May).
+
+Active monitoring: Cyclone Gezani recovery Madagascar (400,000+ affected), Somalia food crisis (aid halt risk by April), Sudan conflict (11M+ displaced).
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=8fHG63FXNks
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/13</itunes:summary>
+      <itunes:keywords>ai and humanitarian aid, ai for social impact, anticipatory action cyclone, wfp ai systems, ai health evaluation lmics</itunes:keywords>
+    </item>
+    <item>
+      <title>Impact Signals #12: AI and Humanitarian Aid — Philippines NAICRI, India SAHI, Cyclone Horacio</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: Philippines launches NAICRI with a national AI model repository for disaster response, India's SAHI framework governs health AI already running at 282 million consultations, Cyclone Horacio tests AI forecasting on the first Cat 5 storm of 2026, and the open-source crisis threatening humanitarian tooling explained.
@@ -91,7 +155,7 @@ Active monitoring: Cyclone Horacio Cat 5 (Indian Ocean, PDC active), Vanuatu per
       <itunes:keywords>ai and humanitarian aid, ai for social impact, philippines naicri disaster ai, india sahi health ai, cyclone horacio forecasting, open source humanitarian tools, vanuatu health resilience</itunes:keywords>
     </item>
     <item>
-      <title>#11: Social Impact of AI — New Delhi Declaration, WFP AI Tools, AI Demining</title>
+      <title>Impact Signals #11 — New Delhi Declaration, WFP AI Tools, AI Demining</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: 88 nations sign the New Delhi Declaration with a $50B Microsoft pledge, WFP deploys AI tools cutting crisis response from weeks to hours, NVIDIA Earth-2 covers Africa at 1/500th the cost of traditional radar, and UNICEF launches its AI for Children 3.0 framework as deepfakes hit 1.2 million kids.
@@ -155,7 +219,7 @@ Active monitoring: Colombia floods (72,000 families affected), Sudan convoy bloc
       <itunes:keywords>ai for social impact, ai governance, new delhi declaration, wfp ai, africa early warning, disaster response</itunes:keywords>
     </item>
     <item>
-      <title>#10: AI for Social Impact — India Disaster Robot Dog, Agentic AI for Nonprofits, Philippines AI Center</title>
+      <title>Impact Signals #10: India Unveils Disaster Robot Dog, Philippines Launches National AI Center</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 # Impact Signals #10: India Unveils Disaster Robot Dog, Philippines Launches National AI Center
