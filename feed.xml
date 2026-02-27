@@ -23,6 +23,132 @@
     <copyright>© 2026 Impact Signals AI</copyright>
     <itunes:image href="https://impactsignals.ai/artwork.jpg" />
     <item>
+      <title>Impact Signals #15: Rwanda-Anthropic Health AI, Google.org $30M Challenge, Philippines NAICRI Launches</title>
+      <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+#15: Social Impact of AI — Rwanda-Anthropic, Google.org $30M, Philippines NAICRI
+
+AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: Rwanda signs Africa's first sovereign AI health partnership, Google.org opens a $30M AI for Government Challenge, and the Philippines launches a national disaster AI model repository.
+
+TOP STORIES
+
+1. Rwanda-Anthropic MoU: Sovereign AI for Health
+Rwanda signed a 3-year MoU with Anthropic — the company's first formal multi-sector African government partnership — deploying Claude AI across health and education. Focus: cervical cancer, malaria, maternal mortality. Rwanda retains data control; Anthropic provides Claude Code access and developer capacity-building. A replicable "sovereign AI" template for African health ministries.
+Framework tags: Recovery, Co-Creation | Sources: africa.com, aa.com.tr
+
+2. Google.org $30M AI for Government Challenge
+$30M for nonprofits, social enterprises, and academics deploying AI for public services (health, disaster resilience, economic infrastructure). Grants: $1M–$3M, plus Google.org Accelerator support and Cloud credits. Deadline: April 3, 2026. Parallel $30M AI for Science fund also open.
+Framework tags: Preparedness, Enablement | Sources: blog.google
+
+3. Philippines Launches NAICRI + DIMER
+DOST launched NAICRI with DIMER — a national AI model repository for typhoon tracking, flood detection, and damage assessment. Pre-built, field-tested models LGUs and NGOs can deploy without building from scratch. Self-correcting AI4RP weather model calibrated to Philippine conditions.
+Framework tags: Preparedness, Enablement | Sources: pia.gov.ph, dost.gov.ph
+
+4. UN Scientific AI Panel: IPCC-Equivalent for AI
+40 scientists from 37 nations confirmed to the Independent International Scientific Panel on AI. 3-year mandate. Will shape international AI policy the way IPCC shaped climate agreements. For practitioners: organizations that engage now can shape what "responsible humanitarian AI" means in resulting frameworks.
+Framework tags: DSS/Policy, Governance | Sources: Nature, UN News
+
+5. ICRC + ETH Zurich + EPFL: Humanitarian-Native LLMs
+Under ICAIN, the ICRC and Swiss research institutions are building LLMs trained specifically on humanitarian data. ETH Zurich's earlier tool saved CHF 3.6M in 2023 forecasting medical supply needs across 12 ICRC locations. Goal: shared, conflict-sensitive AI infrastructure for the humanitarian ecosystem.
+Framework tags: Preparedness, Co-Creation | Sources: cscs.ch, eha.swiss
+
+6. AI Safety Guardrails: Policy Precedent for Practitioners
+Reports of government pressure to strip AI safety guardrails from a commercial system raise a critical policy question: if regulatory pressure can modify safety features, what happens to civilian data protection and dual-use restrictions in humanitarian AI contracts? Review procurement criteria now.
+Framework tags: DSS/Policy, Governance | Sources: Washington Post, Defense One
+
+7. DIRE: ML Disease Prediction 4-8 Weeks Out
+UCSD, UNICEF, and ESA launched DIRE — ML-based dengue and malaria outbreak prediction in Brazil and Peru using satellite + climate data. 4-8 week forecast window enables anticipatory pre-positioning. Brazil: 1.6M dengue cases in January alone. Expandable globally.
+Framework tags: Preparedness, Enablement | Sources: MedicalXpress
+
+8. Pano AI: 33 Fires Averted by Computer Vision
+Wildfire detection cameras averted 33 fires in Australia's Gippsland region this season. Minutes detection vs. 30-90 min human response. Deployments in Oklahoma, Montana, and CFA Australia. Cost increasingly competitive with human patrol infrastructure.
+Framework tags: Response, Enablement | Sources: Gippsland Monitor
+
+UPCOMING EVENTS
+⏰ AAAI AI+HADR Early Bird — TODAY (Feb 27) | Apr 7-9, Burlingame CA | aaai.org/conference/spring-symposia/sss26/
+💻 ITU AI for Good Webinar: AI &amp; Work — Mar 2, Virtual (Free)
+💰 IndiaAI Innovation Challenge — Deadline Mar 2 | Up to INR 1 Crore
+🌏 UNESCO/STEPAN AI Governance Webinar — Mar 12, Virtual
+🏛 AI Standards Hub Global Summit — Mar 16-17, Glasgow + Online (OHCHR)
+
+ACTIVE DISASTER MONITORING
+• Madagascar: Post-Gezani water-sanitation emergency. Cyclone Fytia + Gezani compounding crisis.
+• Somalia: WFP warns aid could halt by April. 5-6M in need.
+• Philippines: 740K+ affected, 27K+ families in evacuation centers.
+• Myanmar: AI-fabricated rescue imagery active in disaster channels.
+
+Sources: Gemini Deep Research, Google.org, pia.gov.ph, africa.com, Nature, cscs.ch, MedicalXpress, Gippsland Monitor, ReliefWeb API, GDACS, UN OCHA
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=V_YbIKHuOp8
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/15</description>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-15/episode-15.mp3" length="10864604" type="audio/mpeg" />
+      <pubDate>Fri, 27 Feb 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">impact-signal-15</guid>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>11:26</itunes:duration>
+      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+#15: Social Impact of AI — Rwanda-Anthropic, Google.org $30M, Philippines NAICRI
+
+AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: Rwanda signs Africa's first sovereign AI health partnership, Google.org opens a $30M AI for Government Challenge, and the Philippines launches a national disaster AI model repository.
+
+TOP STORIES
+
+1. Rwanda-Anthropic MoU: Sovereign AI for Health
+Rwanda signed a 3-year MoU with Anthropic — the company's first formal multi-sector African government partnership — deploying Claude AI across health and education. Focus: cervical cancer, malaria, maternal mortality. Rwanda retains data control; Anthropic provides Claude Code access and developer capacity-building. A replicable "sovereign AI" template for African health ministries.
+Framework tags: Recovery, Co-Creation | Sources: africa.com, aa.com.tr
+
+2. Google.org $30M AI for Government Challenge
+$30M for nonprofits, social enterprises, and academics deploying AI for public services (health, disaster resilience, economic infrastructure). Grants: $1M–$3M, plus Google.org Accelerator support and Cloud credits. Deadline: April 3, 2026. Parallel $30M AI for Science fund also open.
+Framework tags: Preparedness, Enablement | Sources: blog.google
+
+3. Philippines Launches NAICRI + DIMER
+DOST launched NAICRI with DIMER — a national AI model repository for typhoon tracking, flood detection, and damage assessment. Pre-built, field-tested models LGUs and NGOs can deploy without building from scratch. Self-correcting AI4RP weather model calibrated to Philippine conditions.
+Framework tags: Preparedness, Enablement | Sources: pia.gov.ph, dost.gov.ph
+
+4. UN Scientific AI Panel: IPCC-Equivalent for AI
+40 scientists from 37 nations confirmed to the Independent International Scientific Panel on AI. 3-year mandate. Will shape international AI policy the way IPCC shaped climate agreements. For practitioners: organizations that engage now can shape what "responsible humanitarian AI" means in resulting frameworks.
+Framework tags: DSS/Policy, Governance | Sources: Nature, UN News
+
+5. ICRC + ETH Zurich + EPFL: Humanitarian-Native LLMs
+Under ICAIN, the ICRC and Swiss research institutions are building LLMs trained specifically on humanitarian data. ETH Zurich's earlier tool saved CHF 3.6M in 2023 forecasting medical supply needs across 12 ICRC locations. Goal: shared, conflict-sensitive AI infrastructure for the humanitarian ecosystem.
+Framework tags: Preparedness, Co-Creation | Sources: cscs.ch, eha.swiss
+
+6. AI Safety Guardrails: Policy Precedent for Practitioners
+Reports of government pressure to strip AI safety guardrails from a commercial system raise a critical policy question: if regulatory pressure can modify safety features, what happens to civilian data protection and dual-use restrictions in humanitarian AI contracts? Review procurement criteria now.
+Framework tags: DSS/Policy, Governance | Sources: Washington Post, Defense One
+
+7. DIRE: ML Disease Prediction 4-8 Weeks Out
+UCSD, UNICEF, and ESA launched DIRE — ML-based dengue and malaria outbreak prediction in Brazil and Peru using satellite + climate data. 4-8 week forecast window enables anticipatory pre-positioning. Brazil: 1.6M dengue cases in January alone. Expandable globally.
+Framework tags: Preparedness, Enablement | Sources: MedicalXpress
+
+8. Pano AI: 33 Fires Averted by Computer Vision
+Wildfire detection cameras averted 33 fires in Australia's Gippsland region this season. Minutes detection vs. 30-90 min human response. Deployments in Oklahoma, Montana, and CFA Australia. Cost increasingly competitive with human patrol infrastructure.
+Framework tags: Response, Enablement | Sources: Gippsland Monitor
+
+UPCOMING EVENTS
+⏰ AAAI AI+HADR Early Bird — TODAY (Feb 27) | Apr 7-9, Burlingame CA | aaai.org/conference/spring-symposia/sss26/
+💻 ITU AI for Good Webinar: AI &amp; Work — Mar 2, Virtual (Free)
+💰 IndiaAI Innovation Challenge — Deadline Mar 2 | Up to INR 1 Crore
+🌏 UNESCO/STEPAN AI Governance Webinar — Mar 12, Virtual
+🏛 AI Standards Hub Global Summit — Mar 16-17, Glasgow + Online (OHCHR)
+
+ACTIVE DISASTER MONITORING
+• Madagascar: Post-Gezani water-sanitation emergency. Cyclone Fytia + Gezani compounding crisis.
+• Somalia: WFP warns aid could halt by April. 5-6M in need.
+• Philippines: 740K+ affected, 27K+ families in evacuation centers.
+• Myanmar: AI-fabricated rescue imagery active in disaster channels.
+
+Sources: Gemini Deep Research, Google.org, pia.gov.ph, africa.com, Nature, cscs.ch, MedicalXpress, Gippsland Monitor, ReliefWeb API, GDACS, UN OCHA
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=V_YbIKHuOp8
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/15</itunes:summary>
+      <itunes:keywords>social impact of ai, ai for social impact, sovereign ai health africa, humanitarian ai governance, disaster response ai philippines</itunes:keywords>
+    </item>
+    <item>
       <title>Impact Signals #14: UN Agencies Scale, AI Disinformation in Myanmar, $50B Global South Pledge</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
