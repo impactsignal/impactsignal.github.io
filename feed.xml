@@ -23,6 +23,62 @@
     <copyright>© 2026 Impact Signals AI</copyright>
     <itunes:image href="https://impactsignals.ai/artwork.jpg" />
     <item>
+      <title>Impact Signals #17: Google's $30M AI Government Fund, Indonesia Deploys Live Flood AI, Vietnam's AI Law Takes Effect</title>
+      <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: Google.org's $30M AI government fund, Indonesia's live national flood forecasting, Vietnam's new AI law, blockchain aid distribution, and a deepfake preparedness gap across 77% of crisis organizations.
+
+1. **Google.org Opens $30M Impact Challenge: AI for Government Resilience and Public Health** — Google.org opened applications for a $30M fund targeting nonprofits and social enterprises building AI for government. Two focus areas: Resilience (crisis forecasting) and Health (public health emergency systems). Grants: $1M–$3M + Google technical accelerator. Deadline: April 3, 2026.
+
+2. **Indonesia Deploys Live AI Flood and Cyclone Forecasting at National Scale** — Weathernews Inc. and Indonesia's BMKG integrated Google's AI flood forecasting and cyclone prediction models into national early warning infrastructure. Live national deployment — not a pilot — serving hundreds of millions in one of the world's most disaster-exposed countries.
+
+3. **Blockchain-Backed Digital Aid Platform Launches: Item-Level Controls for Cash Programming** — InComm Payments and SKUx built a blockchain-backed payment platform for humanitarian aid. Item-level controls restrict vouchers to specific goods; immutable audit trail verifies every transaction. Presenting at Disasters Expo USA, March 4–5, Miami Beach.
+
+4. **Agentic AI Infrastructure Scales: Stateful Agents for Humanitarian Logistics** — OpenAI and a major cloud provider announced stateful runtime environments and multi-agent coordination platforms. Persistent AI agents could track relief supply chains across multi-week disaster responses without constant human re-prompting.
+
+5. **Vietnam's AI Law Enters Force: Southeast Asia's First Comprehensive AI Framework** — Vietnam's AI law entered into force today. Risk-based classification system, mandatory AI-generated content labeling, conformity assessments for high-risk systems. Compliance is immediate for organizations running AI programs in Vietnam.
+
+6. **Global Survey: 77% of Crisis Organizations Have No Deepfake Protocol** — RiskComms 2026 survey (102 professionals, 32 countries): 77% have no documented protocol for synthetic media incidents. 36% have no plans to create one. AI adoption in crisis comms: 2.49/5.
+
+7. **Samsung Unveils Agentic Network AI for Disaster Zone Connectivity at MWC 2026** — Samsung's CognitiV suite uses AI agents for autonomous network troubleshooting. Edge-AI infrastructure designed for resource-constrained environments to maintain communications continuity after disasters.
+
+UPCOMING EVENTS: HNPW 2026 Remote March 2–6 / Geneva March 10–12. Disasters Expo USA March 4–5 Miami Beach. NVIDIA GTC March 16–19 San Jose. ITU GeoAI Webinar March 19 (free). EAI RAIDS Da Nang March 10–12.
+
+Sources: Google.org, Weathernews Inc., BMKG, InComm Payments, SKUx, PR Newswire, National Assembly of Vietnam, RiskComms, Samsung Electronics, MWC 2026
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/17</description>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-17/episode-17.mp3" length="9834512" type="audio/mpeg" />
+      <pubDate>Sun, 01 Mar 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">impact-signal-17</guid>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>10:45</itunes:duration>
+      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: Google.org's $30M AI government fund, Indonesia's live national flood forecasting, Vietnam's new AI law, blockchain aid distribution, and a deepfake preparedness gap across 77% of crisis organizations.
+
+1. **Google.org Opens $30M Impact Challenge: AI for Government Resilience and Public Health** — Google.org opened applications for a $30M fund targeting nonprofits and social enterprises building AI for government. Two focus areas: Resilience (crisis forecasting) and Health (public health emergency systems). Grants: $1M–$3M + Google technical accelerator. Deadline: April 3, 2026.
+
+2. **Indonesia Deploys Live AI Flood and Cyclone Forecasting at National Scale** — Weathernews Inc. and Indonesia's BMKG integrated Google's AI flood forecasting and cyclone prediction models into national early warning infrastructure. Live national deployment — not a pilot — serving hundreds of millions in one of the world's most disaster-exposed countries.
+
+3. **Blockchain-Backed Digital Aid Platform Launches: Item-Level Controls for Cash Programming** — InComm Payments and SKUx built a blockchain-backed payment platform for humanitarian aid. Item-level controls restrict vouchers to specific goods; immutable audit trail verifies every transaction. Presenting at Disasters Expo USA, March 4–5, Miami Beach.
+
+4. **Agentic AI Infrastructure Scales: Stateful Agents for Humanitarian Logistics** — OpenAI and a major cloud provider announced stateful runtime environments and multi-agent coordination platforms. Persistent AI agents could track relief supply chains across multi-week disaster responses without constant human re-prompting.
+
+5. **Vietnam's AI Law Enters Force: Southeast Asia's First Comprehensive AI Framework** — Vietnam's AI law entered into force today. Risk-based classification system, mandatory AI-generated content labeling, conformity assessments for high-risk systems. Compliance is immediate for organizations running AI programs in Vietnam.
+
+6. **Global Survey: 77% of Crisis Organizations Have No Deepfake Protocol** — RiskComms 2026 survey (102 professionals, 32 countries): 77% have no documented protocol for synthetic media incidents. 36% have no plans to create one. AI adoption in crisis comms: 2.49/5.
+
+7. **Samsung Unveils Agentic Network AI for Disaster Zone Connectivity at MWC 2026** — Samsung's CognitiV suite uses AI agents for autonomous network troubleshooting. Edge-AI infrastructure designed for resource-constrained environments to maintain communications continuity after disasters.
+
+UPCOMING EVENTS: HNPW 2026 Remote March 2–6 / Geneva March 10–12. Disasters Expo USA March 4–5 Miami Beach. NVIDIA GTC March 16–19 San Jose. ITU GeoAI Webinar March 19 (free). EAI RAIDS Da Nang March 10–12.
+
+Sources: Google.org, Weathernews Inc., BMKG, InComm Payments, SKUx, PR Newswire, National Assembly of Vietnam, RiskComms, Samsung Electronics, MWC 2026
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/17</itunes:summary>
+      <itunes:keywords>social impact of ai, ai for social impact, google org ai impact challenge, indonesia ai flood forecasting bmkg, vietnam ai law southeast asia</itunes:keywords>
+    </item>
+    <item>
       <title>Impact Signals #16: Brazil Floods Kill 46 as AI Warning Gap Exposed, Offline Disease Detection Wins Red Cross Award, India Probes Anthropic-Pratham Child Data</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
