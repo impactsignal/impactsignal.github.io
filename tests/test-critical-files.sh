@@ -218,3 +218,48 @@ else
     echo "═══════════════════════════════════════════════"
     exit 0
 fi
+
+# ── Homepage structure tests ───────────────────────────────────────────────────
+echo ""
+echo "🏠 Validating homepage structure (staleness + anchor guard)..."
+
+HOMEPAGE="$REPO_ROOT/index.html"
+
+# 1. All 4 structural anchors must exist
+for anchor in 'class="lead-story"' 'class="story-list"' '<h2>Latest Episode</h2>' 'class="timestamp-bar"'; do
+    if grep -qF "$anchor" "$HOMEPAGE"; then
+        echo "  ✅ Anchor present: $anchor"
+    else
+        echo "  ❌ MISSING anchor: $anchor  ← step-update-homepage.py will silently fail!"
+        FAILURES=$((FAILURES + 1))
+    fi
+done
+
+# 2. Lead story must match latest episode in episodes.json
+LATEST_NUM=$(python3 -c "
+import json, os
+eps = json.load(open(os.path.join(os.path.dirname('$HOMEPAGE'), 'episodes.json')))
+print(max(e['number'] for e in eps['episodes']))
+" 2>/dev/null)
+if [[ -n "$LATEST_NUM" ]]; then
+    if grep -q "Episode · #${LATEST_NUM}" "$HOMEPAGE" || grep -q "Episode #${LATEST_NUM}" "$HOMEPAGE"; then
+        echo "  ✅ Homepage features latest episode #${LATEST_NUM}"
+    else
+        echo "  ❌ Homepage does NOT feature latest episode #${LATEST_NUM} — stale homepage!"
+        FAILURES=$((FAILURES + 1))
+    fi
+fi
+
+# 3. Timestamp bar must not be more than 2 days stale
+TIMESTAMP_DATE=$(grep -oE '[0-9]{4}-[0-9]{2}-[0-9]{2}' "$HOMEPAGE" | head -1)
+if [[ -n "$TIMESTAMP_DATE" ]]; then
+    TS_EPOCH=$(date -j -f "%Y-%m-%d" "$TIMESTAMP_DATE" "+%s" 2>/dev/null || date -d "$TIMESTAMP_DATE" "+%s" 2>/dev/null || echo 0)
+    NOW_EPOCH=$(date +%s)
+    DAYS_OLD=$(( (NOW_EPOCH - TS_EPOCH) / 86400 ))
+    if [[ $DAYS_OLD -le 2 ]]; then
+        echo "  ✅ Homepage timestamp is fresh (${DAYS_OLD} day(s) old)"
+    else
+        echo "  ⚠️  Homepage timestamp is ${DAYS_OLD} days old"
+        WARNINGS=$((WARNINGS + 1))
+    fi
+fi
