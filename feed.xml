@@ -23,6 +23,111 @@
     <copyright>© 2026 Impact Signals AI</copyright>
     <itunes:image href="https://impactsignals.ai/artwork.jpg" />
     <item>
+      <title>Impact Signals #19: Colombia AI Early Warning, Humanitarian AI Paradox, GANNET 101 Countries</title>
+      <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+# Impact Signals — Daily AI for Social Impact Briefing
+**Date:** Tuesday, March 3, 2026
+**Episode:** #19
+**Theme:** Field Deployments &amp; Case Studies — What Practitioners Can Use This Week
+
+&gt; ⚠️ Note: Gemini Deep Research exhausted all retry attempts (both queries: gemini-3.1-pro-preview 503/network x3, flash-preview SIGTERM before completion). This briefing was built from web search + RSS feeds + ReliefWeb API only.
+
+---
+
+## TOP STORIES
+
+### Story 1 — FIELD DEPLOYMENT
+**PDC + Twilio.org Launch AI-Powered Early Warning System for Colombia Landslides**
+- **Date:** March 2, 2026
+- **Organizations:** University of Hawai'i Pacific Disaster Center (PDC), Twilio.org, University of Maryland Baltimore County (UMBC), City of Cali (SGRED)
+- **Geography:** Latin America — Cali, Colombia (pop. 2.9M); national reach via UNGRD
+- **Score:** 97/100 (Relevance 40 + Significance 35 + Actionability 22)
+- **Summary:** PDC has launched a groundbreaking collaboration expanding its DisasterAWARE platform to Cali, Colombia — one of Latin America's highest landslide-risk cities. The initiative uses AI to automatically translate alert content into Spanish and adds WhatsApp as a supported distribution channel, reaching communities where mobile messaging is the primary information source. Funded by Twilio.org, the project also builds operational capacity inside Cali's local disaster management agency (SGRED). PDC's free Disaster Alert app already serves 3+ million global subscribers.
+- **Practitioner Impact:** Disaster managers in landslide-prone cities (especially Global South) now have a tested template: DisasterAWARE + AI translation + WhatsApp = multilingual, high-reach warning delivery at low cost. SGRED integration means this isn't a one-time pilot — it's being institutionalized.
+- **Source:** https://www.hawaii.edu/news/2026/03/02/new-early-warning-system-in-colombia/
+
+---
+
+### Story 2 — RESEARCH / FIELD ASSESSMENT
+**DFS + HLA Launch Humanitarian AI Pulse Survey 2026 — Has the Paradox Shifted?**
+- **Date:** March 2026 (this week)
+- **Organizations:** Data Friendly Space (DFS), Humanitarian Leadership Academy (HLA)
+- **Geography:** Global — 144 countries (original survey)
+- **Score:** 90/100 (Relevance 38 + Significance 32 + Actionability 20)
+- **Summary:** DFS and HLA have launched a follow-up pulse survey to track whether the "humanitarian AI paradox" — identified from 2,539 practitioners across 144 countries in mid-2025 — has begun to shift. The original 2025 findings: 93% of humanitarians use AI individually, but only 8% work in organizations with fully integrated AI strategies. Governance gaps, fragmented training, and heavy reliance on commercial platforms were the top barriers. The new survey asks: have organizations closed the implementation gap? Are governance frameworks materializing? Are purpose-built humanitarian AI tools gaining ground over commercial ones?
+- **Practitioner Impact:** If you work in a humanitarian org and haven't taken this survey yet — take it. The collective data shapes sector-wide training, policy, and funding priorities. Watch for results in Q2 2026.
+- **Source:** https://reliefweb.int/report/world/has-humanitarian-ai-paradox-started-shift-dfs-and-hla-launch-follow-pulse-survey-measure-change-2026
+
+---
+
+### Story 3 — CASE STUDY / PLATFORM DEPLOYMENT
+**GANNET SituationHub: 101 Countries, 71% Growth, and Real-Time AI for Myanmar**
+- **Date:** January-March 2026 (2025 Year in Review + Myanmar SituationHub active)
+- **Organizations:** Data Friendly Space (DFS) / GANNET
+- **Geography:** Global (101 countries); Myanmar (Southeast Asia ✓); Philippines
+- **Score:** 88/100 (Relevance 38 + Significance 30 + Actionability 20)
+- **Summary:** GANNET's AI-powered humanitarian analysis platform has reached 101 countries — a 71% jump year-over-year — with massive engagement spikes observed during disasters like the Philippines and Myanmar earthquakes. The GANNET SituationHub for Myanmar (analysis.
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=MBR8mTb645c
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/19</description>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-19/episode-19.mp3" length="9127770" type="audio/mpeg" />
+      <pubDate>Tue, 03 Mar 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">impact-signal-19</guid>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>9:59</itunes:duration>
+      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+# Impact Signals — Daily AI for Social Impact Briefing
+**Date:** Tuesday, March 3, 2026
+**Episode:** #19
+**Theme:** Field Deployments &amp; Case Studies — What Practitioners Can Use This Week
+
+&gt; ⚠️ Note: Gemini Deep Research exhausted all retry attempts (both queries: gemini-3.1-pro-preview 503/network x3, flash-preview SIGTERM before completion). This briefing was built from web search + RSS feeds + ReliefWeb API only.
+
+---
+
+## TOP STORIES
+
+### Story 1 — FIELD DEPLOYMENT
+**PDC + Twilio.org Launch AI-Powered Early Warning System for Colombia Landslides**
+- **Date:** March 2, 2026
+- **Organizations:** University of Hawai'i Pacific Disaster Center (PDC), Twilio.org, University of Maryland Baltimore County (UMBC), City of Cali (SGRED)
+- **Geography:** Latin America — Cali, Colombia (pop. 2.9M); national reach via UNGRD
+- **Score:** 97/100 (Relevance 40 + Significance 35 + Actionability 22)
+- **Summary:** PDC has launched a groundbreaking collaboration expanding its DisasterAWARE platform to Cali, Colombia — one of Latin America's highest landslide-risk cities. The initiative uses AI to automatically translate alert content into Spanish and adds WhatsApp as a supported distribution channel, reaching communities where mobile messaging is the primary information source. Funded by Twilio.org, the project also builds operational capacity inside Cali's local disaster management agency (SGRED). PDC's free Disaster Alert app already serves 3+ million global subscribers.
+- **Practitioner Impact:** Disaster managers in landslide-prone cities (especially Global South) now have a tested template: DisasterAWARE + AI translation + WhatsApp = multilingual, high-reach warning delivery at low cost. SGRED integration means this isn't a one-time pilot — it's being institutionalized.
+- **Source:** https://www.hawaii.edu/news/2026/03/02/new-early-warning-system-in-colombia/
+
+---
+
+### Story 2 — RESEARCH / FIELD ASSESSMENT
+**DFS + HLA Launch Humanitarian AI Pulse Survey 2026 — Has the Paradox Shifted?**
+- **Date:** March 2026 (this week)
+- **Organizations:** Data Friendly Space (DFS), Humanitarian Leadership Academy (HLA)
+- **Geography:** Global — 144 countries (original survey)
+- **Score:** 90/100 (Relevance 38 + Significance 32 + Actionability 20)
+- **Summary:** DFS and HLA have launched a follow-up pulse survey to track whether the "humanitarian AI paradox" — identified from 2,539 practitioners across 144 countries in mid-2025 — has begun to shift. The original 2025 findings: 93% of humanitarians use AI individually, but only 8% work in organizations with fully integrated AI strategies. Governance gaps, fragmented training, and heavy reliance on commercial platforms were the top barriers. The new survey asks: have organizations closed the implementation gap? Are governance frameworks materializing? Are purpose-built humanitarian AI tools gaining ground over commercial ones?
+- **Practitioner Impact:** If you work in a humanitarian org and haven't taken this survey yet — take it. The collective data shapes sector-wide training, policy, and funding priorities. Watch for results in Q2 2026.
+- **Source:** https://reliefweb.int/report/world/has-humanitarian-ai-paradox-started-shift-dfs-and-hla-launch-follow-pulse-survey-measure-change-2026
+
+---
+
+### Story 3 — CASE STUDY / PLATFORM DEPLOYMENT
+**GANNET SituationHub: 101 Countries, 71% Growth, and Real-Time AI for Myanmar**
+- **Date:** January-March 2026 (2025 Year in Review + Myanmar SituationHub active)
+- **Organizations:** Data Friendly Space (DFS) / GANNET
+- **Geography:** Global (101 countries); Myanmar (Southeast Asia ✓); Philippines
+- **Score:** 88/100 (Relevance 38 + Significance 30 + Actionability 20)
+- **Summary:** GANNET's AI-powered humanitarian analysis platform has reached 101 countries — a 71% jump year-over-year — with massive engagement spikes observed during disasters like the Philippines and Myanmar earthquakes. The GANNET SituationHub for Myanmar (analysis.
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=MBR8mTb645c
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/19</itunes:summary>
+    </item>
+    <item>
       <title>Impact Signals #18: AfDB $10B Africa AI Initiative, NRC CLEAR GenAI Platform, SAFE AI Framework</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
@@ -60,12 +165,12 @@ Impact Signals — impactsignals.ai
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=wzuUKH1Jipc
 📩 Subscribe: https://impactsignalsai.substack.com
 🌐 Website: https://impactsignals.ai/episodes/18</description>
-      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-18/episode-18.mp3" length="5583055" type="audio/mpeg" />
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-18/episode-18.mp3" length="6309157" type="audio/mpeg" />
       <pubDate>Mon, 02 Mar 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-18</guid>
       <itunes:episode>18</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>6:00</itunes:duration>
+      <itunes:duration>6:49</itunes:duration>
       <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: AfDB and UNDP launch a $10 billion AI infrastructure initiative for Africa, the Norwegian Refugee Council takes GenAI emergency operations to production with its CLEAR platform, and the humanitarian sector gets its first AI ethics standards framework from CDAC.
