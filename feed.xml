@@ -23,51 +23,145 @@
     <copyright>© 2026 Impact Signals AI</copyright>
     <itunes:image href="https://impactsignals.ai/artwork.jpg" />
     <item>
+      <title>Impact Signals #20: </title>
+      <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+# AI for Impact — Daily Briefing
+**Date:** Wednesday, March 4, 2026
+**Episode:** 20
+**Research Status:** Web research + Gemini Events Deep Research (complete). Gemini News Deep Research ran 55+ min without output; proceeding from web research corpus.
+**Editorial Focus:** Recovery phase (CRITICAL GAP) + SE Asia/Latin America geo balance
+
+---
+
+## STORIES (Scored &amp; Curated)
+
+### STORY 1 — Anthropic x Rwanda: 3-Year MOU for AI in Health, Education &amp; Public Sector
+**Score: 0.88** | Category: Tech-Humanitarian Partnership | Phase: Recovery/Preparedness
+**Published:** ~Feb 24–25, 2026
+**Source:** https://www.anthropic.com/news/anthropic-rwanda-mou
+
+**Key Facts:**
+- 3-year Memorandum of Understanding signed in Kigali — first multi-sector African MOU for Anthropic
+- Health: Claude to support Ministry of Health targets — eliminate cervical cancer, reduce malaria and maternal mortality
+- Public sector developers: Claude + Claude Code access, hands-on training, capacity building, API credits
+- Education: 2,000 Claude Pro licenses for educators; AI learning companion deployed across 8 African countries
+- Rwanda Minister of ICT Paula Ingabire: "design and deploy AI solutions that can be applied at a national level"
+- Critical counterpoint (Devex): Researchers say this is "market capture," not local capacity building; Ayantola Alayande (Global Center on AI Governance): "This is about adoption, not building local capacity"
+
+**Why it matters for practitioners:** This is the first template for a multi-sector, government-level AI-for-health deployment on the African continent. The dual narrative — ambitious health goals vs. vendor dependency risks — is exactly the conversation practitioners need to be having before signing similar agreements.
+
+---
+
+### STORY 2 — Kisumu, Kenya Launches UNDP-Funded Smart Emergency Operations Center
+**Score: 0.84** | Category: Recovery/Resilience | Phase: **RECOVERY** ✓
+**Published:** February 26, 2026
+**Source:** https://city.kisumu.go.ke/2026/02/26/kisumu-launches-state-of-the-art-emergency-operation-centre/
+
+**Key Facts:**
+- UNDP-funded Emergency Operations Center goes live in Kisumu, Kenya's third-largest city
+- Smart city technology stack: real-time monitoring, AI-powered situational awareness, integrated disaster coordination
+- Surveillance, early warning sensors, and multi-agency communications hub
+- Designed to serve Kisumu plus surrounding lake-region counties
+- Part of Kenya's national resilience-building effort with UNDP technical and financial support
+
+**Why it matters for practitioners:** This is infrastructure that permanently changes how disaster response works for a mid-size African city — not a pilot, a deployed operational center. The UNDP-to-municipal handover model is replicable across East Africa.
+
+---
+
+### STORY 3 — InComm Payments + SKUx: Blockchain Aid Delivery Platform Launches at Disasters Expo TODAY
+**Score: 0.78** | Category: Technology Deployment | Phase: Recovery (Cash Distribution)
+**Published:** Feb 27, 2026 | **Active TODAY:** Disasters Expo USA, Miami Beach March 4–5
+**Source:** https://www.prnewswire.com/news-releases/incomm-payments-and-skux-partner-302699199.html
+
+**Key Facts:**
+- InComm Payments + SKUx partnership: blockchain-backed, item-level control for digital humanitarian payments
+- Real-time distribution — donated funds restricted to specific items, specific times, specific purposes
+- Piloting with 5 Disaster Resilience Financial Platform (DRFP) partners in 2026
+- Joint keynote TODAY at Disasters Expo USA, Miami Beach Convention Center (March 4–5)
+- Technology addresses a known fraud/misuse problem in cash-based aid distribution
+- Combines InComm's retail network (market leader) with SKUx's SKUPay® blockchain payment rails
+
+**Why it matters for practitioners:** Item-level payment controls on aid disbursements could close the "cash leakage" gap that plagues disaster recovery funding. Practitioners exploring cash-based programming should watch t
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=H7eTxxsN8zE
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/20</description>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-20/episode-20.mp3" length="7680163" type="audio/mpeg" />
+      <pubDate>Wed, 04 Mar 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">impact-signal-20</guid>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>8:31</itunes:duration>
+      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+# AI for Impact — Daily Briefing
+**Date:** Wednesday, March 4, 2026
+**Episode:** 20
+**Research Status:** Web research + Gemini Events Deep Research (complete). Gemini News Deep Research ran 55+ min without output; proceeding from web research corpus.
+**Editorial Focus:** Recovery phase (CRITICAL GAP) + SE Asia/Latin America geo balance
+
+---
+
+## STORIES (Scored &amp; Curated)
+
+### STORY 1 — Anthropic x Rwanda: 3-Year MOU for AI in Health, Education &amp; Public Sector
+**Score: 0.88** | Category: Tech-Humanitarian Partnership | Phase: Recovery/Preparedness
+**Published:** ~Feb 24–25, 2026
+**Source:** https://www.anthropic.com/news/anthropic-rwanda-mou
+
+**Key Facts:**
+- 3-year Memorandum of Understanding signed in Kigali — first multi-sector African MOU for Anthropic
+- Health: Claude to support Ministry of Health targets — eliminate cervical cancer, reduce malaria and maternal mortality
+- Public sector developers: Claude + Claude Code access, hands-on training, capacity building, API credits
+- Education: 2,000 Claude Pro licenses for educators; AI learning companion deployed across 8 African countries
+- Rwanda Minister of ICT Paula Ingabire: "design and deploy AI solutions that can be applied at a national level"
+- Critical counterpoint (Devex): Researchers say this is "market capture," not local capacity building; Ayantola Alayande (Global Center on AI Governance): "This is about adoption, not building local capacity"
+
+**Why it matters for practitioners:** This is the first template for a multi-sector, government-level AI-for-health deployment on the African continent. The dual narrative — ambitious health goals vs. vendor dependency risks — is exactly the conversation practitioners need to be having before signing similar agreements.
+
+---
+
+### STORY 2 — Kisumu, Kenya Launches UNDP-Funded Smart Emergency Operations Center
+**Score: 0.84** | Category: Recovery/Resilience | Phase: **RECOVERY** ✓
+**Published:** February 26, 2026
+**Source:** https://city.kisumu.go.ke/2026/02/26/kisumu-launches-state-of-the-art-emergency-operation-centre/
+
+**Key Facts:**
+- UNDP-funded Emergency Operations Center goes live in Kisumu, Kenya's third-largest city
+- Smart city technology stack: real-time monitoring, AI-powered situational awareness, integrated disaster coordination
+- Surveillance, early warning sensors, and multi-agency communications hub
+- Designed to serve Kisumu plus surrounding lake-region counties
+- Part of Kenya's national resilience-building effort with UNDP technical and financial support
+
+**Why it matters for practitioners:** This is infrastructure that permanently changes how disaster response works for a mid-size African city — not a pilot, a deployed operational center. The UNDP-to-municipal handover model is replicable across East Africa.
+
+---
+
+### STORY 3 — InComm Payments + SKUx: Blockchain Aid Delivery Platform Launches at Disasters Expo TODAY
+**Score: 0.78** | Category: Technology Deployment | Phase: Recovery (Cash Distribution)
+**Published:** Feb 27, 2026 | **Active TODAY:** Disasters Expo USA, Miami Beach March 4–5
+**Source:** https://www.prnewswire.com/news-releases/incomm-payments-and-skux-partner-302699199.html
+
+**Key Facts:**
+- InComm Payments + SKUx partnership: blockchain-backed, item-level control for digital humanitarian payments
+- Real-time distribution — donated funds restricted to specific items, specific times, specific purposes
+- Piloting with 5 Disaster Resilience Financial Platform (DRFP) partners in 2026
+- Joint keynote TODAY at Disasters Expo USA, Miami Beach Convention Center (March 4–5)
+- Technology addresses a known fraud/misuse problem in cash-based aid distribution
+- Combines InComm's retail network (market leader) with SKUx's SKUPay® blockchain payment rails
+
+**Why it matters for practitioners:** Item-level payment controls on aid disbursements could close the "cash leakage" gap that plagues disaster recovery funding. Practitioners exploring cash-based programming should watch t
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=H7eTxxsN8zE
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/20</itunes:summary>
+    </item>
+    <item>
       <title>Impact Signals #19: Colombia AI Early Warning, Humanitarian AI Paradox, GANNET 101 Countries</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
-# Impact Signals — Daily AI for Social Impact Briefing
-**Date:** Tuesday, March 3, 2026
-**Episode:** #19
-**Theme:** Field Deployments &amp; Case Studies — What Practitioners Can Use This Week
-
-&gt; ⚠️ Note: Gemini Deep Research exhausted all retry attempts (both queries: gemini-3.1-pro-preview 503/network x3, flash-preview SIGTERM before completion). This briefing was built from web search + RSS feeds + ReliefWeb API only.
-
----
-
-## TOP STORIES
-
-### Story 1 — FIELD DEPLOYMENT
-**PDC + Twilio.org Launch AI-Powered Early Warning System for Colombia Landslides**
-- **Date:** March 2, 2026
-- **Organizations:** University of Hawai'i Pacific Disaster Center (PDC), Twilio.org, University of Maryland Baltimore County (UMBC), City of Cali (SGRED)
-- **Geography:** Latin America — Cali, Colombia (pop. 2.9M); national reach via UNGRD
-- **Score:** 97/100 (Relevance 40 + Significance 35 + Actionability 22)
-- **Summary:** PDC has launched a groundbreaking collaboration expanding its DisasterAWARE platform to Cali, Colombia — one of Latin America's highest landslide-risk cities. The initiative uses AI to automatically translate alert content into Spanish and adds WhatsApp as a supported distribution channel, reaching communities where mobile messaging is the primary information source. Funded by Twilio.org, the project also builds operational capacity inside Cali's local disaster management agency (SGRED). PDC's free Disaster Alert app already serves 3+ million global subscribers.
-- **Practitioner Impact:** Disaster managers in landslide-prone cities (especially Global South) now have a tested template: DisasterAWARE + AI translation + WhatsApp = multilingual, high-reach warning delivery at low cost. SGRED integration means this isn't a one-time pilot — it's being institutionalized.
-- **Source:** https://www.hawaii.edu/news/2026/03/02/new-early-warning-system-in-colombia/
-
----
-
-### Story 2 — RESEARCH / FIELD ASSESSMENT
-**DFS + HLA Launch Humanitarian AI Pulse Survey 2026 — Has the Paradox Shifted?**
-- **Date:** March 2026 (this week)
-- **Organizations:** Data Friendly Space (DFS), Humanitarian Leadership Academy (HLA)
-- **Geography:** Global — 144 countries (original survey)
-- **Score:** 90/100 (Relevance 38 + Significance 32 + Actionability 20)
-- **Summary:** DFS and HLA have launched a follow-up pulse survey to track whether the "humanitarian AI paradox" — identified from 2,539 practitioners across 144 countries in mid-2025 — has begun to shift. The original 2025 findings: 93% of humanitarians use AI individually, but only 8% work in organizations with fully integrated AI strategies. Governance gaps, fragmented training, and heavy reliance on commercial platforms were the top barriers. The new survey asks: have organizations closed the implementation gap? Are governance frameworks materializing? Are purpose-built humanitarian AI tools gaining ground over commercial ones?
-- **Practitioner Impact:** If you work in a humanitarian org and haven't taken this survey yet — take it. The collective data shapes sector-wide training, policy, and funding priorities. Watch for results in Q2 2026.
-- **Source:** https://reliefweb.int/report/world/has-humanitarian-ai-paradox-started-shift-dfs-and-hla-launch-follow-pulse-survey-measure-change-2026
-
----
-
-### Story 3 — CASE STUDY / PLATFORM DEPLOYMENT
-**GANNET SituationHub: 101 Countries, 71% Growth, and Real-Time AI for Myanmar**
-- **Date:** January-March 2026 (2025 Year in Review + Myanmar SituationHub active)
-- **Organizations:** Data Friendly Space (DFS) / GANNET
-- **Geography:** Global (101 countries); Myanmar (Southeast Asia ✓); Philippines
-- **Score:** 88/100 (Relevance 38 + Significance 30 + Actionability 20)
-- **Summary:** GANNET's AI-powered humanitarian analysis platform has reached 101 countries — a 71% jump year-over-year — with massive engagement spikes observed during disasters like the Philippines and Myanmar earthquakes. The GANNET SituationHub for Myanmar (analysis.
+PDC and Twilio.org launch a live AI early warning system for landslide-prone Cali, Colombia; DFS and HLA check whether the humanitarian AI implementation gap has started to close; GANNET reaches 101 countries with 71% year-over-year growth. Plus: US Coast Guard Pratus, HNPW AI governance, and 77% of humanitarian comms teams have no deepfake playbook.
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=MBR8mTb645c
 📩 Subscribe: https://impactsignalsai.substack.com
@@ -80,48 +174,7 @@
       <itunes:duration>9:59</itunes:duration>
       <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
-# Impact Signals — Daily AI for Social Impact Briefing
-**Date:** Tuesday, March 3, 2026
-**Episode:** #19
-**Theme:** Field Deployments &amp; Case Studies — What Practitioners Can Use This Week
-
-&gt; ⚠️ Note: Gemini Deep Research exhausted all retry attempts (both queries: gemini-3.1-pro-preview 503/network x3, flash-preview SIGTERM before completion). This briefing was built from web search + RSS feeds + ReliefWeb API only.
-
----
-
-## TOP STORIES
-
-### Story 1 — FIELD DEPLOYMENT
-**PDC + Twilio.org Launch AI-Powered Early Warning System for Colombia Landslides**
-- **Date:** March 2, 2026
-- **Organizations:** University of Hawai'i Pacific Disaster Center (PDC), Twilio.org, University of Maryland Baltimore County (UMBC), City of Cali (SGRED)
-- **Geography:** Latin America — Cali, Colombia (pop. 2.9M); national reach via UNGRD
-- **Score:** 97/100 (Relevance 40 + Significance 35 + Actionability 22)
-- **Summary:** PDC has launched a groundbreaking collaboration expanding its DisasterAWARE platform to Cali, Colombia — one of Latin America's highest landslide-risk cities. The initiative uses AI to automatically translate alert content into Spanish and adds WhatsApp as a supported distribution channel, reaching communities where mobile messaging is the primary information source. Funded by Twilio.org, the project also builds operational capacity inside Cali's local disaster management agency (SGRED). PDC's free Disaster Alert app already serves 3+ million global subscribers.
-- **Practitioner Impact:** Disaster managers in landslide-prone cities (especially Global South) now have a tested template: DisasterAWARE + AI translation + WhatsApp = multilingual, high-reach warning delivery at low cost. SGRED integration means this isn't a one-time pilot — it's being institutionalized.
-- **Source:** https://www.hawaii.edu/news/2026/03/02/new-early-warning-system-in-colombia/
-
----
-
-### Story 2 — RESEARCH / FIELD ASSESSMENT
-**DFS + HLA Launch Humanitarian AI Pulse Survey 2026 — Has the Paradox Shifted?**
-- **Date:** March 2026 (this week)
-- **Organizations:** Data Friendly Space (DFS), Humanitarian Leadership Academy (HLA)
-- **Geography:** Global — 144 countries (original survey)
-- **Score:** 90/100 (Relevance 38 + Significance 32 + Actionability 20)
-- **Summary:** DFS and HLA have launched a follow-up pulse survey to track whether the "humanitarian AI paradox" — identified from 2,539 practitioners across 144 countries in mid-2025 — has begun to shift. The original 2025 findings: 93% of humanitarians use AI individually, but only 8% work in organizations with fully integrated AI strategies. Governance gaps, fragmented training, and heavy reliance on commercial platforms were the top barriers. The new survey asks: have organizations closed the implementation gap? Are governance frameworks materializing? Are purpose-built humanitarian AI tools gaining ground over commercial ones?
-- **Practitioner Impact:** If you work in a humanitarian org and haven't taken this survey yet — take it. The collective data shapes sector-wide training, policy, and funding priorities. Watch for results in Q2 2026.
-- **Source:** https://reliefweb.int/report/world/has-humanitarian-ai-paradox-started-shift-dfs-and-hla-launch-follow-pulse-survey-measure-change-2026
-
----
-
-### Story 3 — CASE STUDY / PLATFORM DEPLOYMENT
-**GANNET SituationHub: 101 Countries, 71% Growth, and Real-Time AI for Myanmar**
-- **Date:** January-March 2026 (2025 Year in Review + Myanmar SituationHub active)
-- **Organizations:** Data Friendly Space (DFS) / GANNET
-- **Geography:** Global (101 countries); Myanmar (Southeast Asia ✓); Philippines
-- **Score:** 88/100 (Relevance 38 + Significance 30 + Actionability 20)
-- **Summary:** GANNET's AI-powered humanitarian analysis platform has reached 101 countries — a 71% jump year-over-year — with massive engagement spikes observed during disasters like the Philippines and Myanmar earthquakes. The GANNET SituationHub for Myanmar (analysis.
+PDC and Twilio.org launch a live AI early warning system for landslide-prone Cali, Colombia; DFS and HLA check whether the humanitarian AI implementation gap has started to close; GANNET reaches 101 countries with 71% year-over-year growth. Plus: US Coast Guard Pratus, HNPW AI governance, and 77% of humanitarian comms teams have no deepfake playbook.
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=MBR8mTb645c
 📩 Subscribe: https://impactsignalsai.substack.com
@@ -1342,6 +1395,23 @@ The UN voted 117-2 to create its first AI Scientific Panel. India hosts the bigg
 📩 Subscribe: https://impactsignalsai.substack.com
 🌐 Website: https://impactsignals.ai/episodes/1</itunes:summary>
       <itunes:keywords>ai for social impact, un ai panel, humanitarian aid collapse, india ai summit, artificial intelligence impact</itunes:keywords>
+    </item>
+    <item>
+      <title>Anthropic in Africa, Smart EOCs &amp; the Techno-Colonialism Debate</title>
+      <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/0</description>
+      <pubDate>Wed, 04 Mar 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">impact-signal-0</guid>
+      <itunes:episode>0</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/0</itunes:summary>
     </item>
   </channel>
 </rss>
