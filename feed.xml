@@ -23,66 +23,85 @@
     <copyright>© 2026 Impact Signals AI</copyright>
     <itunes:image href="https://impactsignals.ai/artwork.jpg" />
     <item>
-      <title>Impact Signals #20: </title>
+      <title>Impact Signals #21: </title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
-# AI for Impact — Daily Briefing
-**Date:** Wednesday, March 4, 2026
-**Episode:** 20
-**Research Status:** Web research + Gemini Events Deep Research (complete). Gemini News Deep Research ran 55+ min without output; proceeding from web research corpus.
-**Editorial Focus:** Recovery phase (CRITICAL GAP) + SE Asia/Latin America geo balance
+AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: the IFRC officially calls AI-amplified disinformation a "de facto crisis" following operational failures in Valencia, Sudan, and Lebanon. The IRC releases the sector's most detailed AI deployment blueprint with 3,200 teachers reached in Northeast Nigeria. UNICEF documents 1.2 million children harmed by AI-generated deepfakes in 12 months.
 
----
+🔥 TOP STORIES
 
-## STORIES (Scored &amp; Curated)
+1. IFRC World Disasters Report 2026: AI Disinformation Is a "De Facto Crisis" — The IFRC's flagship report categorizes harmful AI-amplified information as requiring the same operational response as food, water, or shelter. Documented incidents: Valencia flood volunteers faced xenophobic attacks after fabricated claims about aid diversion; Sudan populations refused nutrition assistance due to "poisoned food" rumors; Lebanon aid delivery disrupted by disinformation about ethnic favoritism. Field teams now need formal disinformation response protocols — this is an operational mandate, not a communications function. The report is the evidence base for funding information response programs.
+Sources: IFRC
 
-### STORY 1 — Anthropic x Rwanda: 3-Year MOU for AI in Health, Education &amp; Public Sector
-**Score: 0.88** | Category: Tech-Humanitarian Partnership | Phase: Recovery/Preparedness
-**Published:** ~Feb 24–25, 2026
-**Source:** https://www.anthropic.com/news/anthropic-rwanda-mou
+2. IRC "From Promise to Practice": aprendIA Scales to 3,200 Teachers in Northeast Nigeria (Thursday Recovery Story) — The IRC's 2-year, 30-country AI deployment report centers on aprendIA — an AI teaching support tool running on low-bandwidth messaging apps in Borno, Adamawa, and Yobe states. From 400-person pilot to 3,200 teachers; 22,000 target by year-end. Benchmarks: ~75% quality threshold (human review required before distribution), ~70% staff productivity gain. Signpost AI platform — built with Google.org, Zendesk, and Cisco — is open to humanitarian organizations. Contextual intelligence (local languages, existing low-tech infrastructure) beats model sophistication in the field.
+Sources: International Rescue Committee
 
-**Key Facts:**
-- 3-year Memorandum of Understanding signed in Kigali — first multi-sector African MOU for Anthropic
-- Health: Claude to support Ministry of Health targets — eliminate cervical cancer, reduce malaria and maternal mortality
-- Public sector developers: Claude + Claude Code access, hands-on training, capacity building, API credits
-- Education: 2,000 Claude Pro licenses for educators; AI learning companion deployed across 8 African countries
-- Rwanda Minister of ICT Paula Ingabire: "design and deploy AI solutions that can be applied at a national level"
-- Critical counterpoint (Devex): Researchers say this is "market capture," not local capacity building; Ayantola Alayande (Global Center on AI Governance): "This is about adoption, not building local capacity"
+3. UNICEF: 1.2 Million Children Harmed by AI Deepfakes — 1.2 million children across 11 countries had images manipulated into sexually explicit deepfakes in 12 months. UNICEF demands: (1) update CSAM laws to cover AI-generated imagery — most current statutes have a loophole for synthetic content; (2) AI developers implement safety-by-design at the model level. Organizations running AI in schools must audit against these standards. The evidence base now supports procurement policy changes.
+Sources: UNICEF
 
-**Why it matters for practitioners:** This is the first template for a multi-sector, government-level AI-for-health deployment on the African continent. The dual narrative — ambitious health goals vs. vendor dependency risks — is exactly the conversation practitioners need to be having before signing similar agreements.
+4. Nature Medicine: ChatGPT Health Misses 52% of Medical Emergencies — Icahn School of Medicine at Mount Sinai tested ChatGPT Health on 60 standardized scenarios. Result: failed to triage 52% of serious emergencies correctly — including DKA, respiratory failure, and suicidal ideation — typically advising 24–48 hour waits. Any AI handling health questions in field settings requires a clinical escalation path. The 52% miss rate is peer-reviewed and belongs in AI procurement policies.
+Sources: Nature Medicine
 
----
+5. UN Scientific Panel on AI Holds Inaugural Meeting — The 40-member Independent International Scientific Panel on AI held its first meeting March 3. Mandate: independent assessments free from government, company, or UN influence. Outputs will feed international AI governance frameworks covering data sovereignty, bias accountability, and humanitarian data protection. Monitor their work — most credible source for governance advocacy in the sector.
+Sources: UN News
 
-### STORY 2 — Kisumu, Kenya Launches UNDP-Funded Smart Emergency Operations Center
-**Score: 0.84** | Category: Recovery/Resilience | Phase: **RECOVERY** ✓
-**Published:** February 26, 2026
-**Source:** https://city.kisumu.go.ke/2026/02/26/kisumu-launches-state-of-the-art-emergency-operation-centre/
+6. Anthropic × Rwanda: 3-Year MOU with Digital Sovereignty Provisions — Health (cervical cancer, malaria, maternal mortality), education (Chidi AI companion across 8 African countries, 2,000 Claude Pro licenses), economic development, and digital sovereignty. The sovereignty provisions — meaningful oversight and data governance for Rwanda, not just AI consumption — are the structural template worth examining for any organization building bilateral AI partnerships in the Global South.
+Sources: Anthropic, TechPoint Africa
 
-**Key Facts:**
-- UNDP-funded Emergency Operations Center goes live in Kisumu, Kenya's third-largest city
-- Smart city technology stack: real-time monitoring, AI-powered situational awareness, integrated disaster coordination
-- Surveillance, early warning sensors, and multi-agency communications hub
-- Designed to serve Kisumu plus surrounding lake-region counties
-- Part of Kenya's national resilience-building effort with UNDP technical and financial support
+📅 EVENTS: HNPW 2026 — March 10–12, Geneva + Virtual (UN OCHA, AI in humanitarian practice sessions) · EU AI Week — March 16–22, Brussels (EU AI Act workshops, Sovereign AI Hackathon) · IAPP Global Privacy Summit — March 30–April 2, Washington D.C. (AI governance, humanitarian data protection)
 
-**Why it matters for practitioners:** This is infrastructure that permanently changes how disaster response works for a mid-size African city — not a pilot, a deployed operational center. The UNDP-to-municipal handover model is replicable across East Africa.
+🌍 MONITORING: Sudan — disinformation campaigns actively disrupting food aid delivery, local staff at risk · Lebanon — AI-amplified false narratives eroding community trust in aid operations · Gaza — food security critical, WFP operational · Yemen — WFP shortfalls ongoing · NE Nigeria (Borno/Adamawa/Yobe) — IRC education recovery active, conflict displacement ongoing
 
----
+Impact Signals — impactsignals.ai
 
-### STORY 3 — InComm Payments + SKUx: Blockchain Aid Delivery Platform Launches at Disasters Expo TODAY
-**Score: 0.78** | Category: Technology Deployment | Phase: Recovery (Cash Distribution)
-**Published:** Feb 27, 2026 | **Active TODAY:** Disasters Expo USA, Miami Beach March 4–5
-**Source:** https://www.prnewswire.com/news-releases/incomm-payments-and-skux-partner-302699199.html
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=NnTErFtdKf0
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/21</description>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-21/episode-21.mp3" length="57" type="audio/mpeg" />
+      <pubDate>Thu, 05 Mar 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">impact-signal-21</guid>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>9:46</itunes:duration>
+      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
-**Key Facts:**
-- InComm Payments + SKUx partnership: blockchain-backed, item-level control for digital humanitarian payments
-- Real-time distribution — donated funds restricted to specific items, specific times, specific purposes
-- Piloting with 5 Disaster Resilience Financial Platform (DRFP) partners in 2026
-- Joint keynote TODAY at Disasters Expo USA, Miami Beach Convention Center (March 4–5)
-- Technology addresses a known fraud/misuse problem in cash-based aid distribution
-- Combines InComm's retail network (market leader) with SKUx's SKUPay® blockchain payment rails
+AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: the IFRC officially calls AI-amplified disinformation a "de facto crisis" following operational failures in Valencia, Sudan, and Lebanon. The IRC releases the sector's most detailed AI deployment blueprint with 3,200 teachers reached in Northeast Nigeria. UNICEF documents 1.2 million children harmed by AI-generated deepfakes in 12 months.
 
-**Why it matters for practitioners:** Item-level payment controls on aid disbursements could close the "cash leakage" gap that plagues disaster recovery funding. Practitioners exploring cash-based programming should watch t
+🔥 TOP STORIES
+
+1. IFRC World Disasters Report 2026: AI Disinformation Is a "De Facto Crisis" — The IFRC's flagship report categorizes harmful AI-amplified information as requiring the same operational response as food, water, or shelter. Documented incidents: Valencia flood volunteers faced xenophobic attacks after fabricated claims about aid diversion; Sudan populations refused nutrition assistance due to "poisoned food" rumors; Lebanon aid delivery disrupted by disinformation about ethnic favoritism. Field teams now need formal disinformation response protocols — this is an operational mandate, not a communications function. The report is the evidence base for funding information response programs.
+Sources: IFRC
+
+2. IRC "From Promise to Practice": aprendIA Scales to 3,200 Teachers in Northeast Nigeria (Thursday Recovery Story) — The IRC's 2-year, 30-country AI deployment report centers on aprendIA — an AI teaching support tool running on low-bandwidth messaging apps in Borno, Adamawa, and Yobe states. From 400-person pilot to 3,200 teachers; 22,000 target by year-end. Benchmarks: ~75% quality threshold (human review required before distribution), ~70% staff productivity gain. Signpost AI platform — built with Google.org, Zendesk, and Cisco — is open to humanitarian organizations. Contextual intelligence (local languages, existing low-tech infrastructure) beats model sophistication in the field.
+Sources: International Rescue Committee
+
+3. UNICEF: 1.2 Million Children Harmed by AI Deepfakes — 1.2 million children across 11 countries had images manipulated into sexually explicit deepfakes in 12 months. UNICEF demands: (1) update CSAM laws to cover AI-generated imagery — most current statutes have a loophole for synthetic content; (2) AI developers implement safety-by-design at the model level. Organizations running AI in schools must audit against these standards. The evidence base now supports procurement policy changes.
+Sources: UNICEF
+
+4. Nature Medicine: ChatGPT Health Misses 52% of Medical Emergencies — Icahn School of Medicine at Mount Sinai tested ChatGPT Health on 60 standardized scenarios. Result: failed to triage 52% of serious emergencies correctly — including DKA, respiratory failure, and suicidal ideation — typically advising 24–48 hour waits. Any AI handling health questions in field settings requires a clinical escalation path. The 52% miss rate is peer-reviewed and belongs in AI procurement policies.
+Sources: Nature Medicine
+
+5. UN Scientific Panel on AI Holds Inaugural Meeting — The 40-member Independent International Scientific Panel on AI held its first meeting March 3. Mandate: independent assessments free from government, company, or UN influence. Outputs will feed international AI governance frameworks covering data sovereignty, bias accountability, and humanitarian data protection. Monitor their work — most credible source for governance advocacy in the sector.
+Sources: UN News
+
+6. Anthropic × Rwanda: 3-Year MOU with Digital Sovereignty Provisions — Health (cervical cancer, malaria, maternal mortality), education (Chidi AI companion across 8 African countries, 2,000 Claude Pro licenses), economic development, and digital sovereignty. The sovereignty provisions — meaningful oversight and data governance for Rwanda, not just AI consumption — are the structural template worth examining for any organization building bilateral AI partnerships in the Global South.
+Sources: Anthropic, TechPoint Africa
+
+📅 EVENTS: HNPW 2026 — March 10–12, Geneva + Virtual (UN OCHA, AI in humanitarian practice sessions) · EU AI Week — March 16–22, Brussels (EU AI Act workshops, Sovereign AI Hackathon) · IAPP Global Privacy Summit — March 30–April 2, Washington D.C. (AI governance, humanitarian data protection)
+
+🌍 MONITORING: Sudan — disinformation campaigns actively disrupting food aid delivery, local staff at risk · Lebanon — AI-amplified false narratives eroding community trust in aid operations · Gaza — food security critical, WFP operational · Yemen — WFP shortfalls ongoing · NE Nigeria (Borno/Adamawa/Yobe) — IRC education recovery active, conflict displacement ongoing
+
+Impact Signals — impactsignals.ai
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=NnTErFtdKf0
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/21</itunes:summary>
+    </item>
+    <item>
+      <title>#20: AI for Social Impact — Qwen Architect Exit, Anthropic Rwanda MOU, Kenya Smart EOC</title>
+      <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+The engineer who built the world’s most-downloaded open-source AI model resigned. What that means for field deployments running on Qwen. Plus: Anthropic’s first African government AI partnership in Rwanda, a UNDP-funded smart emergency operations center in Kisumu Kenya, Timor-Leste completes Southeast Asia’s first national early warning system, and an offline-first AI tool built by a flood survivor.
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=H7eTxxsN8zE
 📩 Subscribe: https://impactsignalsai.substack.com
@@ -95,63 +114,7 @@
       <itunes:duration>8:31</itunes:duration>
       <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
-# AI for Impact — Daily Briefing
-**Date:** Wednesday, March 4, 2026
-**Episode:** 20
-**Research Status:** Web research + Gemini Events Deep Research (complete). Gemini News Deep Research ran 55+ min without output; proceeding from web research corpus.
-**Editorial Focus:** Recovery phase (CRITICAL GAP) + SE Asia/Latin America geo balance
-
----
-
-## STORIES (Scored &amp; Curated)
-
-### STORY 1 — Anthropic x Rwanda: 3-Year MOU for AI in Health, Education &amp; Public Sector
-**Score: 0.88** | Category: Tech-Humanitarian Partnership | Phase: Recovery/Preparedness
-**Published:** ~Feb 24–25, 2026
-**Source:** https://www.anthropic.com/news/anthropic-rwanda-mou
-
-**Key Facts:**
-- 3-year Memorandum of Understanding signed in Kigali — first multi-sector African MOU for Anthropic
-- Health: Claude to support Ministry of Health targets — eliminate cervical cancer, reduce malaria and maternal mortality
-- Public sector developers: Claude + Claude Code access, hands-on training, capacity building, API credits
-- Education: 2,000 Claude Pro licenses for educators; AI learning companion deployed across 8 African countries
-- Rwanda Minister of ICT Paula Ingabire: "design and deploy AI solutions that can be applied at a national level"
-- Critical counterpoint (Devex): Researchers say this is "market capture," not local capacity building; Ayantola Alayande (Global Center on AI Governance): "This is about adoption, not building local capacity"
-
-**Why it matters for practitioners:** This is the first template for a multi-sector, government-level AI-for-health deployment on the African continent. The dual narrative — ambitious health goals vs. vendor dependency risks — is exactly the conversation practitioners need to be having before signing similar agreements.
-
----
-
-### STORY 2 — Kisumu, Kenya Launches UNDP-Funded Smart Emergency Operations Center
-**Score: 0.84** | Category: Recovery/Resilience | Phase: **RECOVERY** ✓
-**Published:** February 26, 2026
-**Source:** https://city.kisumu.go.ke/2026/02/26/kisumu-launches-state-of-the-art-emergency-operation-centre/
-
-**Key Facts:**
-- UNDP-funded Emergency Operations Center goes live in Kisumu, Kenya's third-largest city
-- Smart city technology stack: real-time monitoring, AI-powered situational awareness, integrated disaster coordination
-- Surveillance, early warning sensors, and multi-agency communications hub
-- Designed to serve Kisumu plus surrounding lake-region counties
-- Part of Kenya's national resilience-building effort with UNDP technical and financial support
-
-**Why it matters for practitioners:** This is infrastructure that permanently changes how disaster response works for a mid-size African city — not a pilot, a deployed operational center. The UNDP-to-municipal handover model is replicable across East Africa.
-
----
-
-### STORY 3 — InComm Payments + SKUx: Blockchain Aid Delivery Platform Launches at Disasters Expo TODAY
-**Score: 0.78** | Category: Technology Deployment | Phase: Recovery (Cash Distribution)
-**Published:** Feb 27, 2026 | **Active TODAY:** Disasters Expo USA, Miami Beach March 4–5
-**Source:** https://www.prnewswire.com/news-releases/incomm-payments-and-skux-partner-302699199.html
-
-**Key Facts:**
-- InComm Payments + SKUx partnership: blockchain-backed, item-level control for digital humanitarian payments
-- Real-time distribution — donated funds restricted to specific items, specific times, specific purposes
-- Piloting with 5 Disaster Resilience Financial Platform (DRFP) partners in 2026
-- Joint keynote TODAY at Disasters Expo USA, Miami Beach Convention Center (March 4–5)
-- Technology addresses a known fraud/misuse problem in cash-based aid distribution
-- Combines InComm's retail network (market leader) with SKUx's SKUPay® blockchain payment rails
-
-**Why it matters for practitioners:** Item-level payment controls on aid disbursements could close the "cash leakage" gap that plagues disaster recovery funding. Practitioners exploring cash-based programming should watch t
+The engineer who built the world’s most-downloaded open-source AI model resigned. What that means for field deployments running on Qwen. Plus: Anthropic’s first African government AI partnership in Rwanda, a UNDP-funded smart emergency operations center in Kisumu Kenya, Timor-Leste completes Southeast Asia’s first national early warning system, and an offline-first AI tool built by a flood survivor.
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=H7eTxxsN8zE
 📩 Subscribe: https://impactsignalsai.substack.com
@@ -1397,13 +1360,13 @@ The UN voted 117-2 to create its first AI Scientific Panel. India hosts the bigg
       <itunes:keywords>ai for social impact, un ai panel, humanitarian aid collapse, india ai summit, artificial intelligence impact</itunes:keywords>
     </item>
     <item>
-      <title>Anthropic in Africa, Smart EOCs &amp; the Techno-Colonialism Debate</title>
+      <title>The Accountability Reckoning: AI's Dual Nature in Crisis Response</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 
 📩 Subscribe: https://impactsignalsai.substack.com
 🌐 Website: https://impactsignals.ai/episodes/0</description>
-      <pubDate>Wed, 04 Mar 2026 14:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Mar 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-0</guid>
       <itunes:episode>0</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
