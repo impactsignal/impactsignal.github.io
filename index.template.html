@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GDXTQYK561"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-GDXTQYK561');
+</script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#1A1A1A">
+    <title>Impact Signals — Social Impact at the Scale of AI</title>
+    <meta name="description" content="Impact Signals delivers daily AI-powered intelligence for people working at the intersection of technology and social impact. Covering AI for disaster relief, humanitarian operations, and social good.">
+    <meta name="keywords" content="AI social impact, humanitarian AI, disaster relief technology, AI for good, impact signals podcast">
+    <link rel="canonical" href="https://impactsignals.ai/">
+    <link rel="alternate" type="application/rss+xml" title="Impact Signals Podcast" href="https://impactsignals.ai/feed.xml">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Impact Signals">
+    <meta property="og:title" content="Impact Signals — Social Impact at the Scale of AI">
+    <meta property="og:description" content="Daily AI-powered intelligence for people working at the intersection of technology and social impact.">
+    <meta property="og:image" content="https://impactsignals.ai/artwork.jpg">
+    <meta property="og:image:width" content="1400">
+    <meta property="og:image:height" content="1400">
+    <meta property="og:url" content="https://impactsignals.ai/">
+    <meta property="og:locale" content="en_US">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@ImpactSignalAI">
+    <meta name="twitter:creator" content="@ImpactSignalAI">
+    <meta name="twitter:title" content="Impact Signals — Social Impact at the Scale of AI">
+    <meta name="twitter:description" content="Daily AI-powered intelligence for people working at the intersection of technology and social impact.">
+    <meta name="twitter:image" content="https://impactsignals.ai/artwork.jpg">
+
+    <link rel="stylesheet" href="/style.css">
+    <script src="https://unpkg.com/lucide@latest"></script>
+
+    <!-- JSON-LD: Organization -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Impact Signals AI",
+        "url": "https://impactsignals.ai",
+        "logo": "https://impactsignals.ai/artwork.jpg",
+        "description": "Impact Signals delivers daily AI-powered intelligence for people working at the intersection of technology and social impact.",
+        "sameAs": [
+            "https://x.com/ImpactSignalAI",
+            "https://www.linkedin.com/company/impact-signals-ai",
+            "https://www.youtube.com/@ImpactSignalsAI",
+            "https://open.spotify.com/show/4xkRnw54RVZFVgVYI7wMZQ",
+            "https://impactsignalsai.substack.com"
+        ]
+    }
+    </script>
+
+    <!-- JSON-LD: PodcastSeries -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "PodcastSeries",
+        "name": "Impact Signals",
+        "description": "Impact Signals delivers daily AI-powered intelligence for people working at the intersection of technology and social impact. Covering AI for disaster relief, humanitarian operations, and social good.",
+        "url": "https://impactsignals.ai",
+        "image": "https://impactsignals.ai/artwork.jpg",
+        "author": {
+            "@type": "Organization",
+            "name": "Impact Signals AI",
+            "url": "https://impactsignals.ai"
+        },
+        "webFeed": "https://impactsignals.ai/feed.xml"
+    }
+    </script>
+
+    <!-- JSON-LD: WebSite for sitelinks search -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Impact Signals",
+        "url": "https://impactsignals.ai",
+        "description": "Social impact at the scale of AI"
+    }
+    </script>
+</head>
+<body>
+
+<div class="alert-bar">
+  <div class="pulse-dot"></div>
+  <span class="alert-label">Latest</span>
+  {{ alert_text }}
+</div>
+
+<div class="nav">
+  <div class="nav-inner">
+    <a class="nav-logo" href="https://impactsignals.ai">
+      <div class="logo-icon"><i data-lucide="radio"></i></div>
+      Impact Signals
+    </a>
+    <ul class="nav-links">
+      <li><a href="#stories">Stories</a></li>
+      <li><a href="https://www.youtube.com/@ImpactSignalsAI">Video</a></li>
+      <li><a href="https://impactsignalsai.substack.com">Newsletter</a></li>
+    </ul>
+  </div>
+</div>
+
+<section class="hero-map">
+  <div class="map-dots">
+    <div class="map-dot red"    style="top:35%;left:55%;animation-delay:0s;"></div>
+    <div class="map-dot orange" style="top:60%;left:15%;animation-delay:0.5s;"></div>
+    <div class="map-dot blue"   style="top:45%;left:45%;animation-delay:1s;"></div>
+    <div class="map-dot orange" style="top:25%;left:70%;animation-delay:1.5s;"></div>
+    <div class="map-dot blue"   style="top:55%;left:80%;animation-delay:2s;"></div>
+    <div class="map-dot red"    style="top:70%;left:35%;animation-delay:2.5s;"></div>
+  </div>
+  <div class="hero-content">
+    <div class="hero-badge">
+      <div class="live-dot"></div>
+      Daily Situation Report
+    </div>
+    <h1>AI &amp; Social Impact<br><span>Intelligence Briefing</span></h1>
+    <p class="subtitle">Daily AI-powered intelligence for people working at the intersection of technology and social impact. Monitoring global signals across conflict, climate, health, and humanitarian response.</p>
+    <div class="hero-stats">
+      <div class="hero-stat">
+        <div class="value">{{ episode_count }}</div>
+        <div class="stat-label">Episodes Published</div>
+      </div>
+      <div class="hero-stat">
+        <div class="value">180+</div>
+        <div class="stat-label">Stories Tracked</div>
+      </div>
+      <div class="hero-stat">
+        <div class="value">Daily</div>
+        <div class="stat-label">Briefing Frequency</div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<div class="timestamp-bar">
+  <span class="time">{{ timestamp_long }} · 06:00 PT</span>
+  <span class="live">Daily Briefing</span>
+</div>
+
+<div class="main-grid" id="stories">
+  <div class="main-col">
+
+    <article class="lead-story">
+      <div class="kicker">Latest Episode · #{{ latest.number }}</div>
+      <h2>
+        <a href="/episodes/{{ latest.slug }}/">
+          {{ latest.title | e }}
+        </a>
+      </h2>
+      <p>{{ latest.description | e | truncate(350, True, '') }}</p>
+      <div class="meta"><span class="time-ago">{{ latest.time_ago }}</span> · Impact Signals #{{ latest.number }} · {{ latest.date_short }}</div>
+    </article>
+
+    <ul class="story-list">
+      {% for ep in archive %}
+      <li>
+        <div class="bullet"></div>
+        <div>
+          <h3><a href="/episodes/{{ ep.slug }}/">{{ ep.title | e }}</a></h3>
+          <div class="story-meta"><span class="story-tag">Episode #{{ ep.number }}</span> · {{ ep.date_short }}</div>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-card">
+      <h3>Impact Signals #18: AfDB $10B Africa AI Initiative, NRC CLEAR GenAI Platform, SAFE AI Framework</h3>
+      <div class="meta">Impact Signals #18 · Mar 2, 2026</div>
+    </div>
+    </div>
+
+    <h2 style="margin-top: 32px;">Topics</h2>
+    <div class="sidebar-card">
+      <h3>AI Governance</h3>
+      <div class="meta">UN panels, global declarations, policy frameworks</div>
+    </div>
+    <div class="sidebar-card">
+      <h3>Humanitarian Tech</h3>
+      <div class="meta">Disaster response, early warning, anticipatory action</div>
+    </div>
+    <div class="sidebar-card">
+      <h3>Conflict &amp; AI</h3>
+      <div class="meta">Autonomous weapons, civilian protection, IHL</div>
+    </div>
+    <div class="sidebar-card">
+      <h3>Climate &amp; Disaster</h3>
+      <div class="meta">Cyclones, wildfires, flood forecasting, SAR</div>
+    </div>
+
+    <div class="sidebar-platforms">
+      <h2>Listen</h2>
+      <a class="platform-link" href="https://open.spotify.com/show/4xkRnw54RVZFVgVYI7wMZQ">
+        <i data-lucide="music"></i> Spotify
+      </a>
+      <a class="platform-link" href="https://podcasts.apple.com/podcast/id1877390015">
+        <i data-lucide="headphones"></i> Apple Podcasts
+      </a>
+      <a class="platform-link" href="https://www.youtube.com/@ImpactSignalsAI">
+        <i data-lucide="play-circle"></i> YouTube
+      </a>
+      <a class="platform-link" href="https://impactsignalsai.substack.com">
+        <i data-lucide="mail"></i> Substack
+      </a>
+    </div>
+  </aside>
+</div>
+
+<div class="data-bar">
+  <div class="data-inner">
+    <div class="data-item">
+      <div class="number">{{ episode_count }}</div>
+      <div class="data-label">Episodes</div>
+    </div>
+    <div class="data-item">
+      <div class="number">180+</div>
+      <div class="data-label">Stories Covered</div>
+    </div>
+    <div class="data-item">
+      <div class="number">5</div>
+      <div class="data-label">Platforms</div>
+    </div>
+    <div class="data-item">
+      <div class="number">Daily</div>
+      <div class="data-label">Frequency</div>
+    </div>
+  </div>
+</div>
+
+<section class="listen-section">
+  <div>
+    <h2>Listen to Today's Briefing</h2>
+    <p>Available on all major podcast platforms</p>
+  </div>
+  <div class="listen-btns">
+    <a href="https://open.spotify.com/show/4xkRnw54RVZFVgVYI7wMZQ">Spotify</a>
+    <a href="https://podcasts.apple.com/podcast/id1877390015">Apple Podcasts</a>
+    <a href="https://www.youtube.com/@ImpactSignalsAI">YouTube</a>
+    <a href="https://impactsignalsai.substack.com">Substack</a>
+  </div>
+</section>
+
+<section class="subscribe">
+  <h2>Stay informed. Trust the signal.</h2>
+  <p>Daily AI-powered intelligence for people working at the intersection of technology and social impact.</p>
+  <a href="https://impactsignalsai.substack.com">Subscribe to Impact Signals &rarr;</a>
+</section>
+
+<!-- FAQ for GEO -->
+<section class="faq-section content-wrapper" aria-label="Frequently asked questions">
+    <h2>Frequently Asked Questions</h2>
+    <div class="faq-item" itemscope itemtype="https://schema.org/Question">
+        <h3 itemprop="name">What is Impact Signals?</h3>
+        <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+            <p itemprop="text">Impact Signals is a daily podcast and newsletter that delivers AI-powered intelligence for people working at the intersection of technology and social impact. It covers AI for disaster relief, humanitarian operations, climate resilience, and social good.</p>
+        </div>
+    </div>
+    <div class="faq-item" itemscope itemtype="https://schema.org/Question">
+        <h3 itemprop="name">Who is Impact Signals for?</h3>
+        <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+            <p itemprop="text">Impact Signals is for humanitarian practitioners, social impact professionals, AI researchers, policymakers, NGO workers, and anyone interested in how artificial intelligence can be used for social good and disaster response.</p>
+        </div>
+    </div>
+    <div class="faq-item" itemscope itemtype="https://schema.org/Question">
+        <h3 itemprop="name">How can I subscribe to Impact Signals?</h3>
+        <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+            <p itemprop="text">You can subscribe on Spotify, Apple Podcasts, YouTube, or Substack. You can also add our RSS feed directly to your podcast player at impactsignals.ai/feed.xml.</p>
+        </div>
+    </div>
+</section>
+
+<!-- JSON-LD: FAQ -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is Impact Signals?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Impact Signals is a daily podcast and newsletter that delivers AI-powered intelligence for people working at the intersection of technology and social impact. It covers AI for disaster relief, humanitarian operations, climate resilience, and social good."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Who is Impact Signals for?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Impact Signals is for humanitarian practitioners, social impact professionals, AI researchers, policymakers, NGO workers, and anyone interested in how artificial intelligence can be used for social good and disaster response."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How can I subscribe to Impact Signals?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can subscribe on Spotify, Apple Podcasts, YouTube, or Substack. You can also add our RSS feed directly to your podcast player at impactsignals.ai/feed.xml."
+            }
+        }
+    ]
+}
+</script>
+
+<footer class="simple-footer">
+  <p>&copy; 2026 Impact Signals. Social impact at the scale of AI.</p>
+</footer>
+
+<script>lucide.createIcons();</script>
+</body>
+</html>
