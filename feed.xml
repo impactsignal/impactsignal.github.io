@@ -23,6 +23,139 @@
     <copyright>© 2026 Impact Signals AI</copyright>
     <itunes:image href="https://impactsignals.ai/artwork.jpg" />
     <item>
+      <title>Episode 22 — Research, Funding &amp; Weekly Wrap</title>
+      <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+# AI for Social Impact — Daily Briefing
+**Date:** Friday, March 6, 2026
+**Episode:** #22
+**Theme:** Research, Funding &amp; Weekly Wrap
+**Research window:** Last 24 hours (March 5–6, 2026) + Events next 30 days
+**Sources:** Gemini Deep Research (2 queries), web search, ReliefWeb, IRC press release
+
+---
+
+## EDITORIAL SUMMARY
+
+Today's briefing marks a significant week-closing moment: operational AI deployments in humanitarian settings are moving from pilot to scaled infrastructure. Three distinct threads dominate this Friday:
+1. **AI Agent Infrastructure for Humanitarian Work** — IRC's Signpost AI platform sets a new standard for purpose-built humanitarian AI
+2. **Research-to-Policy Pipelines** — KAIST satellite poverty mapping wins top AI for Social Impact prize; Singapore links AI prediction directly to policy action
+3. **Funding &amp; Ethics** — UNICEF's $100K Venture Fund opens for startups; UEA research warns of "AI poverty porn" eroding public trust
+
+Geographic diversity: SE Asia (Busan, Singapore), East Africa (KAIST mapping Kampala/Maputo), Middle East (GiveDirectly cash relief), Latin America (UNICEF Colombia context), Global North (IRC multi-country).
+
+---
+
+## STORIES
+
+### Story 1: IRC Launches Signpost AI — A Purpose-Built Humanitarian Agent Platform
+**Category:** AI Deployment / Institutional
+**Date:** March 4–5, 2026
+**Organizations:** International Rescue Committee (IRC), Google.org, Mastercard Center for Inclusive Growth / data.org, Zendesk, Cisco, Anthropic
+
+The IRC published its formal lessons-learned report on Signpost AI, a purpose-built AI agent platform developed over two years through the Mastercard AI2AI Challenge. Unlike generic LLMs, Signpost AI is built with embedded ethical guardrails, contextual safety protocols, local language support, and human-in-the-loop design. The platform has been piloted across approximately 30 countries via the Signpost information network, which has served more than 20 million people since 2015.
+
+Key operational metrics: early pilots met quality standards roughly 75% of the time and increased staff productivity by nearly 70%, but required human review. The evolved system — engineered to recognize its own limits — is now deployed across protection, refugee resettlement, education, and anti-human trafficking workflows.
+
+**Why it matters:** Signpost AI is the clearest proof yet that humanitarian AI requires bespoke infrastructure, not generic chatbots. The platform's "job description" design approach (defining roles, responsibilities, safety protocols, and guardrails for each AI agent) is a replicable framework for any NGO deploying AI in crisis settings.
+
+**Source:** https://www.rescue.org/irc-responsible-ai-humanitarian-sector (March 4, 2026)
+
+---
+
+### Story 2: UNICEF Venture Fund Opens Call for AI &amp; Blockchain Social Impact Startups
+**Category:** Funding
+**Date:** March 5, 2026
+**Organizations:** UNICEF
+
+UNICEF's Venture Fund is actively calling for open-source AI and blockchain solutions from startups in emerging markets. Grants of up to **$100,000 in equity-free funding** (disbursed in cryptocurrency) are available for solutions addressing child protection, financial transparency, and SDG delivery. Solutions must be "ready-to-deploy" and open-source by design.
+
+**Why it matters:** Friday theme — this is one of the most accessible entry-points for early-stage social impact AI developers in the Global South. The crypto disbursement mechanism removes traditional banking barriers for recipients in underserved markets. Deadline is rolling; apply early.
+
+**Source:** UNICEF Venture Fund active call (confirmed March 5, 2026)
+
+---
+
+### Story 3: Busan City Signs Agreement for AI-Powered Urban Flood Control System
+**Category:** Disaster Management Technology
+**Date:** March 6, 2026
+**Organizations:** Busan Metropolitan City, Korea Institute of Civil Engineering and Building Technology (KICT), Electronics and Telecommunications Research Institute (ETRI)
+
+Busan (South Korea
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=DyEzHOIDook
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/22</description>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-22/2026-03-06-podcast.mp3" length="65" type="audio/mpeg" />
+      <pubDate>Fri, 06 Mar 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">impact-signal-22</guid>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>8:02</itunes:duration>
+      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+# AI for Social Impact — Daily Briefing
+**Date:** Friday, March 6, 2026
+**Episode:** #22
+**Theme:** Research, Funding &amp; Weekly Wrap
+**Research window:** Last 24 hours (March 5–6, 2026) + Events next 30 days
+**Sources:** Gemini Deep Research (2 queries), web search, ReliefWeb, IRC press release
+
+---
+
+## EDITORIAL SUMMARY
+
+Today's briefing marks a significant week-closing moment: operational AI deployments in humanitarian settings are moving from pilot to scaled infrastructure. Three distinct threads dominate this Friday:
+1. **AI Agent Infrastructure for Humanitarian Work** — IRC's Signpost AI platform sets a new standard for purpose-built humanitarian AI
+2. **Research-to-Policy Pipelines** — KAIST satellite poverty mapping wins top AI for Social Impact prize; Singapore links AI prediction directly to policy action
+3. **Funding &amp; Ethics** — UNICEF's $100K Venture Fund opens for startups; UEA research warns of "AI poverty porn" eroding public trust
+
+Geographic diversity: SE Asia (Busan, Singapore), East Africa (KAIST mapping Kampala/Maputo), Middle East (GiveDirectly cash relief), Latin America (UNICEF Colombia context), Global North (IRC multi-country).
+
+---
+
+## STORIES
+
+### Story 1: IRC Launches Signpost AI — A Purpose-Built Humanitarian Agent Platform
+**Category:** AI Deployment / Institutional
+**Date:** March 4–5, 2026
+**Organizations:** International Rescue Committee (IRC), Google.org, Mastercard Center for Inclusive Growth / data.org, Zendesk, Cisco, Anthropic
+
+The IRC published its formal lessons-learned report on Signpost AI, a purpose-built AI agent platform developed over two years through the Mastercard AI2AI Challenge. Unlike generic LLMs, Signpost AI is built with embedded ethical guardrails, contextual safety protocols, local language support, and human-in-the-loop design. The platform has been piloted across approximately 30 countries via the Signpost information network, which has served more than 20 million people since 2015.
+
+Key operational metrics: early pilots met quality standards roughly 75% of the time and increased staff productivity by nearly 70%, but required human review. The evolved system — engineered to recognize its own limits — is now deployed across protection, refugee resettlement, education, and anti-human trafficking workflows.
+
+**Why it matters:** Signpost AI is the clearest proof yet that humanitarian AI requires bespoke infrastructure, not generic chatbots. The platform's "job description" design approach (defining roles, responsibilities, safety protocols, and guardrails for each AI agent) is a replicable framework for any NGO deploying AI in crisis settings.
+
+**Source:** https://www.rescue.org/irc-responsible-ai-humanitarian-sector (March 4, 2026)
+
+---
+
+### Story 2: UNICEF Venture Fund Opens Call for AI &amp; Blockchain Social Impact Startups
+**Category:** Funding
+**Date:** March 5, 2026
+**Organizations:** UNICEF
+
+UNICEF's Venture Fund is actively calling for open-source AI and blockchain solutions from startups in emerging markets. Grants of up to **$100,000 in equity-free funding** (disbursed in cryptocurrency) are available for solutions addressing child protection, financial transparency, and SDG delivery. Solutions must be "ready-to-deploy" and open-source by design.
+
+**Why it matters:** Friday theme — this is one of the most accessible entry-points for early-stage social impact AI developers in the Global South. The crypto disbursement mechanism removes traditional banking barriers for recipients in underserved markets. Deadline is rolling; apply early.
+
+**Source:** UNICEF Venture Fund active call (confirmed March 5, 2026)
+
+---
+
+### Story 3: Busan City Signs Agreement for AI-Powered Urban Flood Control System
+**Category:** Disaster Management Technology
+**Date:** March 6, 2026
+**Organizations:** Busan Metropolitan City, Korea Institute of Civil Engineering and Building Technology (KICT), Electronics and Telecommunications Research Institute (ETRI)
+
+Busan (South Korea
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=DyEzHOIDook
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/22</itunes:summary>
+    </item>
+    <item>
       <title>#21: AI Accountability Reckoning — IFRC Disinformation Crisis, IRC Nigeria Scale-Up, UNICEF Deepfakes Alert | Impact Signals</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
@@ -144,7 +277,7 @@ PDC and Twilio.org launch a live AI early warning system for landslide-prone Cal
 🌐 Website: https://impactsignals.ai/episodes/19</itunes:summary>
     </item>
     <item>
-      <title>#18: Social Impact of AI — Africa $10B Initiative, NRC CLEAR, Humanitarian AI Ethics</title>
+      <title>Impact Signals #18: AfDB $10B Africa AI Initiative, NRC CLEAR GenAI Platform, SAFE AI Framework</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: AfDB and UNDP launch a $10 billion AI infrastructure initiative for Africa, the Norwegian Refugee Council takes GenAI emergency operations to production with its CLEAR platform, and the humanitarian sector gets its first AI ethics standards framework from CDAC.
@@ -226,7 +359,7 @@ Impact Signals — impactsignals.ai
       <itunes:keywords>social impact of ai, ai for social impact, humanitarian ai, ai africa development, safe ai framework</itunes:keywords>
     </item>
     <item>
-      <title>#17: Social Impact of AI — Google $30M Fund, Indonesia Flood Forecasting, Vietnam AI Law</title>
+      <title>Impact Signals #17: Google's $30M AI Government Fund, Indonesia Deploys Live Flood AI, Vietnam's AI Law Takes Effect</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: Google.org's $30M AI government fund, Indonesia's live national flood forecasting, Vietnam's new AI law, blockchain aid distribution, and a deepfake preparedness gap across 77% of crisis organizations.
@@ -286,7 +419,7 @@ Sources: Google.org, Weathernews Inc., BMKG, InComm Payments, SKUx, PR Newswire,
       <itunes:keywords>social impact of ai, ai for social impact, google org ai impact challenge, indonesia ai flood forecasting bmkg, vietnam ai law southeast asia</itunes:keywords>
     </item>
     <item>
-      <title>#16: AI for Social Impact — Brazil Floods, Offline Diagnostics, India AI Probe</title>
+      <title>Impact Signals #16: Brazil Floods Kill 46 as AI Warning Gap Exposed, Offline Disease Detection Wins Red Cross Award, India Probes Anthropic-Pratham Child Data</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 #16: AI for Social Impact — Brazil Floods, Offline Diagnostics, India AI Probe
@@ -346,7 +479,7 @@ Sources: Reuters, AP, UN OCHA, Cruz Roja Española, spotlab.ai, PR Newswire, NEC
       <itunes:keywords>ai for social impact, social impact of ai, brazil floods ai early warning, offline ai diagnostics humanitarian, india dpdp act ngo ai compliance</itunes:keywords>
     </item>
     <item>
-      <title>#15: Social Impact of AI — Rwanda-Anthropic, Google.org $30M, Philippines NAICRI</title>
+      <title>Impact Signals #15: Rwanda-Anthropic Health AI, Google.org $30M Challenge, Philippines NAICRI Launches</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 #15: Social Impact of AI — Rwanda-Anthropic, Google.org $30M, Philippines NAICRI
@@ -472,7 +605,7 @@ Sources: Gemini Deep Research, Google.org, pia.gov.ph, africa.com, Nature, cscs.
       <itunes:keywords>social impact of ai, ai for social impact, sovereign ai health africa, humanitarian ai governance, disaster response ai philippines</itunes:keywords>
     </item>
     <item>
-      <title>#14: AI for Social Good — UN Agencies Scale, Myanmar AI Disinfo, $50B Pledge</title>
+      <title>Impact Signals #14: UN Agencies Scale, AI Disinformation in Myanmar, $50B Global South Pledge</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: three UN food agencies scale AI food security from pilot to operations, AI-generated disinformation disrupts active disaster response in Myanmar, The Gambia's AI risk mapping unlocks a $10M World Bank grant, and Microsoft commits $50B to AI infrastructure in the Global South.
@@ -536,7 +669,7 @@ Active monitoring: Madagascar post-Gezani water-sanitation emergency, Somalia fo
       <itunes:keywords>ai for social good, social impact of ai, un agencies humanitarian ai, ai disinformation disaster response, global south ai investment</itunes:keywords>
     </item>
     <item>
-      <title>#13: AI and Humanitarian Aid — WFP Pre-Disaster Cash, EVAH, Sovereign AI for Africa</title>
+      <title>AI and Humanitarian Aid: WFP Pre-Disaster Cash, EVAH Fund | Impact Signals #13</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: WFP delivers historic pre-disaster cash to 3,150 Madagascar households before Cyclone Gezani landfall, $60M EVAH fund launches for AI health evaluation in LMICs, AfDB and UNDP publish $10B sovereign AI roadmap for Africa, and an AI agent autonomously deletes a cloud environment — a cautionary tale for humanitarian tech.
@@ -600,7 +733,7 @@ Active monitoring: Cyclone Gezani recovery Madagascar (400,000+ affected), Somal
       <itunes:keywords>ai and humanitarian aid, ai for social impact, anticipatory action cyclone, wfp ai systems, ai health evaluation lmics</itunes:keywords>
     </item>
     <item>
-      <title>#12: AI and Humanitarian Aid — Philippines NAICRI, India SAHI, Cyclone Horacio</title>
+      <title>Impact Signals #12: AI and Humanitarian Aid — Philippines NAICRI, India SAHI, Cyclone Horacio</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: Philippines launches NAICRI with a national AI model repository for disaster response, India's SAHI framework governs health AI already running at 282 million consultations, Cyclone Horacio tests AI forecasting on the first Cat 5 storm of 2026, and the open-source crisis threatening humanitarian tooling explained.
@@ -668,7 +801,7 @@ Active monitoring: Cyclone Horacio Cat 5 (Indian Ocean, PDC active), Vanuatu per
       <itunes:keywords>ai and humanitarian aid, ai for social impact, philippines naicri disaster ai, india sahi health ai, cyclone horacio forecasting, open source humanitarian tools, vanuatu health resilience</itunes:keywords>
     </item>
     <item>
-      <title>#11: Social Impact of AI — New Delhi Declaration, WFP AI Tools, AI Demining</title>
+      <title>Impact Signals #11 — New Delhi Declaration, WFP AI Tools, AI Demining</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: 88 nations sign the New Delhi Declaration with a $50B Microsoft pledge, WFP deploys AI tools cutting crisis response from weeks to hours, NVIDIA Earth-2 covers Africa at 1/500th the cost of traditional radar, and UNICEF launches its AI for Children 3.0 framework as deepfakes hit 1.2 million kids.
@@ -732,7 +865,7 @@ Active monitoring: Colombia floods (72,000 families affected), Sudan convoy bloc
       <itunes:keywords>ai for social impact, ai governance, new delhi declaration, wfp ai, africa early warning, disaster response</itunes:keywords>
     </item>
     <item>
-      <title>#10: AI for Social Impact — India Disaster Robot Dog, Agentic AI for Nonprofits, Philippines AI Center</title>
+      <title>Impact Signals #10: India Unveils Disaster Robot Dog, Philippines Launches National AI Center</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 # Impact Signals #10: India Unveils Disaster Robot Dog, Philippines Launches National AI Center
