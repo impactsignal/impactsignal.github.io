@@ -23,6 +23,114 @@
     <copyright>© 2026 Impact Signals AI</copyright>
     <itunes:image href="https://impactsignals.ai/artwork.jpg" />
     <item>
+      <title>Impact Signals #26 — UNDP Satellite Speed, WFP 55M Food Warning, EU AI Act Countdown</title>
+      <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+# AI for Social Impact — Daily Briefing
+**Date:** Tuesday, March 10, 2026
+**Episode:** #26
+**Theme:** Speed, Scale &amp; Accountability — Satellite Analysis, Food Forecasting, and the EU AI Act Countdown
+**Research Method:** ReliefWeb API + Brave Web Search + RSS Scan + arXiv + editorial context
+**Research window:** Last 24 hours primary; 72h secondary
+
+---
+
+## 📋 Editorial Notes
+- **Today's Theme:** Speed &amp; Scale — new satellite-damage framework delivers 30% faster recovery data; WFP warns 55M face crisis hunger; IFRC activates CHF 40M Iran appeal; EU AI Week begins today with Act compliance countdown
+- **Dedup Applied:** IRC Responsible AI report (already covered eps 21, 22, 25 from multiple angles — SKIP). Somalia food (covered ep 25 — avoid repeating). UN AI Science Panel (ep 25 — SKIP). Jamaica debris (ep 23 — SKIP).
+- **Critical Gap Addressed:** EU regulatory context — EU AI Week starts March 10, high-risk compliance deadline August 2026 — timely for practitioners
+- **Geographic Diversity:** Global (satellite), West/Central Africa (food), Middle East (Iran), Europe (regulation), Global South (water safety research)
+- **Political Filter Applied:** IFRC Iran story framed as humanitarian response and scale of need, not geopolitical positioning
+- **Events:** HNPW 2026 wrapping March 14 (Geneva); EU AI Week March 10–14 (Brussels); WSIS Prizes nomination deadline March 15
+
+---
+
+## 📰 SELECTED STORIES (6)
+
+### STORY 1 — Recovery/Technology | Global
+**UNDP + UNITAR Launch Framework for 48-Hour Satellite Damage Analysis — 30% Faster Recovery Data**
+*Published: March 10, 2026 | Source: UNDP, UNITAR/UN Satellite Centre | reliefweb.int/node/4202050*
+
+The United Nations Development Programme (UNDP) and the United Nations Satellite Centre (UNOSAT), hosted at the United Nations Institute for Training and Research (UNITAR), have signed a new operational framework streamlining crisis impact analysis. The framework combines satellite imagery with on-the-ground assessments to deliver integrated damage reports within 48 hours of a crisis — up to **30% faster** than previous processes. UNDP Crisis Bureau Director Shoko Noda: "Faster data means faster recovery. The sooner we identify the most affected communities, the sooner governments can restore services, reopen clinics, and help families return to normal life."
+
+Under the agreement, satellite analysis feeds directly into UNDP's systems for tracking damage, affected populations, and vulnerability. Field teams validate satellite findings, improving accuracy over time and reducing duplication across response partners. The framework is positioned as infrastructure — not just analysis — that speeds the transition from emergency response to recovery for affected communities.
+
+**Why it matters for practitioners:** The 48-hour turnaround becomes a new baseline expectation for damage analysis in humanitarian response planning. Organizations that currently rely on 7–14 day damage assessments will face coordination gaps with UNDP-led recovery frameworks. Procurement offices should ask technology providers: can your damage-assessment tools integrate with UNDP/UNOSAT pipelines and feed outputs within 48 hours?
+
+**Sources:**
+- https://reliefweb.int/report/world/satellite-imagery-guides-faster-recovery-crisis-zones
+- UNDP/UNITAR joint announcement, March 10, 2026
+
+**Score:** Relevance 39/40 | Significance 33/35 | Actionability 21/25 | **TOTAL: 93/100**
+
+---
+
+### STORY 2 — Preparedness/Forecasting | West &amp; Central Africa
+**WFP Warns: 55 Million People Face Crisis Hunger in West &amp; Central Africa by June–August 2026**
+*Published: March 9–10, 2026 | Source: WFP, Action Against Hunger, The Conversation*
+
+The World Food Programme has issued an early warning that up to **55 million people** across West and Central Africa could face "crisis hunger or worse" between June and August 2026. The projection combines AI-assisted food security modeling, satellite vegetation indices
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=7LPCPdOaNTI
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/26</description>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-26/2026-03-10-podcast.mp3" length="0" type="audio/mpeg" />
+      <pubDate>Tue, 10 Mar 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">impact-signal-26</guid>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+# AI for Social Impact — Daily Briefing
+**Date:** Tuesday, March 10, 2026
+**Episode:** #26
+**Theme:** Speed, Scale &amp; Accountability — Satellite Analysis, Food Forecasting, and the EU AI Act Countdown
+**Research Method:** ReliefWeb API + Brave Web Search + RSS Scan + arXiv + editorial context
+**Research window:** Last 24 hours primary; 72h secondary
+
+---
+
+## 📋 Editorial Notes
+- **Today's Theme:** Speed &amp; Scale — new satellite-damage framework delivers 30% faster recovery data; WFP warns 55M face crisis hunger; IFRC activates CHF 40M Iran appeal; EU AI Week begins today with Act compliance countdown
+- **Dedup Applied:** IRC Responsible AI report (already covered eps 21, 22, 25 from multiple angles — SKIP). Somalia food (covered ep 25 — avoid repeating). UN AI Science Panel (ep 25 — SKIP). Jamaica debris (ep 23 — SKIP).
+- **Critical Gap Addressed:** EU regulatory context — EU AI Week starts March 10, high-risk compliance deadline August 2026 — timely for practitioners
+- **Geographic Diversity:** Global (satellite), West/Central Africa (food), Middle East (Iran), Europe (regulation), Global South (water safety research)
+- **Political Filter Applied:** IFRC Iran story framed as humanitarian response and scale of need, not geopolitical positioning
+- **Events:** HNPW 2026 wrapping March 14 (Geneva); EU AI Week March 10–14 (Brussels); WSIS Prizes nomination deadline March 15
+
+---
+
+## 📰 SELECTED STORIES (6)
+
+### STORY 1 — Recovery/Technology | Global
+**UNDP + UNITAR Launch Framework for 48-Hour Satellite Damage Analysis — 30% Faster Recovery Data**
+*Published: March 10, 2026 | Source: UNDP, UNITAR/UN Satellite Centre | reliefweb.int/node/4202050*
+
+The United Nations Development Programme (UNDP) and the United Nations Satellite Centre (UNOSAT), hosted at the United Nations Institute for Training and Research (UNITAR), have signed a new operational framework streamlining crisis impact analysis. The framework combines satellite imagery with on-the-ground assessments to deliver integrated damage reports within 48 hours of a crisis — up to **30% faster** than previous processes. UNDP Crisis Bureau Director Shoko Noda: "Faster data means faster recovery. The sooner we identify the most affected communities, the sooner governments can restore services, reopen clinics, and help families return to normal life."
+
+Under the agreement, satellite analysis feeds directly into UNDP's systems for tracking damage, affected populations, and vulnerability. Field teams validate satellite findings, improving accuracy over time and reducing duplication across response partners. The framework is positioned as infrastructure — not just analysis — that speeds the transition from emergency response to recovery for affected communities.
+
+**Why it matters for practitioners:** The 48-hour turnaround becomes a new baseline expectation for damage analysis in humanitarian response planning. Organizations that currently rely on 7–14 day damage assessments will face coordination gaps with UNDP-led recovery frameworks. Procurement offices should ask technology providers: can your damage-assessment tools integrate with UNDP/UNOSAT pipelines and feed outputs within 48 hours?
+
+**Sources:**
+- https://reliefweb.int/report/world/satellite-imagery-guides-faster-recovery-crisis-zones
+- UNDP/UNITAR joint announcement, March 10, 2026
+
+**Score:** Relevance 39/40 | Significance 33/35 | Actionability 21/25 | **TOTAL: 93/100**
+
+---
+
+### STORY 2 — Preparedness/Forecasting | West &amp; Central Africa
+**WFP Warns: 55 Million People Face Crisis Hunger in West &amp; Central Africa by June–August 2026**
+*Published: March 9–10, 2026 | Source: WFP, Action Against Hunger, The Conversation*
+
+The World Food Programme has issued an early warning that up to **55 million people** across West and Central Africa could face "crisis hunger or worse" between June and August 2026. The projection combines AI-assisted food security modeling, satellite vegetation indices
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=7LPCPdOaNTI
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/26</itunes:summary>
+    </item>
+    <item>
       <title>#25: UN AI Science Panel — Somalia Crisis, EVAH $60M Fund, ASEAN Disaster Framework</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
