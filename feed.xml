@@ -23,6 +23,137 @@
     <copyright>© 2026 Impact Signals AI</copyright>
     <itunes:image href="https://impactsignals.ai/artwork.jpg" />
     <item>
+      <title>Impact Signals #27 — AI Monsoon Forecasts, CERES Famine EWS, Caribbean Readiness</title>
+      <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+# AI for Social Impact — Daily Briefing
+**Date:** Wednesday, March 11, 2026
+**Episode:** #27
+**Theme:** Field Deployments &amp; Case Studies — AI in the Field, From Monsoon Forecasts to Caribbean Readiness
+**Research Method:** Brave Web Search + arXiv + UNESCO + ReliefWeb + ICTworks/IMF + RSS Scan
+**Research window:** Last 24 hours primary; 72h secondary; Gemini Deep Research (in progress, background)
+
+---
+
+## 📋 Editorial Notes
+- **Today's Theme:** Field Deployments &amp; Case Studies — focus on AI tools that are LIVE in the field, with real numbers
+- **Dedup Applied:** GANNET (eps 19, 22, 23, 24, 26), WFP West Africa food (ep 25, 26), UNDP satellite (ep 26), EU AI Act (ep 25, 26), Lebanon (eps 22-24, 26), IRC (eps 21-24), UNICEF deepfakes (ep 21), ASEAN framework (ep 25) — all SKIPPED
+- **Story Queue:** No active queued stories (both used; one cancelled)
+- **Geographic Balance:** 2× Caribbean, 1× South Asia, 1× Global/Africa, 1× Global — fills Caribbean and South Asia gaps ✓
+- **Recovery Gap:** Recovery-phase story not found today; best candidates were non-AI (Friday/Thursday REQUIRED — not today)
+- **Political Filter:** IMF AIPI story reviewed — not political, operational structural data. INCLUDED.
+
+---
+
+## 📰 Story 1: AI Probabilistic Monsoon Forecasts Reached 38 Million Indian Farmers in 2025
+
+**Source:** arXiv 2603.07893 (published March 9-10, 2026) — "Designing probabilistic AI monsoon forecasts to inform agricultural decision-making"
+**Category:** Preparedness / Field Deployment
+**Geography:** India / South Asia
+
+### What Happened
+Researchers published a new paper documenting a 2025 operational deployment of an AI-powered monsoon onset forecasting system that reached **38 million Indian farmers** through a government-led program.
+
+The system blends AI weather prediction models with a Bayesian "evolving farmer expectations" statistical model — predicting the time-varying probability of monsoon onset throughout a season. In 2025, it successfully predicted an early-summer anomalous dry period, giving farmers actionable lead time before planting decisions and investment commitments.
+
+The core innovation: this is NOT a single prediction — it's a decision-theory framework that tailors forecasts to farmers' heterogeneous circumstances. Rather than prescribing a single "plant now" date, it delivers probability distributions that farmers (with different crops, resources, and risk tolerance) can act on independently.
+
+### Key Stats
+- 38 million farmers reached, India, 2025
+- Operationally deployed via government-led subseasonal forecast program
+- Blended system outperforms any single model OR multi-model average on Indian monsoon
+- Addresses: high-stakes planting decisions, agricultural investment under weather uncertainty
+
+### Why It Matters for Practitioners
+- **Template for scale**: demonstrates how AI + Bayesian blending delivers more skillful subseasonal climate forecasts for agricultural resilience — a model for other tropical countries
+- **Decision theory lens**: the framework asks "what information helps DIFFERENT farmers with DIFFERENT options?" — not one-size-fits-all
+- **Lead time gains**: longer useful forecasts at subseasonal range directly improves anticipatory action windows
+
+---
+
+## 📰 Story 2: CERES — Open-Access Famine Early Warning System for 43 High-Risk Countries
+
+**Source:** arXiv 2603.09425 (published March 10, 2026) — "A Probabilistic Early Warning System for Acute Food Insecurity"
+**Category:** Preparedness / Technology Innovation
+**Geography:** Global (43 countries)
+
+### What Happened
+A new automated, probabilistic famine early warning system called **CERES** (Calibrated Early-warning and Risk Estimation System) was published on arXiv March 10. It generates **90-day-ahead probability estimates** of IPC Phase 3+ (Crisis), Phase 4+ (Emergency), and Phase 5 (Famine) conditions for 43 high-risk countries — updated weekly.
+
+CERES fuses **six data streams**: precipitation ano
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=TW0AlnRpHeQ
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/27</description>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-27/episode-27.mp3" length="9457897" type="audio/mpeg" />
+      <pubDate>Wed, 11 Mar 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">impact-signal-27</guid>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>10:20</itunes:duration>
+      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+# AI for Social Impact — Daily Briefing
+**Date:** Wednesday, March 11, 2026
+**Episode:** #27
+**Theme:** Field Deployments &amp; Case Studies — AI in the Field, From Monsoon Forecasts to Caribbean Readiness
+**Research Method:** Brave Web Search + arXiv + UNESCO + ReliefWeb + ICTworks/IMF + RSS Scan
+**Research window:** Last 24 hours primary; 72h secondary; Gemini Deep Research (in progress, background)
+
+---
+
+## 📋 Editorial Notes
+- **Today's Theme:** Field Deployments &amp; Case Studies — focus on AI tools that are LIVE in the field, with real numbers
+- **Dedup Applied:** GANNET (eps 19, 22, 23, 24, 26), WFP West Africa food (ep 25, 26), UNDP satellite (ep 26), EU AI Act (ep 25, 26), Lebanon (eps 22-24, 26), IRC (eps 21-24), UNICEF deepfakes (ep 21), ASEAN framework (ep 25) — all SKIPPED
+- **Story Queue:** No active queued stories (both used; one cancelled)
+- **Geographic Balance:** 2× Caribbean, 1× South Asia, 1× Global/Africa, 1× Global — fills Caribbean and South Asia gaps ✓
+- **Recovery Gap:** Recovery-phase story not found today; best candidates were non-AI (Friday/Thursday REQUIRED — not today)
+- **Political Filter:** IMF AIPI story reviewed — not political, operational structural data. INCLUDED.
+
+---
+
+## 📰 Story 1: AI Probabilistic Monsoon Forecasts Reached 38 Million Indian Farmers in 2025
+
+**Source:** arXiv 2603.07893 (published March 9-10, 2026) — "Designing probabilistic AI monsoon forecasts to inform agricultural decision-making"
+**Category:** Preparedness / Field Deployment
+**Geography:** India / South Asia
+
+### What Happened
+Researchers published a new paper documenting a 2025 operational deployment of an AI-powered monsoon onset forecasting system that reached **38 million Indian farmers** through a government-led program.
+
+The system blends AI weather prediction models with a Bayesian "evolving farmer expectations" statistical model — predicting the time-varying probability of monsoon onset throughout a season. In 2025, it successfully predicted an early-summer anomalous dry period, giving farmers actionable lead time before planting decisions and investment commitments.
+
+The core innovation: this is NOT a single prediction — it's a decision-theory framework that tailors forecasts to farmers' heterogeneous circumstances. Rather than prescribing a single "plant now" date, it delivers probability distributions that farmers (with different crops, resources, and risk tolerance) can act on independently.
+
+### Key Stats
+- 38 million farmers reached, India, 2025
+- Operationally deployed via government-led subseasonal forecast program
+- Blended system outperforms any single model OR multi-model average on Indian monsoon
+- Addresses: high-stakes planting decisions, agricultural investment under weather uncertainty
+
+### Why It Matters for Practitioners
+- **Template for scale**: demonstrates how AI + Bayesian blending delivers more skillful subseasonal climate forecasts for agricultural resilience — a model for other tropical countries
+- **Decision theory lens**: the framework asks "what information helps DIFFERENT farmers with DIFFERENT options?" — not one-size-fits-all
+- **Lead time gains**: longer useful forecasts at subseasonal range directly improves anticipatory action windows
+
+---
+
+## 📰 Story 2: CERES — Open-Access Famine Early Warning System for 43 High-Risk Countries
+
+**Source:** arXiv 2603.09425 (published March 10, 2026) — "A Probabilistic Early Warning System for Acute Food Insecurity"
+**Category:** Preparedness / Technology Innovation
+**Geography:** Global (43 countries)
+
+### What Happened
+A new automated, probabilistic famine early warning system called **CERES** (Calibrated Early-warning and Risk Estimation System) was published on arXiv March 10. It generates **90-day-ahead probability estimates** of IPC Phase 3+ (Crisis), Phase 4+ (Emergency), and Phase 5 (Famine) conditions for 43 high-risk countries — updated weekly.
+
+CERES fuses **six data streams**: precipitation ano
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=TW0AlnRpHeQ
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/27</itunes:summary>
+    </item>
+    <item>
       <title>Impact Signals #26 — UNDP Satellite Speed, WFP 55M Food Warning, EU AI Act Countdown</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
