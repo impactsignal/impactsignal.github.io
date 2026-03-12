@@ -23,6 +23,135 @@
     <copyright>© 2026 Impact Signals AI</copyright>
     <itunes:image href="https://impactsignals.ai/artwork.jpg" />
     <item>
+      <title>#28: AI Disaster Recovery — Ditwah RAPIDA, India Multilingual AI, IMF Digital Gap</title>
+      <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+# AI for Impact — Daily Briefing
+**Date:** Thursday, March 12, 2026 | **Episode:** 28
+**Theme:** Recovery Focus + Deep Dive — Thursday Recovery Edition
+**Produced by:** Impact Signals Briefing Pipeline
+
+---
+
+## 📋 EDITORIAL SUMMARY
+
+**Today's focus:** Thursday Recovery mandate — rebuilding, resilience, long-term adaptation. Gemini Deep Research timed out; briefing built from Grep AI research + ReliefWeb + web search. Strong 7-story slate covering Recovery, Preparedness, Response, and DSS/Policy phases.
+
+**Coverage Balance:**
+- 🔴 Recovery: 3 stories (Mozambique FAO, Sri Lanka Cyclone Ditwah, IMF Global South gap) — Thursday mandate fulfilled
+- 🟢 Preparedness: 2 stories (Rice University AI weather, India IMD Bhashini)
+- 🟡 Response: 1 story (UNHCR Iran displacement)
+- 🟡 DSS/Field: 1 story (ODI/Omdena deployment lessons)
+
+**Geographic fills:** South Asia (India, Sri Lanka), East Africa (Mozambique), Middle East (Iran), Multi-region (Global South IMF index)
+
+---
+
+## 📰 CURATED STORIES (7)
+
+### STORY 1 — [RECOVERY / SE ASIA] Sri Lanka Cyclone Ditwah: UNDP RAPIDA Assessment Framework
+**Source:** ReliefWeb — UN Development Programme | **Date:** March 11, 2026
+**Relevance:** 40/40 | **Significance:** 34/35 | **Actionability:** 24/25 | **Total: 98/100**
+
+Cyclone Ditwah struck Sri Lanka and UNDP deployed its RAPIDA (Rapid Integrated Post-Disaster Assessment) framework to conduct key informant interviews, producing a rapid damage and impact estimate to guide early recovery planning. The Disaster Management Centre of Sri Lanka issued a situation report March 11 confirming active response operations.
+
+**Why it matters:** RAPIDA is an AI-assisted rapid assessment methodology that compresses post-disaster needs assessment from weeks to days. Its deployment in Sri Lanka demonstrates how digital tools are enabling faster recovery planning entry points. For practitioners: this is a concrete model for structured early recovery data collection that can be adapted across similar cyclone-affected contexts.
+
+**Sources:**
+- ReliefWeb: https://reliefweb.int/node/4202510
+- ReliefWeb (SitRep): https://reliefweb.int/node/4202507
+
+---
+
+### STORY 2 — [PREPAREDNESS] Rice University Study: AI Models Predict Hurricane Tracks Well — Intensity Still a Gap
+**Source:** Rice University / Journal of Geophysical Research: Atmospheres | **Date:** March 11–12, 2026
+**Relevance:** 38/40 | **Significance:** 33/35 | **Actionability:** 24/25 | **Total: 95/100**
+
+Researchers at Rice University published an evaluation of AI weather models (including Pangu-Weather and Aurora) against tropical cyclone data from the 2020–2025 North Atlantic and Pacific seasons. Key findings: AI models deliver comparable track and landfall accuracy to traditional physics-based models — but generate forecasts in minutes rather than hours. Critical gap: AI models systematically underestimate peak wind speeds and minimum pressure. Lead author Avantika Gori described this as "reassuring" but called for hybrid approaches for intensity forecasting.
+
+**Why it matters for practitioners:** AI reliably tells evacuation planners *where* a storm will hit, potentially days in advance. But *how destructive* it will be on arrival still requires traditional ensemble models. Humanitarian agencies running anticipatory action protocols need to understand this asymmetry — route evacuations with AI, scale emergency supplies with traditional intensity forecasts.
+
+**Source:** https://news.rice.edu/news/2026/ai-weather-models-show-promise-hurricane-forecasts-new-rice-study-finds-key-physical
+
+---
+
+### STORY 3 — [PREPAREDNESS / SOUTH ASIA] India IMD Deploys AI Cyclone Prediction + Bhashini Multilingual Last-Mile Alerts
+**Source:** India Meteorological Department (via X/social) | **Date:** March 11, 2026
+**Relevance:** 38/40 | **Significance:** 32/35 | **Actionability:** 23/25 | **Total: 93/100**
+
+India's Meteorological Department announced national deployment of AI/ML tools incl
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=nVpNqztKPlk
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/28</description>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-28/episode-28.mp3" length="12258075" type="audio/mpeg" />
+      <pubDate>Thu, 12 Mar 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">impact-signal-28</guid>
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>13:31</itunes:duration>
+      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+# AI for Impact — Daily Briefing
+**Date:** Thursday, March 12, 2026 | **Episode:** 28
+**Theme:** Recovery Focus + Deep Dive — Thursday Recovery Edition
+**Produced by:** Impact Signals Briefing Pipeline
+
+---
+
+## 📋 EDITORIAL SUMMARY
+
+**Today's focus:** Thursday Recovery mandate — rebuilding, resilience, long-term adaptation. Gemini Deep Research timed out; briefing built from Grep AI research + ReliefWeb + web search. Strong 7-story slate covering Recovery, Preparedness, Response, and DSS/Policy phases.
+
+**Coverage Balance:**
+- 🔴 Recovery: 3 stories (Mozambique FAO, Sri Lanka Cyclone Ditwah, IMF Global South gap) — Thursday mandate fulfilled
+- 🟢 Preparedness: 2 stories (Rice University AI weather, India IMD Bhashini)
+- 🟡 Response: 1 story (UNHCR Iran displacement)
+- 🟡 DSS/Field: 1 story (ODI/Omdena deployment lessons)
+
+**Geographic fills:** South Asia (India, Sri Lanka), East Africa (Mozambique), Middle East (Iran), Multi-region (Global South IMF index)
+
+---
+
+## 📰 CURATED STORIES (7)
+
+### STORY 1 — [RECOVERY / SE ASIA] Sri Lanka Cyclone Ditwah: UNDP RAPIDA Assessment Framework
+**Source:** ReliefWeb — UN Development Programme | **Date:** March 11, 2026
+**Relevance:** 40/40 | **Significance:** 34/35 | **Actionability:** 24/25 | **Total: 98/100**
+
+Cyclone Ditwah struck Sri Lanka and UNDP deployed its RAPIDA (Rapid Integrated Post-Disaster Assessment) framework to conduct key informant interviews, producing a rapid damage and impact estimate to guide early recovery planning. The Disaster Management Centre of Sri Lanka issued a situation report March 11 confirming active response operations.
+
+**Why it matters:** RAPIDA is an AI-assisted rapid assessment methodology that compresses post-disaster needs assessment from weeks to days. Its deployment in Sri Lanka demonstrates how digital tools are enabling faster recovery planning entry points. For practitioners: this is a concrete model for structured early recovery data collection that can be adapted across similar cyclone-affected contexts.
+
+**Sources:**
+- ReliefWeb: https://reliefweb.int/node/4202510
+- ReliefWeb (SitRep): https://reliefweb.int/node/4202507
+
+---
+
+### STORY 2 — [PREPAREDNESS] Rice University Study: AI Models Predict Hurricane Tracks Well — Intensity Still a Gap
+**Source:** Rice University / Journal of Geophysical Research: Atmospheres | **Date:** March 11–12, 2026
+**Relevance:** 38/40 | **Significance:** 33/35 | **Actionability:** 24/25 | **Total: 95/100**
+
+Researchers at Rice University published an evaluation of AI weather models (including Pangu-Weather and Aurora) against tropical cyclone data from the 2020–2025 North Atlantic and Pacific seasons. Key findings: AI models deliver comparable track and landfall accuracy to traditional physics-based models — but generate forecasts in minutes rather than hours. Critical gap: AI models systematically underestimate peak wind speeds and minimum pressure. Lead author Avantika Gori described this as "reassuring" but called for hybrid approaches for intensity forecasting.
+
+**Why it matters for practitioners:** AI reliably tells evacuation planners *where* a storm will hit, potentially days in advance. But *how destructive* it will be on arrival still requires traditional ensemble models. Humanitarian agencies running anticipatory action protocols need to understand this asymmetry — route evacuations with AI, scale emergency supplies with traditional intensity forecasts.
+
+**Source:** https://news.rice.edu/news/2026/ai-weather-models-show-promise-hurricane-forecasts-new-rice-study-finds-key-physical
+
+---
+
+### STORY 3 — [PREPAREDNESS / SOUTH ASIA] India IMD Deploys AI Cyclone Prediction + Bhashini Multilingual Last-Mile Alerts
+**Source:** India Meteorological Department (via X/social) | **Date:** March 11, 2026
+**Relevance:** 38/40 | **Significance:** 32/35 | **Actionability:** 23/25 | **Total: 93/100**
+
+India's Meteorological Department announced national deployment of AI/ML tools incl
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=nVpNqztKPlk
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/28</itunes:summary>
+    </item>
+    <item>
       <title>Impact Signals #27 — AI Monsoon Forecasts, CERES Famine EWS, Caribbean Readiness</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
