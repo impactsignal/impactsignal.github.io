@@ -216,4 +216,16 @@
         <changefreq>never</changefreq>
         <priority>0.8</priority>
     </url>
+    <url>
+        <loc>https://impactsignals.ai/episodes/29-groundsource-flood-red-cross-clara-fair-logistics/</loc>
+        <lastmod>2026-03-13</lastmod>
+        <changefreq>never</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://impactsignals.ai/episodes/29/</loc>
+        <lastmod>2026-03-13</lastmod>
+        <changefreq>never</changefreq>
+        <priority>0.5</priority>
+    </url>
 </urlset>
