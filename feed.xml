@@ -23,6 +23,144 @@
     <copyright>© 2026 Impact Signals AI</copyright>
     <itunes:image href="https://impactsignals.ai/artwork.jpg" />
     <item>
+      <title>Impact Signals #29: AI for Social Impact — Groundsource Flood AI, Red Cross Clara, Fair Logistics</title>
+      <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+# AI for Impact — Daily Briefing: Friday, March 13, 2026
+**Episode 29 | Theme: Research, Funding &amp; Weekly Wrap**
+*Produced by Impact Signals Pipeline | 6:00 AM PT*
+
+---
+
+## Editorial Summary
+Today's briefing leads with two simultaneous breakthroughs in humanitarian AI deployment announced on March 12 — Google's Groundsource flash flood prediction system and the Red Cross's Clara AI platform funded by AWS. A new fairness-centered logistics algorithm from Stevens Institute rounds out the research angle. The OCHA State of Open Humanitarian Data 2026 report, published today, anchors the Friday research theme. IOM's Mozambique SitRep #3 provides the recovery-phase grounding the editorial context requires. The Humanitarian Leadership Academy's 70% global AI adoption survey contextualizes the week's momentum.
+
+**Coverage Balance:**
+- PREPAREDNESS: 1 story (Google Groundsource)
+- RESPONSE: 2 stories (AWS/Red Cross Clara AI, IOM Mozambique)
+- RECOVERY: 1 story (IOM Mozambique SitRep — recovery/displacement tracking framing)
+- DSS/Research: 2 stories (OCHA Open Data 2026, HLA Survey)
+- DSS/Policy: 0 ✅ (editorial says reduce — compliant)
+
+**Geographic Representation:**
+- Global: Google Groundsource (150+ countries)
+- North America: AWS/Red Cross
+- Africa: Mozambique, Southern Africa (Groundsource validation)
+- Research: Global (Stevens, HLA)
+- Note: SE Asia and Latin America gaps not filled this cycle — insufficient fresh stories from those regions in 24h window.
+
+---
+
+## Story 1 — LEAD [PREPAREDNESS / GLOBAL]
+### Google Groundsource: AI Turns 5 Million News Articles into 24-Hour Flash Flood Warnings
+
+**Date:** March 12, 2026
+**Sources:** TechCrunch, Engadget, Google Research Blog, Decrypt, Heatmap News
+
+Google launched **Groundsource**, a new AI-powered methodology that converts 5+ million historical news articles (dating to 2000) into the world's largest flash flood dataset — **2.6 million geo-tagged flood events across 150+ countries**, now released publicly.
+
+The system uses Gemini to extract and structure qualitative flood reports from news archives, building a training dataset that an LSTM neural network combines with hourly weather forecasts, urbanization density, soil absorption rates, and topography to predict urban flash floods **up to 24 hours in advance** at 20-square-kilometer resolution.
+
+**Why this matters for practitioners:**
+- Flash floods kill 5,000+ people annually; urban street flooding has been nearly impossible to predict due to lack of river sensors in cities
+- Groundsource bypasses infrastructure dependency — no ground sensors required
+- Integrated into Google's **Flood Hub**, which already covers 2 billion people globally, extending urban flash flood coverage for the first time at global scale
+- Dataset released publicly — usable by any national disaster management authority
+- Validated in a Southern African disaster authority proof-of-concept: alert dispatched → teams verified → response deployed
+
+**Performance vs. NWS (key tradeoff):**
+- Groundsource Recall: 32% vs NWS 22% (identifies more real floods earlier)
+- Groundsource Precision: 26% vs NWS 44% (higher false positive rate — teams should plan for verification step)
+
+**Limitation:** Performance degrades where news coverage is sparse — risks extending data gaps in under-reported geographies. Note: South Korea excluded due to regulatory constraints.
+
+---
+
+## Story 2 [RESPONSE / NORTH AMERICA → GLOBAL REACH]
+### AWS Nonprofit Imagine Grant Funds Red Cross Clara AI Platform
+
+**Date:** March 12, 2026
+**Source:** The Key Executives, AWS announcement
+
+The **American Red Cross** received an **AWS Nonprofit Imagine Grant** to develop **Clara AI**, a unified AI platform spanning the organization's four service areas: disaster relief, blood services, military family support, and lifesaving training.
+
+Clara AI is designed to reduce friction for disaster-affected individuals navigating fragmented service channels — a known failure point i
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=eT4aSekQMiU
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/29</description>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-29/2026-03-13-podcast.mp3" length="0" type="audio/mpeg" />
+      <pubDate>Fri, 13 Mar 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">impact-signal-29</guid>
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+# AI for Impact — Daily Briefing: Friday, March 13, 2026
+**Episode 29 | Theme: Research, Funding &amp; Weekly Wrap**
+*Produced by Impact Signals Pipeline | 6:00 AM PT*
+
+---
+
+## Editorial Summary
+Today's briefing leads with two simultaneous breakthroughs in humanitarian AI deployment announced on March 12 — Google's Groundsource flash flood prediction system and the Red Cross's Clara AI platform funded by AWS. A new fairness-centered logistics algorithm from Stevens Institute rounds out the research angle. The OCHA State of Open Humanitarian Data 2026 report, published today, anchors the Friday research theme. IOM's Mozambique SitRep #3 provides the recovery-phase grounding the editorial context requires. The Humanitarian Leadership Academy's 70% global AI adoption survey contextualizes the week's momentum.
+
+**Coverage Balance:**
+- PREPAREDNESS: 1 story (Google Groundsource)
+- RESPONSE: 2 stories (AWS/Red Cross Clara AI, IOM Mozambique)
+- RECOVERY: 1 story (IOM Mozambique SitRep — recovery/displacement tracking framing)
+- DSS/Research: 2 stories (OCHA Open Data 2026, HLA Survey)
+- DSS/Policy: 0 ✅ (editorial says reduce — compliant)
+
+**Geographic Representation:**
+- Global: Google Groundsource (150+ countries)
+- North America: AWS/Red Cross
+- Africa: Mozambique, Southern Africa (Groundsource validation)
+- Research: Global (Stevens, HLA)
+- Note: SE Asia and Latin America gaps not filled this cycle — insufficient fresh stories from those regions in 24h window.
+
+---
+
+## Story 1 — LEAD [PREPAREDNESS / GLOBAL]
+### Google Groundsource: AI Turns 5 Million News Articles into 24-Hour Flash Flood Warnings
+
+**Date:** March 12, 2026
+**Sources:** TechCrunch, Engadget, Google Research Blog, Decrypt, Heatmap News
+
+Google launched **Groundsource**, a new AI-powered methodology that converts 5+ million historical news articles (dating to 2000) into the world's largest flash flood dataset — **2.6 million geo-tagged flood events across 150+ countries**, now released publicly.
+
+The system uses Gemini to extract and structure qualitative flood reports from news archives, building a training dataset that an LSTM neural network combines with hourly weather forecasts, urbanization density, soil absorption rates, and topography to predict urban flash floods **up to 24 hours in advance** at 20-square-kilometer resolution.
+
+**Why this matters for practitioners:**
+- Flash floods kill 5,000+ people annually; urban street flooding has been nearly impossible to predict due to lack of river sensors in cities
+- Groundsource bypasses infrastructure dependency — no ground sensors required
+- Integrated into Google's **Flood Hub**, which already covers 2 billion people globally, extending urban flash flood coverage for the first time at global scale
+- Dataset released publicly — usable by any national disaster management authority
+- Validated in a Southern African disaster authority proof-of-concept: alert dispatched → teams verified → response deployed
+
+**Performance vs. NWS (key tradeoff):**
+- Groundsource Recall: 32% vs NWS 22% (identifies more real floods earlier)
+- Groundsource Precision: 26% vs NWS 44% (higher false positive rate — teams should plan for verification step)
+
+**Limitation:** Performance degrades where news coverage is sparse — risks extending data gaps in under-reported geographies. Note: South Korea excluded due to regulatory constraints.
+
+---
+
+## Story 2 [RESPONSE / NORTH AMERICA → GLOBAL REACH]
+### AWS Nonprofit Imagine Grant Funds Red Cross Clara AI Platform
+
+**Date:** March 12, 2026
+**Source:** The Key Executives, AWS announcement
+
+The **American Red Cross** received an **AWS Nonprofit Imagine Grant** to develop **Clara AI**, a unified AI platform spanning the organization's four service areas: disaster relief, blood services, military family support, and lifesaving training.
+
+Clara AI is designed to reduce friction for disaster-affected individuals navigating fragmented service channels — a known failure point i
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=eT4aSekQMiU
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/29</itunes:summary>
+    </item>
+    <item>
       <title>#28: AI Disaster Recovery — Ditwah RAPIDA, India Multilingual AI, IMF Digital Gap</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
