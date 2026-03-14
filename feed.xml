@@ -23,6 +23,33 @@
     <copyright>© 2026 Impact Signals AI</copyright>
     <itunes:image href="https://impactsignals.ai/artwork.jpg" />
     <item>
+      <title>None</title>
+      <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+Impact Signals #30: Flash Flood AI — Groundsource, Africa Early Warning, Red Cross Clara
+
+Google Groundsource mines 5 million news articles to predict urban flash floods 24 hours out across 150 countries — no sensors required. Africa gets national-scale AI weather forecasting for $1,430/month via NVIDIA Earth-2. Red Cross prototypes Clara AI multi-agent platform for humanitarian services. Madagascar mobilizes $29M+ in parametric recovery financing. Stevens Institute algorithm makes disaster delivery fairer by optimizing for equity, not just speed.
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=sINkmc-zqUw
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/30</description>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-30/episode-30.mp3" length="7868204" type="audio/mpeg" />
+      <pubDate>Sat, 14 Mar 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">impact-signal-30</guid>
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>8:24</itunes:duration>
+      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+Impact Signals #30: Flash Flood AI — Groundsource, Africa Early Warning, Red Cross Clara
+
+Google Groundsource mines 5 million news articles to predict urban flash floods 24 hours out across 150 countries — no sensors required. Africa gets national-scale AI weather forecasting for $1,430/month via NVIDIA Earth-2. Red Cross prototypes Clara AI multi-agent platform for humanitarian services. Madagascar mobilizes $29M+ in parametric recovery financing. Stevens Institute algorithm makes disaster delivery fairer by optimizing for equity, not just speed.
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=sINkmc-zqUw
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/30</itunes:summary>
+    </item>
+    <item>
       <title>Impact Signals #29: AI for Social Impact — Groundsource Flood AI, Red Cross Clara, Fair Logistics</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
@@ -2319,6 +2346,23 @@ The UN voted 117-2 to create its first AI Scientific Panel. India hosts the bigg
 📩 Subscribe: https://impactsignalsai.substack.com
 🌐 Website: https://impactsignals.ai/episodes/1</itunes:summary>
       <itunes:keywords>ai for social impact, un ai panel, humanitarian aid collapse, india ai summit, artificial intelligence impact</itunes:keywords>
+    </item>
+    <item>
+      <title>AI Closes the Data Gap — From Flash Floods to Field Logistics</title>
+      <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/0</description>
+      <pubDate>Sat, 14 Mar 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">impact-signal-0</guid>
+      <itunes:episode>0</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/0</itunes:summary>
     </item>
   </channel>
 </rss>
