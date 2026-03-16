@@ -234,4 +234,10 @@
         <changefreq>never</changefreq>
         <priority>0.8</priority>
     </url>
+  <url>
+    <loc>https://impactsignals.ai/episodes/ai-governance-rails-india-sahi-bodh-givedirectly-anticipatory-cash-mercy-corps-crisis-analysis/</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
