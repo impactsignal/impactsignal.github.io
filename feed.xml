@@ -23,65 +23,10 @@
     <copyright>© 2026 Impact Signals AI</copyright>
     <itunes:image href="https://impactsignals.ai/artwork.jpg" />
     <item>
-      <title>Impact Signals #31 — 2026-03-15</title>
-      <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <title>#31: Impact-Linked Finance for Refugees — Haiti AI Challenge, AI Access Initiative, Voice AI Research</title>
+      <description>#31: Impact-Linked Finance for Refugees — Haiti AI Challenge, AI Access Initiative, Voice AI Research
 
-# AI for Impact — Daily Briefing
-**Date:** Sunday, March 15, 2026 | **Episode:** 31 | **Theme:** Weekend Light
-
-## Editorial Context
-- **Coverage Balance:** Recovery (CRITICAL GAP filled ✅), Preparedness (2), DSS/Policy (1)
-- **Geographic Gaps Addressed:** Latin America ✅ (Colombia via iGravity), Caribbean ✅ (Haiti challenge)
-- **Dedup Checked:** Red Cross Clara AI (Ep 30) excluded; Africa arXiv paper (Ep 30) excluded; Stevens drone-truck (Ep 30) excluded; IRC Signpost (Eps 22-25) not featured; UNICEF excluded; Lebanon context only
-
----
-
-## STORY 1 — LEAD [PREPAREDNESS / GLOBAL]
-### Google Groundsource: Gemini Turns 5 Million News Articles Into Flash Flood Forecasts
-**Source:** Google Research Blog (March 12, 2026) + TechCrunch
-**URL:** https://blog.google/innovation-and-ai/technology/research/gemini-help-communities-predict-flash-floods/
-
-**Summary:** Google Research launched Groundsource, a methodology using the Gemini LLM to extract structured flood event data from millions of unstructured news archives. Processing over 5 million articles across 80 languages, Gemini identified 2.6 million historical urban flash flood events in 150+ countries — producing the largest open-source flash flood dataset ever assembled. The resulting model is now live in Google Flood Hub, delivering 24-hour advance warnings for urban flash floods. Flood Hub already covers riverine flooding for 2 billion people in 80+ countries.
-
-**Key stats:**
-- 5 million news articles processed across 80 languages
-- 2.6 million historical flash flood events, 150+ countries
-- 24-hour advance warning lead time for urban areas
-- 60% reduction in flood damage with 12-hour warning lead time (cited research)
-- Flash floods cause ~85% of all flood-related deaths (~5,000/year, WMO)
-- Already demonstrated for São Paulo, Brazil
-- WMO partnering via Early Warnings for All initiative (target: every person on Earth by 2027)
-- Open-source release under Google Earth AI family
-
-**Why it matters for practitioners:** Emergency managers can now access AI flash flood predictions for cities that had zero historical sensor data. The dataset is open-source, enabling NGOs and national meteorological agencies to build on it. The WMO Early Warnings for All partnership signals this is being designed for global scale, not just high-income markets.
-
-**Score:** 95 (40% Relevance ✓ + 35% Significance ✓ + 25% Actionability ✓)
-
----
-
-## STORY 2 [RECOVERY / LATIN AMERICA / GLOBAL]
-### iGravity + Danish Refugee Council: Impact-Linked Finance Gets Refugees Hired in Colombia and Uganda
-**Source:** ImpactAlpha (cited in Gemini research, March 2026)
-
-**Summary:** Swiss impact investing firm iGravity is scaling a Refugee Investment Facility that uses impact-linked loans to incentivize businesses in Uganda, Jordan, and Colombia to hire and serve refugees. Loans are issued at 6–8% interest rates, with further reductions tied to social impact metrics — companies earn lower rates when they hire refugees, expand services to refugee populations, or integrate refugees into supply chains. A $300,000 loan to Omia Agribusiness in Uganda, for example, incentivized the company to tailor agricultural input packages for refugee farmers. The Danish Refugee Council backs the facility.
-
-**Key stats:**
-- 6–8% below-market interest rates (further reduced for social impact performance)
-- Loan example: $300,000 to Omia Agribusiness (Uganda) — tailored agricultural inputs for refugees
-- Active in Uganda, Jordan, and Colombia (Latin America gap ✅)
-- Backed by the Danish Refugee Council
-
-**Why it matters for practitioners:** Recovery-phase innovation. This model converts private capital into refugee employment pipelines with built-in performance accountability — no grant dependency. Organizations working in Uganda, Jordan, and Colombia should be aware this facility exists for business partners.
-
-**Score:** 88 (fills CRITICAL Recovery gap + Latin America geography)
-
----
-
-## STORY 3 [PREPAREDNESS / 
-
-▶️ Watch on YouTube: https://www.youtube.com/watch?v=6DPXLRkcAB4
-📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/31</description>
+Swiss firm iGravity and the Danish Refugee Council use impact-linked loans to get businesses in Uganda, Jordan, and Colombia to hire refugees. Haiti's Banj AI Challenge launches its first cohort. The AI Access Initiative expands computing access for social-sector researchers. Breadwinners and Earlybird bring voice AI to gig workers navigating benefits.</description>
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-31/episode-31.mp3" length="4952816" type="audio/mpeg" />
       <pubDate>Sun, 15 Mar 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-31</guid>
