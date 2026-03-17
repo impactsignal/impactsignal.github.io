@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Impact Signals — AI for Social Impact Daily Briefing</title>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <link>https://impactsignals.ai</link>
     <language>en-us</language>
     <generator>Impact Signals AI Pipeline</generator>
-    <atom:link href="https://impactsignals.ai/feed.xml" rel="self" type="application/rss+xml" />
-    <itunes:author>Impact Signals</itunes:author>
-    <itunes:summary>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</itunes:summary>
-    <itunes:explicit>false</itunes:explicit>
-    <itunes:type>episodic</itunes:type>
-    <itunes:owner>
-      <itunes:name>Impact Signals</itunes:name>
-      <itunes:email>abe.ai.bot@icloud.com</itunes:email>
-    </itunes:owner>
-    <itunes:category text="Technology" />
-    <itunes:category text="News">
-      <itunes:category text="Daily News" />
-    </itunes:category>
-    <itunes:keywords>social impact of ai, ai for social impact, artificial intelligence impact, social impact tech, ai for social good, humanitarian ai, disaster technology, tech for social good, ai ethics, responsible ai</itunes:keywords>
+    <ns0:link href="https://impactsignals.ai/feed.xml" rel="self" type="application/rss+xml" />
+    <ns1:author>Impact Signals</ns1:author>
+    <ns1:summary>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</ns1:summary>
+    <ns1:explicit>false</ns1:explicit>
+    <ns1:type>episodic</ns1:type>
+    <ns1:owner>
+      <ns1:name>Impact Signals</ns1:name>
+      <ns1:email>abe.ai.bot@icloud.com</ns1:email>
+    </ns1:owner>
+    <ns1:category text="Technology" />
+    <ns1:category text="News">
+      <ns1:category text="Daily News" />
+    </ns1:category>
+    <ns1:keywords>social impact of ai, ai for social impact, artificial intelligence impact, social impact tech, ai for social good, humanitarian ai, disaster technology, tech for social good, ai ethics, responsible ai</ns1:keywords>
     <copyright>© 2026 Impact Signals AI</copyright>
-    <itunes:image href="https://impactsignals.ai/artwork.jpg" />
+    <ns1:image href="https://impactsignals.ai/artwork.jpg" />
     <item>
-      <title>AI Governance Rails: India SAHI+BODH, GiveDirectly Anticipatory Cash RCT, Mercy Corps Agentic Crisis Analysis</title>
+      <title>#32: AI Governance Rails: India SAHI+BODH, GiveDirectly Anticipatory Cash RCT, Mercy Corps Agentic Crisis Analysis</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 
@@ -34,16 +34,16 @@
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-32/episode-32.mp3" length="9948162" type="audio/mpeg" />
       <pubDate>Mon, 16 Mar 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-32</guid>
-      <itunes:episode>32</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>10:47</itunes:duration>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>32</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>10:47</ns1:duration>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=p6m73CFsyN8
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/32</itunes:summary>
+🌐 Website: https://impactsignals.ai/episodes/32</ns1:summary>
     </item>
     <item>
       <title>#31: Impact-Linked Finance for Refugees — Haiti AI Challenge, AI Access Initiative, Voice AI Research</title>
@@ -108,10 +108,10 @@
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-31/episode-31.mp3" length="4952816" type="audio/mpeg" />
       <pubDate>Sun, 15 Mar 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-31</guid>
-      <itunes:episode>31</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>5:18</itunes:duration>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>31</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>5:18</ns1:duration>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 # AI for Impact — Daily Briefing
 **Date:** Sunday, March 15, 2026 | **Episode:** 31 | **Theme:** Weekend Light
@@ -168,7 +168,7 @@
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=6DPXLRkcAB4
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/31</itunes:summary>
+🌐 Website: https://impactsignals.ai/episodes/31</ns1:summary>
     </item>
     <item>
       <title>#30: AI Closes the Data Gap — From Flash Floods to Field Logistics</title>
@@ -184,10 +184,10 @@ Google Groundsource mines 5 million news articles to predict urban flash floods 
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-30/episode-30.mp3" length="7868204" type="audio/mpeg" />
       <pubDate>Sat, 14 Mar 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-30</guid>
-      <itunes:episode>30</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>8:24</itunes:duration>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>30</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>8:24</ns1:duration>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 Impact Signals #30: Flash Flood AI — Groundsource, Africa Early Warning, Red Cross Clara
 
@@ -195,7 +195,7 @@ Google Groundsource mines 5 million news articles to predict urban flash floods 
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=sINkmc-zqUw
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/30</itunes:summary>
+🌐 Website: https://impactsignals.ai/episodes/30</ns1:summary>
     </item>
     <item>
       <title>Impact Signals #29: AI for Social Impact — Groundsource Flood AI, Red Cross Clara, Fair Logistics</title>
@@ -267,9 +267,9 @@ Clara AI is designed to reduce friction for disaster-affected individuals naviga
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-29/2026-03-13-podcast.mp3" length="0" type="audio/mpeg" />
       <pubDate>Fri, 13 Mar 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-29</guid>
-      <itunes:episode>29</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>29</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 # AI for Impact — Daily Briefing: Friday, March 13, 2026
 **Episode 29 | Theme: Research, Funding &amp; Weekly Wrap**
@@ -333,7 +333,7 @@ Clara AI is designed to reduce friction for disaster-affected individuals naviga
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=eT4aSekQMiU
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/29</itunes:summary>
+🌐 Website: https://impactsignals.ai/episodes/29</ns1:summary>
     </item>
     <item>
       <title>#28: AI Disaster Recovery — Ditwah RAPIDA, India Multilingual AI, IMF Digital Gap</title>
@@ -400,10 +400,10 @@ India's Meteorological Department announced national deployment of AI/ML tools i
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-28/episode-28.mp3" length="12258075" type="audio/mpeg" />
       <pubDate>Thu, 12 Mar 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-28</guid>
-      <itunes:episode>28</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>13:31</itunes:duration>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>28</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>13:31</ns1:duration>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 # AI for Impact — Daily Briefing
 **Date:** Thursday, March 12, 2026 | **Episode:** 28
@@ -462,7 +462,7 @@ India's Meteorological Department announced national deployment of AI/ML tools i
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=yKL6TGgL7t0
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/28</itunes:summary>
+🌐 Website: https://impactsignals.ai/episodes/28</ns1:summary>
     </item>
     <item>
       <title>Impact Signals #27 — AI Monsoon Forecasts, CERES Famine EWS, Caribbean Readiness</title>
@@ -530,10 +530,10 @@ CERES fuses **six data streams**: precipitation ano
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-27/episode-27.mp3" length="9457897" type="audio/mpeg" />
       <pubDate>Wed, 11 Mar 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-27</guid>
-      <itunes:episode>27</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>10:20</itunes:duration>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>27</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>10:20</ns1:duration>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 # AI for Social Impact — Daily Briefing
 **Date:** Wednesday, March 11, 2026
@@ -593,7 +593,7 @@ CERES fuses **six data streams**: precipitation ano
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=TW0AlnRpHeQ
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/27</itunes:summary>
+🌐 Website: https://impactsignals.ai/episodes/27</ns1:summary>
     </item>
     <item>
       <title>Impact Signals #26 — UNDP Satellite Speed, WFP 55M Food Warning, EU AI Act Countdown</title>
@@ -650,9 +650,9 @@ The World Food Programme has issued an early warning that up to **55 million peo
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-26/2026-03-10-podcast.mp3" length="0" type="audio/mpeg" />
       <pubDate>Tue, 10 Mar 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-26</guid>
-      <itunes:episode>26</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>26</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 # AI for Social Impact — Daily Briefing
 **Date:** Tuesday, March 10, 2026
@@ -701,7 +701,7 @@ The World Food Programme has issued an early warning that up to **55 million peo
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=7LPCPdOaNTI
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/26</itunes:summary>
+🌐 Website: https://impactsignals.ai/episodes/26</ns1:summary>
     </item>
     <item>
       <title>#25: UN AI Science Panel — Somalia Crisis, EVAH $60M Fund, ASEAN Disaster Framework</title>
@@ -756,10 +756,10 @@ Somalia is facing a deepening humanitarian emergency as prolonged drought displa
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-25/episode-25.mp3" length="8558317" type="audio/mpeg" />
       <pubDate>Mon, 09 Mar 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-25</guid>
-      <itunes:episode>25</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>9:18</itunes:duration>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>25</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>9:18</ns1:duration>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 # AI for Social Impact Daily Briefing
 **Date:** Monday, March 9, 2026
@@ -806,7 +806,7 @@ Somalia is facing a deepening humanitarian emergency as prolonged drought displa
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=RVW2EK67Mu8
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/25</itunes:summary>
+🌐 Website: https://impactsignals.ai/episodes/25</ns1:summary>
     </item>
     <item>
       <title>Impact Signals #24 — Lebanon Crisis &amp; AI Demining, Anthropic Pentagon Standoff, Cloud Infrastructure Risk</title>
@@ -840,10 +840,10 @@ HOST: The administration's response was to designate An
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-24/episode-24.mp3" length="7568328" type="audio/mpeg" />
       <pubDate>Sun, 08 Mar 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-24</guid>
-      <itunes:episode>24</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>8:15</itunes:duration>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>24</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>8:15</ns1:duration>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 HOST: Welcome to Impact Signals, social impact at the scale of AI. I'm Charlie.
 GUEST: And I'm Sarah.
@@ -869,7 +869,7 @@ HOST: The administration's response was to designate An
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=Te-XcGJT7h8
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/24</itunes:summary>
+🌐 Website: https://impactsignals.ai/episodes/24</ns1:summary>
     </item>
     <item>
       <title>Impact Signals #23 — IRC AI at Scale, Jamaica Debris AI, India Nutrition Monitoring</title>
@@ -949,9 +949,9 @@ HOST: The administration's response was to designate An
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-23/2026-03-07-podcast.mp3" length="10209226" type="audio/mpeg" />
       <pubDate>Sat, 07 Mar 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-23</guid>
-      <itunes:episode>23</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>23</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 # AI for Impact — Daily Briefing
 **Date:** Saturday, March 7, 2026
@@ -1023,7 +1023,7 @@ HOST: The administration's response was to designate An
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=tvFQZoJPnRQ
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/23</itunes:summary>
+🌐 Website: https://impactsignals.ai/episodes/23</ns1:summary>
     </item>
     <item>
       <title>Episode 22 — Research, Funding &amp; Weekly Wrap</title>
@@ -1092,10 +1092,10 @@ Busan (South Korea
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-22/2026-03-06-podcast.mp3" length="65" type="audio/mpeg" />
       <pubDate>Fri, 06 Mar 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-22</guid>
-      <itunes:episode>22</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>8:02</itunes:duration>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>22</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>8:02</ns1:duration>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 # AI for Social Impact — Daily Briefing
 **Date:** Friday, March 6, 2026
@@ -1156,7 +1156,7 @@ Busan (South Korea
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=DyEzHOIDook
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/22</itunes:summary>
+🌐 Website: https://impactsignals.ai/episodes/22</ns1:summary>
     </item>
     <item>
       <title>#21: AI Accountability Reckoning — IFRC Disinformation Crisis, IRC Nigeria Scale-Up, UNICEF Deepfakes Alert | Impact Signals</title>
@@ -1196,10 +1196,10 @@ Impact Signals — impactsignals.ai
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-21/episode-21.mp3" length="57" type="audio/mpeg" />
       <pubDate>Thu, 05 Mar 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-21</guid>
-      <itunes:episode>21</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>9:46</itunes:duration>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>21</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>9:46</ns1:duration>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: the IFRC officially calls AI-amplified disinformation a "de facto crisis" following operational failures in Valencia, Sudan, and Lebanon. The IRC releases the sector's most detailed AI deployment blueprint with 3,200 teachers reached in Northeast Nigeria. UNICEF documents 1.2 million children harmed by AI-generated deepfakes in 12 months.
 
@@ -1231,7 +1231,7 @@ Impact Signals — impactsignals.ai
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=6W8RpBdvoGA
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/21</itunes:summary>
+🌐 Website: https://impactsignals.ai/episodes/21</ns1:summary>
     </item>
     <item>
       <title>#20: AI for Social Impact — Qwen Architect Exit, Anthropic Rwanda MOU, Kenya Smart EOC</title>
@@ -1245,16 +1245,16 @@ The engineer who built the world’s most-downloaded open-source AI model resign
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-20/episode-20.mp3" length="7680163" type="audio/mpeg" />
       <pubDate>Wed, 04 Mar 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-20</guid>
-      <itunes:episode>20</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>8:31</itunes:duration>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>20</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>8:31</ns1:duration>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 The engineer who built the world’s most-downloaded open-source AI model resigned. What that means for field deployments running on Qwen. Plus: Anthropic’s first African government AI partnership in Rwanda, a UNDP-funded smart emergency operations center in Kisumu Kenya, Timor-Leste completes Southeast Asia’s first national early warning system, and an offline-first AI tool built by a flood survivor.
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=H7eTxxsN8zE
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/20</itunes:summary>
+🌐 Website: https://impactsignals.ai/episodes/20</ns1:summary>
     </item>
     <item>
       <title>Impact Signals #19: Colombia AI Early Warning, Humanitarian AI Paradox, GANNET 101 Countries</title>
@@ -1268,16 +1268,16 @@ PDC and Twilio.org launch a live AI early warning system for landslide-prone Cal
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-19/episode-19.mp3" length="9127770" type="audio/mpeg" />
       <pubDate>Tue, 03 Mar 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-19</guid>
-      <itunes:episode>19</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>9:59</itunes:duration>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>19</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>9:59</ns1:duration>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 PDC and Twilio.org launch a live AI early warning system for landslide-prone Cali, Colombia; DFS and HLA check whether the humanitarian AI implementation gap has started to close; GANNET reaches 101 countries with 71% year-over-year growth. Plus: US Coast Guard Pratus, HNPW AI governance, and 77% of humanitarian comms teams have no deepfake playbook.
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=MBR8mTb645c
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/19</itunes:summary>
+🌐 Website: https://impactsignals.ai/episodes/19</ns1:summary>
     </item>
     <item>
       <title>Impact Signals #18: AfDB $10B Africa AI Initiative, NRC CLEAR GenAI Platform, SAFE AI Framework</title>
@@ -1320,10 +1320,10 @@ Impact Signals — impactsignals.ai
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-18/episode-18.mp3" length="6309157" type="audio/mpeg" />
       <pubDate>Mon, 02 Mar 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-18</guid>
-      <itunes:episode>18</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>6:49</itunes:duration>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>18</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>6:49</ns1:duration>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: AfDB and UNDP launch a $10 billion AI infrastructure initiative for Africa, the Norwegian Refugee Council takes GenAI emergency operations to production with its CLEAR platform, and the humanitarian sector gets its first AI ethics standards framework from CDAC.
 
@@ -1358,8 +1358,8 @@ Impact Signals — impactsignals.ai
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=wzuUKH1Jipc
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/18</itunes:summary>
-      <itunes:keywords>social impact of ai, ai for social impact, humanitarian ai, ai africa development, safe ai framework</itunes:keywords>
+🌐 Website: https://impactsignals.ai/episodes/18</ns1:summary>
+      <ns1:keywords>social impact of ai, ai for social impact, humanitarian ai, ai africa development, safe ai framework</ns1:keywords>
     </item>
     <item>
       <title>Impact Signals #17: Google's $30M AI Government Fund, Indonesia Deploys Live Flood AI, Vietnam's AI Law Takes Effect</title>
@@ -1391,10 +1391,10 @@ Sources: Google.org, Weathernews Inc., BMKG, InComm Payments, SKUx, PR Newswire,
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-17/episode-17.mp3" length="9834512" type="audio/mpeg" />
       <pubDate>Sun, 01 Mar 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-17</guid>
-      <itunes:episode>17</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>10:45</itunes:duration>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>17</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>10:45</ns1:duration>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: Google.org's $30M AI government fund, Indonesia's live national flood forecasting, Vietnam's new AI law, blockchain aid distribution, and a deepfake preparedness gap across 77% of crisis organizations.
 
@@ -1418,8 +1418,8 @@ Sources: Google.org, Weathernews Inc., BMKG, InComm Payments, SKUx, PR Newswire,
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=4x_dWqS83Eg
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/17</itunes:summary>
-      <itunes:keywords>social impact of ai, ai for social impact, google org ai impact challenge, indonesia ai flood forecasting bmkg, vietnam ai law southeast asia</itunes:keywords>
+🌐 Website: https://impactsignals.ai/episodes/17</ns1:summary>
+      <ns1:keywords>social impact of ai, ai for social impact, google org ai impact challenge, indonesia ai flood forecasting bmkg, vietnam ai law southeast asia</ns1:keywords>
     </item>
     <item>
       <title>Impact Signals #16: Brazil Floods Kill 46 as AI Warning Gap Exposed, Offline Disease Detection Wins Red Cross Award, India Probes Anthropic-Pratham Child Data</title>
@@ -1451,10 +1451,10 @@ Sources: Reuters, AP, UN OCHA, Cruz Roja Española, spotlab.ai, PR Newswire, NEC
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-16/episode-16.mp3" length="6941979" type="audio/mpeg" />
       <pubDate>Sat, 28 Feb 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-16</guid>
-      <itunes:episode>16</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>7:32</itunes:duration>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>16</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>7:32</ns1:duration>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 #16: AI for Social Impact — Brazil Floods, Offline Diagnostics, India AI Probe
 
@@ -1478,8 +1478,8 @@ Sources: Reuters, AP, UN OCHA, Cruz Roja Española, spotlab.ai, PR Newswire, NEC
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=PEKR1AKJz2g
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/16</itunes:summary>
-      <itunes:keywords>ai for social impact, social impact of ai, brazil floods ai early warning, offline ai diagnostics humanitarian, india dpdp act ngo ai compliance</itunes:keywords>
+🌐 Website: https://impactsignals.ai/episodes/16</ns1:summary>
+      <ns1:keywords>ai for social impact, social impact of ai, brazil floods ai early warning, offline ai diagnostics humanitarian, india dpdp act ngo ai compliance</ns1:keywords>
     </item>
     <item>
       <title>Impact Signals #15: Rwanda-Anthropic Health AI, Google.org $30M Challenge, Philippines NAICRI Launches</title>
@@ -1544,10 +1544,10 @@ Sources: Gemini Deep Research, Google.org, pia.gov.ph, africa.com, Nature, cscs.
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-15/episode-15.mp3" length="10864604" type="audio/mpeg" />
       <pubDate>Fri, 27 Feb 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-15</guid>
-      <itunes:episode>15</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>11:26</itunes:duration>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>15</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>11:26</ns1:duration>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 #15: Social Impact of AI — Rwanda-Anthropic, Google.org $30M, Philippines NAICRI
 
@@ -1604,8 +1604,8 @@ Sources: Gemini Deep Research, Google.org, pia.gov.ph, africa.com, Nature, cscs.
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=V_YbIKHuOp8
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/15</itunes:summary>
-      <itunes:keywords>social impact of ai, ai for social impact, sovereign ai health africa, humanitarian ai governance, disaster response ai philippines</itunes:keywords>
+🌐 Website: https://impactsignals.ai/episodes/15</ns1:summary>
+      <ns1:keywords>social impact of ai, ai for social impact, sovereign ai health africa, humanitarian ai governance, disaster response ai philippines</ns1:keywords>
     </item>
     <item>
       <title>Impact Signals #14: UN Agencies Scale, AI Disinformation in Myanmar, $50B Global South Pledge</title>
@@ -1639,10 +1639,10 @@ Active monitoring: Madagascar post-Gezani water-sanitation emergency, Somalia fo
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-14/episode-14.mp3" length="6018502" type="audio/mpeg" />
       <pubDate>Thu, 26 Feb 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-14</guid>
-      <itunes:episode>14</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>6:33</itunes:duration>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>14</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>6:33</ns1:duration>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: three UN food agencies scale AI food security from pilot to operations, AI-generated disinformation disrupts active disaster response in Myanmar, The Gambia's AI risk mapping unlocks a $10M World Bank grant, and Microsoft commits $50B to AI infrastructure in the Global South.
 
@@ -1668,8 +1668,8 @@ Active monitoring: Madagascar post-Gezani water-sanitation emergency, Somalia fo
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=CfI7i2Me9RE
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/14</itunes:summary>
-      <itunes:keywords>ai for social good, social impact of ai, un agencies humanitarian ai, ai disinformation disaster response, global south ai investment</itunes:keywords>
+🌐 Website: https://impactsignals.ai/episodes/14</ns1:summary>
+      <ns1:keywords>ai for social good, social impact of ai, un agencies humanitarian ai, ai disinformation disaster response, global south ai investment</ns1:keywords>
     </item>
     <item>
       <title>AI and Humanitarian Aid: WFP Pre-Disaster Cash, EVAH Fund | Impact Signals #13</title>
@@ -1703,10 +1703,10 @@ Active monitoring: Cyclone Gezani recovery Madagascar (400,000+ affected), Somal
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-13/episode-13.mp3" length="11667909" type="audio/mpeg" />
       <pubDate>Wed, 25 Feb 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-13</guid>
-      <itunes:episode>13</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>12:45</itunes:duration>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>13</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>12:45</ns1:duration>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: WFP delivers historic pre-disaster cash to 3,150 Madagascar households before Cyclone Gezani landfall, $60M EVAH fund launches for AI health evaluation in LMICs, AfDB and UNDP publish $10B sovereign AI roadmap for Africa, and an AI agent autonomously deletes a cloud environment — a cautionary tale for humanitarian tech.
 
@@ -1732,8 +1732,8 @@ Active monitoring: Cyclone Gezani recovery Madagascar (400,000+ affected), Somal
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=8fHG63FXNks
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/13</itunes:summary>
-      <itunes:keywords>ai and humanitarian aid, ai for social impact, anticipatory action cyclone, wfp ai systems, ai health evaluation lmics</itunes:keywords>
+🌐 Website: https://impactsignals.ai/episodes/13</ns1:summary>
+      <ns1:keywords>ai and humanitarian aid, ai for social impact, anticipatory action cyclone, wfp ai systems, ai health evaluation lmics</ns1:keywords>
     </item>
     <item>
       <title>Impact Signals #12: AI and Humanitarian Aid — Philippines NAICRI, India SAHI, Cyclone Horacio</title>
@@ -1769,10 +1769,10 @@ Active monitoring: Cyclone Horacio Cat 5 (Indian Ocean, PDC active), Vanuatu per
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-12/episode-12.mp3" length="10713590" type="audio/mpeg" />
       <pubDate>Tue, 24 Feb 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-12</guid>
-      <itunes:episode>12</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>11:09</itunes:duration>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>12</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>11:09</ns1:duration>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: Philippines launches NAICRI with a national AI model repository for disaster response, India's SAHI framework governs health AI already running at 282 million consultations, Cyclone Horacio tests AI forecasting on the first Cat 5 storm of 2026, and the open-source crisis threatening humanitarian tooling explained.
 
@@ -1800,8 +1800,8 @@ Active monitoring: Cyclone Horacio Cat 5 (Indian Ocean, PDC active), Vanuatu per
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=IE9ijCUHJTc
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/12</itunes:summary>
-      <itunes:keywords>ai and humanitarian aid, ai for social impact, philippines naicri disaster ai, india sahi health ai, cyclone horacio forecasting, open source humanitarian tools, vanuatu health resilience</itunes:keywords>
+🌐 Website: https://impactsignals.ai/episodes/12</ns1:summary>
+      <ns1:keywords>ai and humanitarian aid, ai for social impact, philippines naicri disaster ai, india sahi health ai, cyclone horacio forecasting, open source humanitarian tools, vanuatu health resilience</ns1:keywords>
     </item>
     <item>
       <title>Impact Signals #11 — New Delhi Declaration, WFP AI Tools, AI Demining</title>
@@ -1835,10 +1835,10 @@ Active monitoring: Colombia floods (72,000 families affected), Sudan convoy bloc
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-11/episode-11.mp3" length="10585858" type="audio/mpeg" />
       <pubDate>Mon, 23 Feb 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-11</guid>
-      <itunes:episode>11</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>11:50</itunes:duration>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>11</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>11:50</ns1:duration>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: 88 nations sign the New Delhi Declaration with a $50B Microsoft pledge, WFP deploys AI tools cutting crisis response from weeks to hours, NVIDIA Earth-2 covers Africa at 1/500th the cost of traditional radar, and UNICEF launches its AI for Children 3.0 framework as deepfakes hit 1.2 million kids.
 
@@ -1864,8 +1864,8 @@ Active monitoring: Colombia floods (72,000 families affected), Sudan convoy bloc
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=nNVvh69ee7U
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/11</itunes:summary>
-      <itunes:keywords>ai for social impact, ai governance, new delhi declaration, wfp ai, africa early warning, disaster response</itunes:keywords>
+🌐 Website: https://impactsignals.ai/episodes/11</ns1:summary>
+      <ns1:keywords>ai for social impact, ai governance, new delhi declaration, wfp ai, africa early warning, disaster response</ns1:keywords>
     </item>
     <item>
       <title>Impact Signals #10: India Unveils Disaster Robot Dog, Philippines Launches National AI Center</title>
@@ -1911,10 +1911,10 @@ The Youth Eco Summit 2026, organized by Bajaj F
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-10/episode-10.mp3" length="4648714" type="audio/mpeg" />
       <pubDate>Sun, 22 Feb 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-10</guid>
-      <itunes:episode>10</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>5:17</itunes:duration>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>10</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>5:17</ns1:duration>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 # Impact Signals #10: India Unveils Disaster Robot Dog, Philippines Launches National AI Center
 
@@ -1952,8 +1952,8 @@ The Youth Eco Summit 2026, organized by Bajaj F
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=7Q4PwjsrIXg
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/10</itunes:summary>
-      <itunes:keywords>ai for social impact, ai for social good, disaster robotics, agentic ai, philippines ai center</itunes:keywords>
+🌐 Website: https://impactsignals.ai/episodes/10</ns1:summary>
+      <ns1:keywords>ai for social impact, ai for social good, disaster robotics, agentic ai, philippines ai center</ns1:keywords>
     </item>
     <item>
       <title>Impact Signals #9 — Delhi Declaration by 88 Nations, Google $60M, FEMA Fund Crisis</title>
@@ -1967,16 +1967,16 @@ AI for social impact daily briefing — Impact Signals covers how artificial int
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-9/episode-9.mp3" length="4912196" type="audio/mpeg" />
       <pubDate>Sat, 21 Feb 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-9</guid>
-      <itunes:episode>9</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>9</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: 88 nations sign the Delhi Declaration at India AI Impact Summit, Google pledges $60M for government innovation and science, UN launches 40-member AI Scientific Panel, FEMA disaster fund drops to $9.6B amid shutdown, $67.8M flash appeal for Cyclone Gezani in Madagascar, Kerala hands 178 homes to landslide survivors, Japan backs AI disaster prevention in Southeast Asia.
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=iIISkcYuL3c
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/9</itunes:summary>
-      <itunes:keywords>ai and humanitarian aid, ai for social impact, delhi declaration ai, fema disaster relief fund, google ai impact challenge</itunes:keywords>
+🌐 Website: https://impactsignals.ai/episodes/9</ns1:summary>
+      <ns1:keywords>ai and humanitarian aid, ai for social impact, delhi declaration ai, fema disaster relief fund, google ai impact challenge</ns1:keywords>
     </item>
     <item>
       <title>Impact Signals #8 — Gates $60M AI Health Fund, Guterres $3B Demand, WFP Somalia Warning</title>
@@ -1990,16 +1990,16 @@ AI for social impact daily briefing — Impact Signals covers how artificial int
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-8/episode-8.mp3" length="6484148" type="audio/mpeg" />
       <pubDate>Fri, 20 Feb 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-8</guid>
-      <itunes:episode>8</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>8</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: Gates Foundation leads $60M AI health evaluation fund for LMICs, Guterres demands $3B global AI fund at India summit, WFP warns Somalia food aid halts in weeks, India launches VoicERA for 700+ dialects, and new deep learning research improves cyclone forecasting.
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=NmW8uSn0Md4
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/8</itunes:summary>
-      <itunes:keywords>ai for social impact, gates foundation ai health, guterres ai fund, wfp somalia, voicera india, cyclone forecasting deep learning</itunes:keywords>
+🌐 Website: https://impactsignals.ai/episodes/8</ns1:summary>
+      <ns1:keywords>ai for social impact, gates foundation ai health, guterres ai fund, wfp somalia, voicera india, cyclone forecasting deep learning</ns1:keywords>
     </item>
     <item>
       <title>Impact Signals #7 — WFP Grain ATMs, Google $75M Pledge, Latam-GPT Launch</title>
@@ -2013,17 +2013,17 @@ AI for social impact daily briefing — Impact Signals covers how artificial int
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-7/episode-7.mp3" length="4913852" type="audio/mpeg" />
       <pubDate>Thu, 19 Feb 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-7</guid>
-      <itunes:episode>7</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>5:36</itunes:duration>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>7</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>5:36</ns1:duration>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: WFP deploys grain ATMs and route AI serving 800 million, Google commits $75M+ to AI for social good, and Latin America first open-source LLM launches for 700 million speakers.
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=WPQCddpLa8E
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/7</itunes:summary>
-      <itunes:keywords>social impact of ai, ai for social good, wfp grain atm, latam-gpt, cyclone gezani</itunes:keywords>
+🌐 Website: https://impactsignals.ai/episodes/7</ns1:summary>
+      <ns1:keywords>social impact of ai, ai for social good, wfp grain atm, latam-gpt, cyclone gezani</ns1:keywords>
     </item>
     <item>
       <title>Impact Signals #6 — WFP Food Distribution AI, Google $60M Impact Challenge, NASA Cyclone Mapping</title>
@@ -2067,10 +2067,10 @@ Full research and sources at impactsignals.ai
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-6/episode-6.mp3" length="4768012" type="audio/mpeg" />
       <pubDate>Wed, 18 Feb 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-6</guid>
-      <itunes:episode>6</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>5:12</itunes:duration>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>6</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>5:12</ns1:duration>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: WFP showcases AI food distribution at India's AI Summit, Google commits $60M to AI impact challenges, and NASA deploys satellite AI for Cyclone Gezani.
 
@@ -2106,8 +2106,8 @@ Full research and sources at impactsignals.ai
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=iPC1nqnJB2M
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/6</itunes:summary>
-      <itunes:keywords>ai for social impact, wfp ai food distribution, google ai impact challenge, nasa cyclone mapping, humanitarian ai</itunes:keywords>
+🌐 Website: https://impactsignals.ai/episodes/6</ns1:summary>
+      <ns1:keywords>ai for social impact, wfp ai food distribution, google ai impact challenge, nasa cyclone mapping, humanitarian ai</ns1:keywords>
     </item>
     <item>
       <title>Impact Signals #5 — India Healthcare AI, UNICEF Child Safety, Emergency Drones</title>
@@ -2156,10 +2156,10 @@ Full research and sources at impactsignals.ai
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-5/episode-5.mp3" length="5080781" type="audio/mpeg" />
       <pubDate>Tue, 17 Feb 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-5</guid>
-      <itunes:episode>5</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>5:37</itunes:duration>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>5</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>5:37</ns1:duration>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: India launches first national AI healthcare strategy in South-East Asia, UNICEF mandates child rights impact assessments for AI, and autonomous drones go operational in Stockholm.
 
@@ -2200,8 +2200,8 @@ Full research and sources at impactsignals.ai
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=iayPmduxnRg
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/5</itunes:summary>
-      <itunes:keywords>artificial intelligence impact, ai for social good, india ai healthcare strategy, unicef ai child safety, autonomous emergency drones</itunes:keywords>
+🌐 Website: https://impactsignals.ai/episodes/5</ns1:summary>
+      <ns1:keywords>artificial intelligence impact, ai for social good, india ai healthcare strategy, unicef ai child safety, autonomous emergency drones</ns1:keywords>
     </item>
     <item>
       <title>Impact Signals #4 — India Summit, Legal Gaps in Disaster AI, 1.1B Hunger Crisis</title>
@@ -2247,10 +2247,10 @@ Full research and sources at impactsignals.ai
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-4/episode-4.mp3" length="5843530" type="audio/mpeg" />
       <pubDate>Mon, 16 Feb 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-4</guid>
-      <itunes:episode>4</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>6:05</itunes:duration>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>4</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>6:05</ns1:duration>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: India AI Impact Summit opens as the first major AI summit in the Global South, UNDRR warns legal gaps block AI disaster response, and an AI model predicts 1.1 billion could face hunger by 2100.
 
@@ -2288,8 +2288,8 @@ Full research and sources at impactsignals.ai
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=bkxTqb91CG4
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/4</itunes:summary>
-      <itunes:keywords>ai for social good, social impact of ai, india ai summit 2026, ai disaster response legal framework, ai hunger crisis prediction</itunes:keywords>
+🌐 Website: https://impactsignals.ai/episodes/4</ns1:summary>
+      <ns1:keywords>ai for social good, social impact of ai, india ai summit 2026, ai disaster response legal framework, ai hunger crisis prediction</ns1:keywords>
     </item>
     <item>
       <title>Impact Signals #3 — India AI Summit, AI Prosthetics in Pakistan, UN Global AI Fund</title>
@@ -2340,10 +2340,10 @@ Full research, sources, and links at impactsignalsai.substack.com
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-3/episode-3.mp3" length="3228495" type="audio/mpeg" />
       <pubDate>Sun, 15 Feb 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-3</guid>
-      <itunes:episode>3</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>3:43</itunes:duration>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>3</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>3:43</ns1:duration>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 Impact Signals #3: India AI Summit Opens as First Global South Host, AI Prosthetics Transform Lives in Pakistan, UN Proposes Global AI Fund
 
@@ -2386,8 +2386,8 @@ Full research, sources, and links at impactsignalsai.substack.com
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=mf5xDQr2M-o
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/3</itunes:summary>
-      <itunes:keywords>ai humanitarian aid, india ai summit 2026, ai prosthetics, un global ai fund, ai for social good</itunes:keywords>
+🌐 Website: https://impactsignals.ai/episodes/3</ns1:summary>
+      <ns1:keywords>ai humanitarian aid, india ai summit 2026, ai prosthetics, un global ai fund, ai for social good</ns1:keywords>
     </item>
     <item>
       <title>Impact Signals #2 — AI Drones in War, Wildfire Early Action Protocol</title>
@@ -2430,10 +2430,10 @@ Full research, sources, and links at impactsignalsai.substack.com
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-2/episode-2.mp3" length="5414393" type="audio/mpeg" />
       <pubDate>Sat, 14 Feb 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-2</guid>
-      <itunes:episode>2</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>6:22</itunes:duration>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>2</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>6:22</ns1:duration>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 Impact Signals #2: AI Drones Turning Wars on Civilians, World's First Wildfire Early Action Protocol, Google Expands Flood Forecasting Across Africa
 
@@ -2468,8 +2468,8 @@ Full research, sources, and links at impactsignalsai.substack.com
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=Xo5h-kYpbxg
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/2</itunes:summary>
-      <itunes:keywords>social impact of ai, ai drones warfare, wildfire early warning, ai flood forecasting, disaster response ai</itunes:keywords>
+🌐 Website: https://impactsignals.ai/episodes/2</ns1:summary>
+      <ns1:keywords>social impact of ai, ai drones warfare, wildfire early warning, ai flood forecasting, disaster response ai</ns1:keywords>
     </item>
     <item>
       <title>Impact Signals #1 — UN AI Panel, India Summit, and Why Aid Is Collapsing</title>
@@ -2483,17 +2483,17 @@ The UN voted 117-2 to create its first AI Scientific Panel. India hosts the bigg
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-1/episode-1.mp3" length="3424417" type="audio/mpeg" />
       <pubDate>Sat, 14 Feb 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-1</guid>
-      <itunes:episode>1</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:03</itunes:duration>
-      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+      <ns1:episode>1</ns1:episode>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>4:03</ns1:duration>
+      <ns1:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 The UN voted 117-2 to create its first AI Scientific Panel. India hosts the biggest Global South AI summit. The IRC warns of humanitarian funding collapse. Plus: Vanuatu earthquake update, Africa's expanding early warning systems, and AI reading brain MRIs at 97.5% accuracy.
 
 ▶️ Watch on YouTube: https://www.youtube.com/watch?v=B6yitlQuv4w
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/1</itunes:summary>
-      <itunes:keywords>ai for social impact, un ai panel, humanitarian aid collapse, india ai summit, artificial intelligence impact</itunes:keywords>
+🌐 Website: https://impactsignals.ai/episodes/1</ns1:summary>
+      <ns1:keywords>ai for social impact, un ai panel, humanitarian aid collapse, india ai summit, artificial intelligence impact</ns1:keywords>
     </item>
   </channel>
 </rss>
