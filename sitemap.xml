@@ -246,4 +246,10 @@
         <changefreq>never</changefreq>
         <priority>0.8</priority>
     </url>
+  <url>
+    <loc>https://impactsignals.ai/episodes/ep34-irc-alma-refugee-ai-vietnam-weather-flood-hub/</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
