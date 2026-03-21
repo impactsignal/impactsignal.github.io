@@ -258,4 +258,10 @@
         <changefreq>never</changefreq>
         <priority>0.8</priority>
     </url>
+  <url>
+    <loc>https://impactsignals.ai/episodes/ep36-us-disaster-hubs-dataminr-crisis24-irc-nigeria-india-noaa/</loc>
+    <lastmod>2026-03-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
