@@ -63,14 +63,14 @@ Single source of truth for all episodes. Each entry has:
 ### `feed.xml`
 Podcast RSS feed. **NEVER manually edit.** Always regenerate via:
 ```bash
-python3 ~/.openclaw/workspace/impact-signal/pipeline/generate-rss-incremental.py
+python3 ~/.abeclaw/workspace/impact-signal/pipeline/generate-rss-incremental.py
 ```
 RSS pubDate must be 14:00 UTC (= 6am PT). Never use 7am UTC.
 
 ### `index.html`
 Homepage. Updated by:
 ```bash
-python3 ~/.openclaw/workspace/impact-signal/pipeline/step-update-homepage.py
+python3 ~/.abeclaw/workspace/impact-signal/pipeline/step-update-homepage.py
 ```
 
 ---
@@ -134,7 +134,7 @@ These are banned. The pipeline will abort if found. Abe works at Amazon; this co
 
 ## Pipeline Integration
 
-The website is updated by these pipeline scripts (in `~/.openclaw/workspace/impact-signal/pipeline/`):
+The website is updated by these pipeline scripts (in `~/.abeclaw/workspace/impact-signal/pipeline/`):
 
 | Script | What it does |
 |--------|-------------|
@@ -193,5 +193,5 @@ git push origin main
 
 When done with any task, report to the Build channel:
 ```bash
-bash ~/.openclaw/workspace/tools/send-to-build.sh "✅ IS Website: [what you did]"
+bash ~/.abeclaw/workspace/tools/send-to-build.sh "✅ IS Website: [what you did]"
 ```
