@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "© 2026 Impact Signals AI"
   },
-  "nextEpisode": 58,
+  "nextEpisode": 59,
   "episodes": [
     {
       "number": 1,
@@ -1594,6 +1594,40 @@
       "legacy_substack_url": "https://impactsignal.substack.com/p/57-ai-moves-into-frontline-decisions",
       "substack_post_id": 199122090,
       "legacy_substack_post_id": 199122095
+    },
+    {
+      "number": 58,
+      "date": "2026-05-24",
+      "title": "#58: Governance Meets the Field Stack",
+      "headline": "AI Governance Meets the Field Stack",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-58/episode-58.mp3",
+      "mp3_bytes": 3618861,
+      "duration_seconds": 226,
+      "description": "AI governance moves closer to the field stack: humanitarian SAFE AI guidance, Singapore frontier AI partnerships, wildfire monitoring, Caribbean partner capacity, events, and funding.",
+      "youtube_id": "YiTFptag0C8",
+      "youtube_url": "https://www.youtube.com/watch?v=YiTFptag0C8",
+      "youtube_title": "#58: Governance Meets the Field Stack | Impact Signals",
+      "youtube_verified": true,
+      "slug": "58-governance-meets-the-field-stack",
+      "keywords": [
+        "AI governance",
+        "humanitarian AI",
+        "disaster response",
+        "wildfire monitoring",
+        "AI for Good",
+        "Impact Signals"
+      ],
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-58/impact-signal-58.mp4",
+      "mp4_bytes": 25161302,
+      "status": "published",
+      "stories": [
+        "SAFE AI humanitarian framework v1.1",
+        "Singapore frontier AI partnership",
+        "AI wildfire monitoring",
+        "Caribbean humanitarian partner capacity",
+        "AI for Good Global Summit",
+        "AWS Imagine Grant"
+      ]
     }
   ],
   "lastEpisode": 61,
