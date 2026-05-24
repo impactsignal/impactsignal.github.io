@@ -23,6 +23,70 @@
     <copyright>© 2026 Impact Signals AI</copyright>
     <itunes:image href="https://impactsignals.ai/artwork.jpg" />
     <item>
+      <title>#57: AI Moves Into Frontline Decisions</title>
+      <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+# Impact Signals #57 — AI Moves Into Frontline Decisions
+**Date:** Saturday, May 23, 2026  
+**Episode:** 57  
+**Format:** Impact Signals daily briefing
+Today’s episode looks at a practical shift: AI is moving from abstract strategy into frontline work surfaces where public-benefit decisions, clinical protocols, disaster monitoring, convenings, and funding choices meet real people.
+## Lead signals
+- **Public benefits:** StateScoop reported that Code for America and Anthropic are partnering on AI tools for SNAP caseworkers, beginning with the SNAP Policy Navigator for federal, state, and county guidance lookup.
+- **Clinical workflow:** GovInsider reported that KK Women’s and Children’s Hospital in Singapore used Pair, a government-secure GPT platform, to build a Pediatric Nursing Sidekick that combines protocol lookup with a weight-based dose calculator.
+- **Disaster watch:** ReliefWeb updates kept attention on weather, health, displacement, and logistics risks, including Somalia weather forecasting, Colombia hydrometeorological impact prediction, South Sudan health reporting, Mayon Volcano, tropical cyclones, Yemen floods, Tanzania floods and landslides, and Afghanistan floods.
+- **Events:** AI for Good Global Summit 2026 is scheduled for July 7–10 in Geneva, convened by ITU with the Government of Switzerland.
+- **Funding:** AWS Imagine Grant remains a live funding signal for registered nonprofits using cloud technology to accelerate their missions. The Code for Africa AI for Good Fellowship appeared in the scan as a trend marker, but its May 11 deadline had already passed.
+## Practitioner takeaway
+The strongest deployments in this episode are not framed as magic assistants. They are accountable work surfaces: a caseworker looks up policy, a nurse checks a protocol, a team decides what needs human sign-off, and the system has to preserve context at the handoff.
+If an AI system cannot show its work when a decision affects benefits, health, eligibility, or operational response, it is not ready for that workflow.
+## Source notes
+- StateScoop: Code for America and Anthropic SNAP caseworker AI tools / SNAP Policy Navigator.
+- GovInsider: KK Women’s and Children’s Hospital, Pair, Pediatric Nursing Sidekick, dose calculator, internal hospital use.
+- ReliefWeb: recent disaster, weather, hydrometeorological, health cluster, and situation updates.
+- ITU / AI for Good: AI for Good Global Summit 2026, Geneva, July 7–10.
+- AWS: AWS Imagine Grant for registered nonprofits.
+- Code for Africa: AI for Good Fellowship noted as a closed-deadline trend marker, not an active application window.
+## Operational scan coverage
+This public body preserves the five recurring Impact Signals scan areas: AI for social impact, humanitarian/frontline use cases, active disasters and health/weather watchlist, upcoming events, and grants/funding. No Kenya item was promoted as a main claim in this episode; the scan focus stayed on SNAP casework, Singapore clinical workflow, ReliefWeb disaster monitoring, AI for Good, and nonprofit cloud funding.
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/57</description>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-57/episode-57.mp3" length="4947501" type="audio/mpeg" />
+      <pubDate>Sat, 23 May 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">impact-signal-57</guid>
+      <itunes:episode>57</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>5:09</itunes:duration>
+      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+# Impact Signals #57 — AI Moves Into Frontline Decisions
+**Date:** Saturday, May 23, 2026  
+**Episode:** 57  
+**Format:** Impact Signals daily briefing
+Today’s episode looks at a practical shift: AI is moving from abstract strategy into frontline work surfaces where public-benefit decisions, clinical protocols, disaster monitoring, convenings, and funding choices meet real people.
+## Lead signals
+- **Public benefits:** StateScoop reported that Code for America and Anthropic are partnering on AI tools for SNAP caseworkers, beginning with the SNAP Policy Navigator for federal, state, and county guidance lookup.
+- **Clinical workflow:** GovInsider reported that KK Women’s and Children’s Hospital in Singapore used Pair, a government-secure GPT platform, to build a Pediatric Nursing Sidekick that combines protocol lookup with a weight-based dose calculator.
+- **Disaster watch:** ReliefWeb updates kept attention on weather, health, displacement, and logistics risks, including Somalia weather forecasting, Colombia hydrometeorological impact prediction, South Sudan health reporting, Mayon Volcano, tropical cyclones, Yemen floods, Tanzania floods and landslides, and Afghanistan floods.
+- **Events:** AI for Good Global Summit 2026 is scheduled for July 7–10 in Geneva, convened by ITU with the Government of Switzerland.
+- **Funding:** AWS Imagine Grant remains a live funding signal for registered nonprofits using cloud technology to accelerate their missions. The Code for Africa AI for Good Fellowship appeared in the scan as a trend marker, but its May 11 deadline had already passed.
+## Practitioner takeaway
+The strongest deployments in this episode are not framed as magic assistants. They are accountable work surfaces: a caseworker looks up policy, a nurse checks a protocol, a team decides what needs human sign-off, and the system has to preserve context at the handoff.
+If an AI system cannot show its work when a decision affects benefits, health, eligibility, or operational response, it is not ready for that workflow.
+## Source notes
+- StateScoop: Code for America and Anthropic SNAP caseworker AI tools / SNAP Policy Navigator.
+- GovInsider: KK Women’s and Children’s Hospital, Pair, Pediatric Nursing Sidekick, dose calculator, internal hospital use.
+- ReliefWeb: recent disaster, weather, hydrometeorological, health cluster, and situation updates.
+- ITU / AI for Good: AI for Good Global Summit 2026, Geneva, July 7–10.
+- AWS: AWS Imagine Grant for registered nonprofits.
+- Code for Africa: AI for Good Fellowship noted as a closed-deadline trend marker, not an active application window.
+## Operational scan coverage
+This public body preserves the five recurring Impact Signals scan areas: AI for social impact, humanitarian/frontline use cases, active disasters and health/weather watchlist, upcoming events, and grants/funding. No Kenya item was promoted as a main claim in this episode; the scan focus stayed on SNAP casework, Singapore clinical workflow, ReliefWeb disaster monitoring, AI for Good, and nonprofit cloud funding.
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/57</itunes:summary>
+      <itunes:keywords>ai for social impact, humanitarian ai, public benefits, SNAP, clinical AI, disaster monitoring, AI for Good, nonprofit funding</itunes:keywords>
+    </item>
+    <item>
       <title>#56: Tools &amp; Platforms — Five Things Practitioners Can Use This Week</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
