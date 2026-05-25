@@ -1587,13 +1587,16 @@
       "pipeline_status": "published",
       "status": "published",
       "pipeline_started": "2026-05-23T19:41:44-07:00",
-      "youtube_verified": false,
+      "youtube_verified": true,
       "audio_size": 4947501,
       "mp3_size": 4947501,
       "substack_url": "https://impactsignalsai.substack.com/p/57-ai-moves-into-frontline-decisions",
       "legacy_substack_url": "https://impactsignal.substack.com/p/57-ai-moves-into-frontline-decisions",
       "substack_post_id": 199122090,
-      "legacy_substack_post_id": 199122095
+      "legacy_substack_post_id": 199122095,
+      "youtube_id": "bJ1DJBsCj6U",
+      "youtube_url": "https://www.youtube.com/watch?v=bJ1DJBsCj6U",
+      "youtube_title": "#57: AI Moves Into Frontline Decisions"
     },
     {
       "number": 58,
