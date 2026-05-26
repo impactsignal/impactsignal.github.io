@@ -138,7 +138,7 @@ else
 fi
 
 FEED_BODY=$(curl -sL "$SITE_URL/feed.xml" 2>/dev/null)
-if echo "$FEED_BODY" | grep -q '<?xml'; then
+if [[ "$FEED_BODY" == *"<?xml"* ]]; then
     pass "feed.xml is valid XML response"
 else
     fail "feed.xml does not look like valid XML"
