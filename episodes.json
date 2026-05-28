@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 60,
+  "nextEpisode": 61,
   "episodes": [
     {
       "number": 1,
@@ -1657,6 +1657,37 @@
         "SAFE AI argues humanitarian systems need a right to know",
         "Current disaster signals are mostly green, but still useful for prioritization",
         "Practitioner opportunities are clustering around standards, resilience, and language access"
+      ]
+    },
+    {
+      "number": 60,
+      "date": "2026-05-27",
+      "title": "Impact Signals #60 \u2014 Public service AI moves into the operating layer",
+      "headline": "Public service AI moves into the operating layer",
+      "slug": "60-public-service-ai-moves-into-the-operating-layer",
+      "description": "Impact Signals #60: Public service AI moves into the operating layer Today\u2019s signal is practical: AI is moving into public-service workflows where the hard questions are not model capability alone, but trust, source support, escalation, and whether the system works under real constraints. What changed **ClearGov launched an AI-powered financial engagement platform for local governments.** Smart Cities Dive reports that the tool turns city budget data into plain-language summaries and interactive visuals, with feedback channels for residents. Rochester Hills, Michigan received hundreds of resident comments in an early pilot, and Cleveland, Placer County, and Southwest Public Libraries also participated. **Nigeria launched GovGuide for public service access.** TechCabal reports that Nigeria\u2019s communications ministry, NCAIR, Publica AI, and Meta built a Llama-based chatbot that provides government-service information through multilingual voice and text on the web. **IRC\u2019s Signpost work shows humanitarian AI as infrastructure.** A Tech Talks Daily interview with Andr\u00e9 Heller P\u00e9rache describes Signpost operating across roughly 30 countries and 25 languages, reaching more than 20 million users and supporting more than 500,000 digital social-work consultations. **CrisisLens explores low-bandwidth disaster communication.** The DEV Community project describes compressing disaster-scene information into roughly 200-byte emergency payloads for LoRa and Meshtastic-style networks, where\u2026",
+      "rss_description": "Impact Signals #60: Public service AI moves into the operating layer Today\u2019s signal is practical: AI is moving into public-service workflows where the hard questions are not model capability alone, but trust, source support, escalation, and whether the system works under real constraints. What changed **ClearGov launched an AI-powered financial engagement platform for local governments.** Smart Cities Dive reports that the tool turns city budget data into plain-language summaries and interactive visuals, with feedback channels for residents. Rochester Hills, Michigan received hundreds of resident comments in an early pilot, and Cleveland, Placer County, and Southwest Public Libraries also participated. **Nigeria launched GovGuide for public service access.** TechCabal reports that Nigeria\u2019s communications ministry, NCAIR, Publica AI, and Meta built a Llama-based chatbot that provides government-service information through multilingual voice and text on the web. **IRC\u2019s Signpost work shows humanitarian AI as infrastructure.** A Tech Talks Daily interview with Andr\u00e9 Heller P\u00e9rache describes Signpost operating across roughly 30 countries and 25 languages, reaching more than 20 million users and supporting more than 500,000 digital social-work consultations. **CrisisLens explores low-bandwidth disaster communication.** The DEV Community project describes compressing disaster-scene information into roughly 200-byte emergency payloads for LoRa and Meshtastic-style networks, where\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-60/episode-60.mp3",
+      "mp3_bytes": 1048749,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-60/impact-signal-60.mp4",
+      "mp4_bytes": 25982061,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 262,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Whether local-government AI tools create genuine two-way participation or just easier presentation.",
+        "Whether GovGuide-like tools make official service access clearer across language barriers.",
+        "Whether humanitarian chat and information systems keep humans in the loop for high-risk needs.",
+        "Whether disaster-response AI designs assume degraded connectivity instead of perfect cloud access.",
+        "Whether grant and challenge programs push teams toward deployable field partnerships rather than prototypes that stop at a demo.",
+        "ClearGov launches interactive AI platform to communicate city budgets",
+        "Nigeria launches GovGuide, an AI chatbot for public service access",
+        "How the International Rescue Committee is scaling humanitarian support with AI"
       ]
     }
   ],
