@@ -5,7 +5,7 @@
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <link>https://impactsignals.ai</link>
     <language>en-us</language>
-    <generator>Impact Signals AI Pipeline</generator>
+    <generator>Impact Signals Pipeline</generator>
     <atom:link href="https://impactsignals.ai/video-feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Impact Signals</itunes:author>
     <itunes:summary>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</itunes:summary>
@@ -23,101 +23,71 @@
     <copyright>© 2026 Impact Signals AI</copyright>
     <itunes:image href="https://impactsignals.ai/artwork.jpg" />
     <item>
-      <title>#58: Governance Meets the Field Stack</title>
+      <title>#61: Four quick AI-for-impact signals</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
-# Impact Signals #58 — Governance Meets the Field Stack
+Impact Signals #61: Four quick AI-for-impact signals A concise approval version of Episode 61: four source-bound items, each reduced to the useful fact and the practical implication. What changed - **Public-sector AI assurance:** Salesforce, Boston Consulting Group, and the Centre for Public Impact report that governments have AI principles, but approval processes are often complex, duplicative, and slow. The practical ask is lifecycle assurance that works inside service delivery. - **Haryana TB mapping:** The Indian Express reports that Haryana is using roughly thirty datasets and historical TB case data to map risk down to a 500-by-500-metre grid, then target active case-finding and AI-aided X-ray screening. - **AI accountability fellowships:** The Pulitzer Center opened its 2026–2027 AI Accountability Fellowships for eight to ten journalists, ten months of work, and up to $25,000 per fellow. - **Post-flood damage assessment:** Applied Geomatics reviewed deep learning and geospatial approaches for post-flood damage assessment, with the main constraint still being verified field data after infrastructure and communications are damaged. Why it matters The common test is simple: does the system name the workflow, user, evidence, limit, and handoff before AI output shapes a decision? Source trail - Salesforce / BCG / Centre for Public Impact — New Global Research Outlines How Governments Can Accelerate AI Implementation — https://salesforce.com/au/news/stories/new-global-resea…
 
-**Date:** Sunday, May 24, 2026  
-**Episode:** 58  
-**Format:** Impact Signals daily briefing
-
-Today's episode tracks a practical convergence: AI governance is moving closer to the field stack. The most useful signals this week are not only model launches. They are frameworks, partnerships, wildfire monitoring, partner-capacity systems, events, and funding paths that determine whether AI can survive real operating conditions.
-
-## Lead signals
-
-- **Humanitarian governance:** ReliefWeb surfaced the SAFE AI framework, version 1.1, as a practical guide for turning ethical AI principles into action inside humanitarian organizations.
-- **Public-sector frontier AI:** The Edge Singapore reported that Google expanded its frontier AI partnership with Singapore across healthcare, scientific research, enterprise adoption, and safety.
-- **Wildfire operations:** WBUR reported on AI watching for wildfires across drought-stricken western states, while California reported deploying more than 2,800 personnel and equipment for wildfire response.
-- **Partner capacity:** UNICEF highlighted private-sector leadership in Caribbean humanitarian action, a reminder that resilience depends on local logistics, telecoms, firms, and community organizations, not only central agencies.
-- **Events:** AI for Good Global Summit 2026 is scheduled for July 7–10 in Geneva.
-- **Funding:** AWS Imagine Grant remains a live signal for registered nonprofits using cloud technology to accelerate mission outcomes.
-
-## Practitioner takeaway
-
-If you are deploying AI into frontline work this summer, draw the whole operating map: model, data, human review, partner handoff, incident response, and funding path. The gap between a promising AI pilot and a usable field system usually appears where one organization, dataset, or decision owner hands work to another.
-
-## Source notes
-
-- ReliefWeb: SAFE AI framework for ethical AI in humanitarian action, version 1.1, May 2026.
-- The Edge Singapore: Google frontier AI partnership expansion with Singapore across healthcare, scientific research, enterprise, and safety.
-- UNICEF: Private sector in the Caribbean taking the lead in humanitarian action.
-- WBUR: AI wildfire monitoring across drought-stricken western states.
-- California State Portal: More than 2,800 personnel and equipment deployed for wildfire response.
-- AI for Good: Global Summit 2026, Geneva, July 7–10.
-- AWS: AWS Imagine Grant for registered nonprofits.
-
-## Operational scan coverage
-
-This public body preserves the Impact Signals scan areas: AI for social impact, humanitarian/frontline use cases, active disaster and wildfire monitoring, upcoming events, and grants/funding. Items were selected from the May 24 seven-day scan and kept to decision-relevant public sources.
-
-
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=kTjn8E8Xq1M
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/58-governance-meets-the-field-stack/</description>
-      <link>https://impactsignals.ai/episodes/58-governance-meets-the-field-stack/</link>
-      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-58/impact-signal-58.mp4" length="25161302" type="video/mp4" />
-      <pubDate>Sun, 24 May 2026 23:16:35 +0000</pubDate>
-      <guid isPermaLink="false">impact-signal-video-58</guid>
-      <itunes:episode>58</itunes:episode>
+🌐 Website: https://impactsignals.ai/episodes/61</description>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-61/impact-signal-61.mp4" length="9109524" type="video/mp4" />
+      <pubDate>Wed, 27 May 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">impact-signal-video-61</guid>
+      <itunes:episode>61</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>3:46</itunes:duration>
+      <itunes:duration>1:21</itunes:duration>
       <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
-# Impact Signals #58 — Governance Meets the Field Stack
+Impact Signals #61: Four quick AI-for-impact signals A concise approval version of Episode 61: four source-bound items, each reduced to the useful fact and the practical implication. What changed - **Public-sector AI assurance:** Salesforce, Boston Consulting Group, and the Centre for Public Impact report that governments have AI principles, but approval processes are often complex, duplicative, and slow. The practical ask is lifecycle assurance that works inside service delivery. - **Haryana TB mapping:** The Indian Express reports that Haryana is using roughly thirty datasets and historical TB case data to map risk down to a 500-by-500-metre grid, then target active case-finding and AI-aided X-ray screening. - **AI accountability fellowships:** The Pulitzer Center opened its 2026–2027 AI Accountability Fellowships for eight to ten journalists, ten months of work, and up to $25,000 per fellow. - **Post-flood damage assessment:** Applied Geomatics reviewed deep learning and geospatial approaches for post-flood damage assessment, with the main constraint still being verified field data after infrastructure and communications are damaged. Why it matters The common test is simple: does the system name the workflow, user, evidence, limit, and handoff before AI output shapes a decision? Source trail - Salesforce / BCG / Centre for Public Impact — New Global Research Outlines How Governments Can Accelerate AI Implementation — https://salesforce.com/au/news/stories/new-global-resea…
 
-**Date:** Sunday, May 24, 2026  
-**Episode:** 58  
-**Format:** Impact Signals daily briefing
-
-Today's episode tracks a practical convergence: AI governance is moving closer to the field stack. The most useful signals this week are not only model launches. They are frameworks, partnerships, wildfire monitoring, partner-capacity systems, events, and funding paths that determine whether AI can survive real operating conditions.
-
-## Lead signals
-
-- **Humanitarian governance:** ReliefWeb surfaced the SAFE AI framework, version 1.1, as a practical guide for turning ethical AI principles into action inside humanitarian organizations.
-- **Public-sector frontier AI:** The Edge Singapore reported that Google expanded its frontier AI partnership with Singapore across healthcare, scientific research, enterprise adoption, and safety.
-- **Wildfire operations:** WBUR reported on AI watching for wildfires across drought-stricken western states, while California reported deploying more than 2,800 personnel and equipment for wildfire response.
-- **Partner capacity:** UNICEF highlighted private-sector leadership in Caribbean humanitarian action, a reminder that resilience depends on local logistics, telecoms, firms, and community organizations, not only central agencies.
-- **Events:** AI for Good Global Summit 2026 is scheduled for July 7–10 in Geneva.
-- **Funding:** AWS Imagine Grant remains a live signal for registered nonprofits using cloud technology to accelerate mission outcomes.
-
-## Practitioner takeaway
-
-If you are deploying AI into frontline work this summer, draw the whole operating map: model, data, human review, partner handoff, incident response, and funding path. The gap between a promising AI pilot and a usable field system usually appears where one organization, dataset, or decision owner hands work to another.
-
-## Source notes
-
-- ReliefWeb: SAFE AI framework for ethical AI in humanitarian action, version 1.1, May 2026.
-- The Edge Singapore: Google frontier AI partnership expansion with Singapore across healthcare, scientific research, enterprise, and safety.
-- UNICEF: Private sector in the Caribbean taking the lead in humanitarian action.
-- WBUR: AI wildfire monitoring across drought-stricken western states.
-- California State Portal: More than 2,800 personnel and equipment deployed for wildfire response.
-- AI for Good: Global Summit 2026, Geneva, July 7–10.
-- AWS: AWS Imagine Grant for registered nonprofits.
-
-## Operational scan coverage
-
-This public body preserves the Impact Signals scan areas: AI for social impact, humanitarian/frontline use cases, active disaster and wildfire monitoring, upcoming events, and grants/funding. Items were selected from the May 24 seven-day scan and kept to decision-relevant public sources.
-
-
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=kTjn8E8Xq1M
 📩 Subscribe: https://impactsignalsai.substack.com
-🌐 Website: https://impactsignals.ai/episodes/58-governance-meets-the-field-stack/</itunes:summary>
-      <itunes:title>#58: Governance Meets the Field Stack</itunes:title>
-      <itunes:author>Impact Signals</itunes:author>
-      <itunes:image href="https://impactsignals.ai/artwork.jpg" />
+🌐 Website: https://impactsignals.ai/episodes/61</itunes:summary>
+      <itunes:keywords>ai for social impact, humanitarian ai, disaster response ai</itunes:keywords>
+    </item>
+    <item>
+      <title>#60: Humanitarian AI moves into the operating layer</title>
+      <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+Impact Signals #60: Humanitarian AI moves into the operating layer Humanitarian AI is moving from experiment to operating pressure: staff adoption is outpacing organizational governance, disaster-response agents are being benchmarked against real emergency workflows, and governments are starting to put AI directly in public-service channels. What changed NetHope’s 2026 humanitarian AI outlook says the sector is still operating under severe funding constraints, expanding needs, climate pressure, and geopolitical instability. The report warns that individual use of AI assistants is outpacing organizational strategy, creating shadow-AI risk, cybersecurity exposure, and fragmented workflows. Why it matters The main constraint is no longer whether humanitarian teams can find AI tools. It is whether those tools sit inside governed workflows with safe data practices, clear human handoffs, measurable value, and realistic total cost of ownership. Signals to watch 1. NetHope says humanitarian organizations should agree responsible-AI guardrails, build capacity across staff, define priority use cases, measure outcomes, and strengthen data governance before scaling. 2. The DORA disaster-response agent benchmark evaluates 515 expert-authored tasks across 45 real-world disaster events and 10 disaster types. It reports that long multi-tool emergency workflows remain fragile for current LLM agents. 3. Nigeria launched GovGuideNigeria, an AI-powered WhatsApp and web platform for government i…
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/60</description>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-60/impact-signal-60.mp4" length="31924861" type="video/mp4" />
+      <pubDate>Tue, 26 May 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">impact-signal-video-60</guid>
+      <itunes:episode>60</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>5:23</itunes:duration>
+      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+Impact Signals #60: Humanitarian AI moves into the operating layer Humanitarian AI is moving from experiment to operating pressure: staff adoption is outpacing organizational governance, disaster-response agents are being benchmarked against real emergency workflows, and governments are starting to put AI directly in public-service channels. What changed NetHope’s 2026 humanitarian AI outlook says the sector is still operating under severe funding constraints, expanding needs, climate pressure, and geopolitical instability. The report warns that individual use of AI assistants is outpacing organizational strategy, creating shadow-AI risk, cybersecurity exposure, and fragmented workflows. Why it matters The main constraint is no longer whether humanitarian teams can find AI tools. It is whether those tools sit inside governed workflows with safe data practices, clear human handoffs, measurable value, and realistic total cost of ownership. Signals to watch 1. NetHope says humanitarian organizations should agree responsible-AI guardrails, build capacity across staff, define priority use cases, measure outcomes, and strengthen data governance before scaling. 2. The DORA disaster-response agent benchmark evaluates 515 expert-authored tasks across 45 real-world disaster events and 10 disaster types. It reports that long multi-tool emergency workflows remain fragile for current LLM agents. 3. Nigeria launched GovGuideNigeria, an AI-powered WhatsApp and web platform for government i…
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/60</itunes:summary>
+      <itunes:keywords>ai for social impact, humanitarian ai, disaster response ai</itunes:keywords>
+    </item>
+    <item>
+      <title>#59: Humanitarian AI reaches the operating layer</title>
+      <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+Impact Signals #59: Humanitarian AI reaches the operating layer Humanitarian AI is starting to look less like a demo and more like operating infrastructure. The signal this week is practical: food assistance teams are using AI to improve accuracy, governance groups are trying to make those systems inspectable, and practitioners have new places to engage on standards, resilience, language access, and inclusion. 1. WFP is using AI to improve speed and accuracy in food assistance The World Food Programme says AI is helping teams move faster and more accurately in settings where families are displaced, records are incomplete, and needs change by the hour. The operational point is not novelty. It is that data quality can become relief capacity when resources are constrained. 2. SAFE AI argues humanitarian systems need a right to know CDAC's SAFE AI framework says humanitarian AI is being deployed faster than the architecture needed to govern it. The framework centers a right to know for affected communities, donors, partners, and boards, with decision gates, transparency cards, procurement safeguards, audit rights, and community participation across the lifecycle. 3. Current disaster signals are mostly green, but still useful for prioritization GDACS recent alerts included green earthquakes in the Philippines, the United States, Papua New Guinea, and Indonesia, plus green flood alerts in Bulgaria, Moldova, Peru, and Afghanistan. These are not major international response signals…
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/59</description>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-59/impact-signal-59.mp4" length="3633191" type="video/mp4" />
+      <pubDate>Mon, 25 May 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">impact-signal-video-59</guid>
+      <itunes:episode>59</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:29</itunes:duration>
+      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+Impact Signals #59: Humanitarian AI reaches the operating layer Humanitarian AI is starting to look less like a demo and more like operating infrastructure. The signal this week is practical: food assistance teams are using AI to improve accuracy, governance groups are trying to make those systems inspectable, and practitioners have new places to engage on standards, resilience, language access, and inclusion. 1. WFP is using AI to improve speed and accuracy in food assistance The World Food Programme says AI is helping teams move faster and more accurately in settings where families are displaced, records are incomplete, and needs change by the hour. The operational point is not novelty. It is that data quality can become relief capacity when resources are constrained. 2. SAFE AI argues humanitarian systems need a right to know CDAC's SAFE AI framework says humanitarian AI is being deployed faster than the architecture needed to govern it. The framework centers a right to know for affected communities, donors, partners, and boards, with decision gates, transparency cards, procurement safeguards, audit rights, and community participation across the lifecycle. 3. Current disaster signals are mostly green, but still useful for prioritization GDACS recent alerts included green earthquakes in the Philippines, the United States, Papua New Guinea, and Indonesia, plus green flood alerts in Bulgaria, Moldova, Peru, and Afghanistan. These are not major international response signals…
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/59</itunes:summary>
+      <itunes:keywords>ai for social impact, humanitarian ai, disaster response ai</itunes:keywords>
     </item>
     <item>
       <title>#57: AI Moves Into Frontline Decisions</title>
-      <link>https://impactsignals.ai/episodes/57-ai-moves-into-frontline-decisions/</link>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
 
 # Impact Signals #57 — AI Moves Into Frontline Decisions
@@ -155,6 +125,8 @@ If an AI system cannot show its work when a decision affects benefits, health, e
 
 This public body preserves the five recurring Impact Signals scan areas: AI for social impact, humanitarian/frontline use cases, active disasters and health/weather watchlist, upcoming events, and grants/funding. No Kenya item was promoted as a main claim in this episode; the scan focus stayed on SNAP casework, Singapore clinical workflow, ReliefWeb disaster monitoring, AI for Good, and nonprofit cloud funding.
 
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=bJ1DJBsCj6U
 📩 Subscribe: https://impactsignalsai.substack.com
 🌐 Website: https://impactsignals.ai/episodes/57</description>
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-57/impact-signal-57-corrected-2026-05-23.mp4" length="36477230" type="video/mp4" />
@@ -200,39 +172,34 @@ If an AI system cannot show its work when a decision affects benefits, health, e
 
 This public body preserves the five recurring Impact Signals scan areas: AI for social impact, humanitarian/frontline use cases, active disasters and health/weather watchlist, upcoming events, and grants/funding. No Kenya item was promoted as a main claim in this episode; the scan focus stayed on SNAP casework, Singapore clinical workflow, ReliefWeb disaster monitoring, AI for Good, and nonprofit cloud funding.
 
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=bJ1DJBsCj6U
 📩 Subscribe: https://impactsignalsai.substack.com
 🌐 Website: https://impactsignals.ai/episodes/57</itunes:summary>
       <itunes:keywords>ai for social impact, humanitarian ai, public benefits, SNAP, clinical AI, disaster monitoring, AI for Good, nonprofit funding</itunes:keywords>
     </item>
     <item>
       <title>#56: Tools &amp; Platforms — Five Things Practitioners Can Use This Week</title>
-      <link>https://impactsignals.ai/episodes/56-tools-platforms-five-things-practitioners-can-use-this-week/</link>
-      <description>Impact Signals video episode 56. Tools and platforms practitioners can use this week.</description>
-      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-56/impact-signal-56.mp4" length="13384413" type="video/mp4" />
-      <pubDate>Tue, 19 May 2026 07:00:00 +0000</pubDate>
+      <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+#56: Tools &amp; Platforms — Five Things Practitioners Can Use This Week
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=EO3Vd5PZ2Vk
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/56</description>
+      <enclosure url="https://www.youtube.com/watch?v=EO3Vd5PZ2Vk" length="0" type="video/mp4" />
+      <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">impact-signal-video-56</guid>
       <itunes:episode>56</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>5:28</itunes:duration>
-      <itunes:summary>Impact Signals video episode 56. Tools and platforms practitioners can use this week.</itunes:summary>
-      <itunes:title>#56: Tools &amp; Platforms — Five Things Practitioners Can Use This Week</itunes:title>
-      <itunes:author>Impact Signals</itunes:author>
-      <itunes:image href="https://impactsignals.ai/artwork.jpg" />
-    </item>
-    <item>
-      <title>#55: Weekend Light — Vietnam Disaster Response, Sukkur Barrage AI, Humanitarian Data Debate</title>
-      <link>https://impactsignals.ai/episodes/55-weekend-light-vietnam-disaster-sukkur-barrage-humanitarian-data/</link>
-      <description>Impact Signals video episode 55. Weekend light scan of disaster response, water infrastructure, humanitarian data, preparedness, and food security.</description>
-      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-55/impact-signal-55.mp4" length="12422833" type="video/mp4" />
-      <pubDate>Sun, 26 Apr 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">impact-signal-video-55</guid>
-      <itunes:episode>55</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>6:46</itunes:duration>
-      <itunes:summary>Impact Signals video episode 55. Weekend light scan of disaster response, water infrastructure, humanitarian data, preparedness, and food security.</itunes:summary>
-      <itunes:title>#55: Weekend Light — Vietnam Disaster Response, Sukkur Barrage AI, Humanitarian Data Debate</itunes:title>
-      <itunes:author>Impact Signals</itunes:author>
-      <itunes:image href="https://impactsignals.ai/artwork.jpg" />
+      <itunes:summary>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good.
+
+#56: Tools &amp; Platforms — Five Things Practitioners Can Use This Week
+
+▶️ Watch on YouTube: https://www.youtube.com/watch?v=EO3Vd5PZ2Vk
+📩 Subscribe: https://impactsignalsai.substack.com
+🌐 Website: https://impactsignals.ai/episodes/56</itunes:summary>
     </item>
     <item>
       <title>#6: WFP Food Distribution AI, Google $60M Impact Challenge, NASA Cyclone Mapping</title>
