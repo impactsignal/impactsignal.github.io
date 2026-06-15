@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 63,
+  "nextEpisode": 64,
   "episodes": [
     {
       "number": 1,
@@ -1761,6 +1761,37 @@
       ],
       "youtube_id": "eZMWfCUr2XE",
       "youtube_url": "https://www.youtube.com/watch?v=eZMWfCUr2XE"
+    },
+    {
+      "number": 63,
+      "date": "2026-06-15",
+      "title": "Impact Signals #63 \u2014 AI Mobilizes on Multiple Fronts as WHO Declares 2026 Ebola Outbreak a PHEIC",
+      "headline": "AI Mobilizes on Multiple Fronts as WHO Declares 2026 Ebola Outbreak a PHEIC",
+      "slug": "63-ai-mobilizes-on-multiple-fronts-as-who-declares-2026-ebola-outbreak-a-pheic",
+      "description": "Impact Signals #63: AI Mobilizes on Multiple Fronts as WHO Declares 2026 Ebola Outbreak a PHEIC Today: AI Mobilizes on Multiple Fronts as WHO Declares 2026 Ebola Outbreak a PHEIC; Meta Gives Ray-Ban AI Glasses to All 130,000 Legally Blind U.S. Veterans \u2014 Largest Assistive AI Deployment on Record; Scientists Publish World's First Global Early Warning System for Biodiversity Heat Risk \u2014 Up to 9 Months Lead Time. --- Top Stories **1. AI Mobilizes on Multiple Fronts as WHO Declares 2026 Ebola Outbreak a PHEIC** The 2026 Ebola outbreak \u2014 caused by the Bundibugyo virus and spread across the Democratic Republic of Congo and Uganda \u2014 is the first major outbreak since the AI boom, and the technology is already demonstrating field value. Richard Hatchett, CEO of the Coalition for Epidemic Preparedness Innovations (CEPI), told Semafor that AI tools are being used to help epidemiologists identify \"where the cases are actually occurring and how that maps to different conflict areas,\" a critical capability in regions where contact tracers face danger from armed groups. The ability to cross-reference case geographies with conflict zones in near real time is a direct application of AI that can protect both responders and civilians. On the same day WHO issued its Public Health Emergency of International Concern (PHEIC) declaration, Elsevier launched a free Ebola Information Center combining evidence-based clinical guidance, peer-reviewed research, and its AI-assisted research workspace LeapS\u2026",
+      "rss_description": "Impact Signals #63: AI Mobilizes on Multiple Fronts as WHO Declares 2026 Ebola Outbreak a PHEIC Today: AI Mobilizes on Multiple Fronts as WHO Declares 2026 Ebola Outbreak a PHEIC; Meta Gives Ray-Ban AI Glasses to All 130,000 Legally Blind U.S. Veterans \u2014 Largest Assistive AI Deployment on Record; Scientists Publish World's First Global Early Warning System for Biodiversity Heat Risk \u2014 Up to 9 Months Lead Time. --- Top Stories **1. AI Mobilizes on Multiple Fronts as WHO Declares 2026 Ebola Outbreak a PHEIC** The 2026 Ebola outbreak \u2014 caused by the Bundibugyo virus and spread across the Democratic Republic of Congo and Uganda \u2014 is the first major outbreak since the AI boom, and the technology is already demonstrating field value. Richard Hatchett, CEO of the Coalition for Epidemic Preparedness Innovations (CEPI), told Semafor that AI tools are being used to help epidemiologists identify \"where the cases are actually occurring and how that maps to different conflict areas,\" a critical capability in regions where contact tracers face danger from armed groups. The ability to cross-reference case geographies with conflict zones in near real time is a direct application of AI that can protect both responders and civilians. On the same day WHO issued its Public Health Emergency of International Concern (PHEIC) declaration, Elsevier launched a free Ebola Information Center combining evidence-based clinical guidance, peer-reviewed research, and its AI-assisted research workspace LeapS\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-63/episode-63.mp3",
+      "mp3_bytes": 10658421,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-63/impact-signal-63.mp4",
+      "mp4_bytes": 62506113,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 666,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "June 15, 2026 through August 2026 (series of intensive two-day clinical workshops)",
+        "Location: Nairobi, Kenya (dry simulation facility",
+        "Register: [msf.org](https://www.msf.org/ebola-disease-drc-msf-scales-response-rapidly-evolving-outbreak)",
+        "June 2026 (verify exact session dates)",
+        "Location: \u00c9vian-les-Bains, France",
+        "Scheduled June 2026 (verify exact dates",
+        "Location: Tallinn, Estonia",
+        "Register: [smartcitiesworld.net](https://www.smartcitiesworld.net)"
+      ]
     }
   ],
   "lastEpisode": 62,
