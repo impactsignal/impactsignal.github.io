@@ -5,6 +5,14 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
+      <title>#62: Meta Donates Ray-Ban AI Smart Glasses to 130,000 Blind US Veterans in Largest AI Assistive Deployment Ever</title>
+      <description />
+      <link>https://impactsignals.ai/episodes/62-meta-donates-ray-ban-ai-smart-glasses-to-130-000-blind-us-veterans-in-largest-ai-assist/</link>
+      <guid isPermaLink="false">impact-signal-62</guid>
+      <pubDate>Sun, 14 Jun 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-62/daily.mp3" length="8101764" type="audio/mpeg" />
+    </item>
+    <item>
       <title>#61: Four quick AI-for-impact signals</title>
       <description>Impact Signals #61: Four quick AI-for-impact signals A concise approval version of Episode 61: four source-bound items, each reduced to the useful fact and the practical implication. What changed - **Public-sector AI assurance:** Salesforce, Boston Consulting Group, and the Centre for Public Impact report that governments have AI principles, but approval processes are often complex, duplicative, and slow. The practical ask is lifecycle assurance that works inside service delivery. - **Haryana TB mapping:** The Indian Express reports that Haryana is using roughly thirty datasets and historical TB case data to map risk down to a 500-by-500-metre grid, then target active case-finding and AI-aided X-ray screening. - **AI accountability fellowships:** The Pulitzer Center opened its 2026–2027 AI Accountability Fellowships for eight to ten journalists, ten months of work, and up to $25,000 per fellow. - **Post-flood damage assessment:** Applied Geomatics reviewed deep learning and geospatial approaches for post-flood damage assessment, with the main constraint still being verified field data after infrastructure and communications are damaged. Why it matters The common test is simple: does the system name the workflow, user, evidence, limit, and handoff before AI output shapes a decision? Source trail - Salesforce / BCG / Centre for Public Impact — New Global Research Outlines How Governments Can Accelerate AI Implementation — https://salesforce.com/au/news/stories/new-global-resea…</description>
       <link>https://impactsignals.ai/episodes/61-four-quick-ai-for-impact-signals/</link>
@@ -13,12 +21,12 @@
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-61/episode-61.mp3" length="326157" type="audio/mpeg" />
     </item>
     <item>
-      <title>#60: Humanitarian AI moves into the operating layer</title>
-      <description>Impact Signals #60: Humanitarian AI moves into the operating layer Humanitarian AI is moving from experiment to operating pressure: staff adoption is outpacing organizational governance, disaster-response agents are being benchmarked against real emergency workflows, and governments are starting to put AI directly in public-service channels. What changed NetHope’s 2026 humanitarian AI outlook says the sector is still operating under severe funding constraints, expanding needs, climate pressure, and geopolitical instability. The report warns that individual use of AI assistants is outpacing organizational strategy, creating shadow-AI risk, cybersecurity exposure, and fragmented workflows. Why it matters The main constraint is no longer whether humanitarian teams can find AI tools. It is whether those tools sit inside governed workflows with safe data practices, clear human handoffs, measurable value, and realistic total cost of ownership. Signals to watch 1. NetHope says humanitarian organizations should agree responsible-AI guardrails, build capacity across staff, define priority use cases, measure outcomes, and strengthen data governance before scaling. 2. The DORA disaster-response agent benchmark evaluates 515 expert-authored tasks across 45 real-world disaster events and 10 disaster types. It reports that long multi-tool emergency workflows remain fragile for current LLM agents. 3. Nigeria launched GovGuideNigeria, an AI-powered WhatsApp and web platform for government i…</description>
-      <link>https://impactsignals.ai/episodes/60-humanitarian-ai-moves-into-the-operating-layer/</link>
+      <title>#60: Public service AI moves into the operating layer</title>
+      <description>Impact Signals #60: Public service AI moves into the operating layer Today’s signal is practical: AI is moving into public-service workflows where the hard questions are not model capability alone, but trust, source support, escalation, and whether the system works under real constraints. What changed **ClearGov launched an AI-powered financial engagement platform for local governments.** Smart Cities Dive reports that the tool turns city budget data into plain-language summaries and interactive visuals, with feedback channels for residents. Rochester Hills, Michigan received hundreds of resident comments in an early pilot, and Cleveland, Placer County, and Southwest Public Libraries also participated. **Nigeria launched GovGuide for public service access.** TechCabal reports that Nigeria’s communications ministry, NCAIR, Publica AI, and Meta built a Llama-based chatbot that provides government-service information through multilingual voice and text on the web. **IRC’s Signpost work shows humanitarian AI as infrastructure.** A Tech Talks Daily interview with André Heller Pérache describes Signpost operating across roughly 30 countries and 25 languages, reaching more than 20 million users and supporting more than 500,000 digital social-work consultations. **CrisisLens explores low-bandwidth disaster communication.** The DEV Community project describes compressing disaster-scene information into roughly 200-byte emergency payloads for LoRa and Meshtastic-style networks, where…</description>
+      <link>https://impactsignals.ai/episodes/60-public-service-ai-moves-into-the-operating-layer/</link>
       <guid isPermaLink="false">impact-signal-60</guid>
-      <pubDate>Tue, 26 May 2026 14:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-60/episode-60.mp3" length="1293261" type="audio/mpeg" />
+      <pubDate>Wed, 27 May 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-60/episode-60.mp3" length="1048749" type="audio/mpeg" />
     </item>
     <item>
       <title>#59: Humanitarian AI reaches the operating layer</title>
@@ -29,7 +37,15 @@
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-59/episode-59.mp3" length="1079181" type="audio/mpeg" />
     </item>
     <item>
-      <title>#57: #57: AI Moves Into Frontline Decisions</title>
+      <title>#58: Governance Meets the Field Stack</title>
+      <description>AI governance moves closer to the field stack: humanitarian SAFE AI guidance, Singapore frontier AI partnerships, wildfire monitoring, Caribbean partner capacity, events, and funding.</description>
+      <link>https://impactsignals.ai/episodes/58-governance-meets-the-field-stack/</link>
+      <guid isPermaLink="false">impact-signal-58</guid>
+      <pubDate>Sun, 24 May 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-58/episode-58.mp3" length="3618861" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#57: AI Moves Into Frontline Decisions</title>
       <description># Impact Signals #57 — AI Moves Into Frontline Decisions
 
 **Date:** Saturday, May 23, 2026  
@@ -71,15 +87,7 @@ This public body preserves the five recurring Impact Signals scan areas: AI for 
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-57/episode-57-corrected-2026-05-23.mp3" length="4947501" type="audio/mpeg" />
     </item>
     <item>
-      <title>#56: #56: Tools &amp; Platforms — Five Things Practitioners Can Use This Week</title>
-      <description />
-      <link>https://impactsignals.ai/episodes/56-tools-platforms-five-things-practitioners-can-use-this-week/</link>
-      <guid isPermaLink="false">impact-signal-56</guid>
-      <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-56/episode-56.mp3" length="3805616" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>#55: #55: Weekend Light — Vietnam Disaster Response, Sukkur Barrage AI, Humanitarian Data Debate</title>
+      <title>#55: Weekend Light — Vietnam Disaster Response, Sukkur Barrage AI, Humanitarian Data Debate</title>
       <description />
       <link>https://impactsignals.ai/episodes/55-weekend-light-vietnam-disaster-sukkur-barrage-humanitarian-data/</link>
       <guid isPermaLink="false">impact-signal-55</guid>
@@ -87,7 +95,7 @@ This public body preserves the five recurring Impact Signals scan areas: AI for 
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-55/episode-55.mp3" length="3879741" type="audio/mpeg" />
     </item>
     <item>
-      <title>#54: #54: Weekend Light — Madagascar Climate, AI as Public Good, Anticipatory Action</title>
+      <title>#54: Weekend Light — Madagascar Climate, AI as Public Good, Anticipatory Action</title>
       <description />
       <link>https://impactsignals.ai/episodes/54-weekend-light-madagascar-climate-ai-public-good-anticipatory-action/</link>
       <guid isPermaLink="false">impact-signal-54</guid>
@@ -95,7 +103,7 @@ This public body preserves the five recurring Impact Signals scan areas: AI for 
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-54/episode-54.mp3" length="5058355" type="audio/mpeg" />
     </item>
     <item>
-      <title>#53: #53: Wildfire AI, Earthquake Rail, Humanitarian Platforms — Deployment Equity</title>
+      <title>#53: Wildfire AI, Earthquake Rail, Humanitarian Platforms — Deployment Equity</title>
       <description />
       <link>https://impactsignals.ai/episodes/53-wildfire-ai-earthquake-rail-humanitarian-platforms/</link>
       <guid isPermaLink="false">impact-signal-53</guid>
@@ -103,7 +111,7 @@ This public body preserves the five recurring Impact Signals scan areas: AI for 
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-53/episode-53.mp3" length="3594069" type="audio/mpeg" />
     </item>
     <item>
-      <title>#52: #52: Five AI Tools Humanitarians Can Use This Week — WHO AIM, FEMA Drones, ShakeAlert</title>
+      <title>#52: Five AI Tools Humanitarians Can Use This Week — WHO AIM, FEMA Drones, ShakeAlert</title>
       <description>A practitioner-focused tour of five AI platforms shipping now: WHO's AIM toolkit and AI Community of Practice, wearable AI for firefighters and disaster relief, FEMA drone and computer-vision damage assessment, ShakeAlert's magnitude-7 performance review, and an open-source generative-AI framework for climate literacy.</description>
       <link>https://impactsignals.ai/episodes/52-five-ai-tools-humanitarians-who-aim-fema-drones-shakealert/</link>
       <guid isPermaLink="false">impact-signal-52</guid>
@@ -111,7 +119,7 @@ This public body preserves the five recurring Impact Signals scan areas: AI for 
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-52/episode-52.mp3" length="0" type="audio/mpeg" />
     </item>
     <item>
-      <title>#51: #51: Humanitarian AI Maturity — NetHope Strategy Shift, aprendIA Teacher Support, Localisation</title>
+      <title>#51: Humanitarian AI Maturity — NetHope Strategy Shift, aprendIA Teacher Support, Localisation</title>
       <description />
       <link>https://impactsignals.ai/episodes/51-operational-maturity-disaster-response-climate-adaptation/</link>
       <guid isPermaLink="false">impact-signal-51</guid>
@@ -119,7 +127,7 @@ This public body preserves the five recurring Impact Signals scan areas: AI for 
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-51/episode-51.mp3" length="9296951" type="audio/mpeg" />
     </item>
     <item>
-      <title>#50: #50: Humanitarian AI Maturity — NetHope Strategy Shift, aprendIA Teacher Support, Localisation</title>
+      <title>#50: Humanitarian AI Maturity — NetHope Strategy Shift, aprendIA Teacher Support, Localisation</title>
       <description />
       <link>https://impactsignals.ai/episodes/50-humanitarian-ai-maturity-nethope-aprendia-localisation/</link>
       <guid isPermaLink="false">impact-signal-50</guid>
@@ -127,7 +135,7 @@ This public body preserves the five recurring Impact Signals scan areas: AI for 
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-50/episode-50.mp3" length="3416357" type="audio/mpeg" />
     </item>
     <item>
-      <title>#49: #49: Indonesia Earthquake, Early Warning Systems, Climate Tech — From Hype to Execution</title>
+      <title>#49: Indonesia Earthquake, Early Warning Systems, Climate Tech — From Hype to Execution</title>
       <description />
       <link>https://impactsignals.ai/episodes/49-indonesia-earthquake-early-warning-climate-tech/</link>
       <guid isPermaLink="false">impact-signal-49</guid>
@@ -207,7 +215,7 @@ This public body preserves the five recurring Impact Signals scan areas: AI for 
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-40/episode-40.mp3" length="9718862" type="audio/mpeg" />
     </item>
     <item>
-      <title>#39: #39: Sundial Flood AI for Data-Scarce Regions, Fengyun-4C/MAZU Satellite System, Tonga Earthquake Response, UNDP Digital Wallets DPI | Impact Signals</title>
+      <title>#39: Sundial Flood AI for Data-Scarce Regions, Fengyun-4C/MAZU Satellite System, Tonga Earthquake Response, UNDP Digital Wallets DPI | Impact Signals</title>
       <description />
       <link>https://impactsignals.ai/episodes/ep39-sundial-flood-ai-fengyun-mazu-tonga-earthquake-undp-digital-wallets-africa-edtech/</link>
       <guid isPermaLink="false">impact-signal-39</guid>
@@ -215,7 +223,7 @@ This public body preserves the five recurring Impact Signals scan areas: AI for 
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-39/2026-03-24-podcast.mp3" length="7678909" type="audio/mpeg" />
     </item>
     <item>
-      <title>#38: #38: EU Preparedness Strategy Review, UK Asylum AI Governance Challenge, Cyclone Narelle, IFRC Supply Chain Alert | Impact Signals</title>
+      <title>#38: EU Preparedness Strategy Review, UK Asylum AI Governance Challenge, Cyclone Narelle, IFRC Supply Chain Alert | Impact Signals</title>
       <description />
       <link>https://impactsignals.ai/episodes/ep38-eu-preparedness-uk-asylum-ai-cyclone-narelle-humanitarian-supply-chain/</link>
       <guid isPermaLink="false">impact-signal-38</guid>
@@ -223,7 +231,7 @@ This public body preserves the five recurring Impact Signals scan areas: AI for 
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-38/episode-38.mp3" length="8168165" type="audio/mpeg" />
     </item>
     <item>
-      <title>#37: #37: Hawaii Flooding, AI Foundation Models Crack Flood Forecasting, Planet Satellite AI, Kazakhstan Cash Targeting | Impact Signals</title>
+      <title>#37: Hawaii Flooding, AI Foundation Models Crack Flood Forecasting, Planet Satellite AI, Kazakhstan Cash Targeting | Impact Signals</title>
       <description />
       <link>https://impactsignals.ai/episodes/ep37-hawaii-flooding-ai-flood-forecasting-planet-satellite-kazakhstan-cash/</link>
       <guid isPermaLink="false">impact-signal-37</guid>
@@ -231,7 +239,7 @@ This public body preserves the five recurring Impact Signals scan areas: AI for 
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-37/episode-37.mp3" length="4528244" type="audio/mpeg" />
     </item>
     <item>
-      <title>#36: #36: US 12 Regional Disaster Hubs, Dataminr-Crisis24 Agentic AI, IRC 22K Teachers Nigeria, India IMD Upgrade, NOAA HGEFS</title>
+      <title>#36: US 12 Regional Disaster Hubs, Dataminr-Crisis24 Agentic AI, IRC 22K Teachers Nigeria, India IMD Upgrade, NOAA HGEFS</title>
       <description />
       <link>https://impactsignals.ai/episodes/ep36-us-disaster-hubs-dataminr-crisis24-irc-nigeria-india-noaa/</link>
       <guid isPermaLink="false">impact-signal-36</guid>
@@ -239,7 +247,7 @@ This public body preserves the five recurring Impact Signals scan areas: AI for 
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-36/2026-03-21-podcast.mp3" length="9268342" type="audio/mpeg" />
     </item>
     <item>
-      <title>#35: #35: Taiwan AI-on-DM Diabetes Screening, Google.org $60M Challenge, Brazil Household Disaster Agent</title>
+      <title>#35: Taiwan AI-on-DM Diabetes Screening, Google.org $60M Challenge, Brazil Household Disaster Agent</title>
       <description />
       <link>https://impactsignals.ai/episodes/ep35-taiwan-ai-health-google-org-brazil-eu-preparedness/</link>
       <guid isPermaLink="false">impact-signal-35</guid>
@@ -255,7 +263,7 @@ This public body preserves the five recurring Impact Signals scan areas: AI for 
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-34/2026-03-19-podcast.mp3" length="10331614" type="audio/mpeg" />
     </item>
     <item>
-      <title>#33: #33: AI Field Deployments — ICRC Saves $4M, Brazil's Household Disaster Agent, SANY–OCHA MoU</title>
+      <title>#33: AI Field Deployments — ICRC Saves $4M, Brazil's Household Disaster Agent, SANY–OCHA MoU</title>
       <description />
       <link>https://impactsignals.ai/episodes/ep33-ai-field-deployments-icrc-brazil-sany-ocha/</link>
       <guid isPermaLink="false">impact-signal-33</guid>
@@ -263,7 +271,7 @@ This public body preserves the five recurring Impact Signals scan areas: AI for 
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-33/episode-33.mp3" length="5879142" type="audio/mpeg" />
     </item>
     <item>
-      <title>#32: #32: AI Governance Rails: India SAHI+BODH, GiveDirectly Anticipatory Cash RCT, Mercy Corps Agentic Crisis Analysis</title>
+      <title>#32: AI Governance Rails: India SAHI+BODH, GiveDirectly Anticipatory Cash RCT, Mercy Corps Agentic Crisis Analysis</title>
       <description />
       <link>https://impactsignals.ai/episodes/ai-governance-rails-india-sahi-bodh-givedirectly-anticipatory-cash-mercy-corps-crisis-analysis/</link>
       <guid isPermaLink="false">impact-signal-32</guid>
@@ -271,7 +279,7 @@ This public body preserves the five recurring Impact Signals scan areas: AI for 
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-32/episode-32.mp3" length="9948162" type="audio/mpeg" />
     </item>
     <item>
-      <title>#31: #31: Impact-Linked Finance for Refugees — Haiti AI Challenge, AI Access Initiative, Voice AI Research</title>
+      <title>#31: Impact-Linked Finance for Refugees — Haiti AI Challenge, AI Access Initiative, Voice AI Research</title>
       <description># AI for Impact — Daily Briefing
 **Date:** Sunday, March 15, 2026 | **Episode:** 31 | **Theme:** Weekend Light
 
@@ -330,7 +338,7 @@ This public body preserves the five recurring Impact Signals scan areas: AI for 
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-31/episode-31.mp3" length="4952816" type="audio/mpeg" />
     </item>
     <item>
-      <title>#30: #30: AI Closes the Data Gap — From Flash Floods to Field Logistics</title>
+      <title>#30: AI Closes the Data Gap — From Flash Floods to Field Logistics</title>
       <description>Impact Signals #30: Flash Flood AI — Groundsource, Africa Early Warning, Red Cross Clara
 
 Google Groundsource mines 5 million news articles to predict urban flash floods 24 hours out across 150 countries — no sensors required. Africa gets national-scale AI weather forecasting for $1,430/month via NVIDIA Earth-2. Red Cross prototypes Clara AI multi-agent platform for humanitarian services. Madagascar mobilizes $29M+ in parametric recovery financing. Stevens Institute algorithm makes disaster delivery fairer by optimizing for equity, not just speed.</description>
@@ -340,7 +348,7 @@ Google Groundsource mines 5 million news articles to predict urban flash floods 
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-30/episode-30.mp3" length="7868204" type="audio/mpeg" />
     </item>
     <item>
-      <title>#29: #29: AI for Social Impact — Groundsource Flood AI, Red Cross Clara, Fair Logistics</title>
+      <title>#29: AI for Social Impact — Groundsource Flood AI, Red Cross Clara, Fair Logistics</title>
       <description># AI for Impact — Daily Briefing: Friday, March 13, 2026
 **Episode 29 | Theme: Research, Funding &amp; Weekly Wrap**
 *Produced by Impact Signals Pipeline | 6:00 AM PT*
@@ -406,7 +414,7 @@ Clara AI is designed to reduce friction for disaster-affected individuals naviga
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-29/2026-03-13-podcast.mp3" length="8937993" type="audio/mpeg" />
     </item>
     <item>
-      <title>#28: #28: AI Disaster Recovery — Ditwah RAPIDA, India Multilingual AI, IMF Digital Gap</title>
+      <title>#28: AI Disaster Recovery — Ditwah RAPIDA, India Multilingual AI, IMF Digital Gap</title>
       <description># AI for Impact — Daily Briefing
 **Date:** Thursday, March 12, 2026 | **Episode:** 28
 **Theme:** Recovery Focus + Deep Dive — Thursday Recovery Edition
@@ -580,7 +588,7 @@ The World Food Programme has issued an early warning that up to **55 million peo
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-26/2026-03-10-podcast.mp3" length="7258333" type="audio/mpeg" />
     </item>
     <item>
-      <title>#25: #25: UN AI Science Panel — Somalia Crisis, EVAH $60M Fund, ASEAN Disaster Framework</title>
+      <title>#25: UN AI Science Panel — Somalia Crisis, EVAH $60M Fund, ASEAN Disaster Framework</title>
       <description># AI for Social Impact Daily Briefing
 **Date:** Monday, March 9, 2026
 **Episode:** #25
@@ -794,7 +802,7 @@ Busan (South Korea</description>
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-22/2026-03-06-podcast.mp3" length="65" type="audio/mpeg" />
     </item>
     <item>
-      <title>#21: #21: AI Accountability Reckoning — IFRC Disinformation Crisis, IRC Nigeria Scale-Up, UNICEF Deepfakes Alert | Impact Signals</title>
+      <title>#21: AI Accountability Reckoning — IFRC Disinformation Crisis, IRC Nigeria Scale-Up, UNICEF Deepfakes Alert | Impact Signals</title>
       <description>AI for social impact daily briefing — Impact Signals covers how artificial intelligence is transforming disaster response, humanitarian aid, and social good. Today: the IFRC officially calls AI-amplified disinformation a "de facto crisis" following operational failures in Valencia, Sudan, and Lebanon. The IRC releases the sector's most detailed AI deployment blueprint with 3,200 teachers reached in Northeast Nigeria. UNICEF documents 1.2 million children harmed by AI-generated deepfakes in 12 months.
 
 🔥 TOP STORIES
@@ -828,7 +836,7 @@ Impact Signals — impactsignals.ai</description>
       <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-21/episode-21.mp3" length="57" type="audio/mpeg" />
     </item>
     <item>
-      <title>#20: #20: AI for Social Impact — Qwen Architect Exit, Anthropic Rwanda MOU, Kenya Smart EOC</title>
+      <title>#20: AI for Social Impact — Qwen Architect Exit, Anthropic Rwanda MOU, Kenya Smart EOC</title>
       <description>The engineer who built the world’s most-downloaded open-source AI model resigned. What that means for field deployments running on Qwen. Plus: Anthropic’s first African government AI partnership in Rwanda, a UNDP-funded smart emergency operations center in Kisumu Kenya, Timor-Leste completes Southeast Asia’s first national early warning system, and an offline-first AI tool built by a flood survivor.</description>
       <link>https://impactsignals.ai/episodes/20-qwen-architect-rwanda-mou-kenya-eoc/</link>
       <guid isPermaLink="false">impact-signal-20</guid>
