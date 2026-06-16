@@ -1791,11 +1791,13 @@
         "Scheduled June 2026 (verify exact dates",
         "Location: Tallinn, Estonia",
         "Register: [smartcitiesworld.net](https://www.smartcitiesworld.net)"
-      ]
+      ],
+      "youtube_id": "4JsAijq3AEM",
+      "youtube_url": "https://www.youtube.com/watch?v=4JsAijq3AEM"
     }
   ],
-  "lastEpisode": 62,
-  "lastUpdated": "2026-06-15T07:08:03.554554+00:00",
-  "lastPublicEpisode": 62,
+  "lastEpisode": 63,
+  "lastUpdated": "2026-06-16T08:59:20.217613+00:00",
+  "lastPublicEpisode": 63,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
