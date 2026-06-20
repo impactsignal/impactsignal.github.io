@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 64,
+  "nextEpisode": 65,
   "episodes": [
     {
       "number": 1,
@@ -1794,10 +1794,43 @@
       ],
       "youtube_id": "4JsAijq3AEM",
       "youtube_url": "https://www.youtube.com/watch?v=4JsAijq3AEM"
+    },
+    {
+      "number": 64,
+      "date": "2026-06-20",
+      "title": "Impact Signals #64 \u2014 OpenAI Brings Frontier Health AI to 230 Million Free Users, Cuts Factuality Errors 71%",
+      "headline": "OpenAI Brings Frontier Health AI to 230 Million Free Users, Cuts Factuality Errors 71%",
+      "slug": "64-openai-brings-frontier-health-ai-to-230-million-free-users-cuts-factuality-errors-71",
+      "description": "Impact Signals #64: OpenAI Brings Frontier Health AI to 230 Million Free Users, Cuts Factuality Errors 71% Today: OpenAI Brings Frontier Health AI to 230 Million Free Users, Cuts Factuality Errors 71%; Belize Study: Every Dollar in Early Warning Returns Up to BZD 6.80 in Avoided Losses; Anthropic Claude Corps: 1,000 Paid AI Fellows at Nonprofits; First Cohort Closes July 17. --- Top Stories **1. OpenAI Brings Frontier Health AI to 230 Million Free Users, Cuts Factuality Errors 71%** OpenAI announced June 19 that it has rolled GPT-5.5 Instant out to all free ChatGPT users worldwide, delivering what the company calls \"frontier-level health intelligence\" at no cost. Over the prior two months the upgrade produced a 71% decline in health-response factuality errors, with specific improvements in recognizing when urgent care is needed, asking for clarifying context before answering, and making medically complex topics accessible to general users. The 230-million-plus weekly ChatGPT users include a large share in low- and middle-income countries where this may be the most consistent health-information source available. OpenAI said the model is explicitly optimized to surface uncertainty and to direct users toward professional care when symptoms suggest it. **Why it matters:** This is one of the largest-scale deployments of health AI equity to date: frontier-level clinical reasoning, previously gated by subscription, is now available to free users in every country ChatGPT operates. N\u2026",
+      "rss_description": "Impact Signals #64: OpenAI Brings Frontier Health AI to 230 Million Free Users, Cuts Factuality Errors 71% Today: OpenAI Brings Frontier Health AI to 230 Million Free Users, Cuts Factuality Errors 71%; Belize Study: Every Dollar in Early Warning Returns Up to BZD 6.80 in Avoided Losses; Anthropic Claude Corps: 1,000 Paid AI Fellows at Nonprofits; First Cohort Closes July 17. --- Top Stories **1. OpenAI Brings Frontier Health AI to 230 Million Free Users, Cuts Factuality Errors 71%** OpenAI announced June 19 that it has rolled GPT-5.5 Instant out to all free ChatGPT users worldwide, delivering what the company calls \"frontier-level health intelligence\" at no cost. Over the prior two months the upgrade produced a 71% decline in health-response factuality errors, with specific improvements in recognizing when urgent care is needed, asking for clarifying context before answering, and making medically complex topics accessible to general users. The 230-million-plus weekly ChatGPT users include a large share in low- and middle-income countries where this may be the most consistent health-information source available. OpenAI said the model is explicitly optimized to surface uncertainty and to direct users toward professional care when symptoms suggest it. **Why it matters:** This is one of the largest-scale deployments of health AI equity to date: frontier-level clinical reasoning, previously gated by subscription, is now available to free users in every country ChatGPT operates. N\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-64/episode-64.mp3",
+      "mp3_bytes": 7943776,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-64/impact-signal-64.mp4",
+      "mp4_bytes": 49676496,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 496,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Amount: $85,000/year salary per fellow + $10,000 implementation grant to host org + Claude API credits; fully Anthropic-funded",
+        "Deadline: 2026-07-17 (first cohort of 100 fellows; subsequent cohorts in January and August 2027)",
+        "Eligibility: U.S. nonprofit organizations hosting fellows; individual applicants 18+, under 2 years work experience, U.S. work authorization (no degree required)",
+        "Apply: [anthropic.com](https://www.anthropic.com/claude-corps)",
+        "Apply: [anthropic.com](https://www.anthropic.com/claude-corps/fellow)",
+        "Amount: $50 million total fund (individual grant amounts not specified in primary source)",
+        "Deadline: 2026-07-15 at 11:59 PM PT (confirmed against primary funder page)",
+        "Eligibility: U.S. 501(c)(3) public charities with annual budgets $500,000-$10 million; community support services, community arts/culture, community journalism/media"
+      ],
+      "youtube_id": "gwQHXO8ruJc",
+      "youtube_url": "https://www.youtube.com/watch?v=gwQHXO8ruJc"
     }
   ],
-  "lastEpisode": 63,
-  "lastUpdated": "2026-06-16T08:59:20.217613+00:00",
-  "lastPublicEpisode": 63,
+  "lastEpisode": 64,
+  "lastUpdated": "2026-06-20T23:46:23.239091+00:00",
+  "lastPublicEpisode": 64,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
