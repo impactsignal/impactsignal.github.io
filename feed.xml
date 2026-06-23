@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#64: OpenAI Brings Frontier Health AI to 230 Million Free Users, Cuts Factuality Errors 71%</title>
+      <title>#65: Britain ships "Extract", an AI that turns paper planning maps into data for every council in England</title>
       <description />
+      <link>https://impactsignals.ai/episodes/65-britain-ships-extract-an-ai-that-turns-paper-planning-maps-into-data-for-every-council/</link>
+      <guid isPermaLink="false">impact-signal-65</guid>
+      <pubDate>Mon, 22 Jun 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-65/episode-65.mp3" length="7224468" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#64: OpenAI Brings Frontier Health AI to 230 Million Free Users, Cuts Factuality Errors 71%</title>
+      <description>Impact Signals #64: OpenAI Brings Frontier Health AI to 230 Million Free Users, Cuts Factuality Errors 71% Today: OpenAI Brings Frontier Health AI to 230 Million Free Users, Cuts Factuality Errors 71%; Belize Study: Every Dollar in Early Warning Returns Up to BZD 6.80 in Avoided Losses; Anthropic Claude Corps: 1,000 Paid AI Fellows at Nonprofits; First Cohort Closes July 17. --- Top Stories **1. OpenAI Brings Frontier Health AI to 230 Million Free Users, Cuts Factuality Errors 71%** OpenAI announced June 19 that it has rolled GPT-5.5 Instant out to all free ChatGPT users worldwide, delivering what the company calls "frontier-level health intelligence" at no cost. Over the prior two months the upgrade produced a 71% decline in health-response factuality errors, with specific improvements in recognizing when urgent care is needed, asking for clarifying context before answering, and making medically complex topics accessible to general users. The 230-million-plus weekly ChatGPT users include a large share in low- and middle-income countries where this may be the most consistent health-information source available. OpenAI said the model is explicitly optimized to surface uncertainty and to direct users toward professional care when symptoms suggest it. **Why it matters:** This is one of the largest-scale deployments of health AI equity to date: frontier-level clinical reasoning, previously gated by subscription, is now available to free users in every country ChatGPT operates. N…</description>
       <link>https://impactsignals.ai/episodes/64-openai-brings-frontier-health-ai-to-230-million-free-users-cuts-factuality-errors-71/</link>
       <guid isPermaLink="false">impact-signal-64</guid>
       <pubDate>Sat, 20 Jun 2026 14:00:00 +0000</pubDate>

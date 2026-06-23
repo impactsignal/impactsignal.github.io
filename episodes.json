@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 65,
+  "nextEpisode": 66,
   "episodes": [
     {
       "number": 1,
@@ -1827,10 +1827,41 @@
       ],
       "youtube_id": "gwQHXO8ruJc",
       "youtube_url": "https://www.youtube.com/watch?v=gwQHXO8ruJc"
+    },
+    {
+      "number": 65,
+      "date": "2026-06-22",
+      "title": "Impact Signals #65 \u2014 Britain ships \"Extract\", an AI that turns paper planning maps into data for every council in England",
+      "headline": "Britain ships \"Extract\", an AI that turns paper planning maps into data for every council in England",
+      "slug": "65-britain-ships-extract-an-ai-that-turns-paper-planning-maps-into-data-for-every-council",
+      "description": "Impact Signals #65: Britain ships \"Extract\", an AI that turns paper planning maps into data for every council in England Today: Britain ships \"Extract\", an AI that turns paper planning maps into data for every council in England; A youth-built typhoon platform, bagyo.app, starts its first city pilot in Naga; Study: federal AI rules leave vulnerable benefit recipients exposed. --- Top Stories **1. Britain ships \"Extract\", an AI that turns paper planning maps into data for every council in England** The UK Ministry of Housing, Communities and Local Government, working with the Department for Science, Innovation and Technology's Incubator for AI ([i.AI](https://i.AI)), has launched Extract, a tool that reads scanned and handwritten planning documents (PDFs, paper maps) and converts them into structured digital map data. It targets the unglamorous bottleneck that stalls housing delivery: Conservation Areas, Article 4 Directions, and Tree Preservation Orders locked in paper records. Every local planning authority in England gets it free. The numbers are concrete. A task that took a planning officer up to 2 hours per document now runs in about 2 minutes. Within weeks of launch, 50 councils were actively using it and more than 1,000 documents had been processed. Roughly two-thirds of outputs needed only minor edits before use, and one council coordinator reported the extracted data was \"100% accurate\" on their sample. Development was not a lab exercise: 34 local planning authoritie\u2026",
+      "rss_description": "Impact Signals #65: Britain ships \"Extract\", an AI that turns paper planning maps into data for every council in England Today: Britain ships \"Extract\", an AI that turns paper planning maps into data for every council in England; A youth-built typhoon platform, bagyo.app, starts its first city pilot in Naga; Study: federal AI rules leave vulnerable benefit recipients exposed. --- Top Stories **1. Britain ships \"Extract\", an AI that turns paper planning maps into data for every council in England** The UK Ministry of Housing, Communities and Local Government, working with the Department for Science, Innovation and Technology's Incubator for AI ([i.AI](https://i.AI)), has launched Extract, a tool that reads scanned and handwritten planning documents (PDFs, paper maps) and converts them into structured digital map data. It targets the unglamorous bottleneck that stalls housing delivery: Conservation Areas, Article 4 Directions, and Tree Preservation Orders locked in paper records. Every local planning authority in England gets it free. The numbers are concrete. A task that took a planning officer up to 2 hours per document now runs in about 2 minutes. Within weeks of launch, 50 councils were actively using it and more than 1,000 documents had been processed. Roughly two-thirds of outputs needed only minor edits before use, and one council coordinator reported the extracted data was \"100% accurate\" on their sample. Development was not a lab exercise: 34 local planning authoritie\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-65/episode-65.mp3",
+      "mp3_bytes": 7224468,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-65/impact-signal-65.mp4",
+      "mp4_bytes": 46626678,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 451,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "2026-07-07 to 2026-07-10",
+        "Deadline: Verify on site",
+        "Location: Geneva, Switzerland (ITU)",
+        "Register: [aiforgood.itu.int](https://aiforgood.itu.int/summit/)",
+        "2026-06-25",
+        "Deadline: Registration open",
+        "Location: Virtual",
+        "Register: [napsgfoundation.org](https://www.napsgfoundation.org/events/)"
+      ]
     }
   ],
-  "lastEpisode": 64,
-  "lastUpdated": "2026-06-20T23:46:23.239091+00:00",
-  "lastPublicEpisode": 64,
+  "lastEpisode": 65,
+  "lastUpdated": "2026-06-23T05:29:29.677898+00:00",
+  "lastPublicEpisode": 65,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
