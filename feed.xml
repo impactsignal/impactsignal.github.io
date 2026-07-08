@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#65: Britain ships "Extract", an AI that turns paper planning maps into data for every council in England</title>
+      <title>#66: UN agencies launch flagship playbook for AI in multi-hazard early warning systems</title>
       <description />
+      <link>https://impactsignals.ai/episodes/66-un-agencies-launch-flagship-playbook-for-ai-in-multi-hazard-early-warning-systems/</link>
+      <guid isPermaLink="false">impact-signal-66</guid>
+      <pubDate>Tue, 07 Jul 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-66/episode-66.mp3" length="8490466" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#65: Britain ships "Extract", an AI that turns paper planning maps into data for every council in England</title>
+      <description>Impact Signals #65: Britain ships "Extract", an AI that turns paper planning maps into data for every council in England Today: Britain ships "Extract", an AI that turns paper planning maps into data for every council in England; A youth-built typhoon platform, bagyo.app, starts its first city pilot in Naga; Study: federal AI rules leave vulnerable benefit recipients exposed. --- Top Stories **1. Britain ships "Extract", an AI that turns paper planning maps into data for every council in England** The UK Ministry of Housing, Communities and Local Government, working with the Department for Science, Innovation and Technology's Incubator for AI ([i.AI](https://i.AI)), has launched Extract, a tool that reads scanned and handwritten planning documents (PDFs, paper maps) and converts them into structured digital map data. It targets the unglamorous bottleneck that stalls housing delivery: Conservation Areas, Article 4 Directions, and Tree Preservation Orders locked in paper records. Every local planning authority in England gets it free. The numbers are concrete. A task that took a planning officer up to 2 hours per document now runs in about 2 minutes. Within weeks of launch, 50 councils were actively using it and more than 1,000 documents had been processed. Roughly two-thirds of outputs needed only minor edits before use, and one council coordinator reported the extracted data was "100% accurate" on their sample. Development was not a lab exercise: 34 local planning authoritie…</description>
       <link>https://impactsignals.ai/episodes/65-britain-ships-extract-an-ai-that-turns-paper-planning-maps-into-data-for-every-council/</link>
       <guid isPermaLink="false">impact-signal-65</guid>
       <pubDate>Mon, 22 Jun 2026 14:00:00 +0000</pubDate>

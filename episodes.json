@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 66,
+  "nextEpisode": 67,
   "episodes": [
     {
       "number": 1,
@@ -1858,10 +1858,43 @@
         "Location: Virtual",
         "Register: [napsgfoundation.org](https://www.napsgfoundation.org/events/)"
       ]
+    },
+    {
+      "number": 66,
+      "date": "2026-07-07",
+      "title": "Impact Signals #66 \u2014 UN agencies launch flagship playbook for AI in multi-hazard early warning systems",
+      "headline": "UN agencies launch flagship playbook for AI in multi-hazard early warning systems",
+      "slug": "66-un-agencies-launch-flagship-playbook-for-ai-in-multi-hazard-early-warning-systems",
+      "description": "Impact Signals #66: UN agencies launch flagship playbook for AI in multi-hazard early warning systems Today: UN agencies launch flagship playbook for AI in multi-hazard early warning systems; Google publishes its crisis-resilience scorecard: 2 billion people under AI flood coverage, three new wildfire satellites up today; India's BharatFS AI forecast flagged the Nashik cloudburst a day ahead, and officials acted on it. --- Top Stories **1. UN agencies launch flagship playbook for AI in multi-hazard early warning systems** At the AI for Good Global Summit in Geneva today, ITU, WMO, UNDRR, and IFRC launched \"Leveraging AI to Enhance Multi-Hazard Early Warning Systems (MHEWS): A practical resource to support Early Warnings for All (EW4All).\" The report, developed by the AI Group of the Early Warnings for All initiative, maps where AI can strengthen each of the four pillars of the early warning value cycle: risk knowledge, detection and forecasting, dissemination, and preparedness to respond. The launch session also showcased the completed AI for EW4All pilot in Malawi, supported by WMO's CREWS mechanism, where MET Norway, ECMWF, and Malawi's Department of Climate Change and Meteorological Services co-developed an AI-based weather prediction system tailored to national needs, with explicit lessons on capacity building and pathways for scaling AI forecasting in Least Developed Countries. Google Research presented its flash-flood prediction work in the same session. **Why it matte\u2026",
+      "rss_description": "Impact Signals #66: UN agencies launch flagship playbook for AI in multi-hazard early warning systems Today: UN agencies launch flagship playbook for AI in multi-hazard early warning systems; Google publishes its crisis-resilience scorecard: 2 billion people under AI flood coverage, three new wildfire satellites up today; India's BharatFS AI forecast flagged the Nashik cloudburst a day ahead, and officials acted on it. --- Top Stories **1. UN agencies launch flagship playbook for AI in multi-hazard early warning systems** At the AI for Good Global Summit in Geneva today, ITU, WMO, UNDRR, and IFRC launched \"Leveraging AI to Enhance Multi-Hazard Early Warning Systems (MHEWS): A practical resource to support Early Warnings for All (EW4All).\" The report, developed by the AI Group of the Early Warnings for All initiative, maps where AI can strengthen each of the four pillars of the early warning value cycle: risk knowledge, detection and forecasting, dissemination, and preparedness to respond. The launch session also showcased the completed AI for EW4All pilot in Malawi, supported by WMO's CREWS mechanism, where MET Norway, ECMWF, and Malawi's Department of Climate Change and Meteorological Services co-developed an AI-based weather prediction system tailored to national needs, with explicit lessons on capacity building and pathways for scaling AI forecasting in Least Developed Countries. Google Research presented its flash-flood prediction work in the same session. **Why it matte\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-66/episode-66.mp3",
+      "mp3_bytes": 8490466,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-66/impact-signal-66.mp4",
+      "mp4_bytes": 53043867,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 530,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "July 7-10, 2026 (opened today; ongoing)",
+        "Deadline: Onsite registration during Digital Week",
+        "Location: Palexpo, Geneva, Switzerland",
+        "Register: [aiforgood.itu.int](https://aiforgood.itu.int/summit26/)",
+        "July 6-7, 2026 (concluding today)",
+        "Deadline: n/a (concluding)",
+        "Location: Geneva, Switzerland",
+        "Register: [itu.int](https://www.itu.int/en/mediacentre/Pages/PR-2026-07-02-AI-for-Good-Global-Commission.aspx)"
+      ],
+      "youtube_id": "VtLZoqa7CLk",
+      "youtube_url": "https://www.youtube.com/watch?v=VtLZoqa7CLk"
     }
   ],
-  "lastEpisode": 65,
-  "lastUpdated": "2026-06-23T05:29:29.677898+00:00",
-  "lastPublicEpisode": 65,
+  "lastEpisode": 66,
+  "lastUpdated": "2026-07-08T06:04:17.976779+00:00",
+  "lastPublicEpisode": 66,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
