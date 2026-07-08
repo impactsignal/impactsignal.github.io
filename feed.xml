@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#66: UN agencies launch flagship playbook for AI in multi-hazard early warning systems</title>
+      <title>#67: Google's 2-Billion-Person Flood AI, IRC's Displacement Challenge, Himalayan Landslide Warnings Go Live</title>
       <description />
+      <link>https://impactsignals.ai/episodes/67-google-s-2-billion-person-flood-ai-irc-s-displacement-challenge-himalayan-landslide-war/</link>
+      <guid isPermaLink="false">impact-signal-67</guid>
+      <pubDate>Wed, 08 Jul 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-67/episode-67.mp3" length="7786623" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#66: UN agencies launch flagship playbook for AI in multi-hazard early warning systems</title>
+      <description>Impact Signals #66: UN agencies launch flagship playbook for AI in multi-hazard early warning systems Today: UN agencies launch flagship playbook for AI in multi-hazard early warning systems; Google publishes its crisis-resilience scorecard: 2 billion people under AI flood coverage, three new wildfire satellites up today; India's BharatFS AI forecast flagged the Nashik cloudburst a day ahead, and officials acted on it. --- Top Stories **1. UN agencies launch flagship playbook for AI in multi-hazard early warning systems** At the AI for Good Global Summit in Geneva today, ITU, WMO, UNDRR, and IFRC launched "Leveraging AI to Enhance Multi-Hazard Early Warning Systems (MHEWS): A practical resource to support Early Warnings for All (EW4All)." The report, developed by the AI Group of the Early Warnings for All initiative, maps where AI can strengthen each of the four pillars of the early warning value cycle: risk knowledge, detection and forecasting, dissemination, and preparedness to respond. The launch session also showcased the completed AI for EW4All pilot in Malawi, supported by WMO's CREWS mechanism, where MET Norway, ECMWF, and Malawi's Department of Climate Change and Meteorological Services co-developed an AI-based weather prediction system tailored to national needs, with explicit lessons on capacity building and pathways for scaling AI forecasting in Least Developed Countries. Google Research presented its flash-flood prediction work in the same session. **Why it matte…</description>
       <link>https://impactsignals.ai/episodes/66-un-agencies-launch-flagship-playbook-for-ai-in-multi-hazard-early-warning-systems/</link>
       <guid isPermaLink="false">impact-signal-66</guid>
       <pubDate>Tue, 07 Jul 2026 14:00:00 +0000</pubDate>

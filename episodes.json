@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 67,
+  "nextEpisode": 68,
   "episodes": [
     {
       "number": 1,
@@ -1891,10 +1891,43 @@
       ],
       "youtube_id": "VtLZoqa7CLk",
       "youtube_url": "https://www.youtube.com/watch?v=VtLZoqa7CLk"
+    },
+    {
+      "number": 67,
+      "date": "2026-07-08",
+      "title": "Impact Signals #67 \u2014 Google's 2-Billion-Person Flood AI, IRC's Displacement Challenge, Himalayan Landslide Warnings Go Live",
+      "headline": "Google's 2-Billion-Person Flood AI, IRC's Displacement Challenge, Himalayan Landslide Warnings Go Live",
+      "slug": "67-google-s-2-billion-person-flood-ai-irc-s-displacement-challenge-himalayan-landslide-war",
+      "description": "Impact Signals #67: Google's 2-Billion-Person Flood AI, IRC's Displacement Challenge, Himalayan Landslide Warnings Go Live Google published hard reach numbers for its crisis AI for the first time: flood forecasting now covers 2 billion people in over 150 countries, and its damage models scored 385,000 buildings after Hurricane Melissa hit Jamaica. In India, IIT Mandi switched on a landslide early warning system spanning the entire Indian Himalaya, and the indigenous BharatFS model called a Nashik cloudburst a day ahead, triggering pre-emptive school closures across Maharashtra. Meanwhile the International Rescue Committee challenged the tech industry to scale responsible AI for 118 million displaced people. Today's signal: AI early warning is no longer a pilot category \u2014 it is operational infrastructure with reach numbers, live regional coverage, and forecasts that governments now act on before impact. --- Top Stories **1. Google Quantifies Its Crisis AI: Flood Warnings for 2 Billion People, Damage Scores for 385,000 Buildings** Google published a consolidated account on July 7 of how governments and humanitarian agencies use its AI systems for crisis resilience, with unusually concrete reach numbers. Flood Hub now covers more than 150 countries and serves roughly 2 billion people with up to seven-day advance warnings; Public Alerts carries data from authorities in more than 90 countries, and in 2025 Google connected people with crisis information over 10 million times per d\u2026",
+      "rss_description": "Impact Signals #67: Google's 2-Billion-Person Flood AI, IRC's Displacement Challenge, Himalayan Landslide Warnings Go Live Google published hard reach numbers for its crisis AI for the first time: flood forecasting now covers 2 billion people in over 150 countries, and its damage models scored 385,000 buildings after Hurricane Melissa hit Jamaica. In India, IIT Mandi switched on a landslide early warning system spanning the entire Indian Himalaya, and the indigenous BharatFS model called a Nashik cloudburst a day ahead, triggering pre-emptive school closures across Maharashtra. Meanwhile the International Rescue Committee challenged the tech industry to scale responsible AI for 118 million displaced people. Today's signal: AI early warning is no longer a pilot category \u2014 it is operational infrastructure with reach numbers, live regional coverage, and forecasts that governments now act on before impact. --- Top Stories **1. Google Quantifies Its Crisis AI: Flood Warnings for 2 Billion People, Damage Scores for 385,000 Buildings** Google published a consolidated account on July 7 of how governments and humanitarian agencies use its AI systems for crisis resilience, with unusually concrete reach numbers. Flood Hub now covers more than 150 countries and serves roughly 2 billion people with up to seven-day advance warnings; Public Alerts carries data from authorities in more than 90 countries, and in 2025 Google connected people with crisis information over 10 million times per d\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-67/episode-67.mp3",
+      "mp3_bytes": 7786623,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-67/impact-signal-67.mp4",
+      "mp4_bytes": 49664275,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 486,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "July 7\u201310, 2026 (underway now)",
+        "Location: Geneva, Switzerland + online (free virtual attendance)",
+        "First working session of the 44-member AI for Good Global Commission; agenda-setting for AI-for-good funding and workstreams",
+        "Register: [aiforgood.itu.int](https://aiforgood.itu.int/summit26/)",
+        "July 7\u201310, 2026 (underway now)",
+        "Location: Singapore",
+        "WMO-convened technical workshop on marine heatwave services, following the South-West Pacific climate report finding 2025 marine heatwave coverage the most extensive ever recorded in a non-El Ni\u00f1o year",
+        "Details: [wmo.int](https://wmo.int/media/news/ocean-warming-marine-heatwaves-and-sea-level-rise-pose-increasing-risk-south-west-pacific-region)"
+      ],
+      "youtube_id": "4qDcvtYw25c",
+      "youtube_url": "https://www.youtube.com/watch?v=4qDcvtYw25c"
     }
   ],
-  "lastEpisode": 66,
-  "lastUpdated": "2026-07-08T06:04:17.976779+00:00",
-  "lastPublicEpisode": 66,
+  "lastEpisode": 67,
+  "lastUpdated": "2026-07-08T13:41:08.656239+00:00",
+  "lastPublicEpisode": 67,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
