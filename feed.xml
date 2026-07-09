@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#67: Google's 2-Billion-Person Flood AI, IRC's Displacement Challenge, Himalayan Landslide Warnings Go Live</title>
+      <title>#68: Mercy Corps Ships VERA Agentic AI, Google's Flood Forecasts Reach 2 Billion, IIT Mandi's Himalayan Landslide Warnings</title>
       <description />
+      <link>https://impactsignals.ai/episodes/68-mercy-corps-ships-vera-agentic-ai-google-s-flood-forecasts-reach-2-billion-iit-mandi-s/</link>
+      <guid isPermaLink="false">impact-signal-68</guid>
+      <pubDate>Thu, 09 Jul 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-68/episode-68.mp3" length="8697356" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#67: Google's 2-Billion-Person Flood AI, IRC's Displacement Challenge, Himalayan Landslide Warnings Go Live</title>
+      <description>Impact Signals #67: Google's 2-Billion-Person Flood AI, IRC's Displacement Challenge, Himalayan Landslide Warnings Go Live Google published hard reach numbers for its crisis AI for the first time: flood forecasting now covers 2 billion people in over 150 countries, and its damage models scored 385,000 buildings after Hurricane Melissa hit Jamaica. In India, IIT Mandi switched on a landslide early warning system spanning the entire Indian Himalaya, and the indigenous BharatFS model called a Nashik cloudburst a day ahead, triggering pre-emptive school closures across Maharashtra. Meanwhile the International Rescue Committee challenged the tech industry to scale responsible AI for 118 million displaced people. Today's signal: AI early warning is no longer a pilot category — it is operational infrastructure with reach numbers, live regional coverage, and forecasts that governments now act on before impact. --- Top Stories **1. Google Quantifies Its Crisis AI: Flood Warnings for 2 Billion People, Damage Scores for 385,000 Buildings** Google published a consolidated account on July 7 of how governments and humanitarian agencies use its AI systems for crisis resilience, with unusually concrete reach numbers. Flood Hub now covers more than 150 countries and serves roughly 2 billion people with up to seven-day advance warnings; Public Alerts carries data from authorities in more than 90 countries, and in 2025 Google connected people with crisis information over 10 million times per d…</description>
       <link>https://impactsignals.ai/episodes/67-google-s-2-billion-person-flood-ai-irc-s-displacement-challenge-himalayan-landslide-war/</link>
       <guid isPermaLink="false">impact-signal-67</guid>
       <pubDate>Wed, 08 Jul 2026 14:00:00 +0000</pubDate>
