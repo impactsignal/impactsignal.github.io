@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 70,
+  "nextEpisode": 71,
   "episodes": [
     {
       "number": 1,
@@ -1990,10 +1990,43 @@
       ],
       "youtube_id": "CC6ED_sPuro",
       "youtube_url": "https://www.youtube.com/watch?v=CC6ED_sPuro"
+    },
+    {
+      "number": 70,
+      "date": "2026-07-11",
+      "title": "Impact Signals #70 \u2014 Lake Victoria AI Saves 450 Fish Cages, WFP Remote-Piloted Aid Trucks, Kerala's Landslide Living Lab",
+      "headline": "Lake Victoria AI Saves 450 Fish Cages, WFP Remote-Piloted Aid Trucks, Kerala's Landslide Living Lab",
+      "slug": "70-lake-victoria-ai-saves-450-fish-cages-wfp-remote-piloted-aid-trucks-kerala-s-landslide",
+      "description": "Impact Signals #70: Lake Victoria AI Saves 450 Fish Cages, WFP Remote-Piloted Aid Trucks, Kerala's Landslide Living Lab Community-scale AI early warning proved itself on three continents this window. An investigation published Friday documents how an oxygen-monitoring system built by the Kenya Marine and Fisheries Research Institute let more than 300 Lake Victoria fish farmers move over 450 cages ahead of a lethal oxygen crash, and Kenya now wants the system at 15 more sites. The World Food Programme unveiled AHEAD, remote-piloted all-terrain aid vehicles built with the German Aerospace Center to take drivers out of the deadliest last mile, while Kerala's Kanichar village switched on India's first disaster living lab with an AI landslide warning system. Today's signal: the early-warning stack that works is cheap sensors, an AI decision layer, and the channel people already use, and the same technology now cuts both ways, as AFP's debunk of an AI-generated Anak Krakatau eruption video shows. --- Top Stories **1. AI Early Warning on Lake Victoria Saved 450 Fish Cages, and Kenya Wants It at 15 More Sites** An investigation published July 10 documents the first proven save by an AI-powered underwater monitoring system on Lake Victoria. Built by the Kenya Marine and Fisheries Research Institute (KMFRI) with Nairobi-based ShoShin Innovation Hub, the system watches dissolved oxygen levels and pushes SMS alerts to fish farmers when readings turn dangerous. When it detected a develop\u2026",
+      "rss_description": "Impact Signals #70: Lake Victoria AI Saves 450 Fish Cages, WFP Remote-Piloted Aid Trucks, Kerala's Landslide Living Lab Community-scale AI early warning proved itself on three continents this window. An investigation published Friday documents how an oxygen-monitoring system built by the Kenya Marine and Fisheries Research Institute let more than 300 Lake Victoria fish farmers move over 450 cages ahead of a lethal oxygen crash, and Kenya now wants the system at 15 more sites. The World Food Programme unveiled AHEAD, remote-piloted all-terrain aid vehicles built with the German Aerospace Center to take drivers out of the deadliest last mile, while Kerala's Kanichar village switched on India's first disaster living lab with an AI landslide warning system. Today's signal: the early-warning stack that works is cheap sensors, an AI decision layer, and the channel people already use, and the same technology now cuts both ways, as AFP's debunk of an AI-generated Anak Krakatau eruption video shows. --- Top Stories **1. AI Early Warning on Lake Victoria Saved 450 Fish Cages, and Kenya Wants It at 15 More Sites** An investigation published July 10 documents the first proven save by an AI-powered underwater monitoring system on Lake Victoria. Built by the Kenya Marine and Fisheries Research Institute (KMFRI) with Nairobi-based ShoShin Innovation Hub, the system watches dissolved oxygen levels and pushes SMS alerts to fish farmers when readings turn dangerous. When it detected a develop\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-70/episode-70.mp3",
+      "mp3_bytes": 9586773,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-70/impact-signal-70.mp4",
+      "mp4_bytes": 58377526,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 599,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Launched July 8, 2026, as the AI for Good Global Summit closed July 11 in Geneva",
+        "The summit's standing output: a lab to move AI-for-good projects from ambition to deployment, with participation channels via ITU",
+        "Register: [itu.int](https://www.itu.int/hub/2026/07/ai-ambition-to-action-the-ai-for-good-lab-initiative/)",
+        "Amount: up to USD 150,000 in technical assistance per project; up to 10 projects expected",
+        "Deadline: October 7, 2026",
+        "Eligibility: organizations in developing countries with a National Designated Entity under the UNFCCC Technology Mechanism; LDCs and SIDS especially encouraged",
+        "Apply: [ctc-n.org](https://www.ctc-n.org/whats-happening/news/call-proposals-climate-adaptation-innovation-asia-pacific)",
+        "Amount: management software suite valued at USD 5,000 per organization, fully covered (perpetual license, onboarding, data migration, 12 months of remote support); first cohort of 500 organizations"
+      ],
+      "youtube_id": "AocGvZ6FVuw",
+      "youtube_url": "https://www.youtube.com/watch?v=AocGvZ6FVuw"
     }
   ],
-  "lastEpisode": 69,
-  "lastUpdated": "2026-07-11T02:11:55.606416+00:00",
-  "lastPublicEpisode": 69,
+  "lastEpisode": 70,
+  "lastUpdated": "2026-07-11T23:30:18.411729+00:00",
+  "lastPublicEpisode": 70,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }

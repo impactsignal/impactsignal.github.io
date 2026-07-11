@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#69: UNHCR runs AI across five live humanitarian workflows at once, from displacement forecasting to refugee legal aid</title>
+      <title>#70: Lake Victoria AI Saves 450 Fish Cages, WFP Remote-Piloted Aid Trucks, Kerala's Landslide Living Lab</title>
       <description />
+      <link>https://impactsignals.ai/episodes/70-lake-victoria-ai-saves-450-fish-cages-wfp-remote-piloted-aid-trucks-kerala-s-landslide/</link>
+      <guid isPermaLink="false">impact-signal-70</guid>
+      <pubDate>Sat, 11 Jul 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-70/episode-70.mp3" length="9586773" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#69: UNHCR runs AI across five live humanitarian workflows at once, from displacement forecasting to refugee legal aid</title>
+      <description>Impact Signals #69: UNHCR runs AI across five live humanitarian workflows at once, from displacement forecasting to refugee legal aid Today: UNHCR runs AI across five live humanitarian workflows at once, from displacement forecasting to refugee legal aid; Survey of 2,539 aid workers across 144 countries: 93% now use AI on the job, only 22% work under a formal AI policy; Money Management International opens an AI Lab and a 10-week "AI for Social Impact" fellowship with Anthropic, targeting people who never seek financial help. --- Top Stories **1. UNHCR runs AI across five live humanitarian workflows at once, from displacement forecasting to refugee legal aid** UNHCR published a summit-timed rundown (coinciding with the close of the AI for Good Global Summit in Geneva, July 7-10) of AI tools it is actually running in the field, not piloting on paper. That includes displacement-forecasting models in Somalia, agent-based modeling of return movements in Ukraine, pharmacy-stock prediction in Tanzania, fuel-management analytics in Burundi, and a legal-analysis tool that covers refugee law across more than 200 countries. The agency paired the announcement with an explicit list of the risks it's tracking: algorithmic bias, data gaps in low-connectivity settings, and deepfakes/misinformation increasingly targeting refugee populations. That combination, real multi-country deployment plus a public risk ledger, is the kind of transparency the sector has been asking for. **Why it matters…</description>
       <link>https://impactsignals.ai/episodes/69-unhcr-runs-ai-across-five-live-humanitarian-workflows-at-once-from-displacement-forecas/</link>
       <guid isPermaLink="false">impact-signal-69</guid>
       <pubDate>Fri, 10 Jul 2026 14:00:00 +0000</pubDate>
