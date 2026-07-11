@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#68: Mercy Corps Ships VERA Agentic AI, Google's Flood Forecasts Reach 2 Billion, IIT Mandi's Himalayan Landslide Warnings</title>
+      <title>#69: UNHCR runs AI across five live humanitarian workflows at once, from displacement forecasting to refugee legal aid</title>
       <description />
+      <link>https://impactsignals.ai/episodes/69-unhcr-runs-ai-across-five-live-humanitarian-workflows-at-once-from-displacement-forecas/</link>
+      <guid isPermaLink="false">impact-signal-69</guid>
+      <pubDate>Fri, 10 Jul 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-69/episode-69.mp3" length="7119560" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#68: Mercy Corps Ships VERA Agentic AI, Google's Flood Forecasts Reach 2 Billion, IIT Mandi's Himalayan Landslide Warnings</title>
+      <description>Impact Signals #68: Mercy Corps Ships VERA Agentic AI, Google's Flood Forecasts Reach 2 Billion, IIT Mandi's Himalayan Landslide Warnings Cloudera and Mercy Corps shipped VERA, an agentic AI analyst for humanitarian crises that has already cut Sudan food-security analysis from six days to three and saved roughly $2,000 per election-security report in Colombia. The same week, Google published production numbers on its crisis stack, with AI flood forecasting now reaching 2 billion people across 150+ countries, and IIT Mandi switched on a landslide early warning system covering the entire Indian Himalayan Region, delivered over WhatsApp in the middle of monsoon season. Most of it broke around the AI for Good Summit running in Geneva through Friday. Today's signal: humanitarian AI is publishing production metrics, per-report dollar savings, coverage counts, and verified lead times, not pilot promises. --- Top Stories **1. Mercy Corps and Cloudera Ship VERA, an Agentic AI Crisis Analyst With Hard Savings Numbers** Cloudera and Mercy Corps announced VERA (Verified Evidence &amp; Research Assistant) on July 9, an agentic AI solution that automates research, aggregates sources, and produces localized crisis-specific analysis for field teams, running on Cloudera AI Studios and powered by Anthropic's Claude models. The release caps nearly 2.5 years of collaboration and comes with rare production metrics from live operations: up to 90 percent time savings on election security reports in Co…</description>
       <link>https://impactsignals.ai/episodes/68-mercy-corps-ships-vera-agentic-ai-google-s-flood-forecasts-reach-2-billion-iit-mandi-s/</link>
       <guid isPermaLink="false">impact-signal-68</guid>
       <pubDate>Thu, 09 Jul 2026 14:00:00 +0000</pubDate>

@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 69,
+  "nextEpisode": 70,
   "episodes": [
     {
       "number": 1,
@@ -1957,10 +1957,43 @@
       ],
       "youtube_id": "kzeHph88Gsg",
       "youtube_url": "https://www.youtube.com/watch?v=kzeHph88Gsg"
+    },
+    {
+      "number": 69,
+      "date": "2026-07-10",
+      "title": "Impact Signals #69 \u2014 UNHCR runs AI across five live humanitarian workflows at once, from displacement forecasting to refugee legal aid",
+      "headline": "UNHCR runs AI across five live humanitarian workflows at once, from displacement forecasting to refugee legal aid",
+      "slug": "69-unhcr-runs-ai-across-five-live-humanitarian-workflows-at-once-from-displacement-forecas",
+      "description": "Impact Signals #69: UNHCR runs AI across five live humanitarian workflows at once, from displacement forecasting to refugee legal aid Today: UNHCR runs AI across five live humanitarian workflows at once, from displacement forecasting to refugee legal aid; Survey of 2,539 aid workers across 144 countries: 93% now use AI on the job, only 22% work under a formal AI policy; Money Management International opens an AI Lab and a 10-week \"AI for Social Impact\" fellowship with Anthropic, targeting people who never seek financial help. --- Top Stories **1. UNHCR runs AI across five live humanitarian workflows at once, from displacement forecasting to refugee legal aid** UNHCR published a summit-timed rundown (coinciding with the close of the AI for Good Global Summit in Geneva, July 7-10) of AI tools it is actually running in the field, not piloting on paper. That includes displacement-forecasting models in Somalia, agent-based modeling of return movements in Ukraine, pharmacy-stock prediction in Tanzania, fuel-management analytics in Burundi, and a legal-analysis tool that covers refugee law across more than 200 countries. The agency paired the announcement with an explicit list of the risks it's tracking: algorithmic bias, data gaps in low-connectivity settings, and deepfakes/misinformation increasingly targeting refugee populations. That combination, real multi-country deployment plus a public risk ledger, is the kind of transparency the sector has been asking for. **Why it matters\u2026",
+      "rss_description": "Impact Signals #69: UNHCR runs AI across five live humanitarian workflows at once, from displacement forecasting to refugee legal aid Today: UNHCR runs AI across five live humanitarian workflows at once, from displacement forecasting to refugee legal aid; Survey of 2,539 aid workers across 144 countries: 93% now use AI on the job, only 22% work under a formal AI policy; Money Management International opens an AI Lab and a 10-week \"AI for Social Impact\" fellowship with Anthropic, targeting people who never seek financial help. --- Top Stories **1. UNHCR runs AI across five live humanitarian workflows at once, from displacement forecasting to refugee legal aid** UNHCR published a summit-timed rundown (coinciding with the close of the AI for Good Global Summit in Geneva, July 7-10) of AI tools it is actually running in the field, not piloting on paper. That includes displacement-forecasting models in Somalia, agent-based modeling of return movements in Ukraine, pharmacy-stock prediction in Tanzania, fuel-management analytics in Burundi, and a legal-analysis tool that covers refugee law across more than 200 countries. The agency paired the announcement with an explicit list of the risks it's tracking: algorithmic bias, data gaps in low-connectivity settings, and deepfakes/misinformation increasingly targeting refugee populations. That combination, real multi-country deployment plus a public risk ledger, is the kind of transparency the sector has been asking for. **Why it matters\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-69/episode-69.mp3",
+      "mp3_bytes": 7119560,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-69/impact-signal-69.mp4",
+      "mp4_bytes": 46042008,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 444,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Amount: Fully-funded scholarship (summit travel, hotel, meals, mentorship program)",
+        "Deadline: 2026-08-02",
+        "Eligibility: African leaders aged 18-30 with demonstrated responsible-AI impact in sustainability/climate, education, misinformation, health access, or civic engagement",
+        "Apply: [oneyoungworld.com](https://www.oneyoungworld.com/scholarship/brandtech-group-ai-good-scholarship-2026)",
+        "Amount: Up to JPY 10 million per project (JPY 20 million total pool, 2-3 grantees)",
+        "Deadline: 2026-08-19, 5:00 PM JST",
+        "Eligibility: Agrivoltaics projects strengthening farmer/community climate resilience and cutting emissions; grant period Nov 2026-Oct 2027",
+        "Apply: [public.or.jp](https://www.public.or.jp/project/f0185)"
+      ],
+      "youtube_id": "CC6ED_sPuro",
+      "youtube_url": "https://www.youtube.com/watch?v=CC6ED_sPuro"
     }
   ],
-  "lastEpisode": 68,
-  "lastUpdated": "2026-07-09T13:47:03.238256+00:00",
-  "lastPublicEpisode": 68,
+  "lastEpisode": 69,
+  "lastUpdated": "2026-07-11T02:11:55.606416+00:00",
+  "lastPublicEpisode": 69,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
