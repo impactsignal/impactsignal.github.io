@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 71,
+  "nextEpisode": 72,
   "episodes": [
     {
       "number": 1,
@@ -2023,10 +2023,43 @@
       ],
       "youtube_id": "AocGvZ6FVuw",
       "youtube_url": "https://www.youtube.com/watch?v=AocGvZ6FVuw"
+    },
+    {
+      "number": 71,
+      "date": "2026-07-12",
+      "title": "Impact Signals #71 \u2014 As Typhoon Bavi bore down, China warned amateur AI forecasters they may be breaking the law",
+      "headline": "As Typhoon Bavi bore down, China warned amateur AI forecasters they may be breaking the law",
+      "slug": "71-as-typhoon-bavi-bore-down-china-warned-amateur-ai-forecasters-they-may-be-breaking-the",
+      "description": "Impact Signals #71: As Typhoon Bavi bore down, China warned amateur AI forecasters they may be breaking the law Today: As Typhoon Bavi bore down, China warned amateur AI forecasters they may be breaking the law; From Mars rover tech to 90-day hunger forecasts: inside the AI systems humanitarians are actually running; South Korea trips its first-ever emergency heatwave warning under a new tiered alert system. --- Top Stories **1. As Typhoon Bavi bore down, China warned amateur AI forecasters they may be breaking the law** As Super Typhoon Bavi approached China's east coast, official channels and state media warned social media bloggers that publishing their own AI-generated storm forecasts may be illegal. The trigger case: a blogger in Shandong province posted that tracking models showed a \"90 per cent chance\" the storm would push deep into Shandong, a call that diverged from official guidance. Under China's Meteorology Law, public weather alerts run through a centralised release system, and official meteorological stations are the only authorised issuers of forecasts and severe weather warnings. The warning landed in the middle of a real emergency: Bavi made landfall at Taizhou, Zhejiang province, late on July 11 after authorities evacuated more than 1.7 million people in Zhejiang alone and relocated about 34,000 Shanghai residents from high-risk areas (see Pillar 3 for the full disaster picture). Consumer-grade AI weather models are now good enough that individuals can gene\u2026",
+      "rss_description": "Impact Signals #71: As Typhoon Bavi bore down, China warned amateur AI forecasters they may be breaking the law Today: As Typhoon Bavi bore down, China warned amateur AI forecasters they may be breaking the law; From Mars rover tech to 90-day hunger forecasts: inside the AI systems humanitarians are actually running; South Korea trips its first-ever emergency heatwave warning under a new tiered alert system. --- Top Stories **1. As Typhoon Bavi bore down, China warned amateur AI forecasters they may be breaking the law** As Super Typhoon Bavi approached China's east coast, official channels and state media warned social media bloggers that publishing their own AI-generated storm forecasts may be illegal. The trigger case: a blogger in Shandong province posted that tracking models showed a \"90 per cent chance\" the storm would push deep into Shandong, a call that diverged from official guidance. Under China's Meteorology Law, public weather alerts run through a centralised release system, and official meteorological stations are the only authorised issuers of forecasts and severe weather warnings. The warning landed in the middle of a real emergency: Bavi made landfall at Taizhou, Zhejiang province, late on July 11 after authorities evacuated more than 1.7 million people in Zhejiang alone and relocated about 34,000 Shanghai residents from high-risk areas (see Pillar 3 for the full disaster picture). Consumer-grade AI weather models are now good enough that individuals can gene\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-71/episode-71.mp3",
+      "mp3_bytes": 9051786,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-71/impact-signal-71.mp4",
+      "mp4_bytes": 56058036,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 565,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "2026-07-08 to 2026-07-11, Geneva (concluded 2026-07-11)",
+        "Deadline: n/a (concluded)",
+        "Location: Geneva, Switzerland",
+        "Register: [aiforgood.itu.int](https://aiforgood.itu.int/summit26/)",
+        "UN CTCN, Adaptation Fund Climate Innovation Accelerator (AFCIA), Asia-Pacific call",
+        "FEMA resilience disbursements (context, not open calls)",
+        "Super Typhoon Bavi, eastern China (landfall at Taizhou, Zhejiang) and the Philippines:** GDACS Red alert; about 35.3 million people exposed to Category 1 or higher winds. More than 1.7 million evacuated in Zhejiang, over 130,000 in Fujian, more than 100,000 in Beijing, about 34,000 relocated in Shanghai. Hundreds of flights cancelled on the mainland; Taiwan cancelled 920 international and all 282 domestic flights at the peak. In the Philippines, Bavi-driven rains killed at least 18, most on Mindanao. Mass evacuations complete before landfall; transport suspensions unwinding; no casualties reported from the China landfall as of this writing.",
+        "Forest fires, France:** GDACS Orange alert. National response engaged; monitor for escalation."
+      ],
+      "youtube_id": "PQsMA7UoJWc",
+      "youtube_url": "https://www.youtube.com/watch?v=PQsMA7UoJWc"
     }
   ],
-  "lastEpisode": 70,
-  "lastUpdated": "2026-07-11T23:30:18.411729+00:00",
-  "lastPublicEpisode": 70,
+  "lastEpisode": 71,
+  "lastUpdated": "2026-07-12T13:40:10.032367+00:00",
+  "lastPublicEpisode": 71,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }

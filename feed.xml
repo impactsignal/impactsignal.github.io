@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#70: Lake Victoria AI Saves 450 Fish Cages, WFP Remote-Piloted Aid Trucks, Kerala's Landslide Living Lab</title>
+      <title>#71: As Typhoon Bavi bore down, China warned amateur AI forecasters they may be breaking the law</title>
       <description />
+      <link>https://impactsignals.ai/episodes/71-as-typhoon-bavi-bore-down-china-warned-amateur-ai-forecasters-they-may-be-breaking-the/</link>
+      <guid isPermaLink="false">impact-signal-71</guid>
+      <pubDate>Sun, 12 Jul 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-71/episode-71.mp3" length="9051786" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#70: Lake Victoria AI Saves 450 Fish Cages, WFP Remote-Piloted Aid Trucks, Kerala's Landslide Living Lab</title>
+      <description>Impact Signals #70: Lake Victoria AI Saves 450 Fish Cages, WFP Remote-Piloted Aid Trucks, Kerala's Landslide Living Lab Community-scale AI early warning proved itself on three continents this window. An investigation published Friday documents how an oxygen-monitoring system built by the Kenya Marine and Fisheries Research Institute let more than 300 Lake Victoria fish farmers move over 450 cages ahead of a lethal oxygen crash, and Kenya now wants the system at 15 more sites. The World Food Programme unveiled AHEAD, remote-piloted all-terrain aid vehicles built with the German Aerospace Center to take drivers out of the deadliest last mile, while Kerala's Kanichar village switched on India's first disaster living lab with an AI landslide warning system. Today's signal: the early-warning stack that works is cheap sensors, an AI decision layer, and the channel people already use, and the same technology now cuts both ways, as AFP's debunk of an AI-generated Anak Krakatau eruption video shows. --- Top Stories **1. AI Early Warning on Lake Victoria Saved 450 Fish Cages, and Kenya Wants It at 15 More Sites** An investigation published July 10 documents the first proven save by an AI-powered underwater monitoring system on Lake Victoria. Built by the Kenya Marine and Fisheries Research Institute (KMFRI) with Nairobi-based ShoShin Innovation Hub, the system watches dissolved oxygen levels and pushes SMS alerts to fish farmers when readings turn dangerous. When it detected a develop…</description>
       <link>https://impactsignals.ai/episodes/70-lake-victoria-ai-saves-450-fish-cages-wfp-remote-piloted-aid-trucks-kerala-s-landslide/</link>
       <guid isPermaLink="false">impact-signal-70</guid>
       <pubDate>Sat, 11 Jul 2026 14:00:00 +0000</pubDate>
