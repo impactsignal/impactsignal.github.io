@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 72,
+  "nextEpisode": 73,
   "episodes": [
     {
       "number": 1,
@@ -2056,10 +2056,43 @@
       ],
       "youtube_id": "PQsMA7UoJWc",
       "youtube_url": "https://www.youtube.com/watch?v=PQsMA7UoJWc"
+    },
+    {
+      "number": 72,
+      "date": "2026-07-13",
+      "title": "Impact Signals #72 \u2014 An ESA-backed AI model starts forecasting wildfire spread 12 hours ahead, live inside a commercial platform",
+      "headline": "An ESA-backed AI model starts forecasting wildfire spread 12 hours ahead, live inside a commercial platform",
+      "slug": "72-an-esa-backed-ai-model-starts-forecasting-wildfire-spread-12-hours-ahead-live-inside-a",
+      "description": "Impact Signals #72: An ESA-backed AI model starts forecasting wildfire spread 12 hours ahead, live inside a commercial platform Today: An ESA-backed AI model starts forecasting wildfire spread 12 hours ahead, live inside a commercial platform; Safe Online commits $8.1M to 30 grantees building AI defenses against AI-generated child abuse material; WMO's new dust storm bulletin puts a number on how much AI has already improved forecasts, and how far it still has to go. --- Top Stories **1. An ESA-backed AI model starts forecasting wildfire spread 12 hours ahead, live inside a commercial platform** FIRE-AID, an ESA-supported project, reached an operational milestone: its first AI-based fire-spread-prediction prototype is now live inside OroraTech's Wildfire Solution platform, the commercial wildfire-management system that already runs daily satellite hotspot detection for fire and civil-protection agencies (including Greece's Hellenic Fire System, which scans the country twice daily). The model combines OroraTech's satellite-based fire archive, terrain, land cover, vegetation and weather data with a sub-daily wildfire-progression dataset, using spatial feature extraction, temporal meteorological encoding, and graph-based modeling to forecast fire spread up to 12 hours ahead from an observed, satellite-detected fire perimeter. ESA is explicit about scope: this is a first operational capability, not a continental-scale simulation tool yet. Users can initialize a prediction direct\u2026",
+      "rss_description": "Impact Signals #72: An ESA-backed AI model starts forecasting wildfire spread 12 hours ahead, live inside a commercial platform Today: An ESA-backed AI model starts forecasting wildfire spread 12 hours ahead, live inside a commercial platform; Safe Online commits $8.1M to 30 grantees building AI defenses against AI-generated child abuse material; WMO's new dust storm bulletin puts a number on how much AI has already improved forecasts, and how far it still has to go. --- Top Stories **1. An ESA-backed AI model starts forecasting wildfire spread 12 hours ahead, live inside a commercial platform** FIRE-AID, an ESA-supported project, reached an operational milestone: its first AI-based fire-spread-prediction prototype is now live inside OroraTech's Wildfire Solution platform, the commercial wildfire-management system that already runs daily satellite hotspot detection for fire and civil-protection agencies (including Greece's Hellenic Fire System, which scans the country twice daily). The model combines OroraTech's satellite-based fire archive, terrain, land cover, vegetation and weather data with a sub-daily wildfire-progression dataset, using spatial feature extraction, temporal meteorological encoding, and graph-based modeling to forecast fire spread up to 12 hours ahead from an observed, satellite-detected fire perimeter. ESA is explicit about scope: this is a first operational capability, not a continental-scale simulation tool yet. Users can initialize a prediction direct\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-72/episode-72.mp3",
+      "mp3_bytes": 7514532,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-72/impact-signal-72.mp4",
+      "mp4_bytes": 45783890,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 469,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Amount: Technical assistance support for up to 10 projects (amount per project not specified in source)",
+        "Deadline: 2026-10-07",
+        "Eligibility: Organizations across Asia-Pacific developing innovative, locally led climate adaptation projects; Least Developed Countries and Small Island Developing States particularly encouraged",
+        "Apply: [ctc-n.org](https://www.ctc-n.org/)",
+        "Apply: [globalsouthopportunities.com](https://www.globalsouthopportunities.com/2026/07/11/innovation-14/,)",
+        "Amount: $150M initial commitment funding 1,000 fellowships; fellows are paid $85,000/year plus benefits for a 12-month full-time placement",
+        "Deadline: 2026-07-17",
+        "Eligibility: US work-authorized applicants age 18+ with under two years of full-time work experience, regardless of educational background; first cohort of 100 fellows placed at nonprofits starting October 2026"
+      ],
+      "youtube_id": "rOO0IxXDuSk",
+      "youtube_url": "https://www.youtube.com/watch?v=rOO0IxXDuSk"
     }
   ],
-  "lastEpisode": 71,
-  "lastUpdated": "2026-07-12T13:40:10.032367+00:00",
-  "lastPublicEpisode": 71,
+  "lastEpisode": 72,
+  "lastUpdated": "2026-07-13T17:02:16.558228+00:00",
+  "lastPublicEpisode": 72,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
