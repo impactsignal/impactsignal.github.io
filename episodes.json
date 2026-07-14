@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 73,
+  "nextEpisode": 74,
   "episodes": [
     {
       "number": 1,
@@ -2089,10 +2089,43 @@
       ],
       "youtube_id": "rOO0IxXDuSk",
       "youtube_url": "https://www.youtube.com/watch?v=rOO0IxXDuSk"
+    },
+    {
+      "number": 73,
+      "date": "2026-07-14",
+      "title": "Impact Signals #73 \u2014 Mozambique graduates its first AI-assisted drone pilot corps, deploys to five flood zones",
+      "headline": "Mozambique graduates its first AI-assisted drone pilot corps, deploys to five flood zones",
+      "slug": "73-mozambique-graduates-its-first-ai-assisted-drone-pilot-corps-deploys-to-five-flood-zone",
+      "description": "Impact Signals #73: Mozambique graduates its first AI-assisted drone pilot corps, deploys to five flood zones Today: Mozambique graduates its first AI-assisted drone pilot corps, deploys to five flood zones; KAIST's home-monitoring AI flags cerebrovascular disease risk weeks before diagnosis; Microsoft: AI is cutting post-disaster damage assessment from days to hours. --- Top Stories **1. Mozambique graduates its first AI-assisted drone pilot corps, deploys to five flood zones** Mozambique's National Disaster Management Institute has certified 30 local drone pilots, including 10 newly qualified instructors, completing a 15-month, $967,000 project financed through the African Development Bank's Korea-Africa Economic Cooperation (KOAFEC) Trust Fund. The training programme was delivered by Korean technical partners (Busan Technopark, Hojung Solution and Pusan National University's PNU Drone), who built the underlying AI-enabled disaster-management system: it uses computer vision to help identify people needing rescue and to automatically map damaged infrastructure from aerial imagery, feeding live video to emergency command centres. With training complete, ten of the thirty certified operators are now deploying to five government-identified high-risk zones to run search-and-rescue support, aerial mapping, water-quality monitoring and data collection for early-warning systems. **Why it matters:** this is a template other flood-prone, capacity-constrained countries can copy: rath\u2026",
+      "rss_description": "Impact Signals #73: Mozambique graduates its first AI-assisted drone pilot corps, deploys to five flood zones Today: Mozambique graduates its first AI-assisted drone pilot corps, deploys to five flood zones; KAIST's home-monitoring AI flags cerebrovascular disease risk weeks before diagnosis; Microsoft: AI is cutting post-disaster damage assessment from days to hours. --- Top Stories **1. Mozambique graduates its first AI-assisted drone pilot corps, deploys to five flood zones** Mozambique's National Disaster Management Institute has certified 30 local drone pilots, including 10 newly qualified instructors, completing a 15-month, $967,000 project financed through the African Development Bank's Korea-Africa Economic Cooperation (KOAFEC) Trust Fund. The training programme was delivered by Korean technical partners (Busan Technopark, Hojung Solution and Pusan National University's PNU Drone), who built the underlying AI-enabled disaster-management system: it uses computer vision to help identify people needing rescue and to automatically map damaged infrastructure from aerial imagery, feeding live video to emergency command centres. With training complete, ten of the thirty certified operators are now deploying to five government-identified high-risk zones to run search-and-rescue support, aerial mapping, water-quality monitoring and data collection for early-warning systems. **Why it matters:** this is a template other flood-prone, capacity-constrained countries can copy: rath\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-73/episode-73.mp3",
+      "mp3_bytes": 7205242,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-73/impact-signal-73.mp4",
+      "mp4_bytes": 44821093,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 450,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Amount: $85,000 salary + benefits per fellow, 12-month placement; $150M total program commitment across 1,000 planned fellows",
+        "Deadline: 2026-07-17 (first cohort of 100, starting October 2026; later cohorts roll to January and August 2027)",
+        "Eligibility: Early-career individuals in the US; placed with one of 400+ partner nonprofits (International Rescue Committee, Goodwill Industries International, RAINN, Code for America, and others)",
+        "Apply: [anthropic.com](https://www.anthropic.com/claude-corps)",
+        "Amount: Up to $150,000 in technical assistance per project; up to 10 projects to be supported",
+        "Deadline: 2026-10-07",
+        "Eligibility: Organizations in developing Asia-Pacific countries with an officially nominated National Designated Entity under the UNFCCC Technology Mechanism; LDCs and SIDS particularly encouraged",
+        "Apply: [ctc-n.org](https://www.ctc-n.org/whats-happening/news/call-proposals-climate-adaptation-innovation-latin-america-and-caribbean)"
+      ],
+      "youtube_id": "RvR2EwJHiC8",
+      "youtube_url": "https://www.youtube.com/watch?v=RvR2EwJHiC8"
     }
   ],
-  "lastEpisode": 72,
-  "lastUpdated": "2026-07-13T17:02:16.558228+00:00",
-  "lastPublicEpisode": 72,
+  "lastEpisode": 73,
+  "lastUpdated": "2026-07-14T13:43:51.942452+00:00",
+  "lastPublicEpisode": 73,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }

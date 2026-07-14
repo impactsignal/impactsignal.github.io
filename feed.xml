@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#72: An ESA-backed AI model starts forecasting wildfire spread 12 hours ahead, live inside a commercial platform</title>
+      <title>#73: Mozambique graduates its first AI-assisted drone pilot corps, deploys to five flood zones</title>
       <description />
+      <link>https://impactsignals.ai/episodes/73-mozambique-graduates-its-first-ai-assisted-drone-pilot-corps-deploys-to-five-flood-zone/</link>
+      <guid isPermaLink="false">impact-signal-73</guid>
+      <pubDate>Tue, 14 Jul 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-73/episode-73.mp3" length="7205242" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#72: An ESA-backed AI model starts forecasting wildfire spread 12 hours ahead, live inside a commercial platform</title>
+      <description>Impact Signals #72: An ESA-backed AI model starts forecasting wildfire spread 12 hours ahead, live inside a commercial platform Today: An ESA-backed AI model starts forecasting wildfire spread 12 hours ahead, live inside a commercial platform; Safe Online commits $8.1M to 30 grantees building AI defenses against AI-generated child abuse material; WMO's new dust storm bulletin puts a number on how much AI has already improved forecasts, and how far it still has to go. --- Top Stories **1. An ESA-backed AI model starts forecasting wildfire spread 12 hours ahead, live inside a commercial platform** FIRE-AID, an ESA-supported project, reached an operational milestone: its first AI-based fire-spread-prediction prototype is now live inside OroraTech's Wildfire Solution platform, the commercial wildfire-management system that already runs daily satellite hotspot detection for fire and civil-protection agencies (including Greece's Hellenic Fire System, which scans the country twice daily). The model combines OroraTech's satellite-based fire archive, terrain, land cover, vegetation and weather data with a sub-daily wildfire-progression dataset, using spatial feature extraction, temporal meteorological encoding, and graph-based modeling to forecast fire spread up to 12 hours ahead from an observed, satellite-detected fire perimeter. ESA is explicit about scope: this is a first operational capability, not a continental-scale simulation tool yet. Users can initialize a prediction direct…</description>
       <link>https://impactsignals.ai/episodes/72-an-esa-backed-ai-model-starts-forecasting-wildfire-spread-12-hours-ahead-live-inside-a/</link>
       <guid isPermaLink="false">impact-signal-72</guid>
       <pubDate>Mon, 13 Jul 2026 14:00:00 +0000</pubDate>
