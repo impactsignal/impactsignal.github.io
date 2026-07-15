@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#73: Mozambique graduates its first AI-assisted drone pilot corps, deploys to five flood zones</title>
+      <title>#74: A Venezuelan coder's AI missing-persons site fielded 30,000+ reports in 48 hours after twin earthquakes</title>
       <description />
+      <link>https://impactsignals.ai/episodes/74-a-venezuelan-coder-s-ai-missing-persons-site-fielded-30-000-reports-in-48-hours-after-t/</link>
+      <guid isPermaLink="false">impact-signal-74</guid>
+      <pubDate>Wed, 15 Jul 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-74/episode-74.mp3" length="7261666" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#73: Mozambique graduates its first AI-assisted drone pilot corps, deploys to five flood zones</title>
+      <description>Impact Signals #73: Mozambique graduates its first AI-assisted drone pilot corps, deploys to five flood zones Today: Mozambique graduates its first AI-assisted drone pilot corps, deploys to five flood zones; KAIST's home-monitoring AI flags cerebrovascular disease risk weeks before diagnosis; Microsoft: AI is cutting post-disaster damage assessment from days to hours. --- Top Stories **1. Mozambique graduates its first AI-assisted drone pilot corps, deploys to five flood zones** Mozambique's National Disaster Management Institute has certified 30 local drone pilots, including 10 newly qualified instructors, completing a 15-month, $967,000 project financed through the African Development Bank's Korea-Africa Economic Cooperation (KOAFEC) Trust Fund. The training programme was delivered by Korean technical partners (Busan Technopark, Hojung Solution and Pusan National University's PNU Drone), who built the underlying AI-enabled disaster-management system: it uses computer vision to help identify people needing rescue and to automatically map damaged infrastructure from aerial imagery, feeding live video to emergency command centres. With training complete, ten of the thirty certified operators are now deploying to five government-identified high-risk zones to run search-and-rescue support, aerial mapping, water-quality monitoring and data collection for early-warning systems. **Why it matters:** this is a template other flood-prone, capacity-constrained countries can copy: rath…</description>
       <link>https://impactsignals.ai/episodes/73-mozambique-graduates-its-first-ai-assisted-drone-pilot-corps-deploys-to-five-flood-zone/</link>
       <guid isPermaLink="false">impact-signal-73</guid>
       <pubDate>Tue, 14 Jul 2026 14:00:00 +0000</pubDate>
