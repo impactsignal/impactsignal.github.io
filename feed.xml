@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#74: A Venezuelan coder's AI missing-persons site fielded 30,000+ reports in 48 hours after twin earthquakes</title>
+      <title>#75: An AI famine model trained on 13,000+ data points is now telling aid agencies where hunger will hit next</title>
       <description />
+      <link>https://impactsignals.ai/episodes/75-an-ai-famine-model-trained-on-13-000-data-points-is-now-telling-aid-agencies-where-hung/</link>
+      <guid isPermaLink="false">impact-signal-75</guid>
+      <pubDate>Thu, 16 Jul 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-75/episode-75.mp3" length="6720827" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#74: A Venezuelan coder's AI missing-persons site fielded 30,000+ reports in 48 hours after twin earthquakes</title>
+      <description>Impact Signals #74: A Venezuelan coder's AI missing-persons site fielded 30,000+ reports in 48 hours after twin earthquakes Today: A Venezuelan coder's AI missing-persons site fielded 30,000+ reports in 48 hours after twin earthquakes; Mercy Corps' new agentic AI cuts crisis-analysis turnaround from days to hours in Sudan and Colombia; One typhoon, four warning systems: a Japanese AI stitches the Pacific's fragmented disaster picture together. --- Top Stories **1. A Venezuelan coder's AI missing-persons site fielded 30,000+ reports in 48 hours after twin earthquakes** Jorge Bastidas, a 31-year-old Venezuelan programmer based in Buenos Aires, led a six-person volunteer team that built Desaparecidos Terremoto Venezuela, a no-signup missing-persons platform, in the chaotic days after twin earthquakes struck Venezuela on June 24, 2026 (official and press tallies put the death toll above 3,800, with a submarine cable and much of the country's telecom backbone knocked out). The site runs on Claude Opus 4.8 for matching and coordination, paired with facial-recognition software donated by the Mexican company Lab-Co. It took in more than 30,000 missing-person reports in its first 48 hours, a figure that later climbed toward 45,000 names as the search widened. Rest of World's reporting frames the platform as filling a gap the official response was too slow to close: with cell towers and the country's main undersea cable down, there was no functioning centralized channel for families t…</description>
       <link>https://impactsignals.ai/episodes/74-a-venezuelan-coder-s-ai-missing-persons-site-fielded-30-000-reports-in-48-hours-after-t/</link>
       <guid isPermaLink="false">impact-signal-74</guid>
       <pubDate>Wed, 15 Jul 2026 14:00:00 +0000</pubDate>
