@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#75: An AI famine model trained on 13,000+ data points is now telling aid agencies where hunger will hit next</title>
+      <title>#76: UN chief: AI-powered early warning is the "most cost-effective protection" against climate disaster, but a third of countries still have none</title>
       <description />
+      <link>https://impactsignals.ai/episodes/76-un-chief-ai-powered-early-warning-is-the-most-cost-effective-protection-against-climate/</link>
+      <guid isPermaLink="false">impact-signal-76</guid>
+      <pubDate>Fri, 17 Jul 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-76/episode-76.mp3" length="7501575" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#75: An AI famine model trained on 13,000+ data points is now telling aid agencies where hunger will hit next</title>
+      <description>Impact Signals #75: An AI famine model trained on 13,000+ data points is now telling aid agencies where hunger will hit next Today: An AI famine model trained on 13,000+ data points is now telling aid agencies where hunger will hit next; Pakistan puts a Chinese AI weather system to work on this year's monsoon, with satellite eyes and named local buy-in; A Nigerian AI-payments startup just became the first African winner of the UN's global "AI for Good" innovation prize. --- Top Stories **1. An AI famine model trained on 13,000+ data points is now telling aid agencies where hunger will hit next** As traditional famine early-warning systems lose funding, researchers at IFPRI have built a geospatial AI model trained on more than 13,000 subnational observations across 38 countries. It forecasts crisis-level food insecurity using secondary, cheap-to-collect data (food prices, weather, conflict events) rather than the expensive household surveys that underpin the traditional IPC (Integrated Food Security Phase Classification) process, and it can flag crisis-level conditions up to a year in advance. Devex reports the model emerged from development professionals who, after 2025's aid-sector layoffs and funding cuts, kept refining the tool on their own time and found wider appetite for it across the sector than expected. The pitch is not that AI replaces the IPC process (still the humanitarian system's gold-standard classification), but that it fills the gap when field data collectio…</description>
       <link>https://impactsignals.ai/episodes/75-an-ai-famine-model-trained-on-13-000-data-points-is-now-telling-aid-agencies-where-hung/</link>
       <guid isPermaLink="false">impact-signal-75</guid>
       <pubDate>Thu, 16 Jul 2026 14:00:00 +0000</pubDate>

@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 76,
+  "nextEpisode": 77,
   "episodes": [
     {
       "number": 1,
@@ -2184,10 +2184,43 @@
         "Eligibility: Startups, humanitarian organizations, research teams, and youth-led initiatives using technology (including AI) to address conflict, humanitarian crises, violence, or human rights violations",
         "Apply: [kluzprize.org](https://www.kluzprize.org/)"
       ]
+    },
+    {
+      "number": 76,
+      "date": "2026-07-17",
+      "title": "Impact Signals #76 \u2014 UN chief: AI-powered early warning is the \"most cost-effective protection\" against climate disaster, but a third of countries still have none",
+      "headline": "UN chief: AI-powered early warning is the \"most cost-effective protection\" against climate disaster, but a third of countries still have none",
+      "slug": "76-un-chief-ai-powered-early-warning-is-the-most-cost-effective-protection-against-climate",
+      "description": "Impact Signals #76: UN chief: AI-powered early warning is the \"most cost-effective protection\" against climate disaster, but a third of countries still have none Today: UN chief: AI-powered early warning is the \"most cost-effective protection\" against climate disaster, but a third of countries still have none; Radenta and Vantiq launch Aegis, an AI platform to unify disaster and emergency data for Philippine local governments; Capacity and FoodBridge pair conversational AI with benefits navigation to speed up food-assistance access. --- Top Stories **1. UN chief: AI-powered early warning is the \"most cost-effective protection\" against climate disaster, but a third of countries still have none** Addressing the \"Dialogue on Early Warnings for All in Response to Climate Change\" at the World AI Conference's Meteorological Forum in Shanghai on July 17, UN Secretary-General Antonio Guterres said 128 countries now have multi-hazard early-warning systems, more than double the number in 2015, but a third of the world's countries still have no coverage at all. Where coverage is comprehensive, he said, disaster deaths are at least six times lower. Guterres framed AI-powered forecasting as the fastest lever available: systems that can turn raw weather and hazard data into alerts people \"can receive, understand and act upon before disasters strike.\" He tied the technology's usefulness directly to political will, calling for more international cooperation, financing and technology-sharing\u2026",
+      "rss_description": "Impact Signals #76: UN chief: AI-powered early warning is the \"most cost-effective protection\" against climate disaster, but a third of countries still have none Today: UN chief: AI-powered early warning is the \"most cost-effective protection\" against climate disaster, but a third of countries still have none; Radenta and Vantiq launch Aegis, an AI platform to unify disaster and emergency data for Philippine local governments; Capacity and FoodBridge pair conversational AI with benefits navigation to speed up food-assistance access. --- Top Stories **1. UN chief: AI-powered early warning is the \"most cost-effective protection\" against climate disaster, but a third of countries still have none** Addressing the \"Dialogue on Early Warnings for All in Response to Climate Change\" at the World AI Conference's Meteorological Forum in Shanghai on July 17, UN Secretary-General Antonio Guterres said 128 countries now have multi-hazard early-warning systems, more than double the number in 2015, but a third of the world's countries still have no coverage at all. Where coverage is comprehensive, he said, disaster deaths are at least six times lower. Guterres framed AI-powered forecasting as the fastest lever available: systems that can turn raw weather and hazard data into alerts people \"can receive, understand and act upon before disasters strike.\" He tied the technology's usefulness directly to political will, calling for more international cooperation, financing and technology-sharing\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-76/episode-76.mp3",
+      "mp3_bytes": 7501575,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-76/impact-signal-76.mp4",
+      "mp4_bytes": 46982363,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 468,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Amount: Up to \u00a510 million (~$65,000-70,000) per project",
+        "Deadline: August 19, 2026",
+        "Eligibility: Organizations working with farmers and local communities on community-led agrivoltaics (solar-plus-crop) projects that strengthen climate resilience",
+        "Apply: [www2.fundsforngos.org](https://www2.fundsforngos.org/community-development-2/call-for-proposals-japan-climate-fund-for-agricultural-solar-projects/)",
+        "Call for Research Proposals: Advancing Disaster Risk Reduction Studies (India)",
+        "Climate Change Action Grants (Australia)",
+        "Mayon Volcano eruption, Philippines:** Orange aviation alert; continuous ash emissions per regional Volcanic Ash Advisory Centre Ongoing monitoring, ongoing aviation alert",
+        "Flooding, China (ongoing):** Orange alert; 12 deaths, 782,166 people displaced Ongoing; ongoing displacement response"
+      ],
+      "youtube_id": "I7_E3zht8_w",
+      "youtube_url": "https://www.youtube.com/watch?v=I7_E3zht8_w"
     }
   ],
-  "lastEpisode": 75,
-  "lastUpdated": "2026-07-16T13:49:01.428931+00:00",
-  "lastPublicEpisode": 75,
+  "lastEpisode": 76,
+  "lastUpdated": "2026-07-17T13:50:54.367718+00:00",
+  "lastPublicEpisode": 76,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
