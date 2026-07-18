@@ -2165,12 +2165,12 @@
       "description": "Impact Signals #75: An AI famine model trained on 13,000+ data points is now telling aid agencies where hunger will hit next Today: An AI famine model trained on 13,000+ data points is now telling aid agencies where hunger will hit next; Pakistan puts a Chinese AI weather system to work on this year's monsoon, with satellite eyes and named local buy-in; A Nigerian AI-payments startup just became the first African winner of the UN's global \"AI for Good\" innovation prize. --- Top Stories **1. An AI famine model trained on 13,000+ data points is now telling aid agencies where hunger will hit next** As traditional famine early-warning systems lose funding, researchers at IFPRI have built a geospatial AI model trained on more than 13,000 subnational observations across 38 countries. It forecasts crisis-level food insecurity using secondary, cheap-to-collect data (food prices, weather, conflict events) rather than the expensive household surveys that underpin the traditional IPC (Integrated Food Security Phase Classification) process, and it can flag crisis-level conditions up to a year in advance. Devex reports the model emerged from development professionals who, after 2025's aid-sector layoffs and funding cuts, kept refining the tool on their own time and found wider appetite for it across the sector than expected. The pitch is not that AI replaces the IPC process (still the humanitarian system's gold-standard classification), but that it fills the gap when field data collectio\u2026",
       "rss_description": "Impact Signals #75: An AI famine model trained on 13,000+ data points is now telling aid agencies where hunger will hit next Today: An AI famine model trained on 13,000+ data points is now telling aid agencies where hunger will hit next; Pakistan puts a Chinese AI weather system to work on this year's monsoon, with satellite eyes and named local buy-in; A Nigerian AI-payments startup just became the first African winner of the UN's global \"AI for Good\" innovation prize. --- Top Stories **1. An AI famine model trained on 13,000+ data points is now telling aid agencies where hunger will hit next** As traditional famine early-warning systems lose funding, researchers at IFPRI have built a geospatial AI model trained on more than 13,000 subnational observations across 38 countries. It forecasts crisis-level food insecurity using secondary, cheap-to-collect data (food prices, weather, conflict events) rather than the expensive household surveys that underpin the traditional IPC (Integrated Food Security Phase Classification) process, and it can flag crisis-level conditions up to a year in advance. Devex reports the model emerged from development professionals who, after 2025's aid-sector layoffs and funding cuts, kept refining the tool on their own time and found wider appetite for it across the sector than expected. The pitch is not that AI replaces the IPC process (still the humanitarian system's gold-standard classification), but that it fills the gap when field data collectio\u2026",
       "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-75/episode-75.mp3",
-      "mp3_bytes": 6720827,
+      "mp3_bytes": 0,
       "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-75/impact-signal-75.mp4",
-      "mp4_bytes": 42025911,
+      "mp4_bytes": 0,
       "status": "published",
       "pipeline_status": "published_by_canonical_daily_package",
-      "duration_seconds": 419,
+      "duration_seconds": 0,
       "keywords": [
         "ai for social impact",
         "humanitarian ai",
@@ -2185,7 +2185,9 @@
         "Deadline: 2026-07-31, 11:59 PM EDT",
         "Eligibility: Startups, humanitarian organizations, research teams, and youth-led initiatives using technology (including AI) to address conflict, humanitarian crises, violence, or human rights violations",
         "Apply: [kluzprize.org](https://www.kluzprize.org/)"
-      ]
+      ],
+      "youtube_id": "qxejQEBXB_k",
+      "youtube_url": "https://www.youtube.com/watch?v=qxejQEBXB_k"
     },
     {
       "number": 76,
@@ -2255,7 +2257,7 @@
     }
   ],
   "lastEpisode": 77,
-  "lastUpdated": "2026-07-18T23:13:11.445166+00:00",
+  "lastUpdated": "2026-07-18T23:13:13.778527+00:00",
   "lastPublicEpisode": 77,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
