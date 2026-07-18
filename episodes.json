@@ -2132,12 +2132,12 @@
       "description": "Impact Signals #74: A Venezuelan coder's AI missing-persons site fielded 30,000+ reports in 48 hours after twin earthquakes Today: A Venezuelan coder's AI missing-persons site fielded 30,000+ reports in 48 hours after twin earthquakes; Mercy Corps' new agentic AI cuts crisis-analysis turnaround from days to hours in Sudan and Colombia; One typhoon, four warning systems: a Japanese AI stitches the Pacific's fragmented disaster picture together. --- Top Stories **1. A Venezuelan coder's AI missing-persons site fielded 30,000+ reports in 48 hours after twin earthquakes** Jorge Bastidas, a 31-year-old Venezuelan programmer based in Buenos Aires, led a six-person volunteer team that built Desaparecidos Terremoto Venezuela, a no-signup missing-persons platform, in the chaotic days after twin earthquakes struck Venezuela on June 24, 2026 (official and press tallies put the death toll above 3,800, with a submarine cable and much of the country's telecom backbone knocked out). The site runs on Claude Opus 4.8 for matching and coordination, paired with facial-recognition software donated by the Mexican company Lab-Co. It took in more than 30,000 missing-person reports in its first 48 hours, a figure that later climbed toward 45,000 names as the search widened. Rest of World's reporting frames the platform as filling a gap the official response was too slow to close: with cell towers and the country's main undersea cable down, there was no functioning centralized channel for families t\u2026",
       "rss_description": "Impact Signals #74: A Venezuelan coder's AI missing-persons site fielded 30,000+ reports in 48 hours after twin earthquakes Today: A Venezuelan coder's AI missing-persons site fielded 30,000+ reports in 48 hours after twin earthquakes; Mercy Corps' new agentic AI cuts crisis-analysis turnaround from days to hours in Sudan and Colombia; One typhoon, four warning systems: a Japanese AI stitches the Pacific's fragmented disaster picture together. --- Top Stories **1. A Venezuelan coder's AI missing-persons site fielded 30,000+ reports in 48 hours after twin earthquakes** Jorge Bastidas, a 31-year-old Venezuelan programmer based in Buenos Aires, led a six-person volunteer team that built Desaparecidos Terremoto Venezuela, a no-signup missing-persons platform, in the chaotic days after twin earthquakes struck Venezuela on June 24, 2026 (official and press tallies put the death toll above 3,800, with a submarine cable and much of the country's telecom backbone knocked out). The site runs on Claude Opus 4.8 for matching and coordination, paired with facial-recognition software donated by the Mexican company Lab-Co. It took in more than 30,000 missing-person reports in its first 48 hours, a figure that later climbed toward 45,000 names as the search widened. Rest of World's reporting frames the platform as filling a gap the official response was too slow to close: with cell towers and the country's main undersea cable down, there was no functioning centralized channel for families t\u2026",
       "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-74/episode-74.mp3",
-      "mp3_bytes": 7261666,
+      "mp3_bytes": 0,
       "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-74/impact-signal-74.mp4",
-      "mp4_bytes": 44956351,
+      "mp4_bytes": 0,
       "status": "published",
       "pipeline_status": "published_by_canonical_daily_package",
-      "duration_seconds": 453,
+      "duration_seconds": 0,
       "keywords": [
         "ai for social impact",
         "humanitarian ai",
@@ -2152,7 +2152,9 @@
         "Deadline: 2026-07-17 (first cohort of ~100 fellows; cohort begins 2026-10-19)",
         "Eligibility: Early-career individuals in the US; placed with one of 18+ partner host organizations (International Rescue Committee, Code for America, RAINN, Goodwill Industries International, and others)",
         "Apply: [anthropic.com](https://www.anthropic.com/claude-corps)"
-      ]
+      ],
+      "youtube_id": "bTfXpTXF_wE",
+      "youtube_url": "https://www.youtube.com/watch?v=bTfXpTXF_wE"
     },
     {
       "number": 75,
@@ -2253,7 +2255,7 @@
     }
   ],
   "lastEpisode": 77,
-  "lastUpdated": "2026-07-18T22:49:07.477731+00:00",
+  "lastUpdated": "2026-07-18T23:13:11.445166+00:00",
   "lastPublicEpisode": 77,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
