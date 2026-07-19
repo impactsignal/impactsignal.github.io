@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#77: AI Can Predict the Disaster, Not Fund the Response — Venezuela's Diaspora AI Tools, Mozambique's Drone Pilots, CHAI's Public Health Push</title>
+      <title>#78: Texas Flood Sirens Pass Their First Real Test, China and Thailand Stand Up the First Bilateral AI Weather Lab, MDBs Post Record $163B in Climate Finance</title>
       <description />
+      <link>https://impactsignals.ai/episodes/78-texas-flood-sirens-pass-their-first-real-test-china-and-thailand-stand-up-the-first-bil/</link>
+      <guid isPermaLink="false">impact-signal-78</guid>
+      <pubDate>Sun, 19 Jul 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-78/episode-78.mp3" length="9009154" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#77: AI Can Predict the Disaster, Not Fund the Response — Venezuela's Diaspora AI Tools, Mozambique's Drone Pilots, CHAI's Public Health Push</title>
+      <description>Impact Signals #77: AI Can Predict the Disaster, Not Fund the Response — Venezuela's Diaspora AI Tools, Mozambique's Drone Pilots, CHAI's Public Health Push Catherine Nakalembe, drawing on more than fifteen years building satellite models to predict drought and flood impact, argues this week that prediction was never the bottleneck: the UNFCCC's Fund for Responding to Loss and Damage, the primary mechanism meant to pay for exactly this kind of prearranged response, has received less than 0.1% of the need. In Venezuela, that funding gap has already been answered from outside government: at least four diaspora-built AI tools, stood up in one to four hours using Claude and Replit, remain the primary source of crisis information three weeks after the June earthquakes, with the state's own response still minimal. Mozambique shows the alternative: a $967,000 African Development Bank grant just graduated 30 AI-assisted drone pilots who were already running real flood damage assessments months before their own ceremony. Today's signal: the forecasting models keep improving, but this week's stories are about who has the funding, the capacity, or the sheer will to act on the warning. --- Top Stories **1. AI Can Predict the Disaster. It Can't Fund the Response.** Writing in The Energy Mix on July 15, Nakalembe points to the UNFCCC's Fund for Responding to Loss and Damage, the primary international mechanism meant to fund exactly this kind of prearranged disaster response, which has rec…</description>
       <link>https://impactsignals.ai/episodes/77-ai-can-predict-the-disaster-not-fund-the-response-venezuela-s-diaspora-ai-tools-mozambi/</link>
       <guid isPermaLink="false">impact-signal-77</guid>
       <pubDate>Sat, 18 Jul 2026 14:00:00 +0000</pubDate>
@@ -26,7 +34,7 @@
       <link>https://impactsignals.ai/episodes/75-an-ai-famine-model-trained-on-13-000-data-points-is-now-telling-aid-agencies-where-hung/</link>
       <guid isPermaLink="false">impact-signal-75</guid>
       <pubDate>Thu, 16 Jul 2026 14:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-75/episode-75.mp3" length="6720827" type="audio/mpeg" />
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-75/episode-75.mp3" length="0" type="audio/mpeg" />
     </item>
     <item>
       <title>#74: A Venezuelan coder's AI missing-persons site fielded 30,000+ reports in 48 hours after twin earthquakes</title>
@@ -34,7 +42,7 @@
       <link>https://impactsignals.ai/episodes/74-a-venezuelan-coder-s-ai-missing-persons-site-fielded-30-000-reports-in-48-hours-after-t/</link>
       <guid isPermaLink="false">impact-signal-74</guid>
       <pubDate>Wed, 15 Jul 2026 14:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-74/episode-74.mp3" length="7261666" type="audio/mpeg" />
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-74/episode-74.mp3" length="0" type="audio/mpeg" />
     </item>
     <item>
       <title>#73: Mozambique graduates its first AI-assisted drone pilot corps, deploys to five flood zones</title>

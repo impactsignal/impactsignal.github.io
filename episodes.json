@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 78,
+  "nextEpisode": 79,
   "episodes": [
     {
       "number": 1,
@@ -2254,10 +2254,43 @@
       ],
       "youtube_id": "RSl7-kzvKRA",
       "youtube_url": "https://www.youtube.com/watch?v=RSl7-kzvKRA"
+    },
+    {
+      "number": 78,
+      "date": "2026-07-19",
+      "title": "Impact Signals #78 \u2014 Texas Flood Sirens Pass Their First Real Test, China and Thailand Stand Up the First Bilateral AI Weather Lab, MDBs Post Record $163B in Climate Finance",
+      "headline": "Texas Flood Sirens Pass Their First Real Test, China and Thailand Stand Up the First Bilateral AI Weather Lab, MDBs Post Record $163B in Climate Finance",
+      "slug": "78-texas-flood-sirens-pass-their-first-real-test-china-and-thailand-stand-up-the-first-bil",
+      "description": "Impact Signals #78: Texas Flood Sirens Pass Their First Real Test, China and Thailand Stand Up the First Bilateral AI Weather Lab, MDBs Post Record $163B in Climate Finance One year after floods killed 136 people in the Texas Hill Country, the same rivers rose this week, and the rebuilt warning stack of new sirens, disciplined wireless alerts, and private gauge-triggered towers faced live floodwater with outcome data to show for it. Meanwhile in Shanghai, China and Thailand announced the world's first bilateral joint laboratory for AI weather-disaster prediction, and the China Meteorological Administration unveiled a turnkey satellite-AI appliance now reaching agencies in more than 40 countries. Today's signal: early-warning capability is being built out on every layer at once, county sirens, bilateral labs, exportable satellite boxes, and a record $163 billion in development-bank climate finance to pay for what comes next. --- Top Stories **1. Texas Rebuilt Its Flood Warnings After 136 Deaths, and This Week the Same Rivers Rose** A new round of storms triggered catastrophic flash flooding this week in the same Texas Hill Country areas devastated in July 2025, when floods killed 136 people, including 28 at Camp Mystic. This time at least two people died and hundreds needed rescue, and the difference was the infrastructure built over the past year: three of six newly installed sirens in Kerr County activated to send people to high ground, Kerr County issued four wireless aler\u2026",
+      "rss_description": "Impact Signals #78: Texas Flood Sirens Pass Their First Real Test, China and Thailand Stand Up the First Bilateral AI Weather Lab, MDBs Post Record $163B in Climate Finance One year after floods killed 136 people in the Texas Hill Country, the same rivers rose this week, and the rebuilt warning stack of new sirens, disciplined wireless alerts, and private gauge-triggered towers faced live floodwater with outcome data to show for it. Meanwhile in Shanghai, China and Thailand announced the world's first bilateral joint laboratory for AI weather-disaster prediction, and the China Meteorological Administration unveiled a turnkey satellite-AI appliance now reaching agencies in more than 40 countries. Today's signal: early-warning capability is being built out on every layer at once, county sirens, bilateral labs, exportable satellite boxes, and a record $163 billion in development-bank climate finance to pay for what comes next. --- Top Stories **1. Texas Rebuilt Its Flood Warnings After 136 Deaths, and This Week the Same Rivers Rose** A new round of storms triggered catastrophic flash flooding this week in the same Texas Hill Country areas devastated in July 2025, when floods killed 136 people, including 28 at Camp Mystic. This time at least two people died and hundreds needed rescue, and the difference was the infrastructure built over the past year: three of six newly installed sirens in Kerr County activated to send people to high ground, Kerr County issued four wireless aler\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-78/episode-78.mp3",
+      "mp3_bytes": 9009154,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-78/impact-signal-78.mp4",
+      "mp4_bytes": 54382874,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 562,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "July 22, 2026 (verify on ctc-n.org)",
+        "Location: Online",
+        "Walkthrough of the AFCIA Asia-Pacific climate adaptation innovation call before the application deadline",
+        "Register: [globalsouthopportunities.com](https://www.globalsouthopportunities.com/2026/07/18/unep-ctcn-call-for-climate-adaptation-innovations-in-asia-pacific-with-up-to-usd-150000-in-technical-assistance/)",
+        "Ongoing as of July 19, 2026",
+        "Location: New Delhi, India",
+        "Includes sessions on governing safe and responsible AI within digital public infrastructure",
+        "July 2026, month-long, nationwide"
+      ],
+      "youtube_id": "8WM-1Yz62rM",
+      "youtube_url": "https://www.youtube.com/watch?v=8WM-1Yz62rM"
     }
   ],
-  "lastEpisode": 77,
-  "lastUpdated": "2026-07-18T23:13:13.778527+00:00",
-  "lastPublicEpisode": 77,
+  "lastEpisode": 78,
+  "lastUpdated": "2026-07-19T13:58:33.649372+00:00",
+  "lastPublicEpisode": 78,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
