@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 79,
+  "nextEpisode": 80,
   "episodes": [
     {
       "number": 1,
@@ -2287,10 +2287,43 @@
       ],
       "youtube_id": "8WM-1Yz62rM",
       "youtube_url": "https://www.youtube.com/watch?v=8WM-1Yz62rM"
+    },
+    {
+      "number": 79,
+      "date": "2026-07-20",
+      "title": "Impact Signals #79 \u2014 An Offline AI Device Speaks 22 Indian Languages, Allianz Beats NASA on Wildfire Detection by 35 Minutes, China Upgrades Djibouti's Early-Warning System",
+      "headline": "An Offline AI Device Speaks 22 Indian Languages, Allianz Beats NASA on Wildfire Detection by 35 Minutes, China Upgrades Djibouti's Early-Warning System",
+      "slug": "79-an-offline-ai-device-speaks-22-indian-languages-allianz-beats-nasa-on-wildfire-detectio",
+      "description": "Impact Signals #79: An Offline AI Device Speaks 22 Indian Languages, Allianz Beats NASA on Wildfire Detection by 35 Minutes, China Upgrades Djibouti's Early-Warning System Current AI, the Paris-founded nonprofit backed by $400 million from the French government, the Ford Foundation, and DeepMind, launched Suno Sutra on July 19: an open-source, pocket-sized device that runs AI offline in 22 Indian languages for farmers with no internet and no English. In Spain, Allianz Seguros and startup Satellites on Fire went live with a national AI wildfire-detection system that beats NASA's own satellites by 35 minutes across more than 50 million hectares, a direct response to Spain's worst wildfire year in three decades. China's Meteorological Administration also handed Djibouti a second-generation AI weather terminal, sharpening forecast resolution from 9km to 3km a year after the first handover. Today's signal: the real, working AI deployments this week are quietly widening who gets to use the technology at all, from language-excluded farmers to insurers with skin in the game on climate risk. --- Top Stories **1. An Offline AI Device Now Speaks 22 Indian Languages, No Internet Required** Current AI, the nonprofit racing to build a \"World Wide Web of AI,\" announced Suno Sutra (\"listening chronicles\" in Hindi) on July 19 \u2014 a pocket-sized, open-source device built with Bhashini, the Indian government's AI language division, that runs entirely offline in 22 Indian languages. It targets ru\u2026",
+      "rss_description": "Impact Signals #79: An Offline AI Device Speaks 22 Indian Languages, Allianz Beats NASA on Wildfire Detection by 35 Minutes, China Upgrades Djibouti's Early-Warning System Current AI, the Paris-founded nonprofit backed by $400 million from the French government, the Ford Foundation, and DeepMind, launched Suno Sutra on July 19: an open-source, pocket-sized device that runs AI offline in 22 Indian languages for farmers with no internet and no English. In Spain, Allianz Seguros and startup Satellites on Fire went live with a national AI wildfire-detection system that beats NASA's own satellites by 35 minutes across more than 50 million hectares, a direct response to Spain's worst wildfire year in three decades. China's Meteorological Administration also handed Djibouti a second-generation AI weather terminal, sharpening forecast resolution from 9km to 3km a year after the first handover. Today's signal: the real, working AI deployments this week are quietly widening who gets to use the technology at all, from language-excluded farmers to insurers with skin in the game on climate risk. --- Top Stories **1. An Offline AI Device Now Speaks 22 Indian Languages, No Internet Required** Current AI, the nonprofit racing to build a \"World Wide Web of AI,\" announced Suno Sutra (\"listening chronicles\" in Hindi) on July 19 \u2014 a pocket-sized, open-source device built with Bhashini, the Indian government's AI language division, that runs entirely offline in 22 Indian languages. It targets ru\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-79/episode-79.mp3",
+      "mp3_bytes": 6444556,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-79/impact-signal-79.mp4",
+      "mp4_bytes": 40337543,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 402,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Info webinar: July 22, 2026",
+        "Application deadline: October 7, 2026",
+        "Up to $150,000 in technical assistance per project (up to 10 projects selected); Least Developed Countries and Small Island Developing States prioritized",
+        "Apply: [ctc-n.org](https://www.ctc-n.org/adaptation-fund-climate-innovation-accelerator)",
+        "Deadline: August 17, 2026, 12:00 noon CEST",
+        "NOK 100 million total pool; Innovation Lab grants NOK 4\u20136M (up to NOK 8M for 3+-partner consortiums), Scaling grants NOK 2\u201310M",
+        "Eligibility: UN humanitarian agencies, international NGOs with a Norway office, IFRC, ICRC, applying in partnership with the private sector",
+        "Apply: [hip.innovationnorway.com](https://hip.innovationnorway.com/)"
+      ],
+      "youtube_id": "9fYNqErMhE0",
+      "youtube_url": "https://www.youtube.com/watch?v=9fYNqErMhE0"
     }
   ],
-  "lastEpisode": 78,
-  "lastUpdated": "2026-07-19T13:58:33.649372+00:00",
-  "lastPublicEpisode": 78,
+  "lastEpisode": 79,
+  "lastUpdated": "2026-07-20T15:52:05.466317+00:00",
+  "lastPublicEpisode": 79,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
