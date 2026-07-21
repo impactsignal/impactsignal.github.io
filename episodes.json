@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 80,
+  "nextEpisode": 81,
   "episodes": [
     {
       "number": 1,
@@ -2320,10 +2320,43 @@
       ],
       "youtube_id": "9fYNqErMhE0",
       "youtube_url": "https://www.youtube.com/watch?v=9fYNqErMhE0"
+    },
+    {
+      "number": 80,
+      "date": "2026-07-21",
+      "title": "Impact Signals #80 \u2014 The African Development Bank moves $13 million against the Ebola outbreak in DRC, Uganda and South Sudan",
+      "headline": "The African Development Bank moves $13 million against the Ebola outbreak in DRC, Uganda and South Sudan",
+      "slug": "80-the-african-development-bank-moves-13-million-against-the-ebola-outbreak-in-drc-uganda",
+      "description": "Impact Signals #80: The African Development Bank moves $13 million against the Ebola outbreak in DRC, Uganda and South Sudan Today: The African Development Bank moves $13 million against the Ebola outbreak in DRC, Uganda and South Sudan; Guterres to the AI industry: early warnings cut disaster deaths six-fold, so move faster (and power your data centres with renewables by 2030); The AI wealth boom is minting a new donor class, and the nonprofit world is openly organizing to meet it. --- Top Stories **1. The African Development Bank moves $13 million against the Ebola outbreak in DRC, Uganda and South Sudan** The African Development Bank Group approved $13 million in emergency grants on July 20 to bolster the response to the Ebola virus disease outbreak (Bundibugyo strain) in the Democratic Republic of Congo, South Sudan and Uganda. The package splits into two channels: $10 million, drawn from reallocated resources in the Bank's DRC portfolio, will flow through the World Health Organization, and $3 million from the Bank's Multi-Country Emergency Assistance Project will be implemented by the Africa Centres for Disease Control and Prevention. By country, DRC, the epicentre, receives $11 million; Uganda and South Sudan receive $1 million each. The outbreak was declared by DRC on May 15, 2026, centred in Ituri province and also affecting Bunia, Rwampara and Mongwalu, with North Kivu and South Kivu named among affected provinces. The Bundibugyo strain has no approved vaccine and n\u2026",
+      "rss_description": "Impact Signals #80: The African Development Bank moves $13 million against the Ebola outbreak in DRC, Uganda and South Sudan Today: The African Development Bank moves $13 million against the Ebola outbreak in DRC, Uganda and South Sudan; Guterres to the AI industry: early warnings cut disaster deaths six-fold, so move faster (and power your data centres with renewables by 2030); The AI wealth boom is minting a new donor class, and the nonprofit world is openly organizing to meet it. --- Top Stories **1. The African Development Bank moves $13 million against the Ebola outbreak in DRC, Uganda and South Sudan** The African Development Bank Group approved $13 million in emergency grants on July 20 to bolster the response to the Ebola virus disease outbreak (Bundibugyo strain) in the Democratic Republic of Congo, South Sudan and Uganda. The package splits into two channels: $10 million, drawn from reallocated resources in the Bank's DRC portfolio, will flow through the World Health Organization, and $3 million from the Bank's Multi-Country Emergency Assistance Project will be implemented by the Africa Centres for Disease Control and Prevention. By country, DRC, the epicentre, receives $11 million; Uganda and South Sudan receive $1 million each. The outbreak was declared by DRC on May 15, 2026, centred in Ituri province and also affecting Bunia, Rwampara and Mongwalu, with North Kivu and South Kivu named among affected provinces. The Bundibugyo strain has no approved vaccine and n\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-80/episode-80.mp3",
+      "mp3_bytes": 8670607,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-80/impact-signal-80.mp4",
+      "mp4_bytes": 53922143,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 541,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Amount: Up to USD 150,000 in technical assistance per project; up to 10 projects",
+        "Deadline: October 7, 2026",
+        "Eligibility: Government institutions, universities, research centres, NGOs and private-sector organizations in Asia-Pacific developing countries (with a nominated National Designated Entity); LDCs and SIDS prioritized",
+        "Apply: [ctc-n.org](https://www.ctc-n.org)",
+        "Apply: [globalsouthopportunities.com](https://www.globalsouthopportunities.com/2026/07/11/innovation-14/)",
+        "WFP + MARN El Salvador, Climate Advisory and EWS Initiative (Goascor\u00e1n River Basin)",
+        "UNHCR Innovation Accelerator 2026",
+        "Humanitarian Innovation Programme (Norway)"
+      ],
+      "youtube_id": "yL1uhH99QQg",
+      "youtube_url": "https://www.youtube.com/watch?v=yL1uhH99QQg"
     }
   ],
-  "lastEpisode": 79,
-  "lastUpdated": "2026-07-20T15:52:05.466317+00:00",
-  "lastPublicEpisode": 79,
+  "lastEpisode": 80,
+  "lastUpdated": "2026-07-21T14:36:42.369504+00:00",
+  "lastPublicEpisode": 80,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }

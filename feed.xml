@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#79: An Offline AI Device Speaks 22 Indian Languages, Allianz Beats NASA on Wildfire Detection by 35 Minutes, China Upgrades Djibouti's Early-Warning System</title>
+      <title>#80: The African Development Bank moves $13 million against the Ebola outbreak in DRC, Uganda and South Sudan</title>
       <description />
+      <link>https://impactsignals.ai/episodes/80-the-african-development-bank-moves-13-million-against-the-ebola-outbreak-in-drc-uganda/</link>
+      <guid isPermaLink="false">impact-signal-80</guid>
+      <pubDate>Tue, 21 Jul 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-80/episode-80.mp3" length="8670607" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#79: An Offline AI Device Speaks 22 Indian Languages, Allianz Beats NASA on Wildfire Detection by 35 Minutes, China Upgrades Djibouti's Early-Warning System</title>
+      <description>Impact Signals #79: An Offline AI Device Speaks 22 Indian Languages, Allianz Beats NASA on Wildfire Detection by 35 Minutes, China Upgrades Djibouti's Early-Warning System Current AI, the Paris-founded nonprofit backed by $400 million from the French government, the Ford Foundation, and DeepMind, launched Suno Sutra on July 19: an open-source, pocket-sized device that runs AI offline in 22 Indian languages for farmers with no internet and no English. In Spain, Allianz Seguros and startup Satellites on Fire went live with a national AI wildfire-detection system that beats NASA's own satellites by 35 minutes across more than 50 million hectares, a direct response to Spain's worst wildfire year in three decades. China's Meteorological Administration also handed Djibouti a second-generation AI weather terminal, sharpening forecast resolution from 9km to 3km a year after the first handover. Today's signal: the real, working AI deployments this week are quietly widening who gets to use the technology at all, from language-excluded farmers to insurers with skin in the game on climate risk. --- Top Stories **1. An Offline AI Device Now Speaks 22 Indian Languages, No Internet Required** Current AI, the nonprofit racing to build a "World Wide Web of AI," announced Suno Sutra ("listening chronicles" in Hindi) on July 19 — a pocket-sized, open-source device built with Bhashini, the Indian government's AI language division, that runs entirely offline in 22 Indian languages. It targets ru…</description>
       <link>https://impactsignals.ai/episodes/79-an-offline-ai-device-speaks-22-indian-languages-allianz-beats-nasa-on-wildfire-detectio/</link>
       <guid isPermaLink="false">impact-signal-79</guid>
       <pubDate>Mon, 20 Jul 2026 14:00:00 +0000</pubDate>
