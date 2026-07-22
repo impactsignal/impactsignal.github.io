@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 81,
+  "nextEpisode": 82,
   "episodes": [
     {
       "number": 1,
@@ -2353,10 +2353,43 @@
       ],
       "youtube_id": "yL1uhH99QQg",
       "youtube_url": "https://www.youtube.com/watch?v=yL1uhH99QQg"
+    },
+    {
+      "number": 81,
+      "date": "2026-07-22",
+      "title": "Impact Signals #81 \u2014 California bets its wildfire season on AI: the first dedicated fire-detection satellites, 1,000+ AI cameras, and a state that wants to be the global template",
+      "headline": "California bets its wildfire season on AI: the first dedicated fire-detection satellites, 1,000+ AI cameras, and a state that wants to be the global template",
+      "slug": "81-california-bets-its-wildfire-season-on-ai-the-first-dedicated-fire-detection-satellites",
+      "description": "Impact Signals #81: California bets its wildfire season on AI: the first dedicated fire-detection satellites, 1,000+ AI cameras, and a state that wants to be the global template Today: California bets its wildfire season on AI: the first dedicated fire-detection satellites, 1,000+ AI cameras, and a state that wants to be the global template; Tanzania's University of Dodoma turns mobile-phone towers into AI flood sensors, and wins a global AI for Good award for it; Kenya launches a $263.8 million climate-resilience program for 10 western counties, backed by IFAD, reaching two million people. --- Top Stories **1. California bets its wildfire season on AI: the first dedicated fire-detection satellites, 1,000+ AI cameras, and a state that wants to be the global template** On July 21 Governor Newsom's office laid out California's wildfire technology portfolio as the state enters peak fire season, positioning AI-driven detection as the centerpiece of its emergency strategy. The headline asset: three FireSat satellites launched July 7 from Vandenberg Space Force Base, the first spacecraft ever dedicated solely to wildfire detection. Built by Muon Space for the nonprofit Earth Fire Alliance with Google Research contributing the AI detection pipeline, the constellation can spot fires as small as 5-by-5 meters, and once fully deployed will revisit every point roughly every 20 minutes. The satellites are in post-launch calibration now and begin delivering operational data to CAL FIRE a\u2026",
+      "rss_description": "Impact Signals #81: California bets its wildfire season on AI: the first dedicated fire-detection satellites, 1,000+ AI cameras, and a state that wants to be the global template Today: California bets its wildfire season on AI: the first dedicated fire-detection satellites, 1,000+ AI cameras, and a state that wants to be the global template; Tanzania's University of Dodoma turns mobile-phone towers into AI flood sensors, and wins a global AI for Good award for it; Kenya launches a $263.8 million climate-resilience program for 10 western counties, backed by IFAD, reaching two million people. --- Top Stories **1. California bets its wildfire season on AI: the first dedicated fire-detection satellites, 1,000+ AI cameras, and a state that wants to be the global template** On July 21 Governor Newsom's office laid out California's wildfire technology portfolio as the state enters peak fire season, positioning AI-driven detection as the centerpiece of its emergency strategy. The headline asset: three FireSat satellites launched July 7 from Vandenberg Space Force Base, the first spacecraft ever dedicated solely to wildfire detection. Built by Muon Space for the nonprofit Earth Fire Alliance with Google Research contributing the AI detection pipeline, the constellation can spot fires as small as 5-by-5 meters, and once fully deployed will revisit every point roughly every 20 minutes. The satellites are in post-launch calibration now and begin delivering operational data to CAL FIRE a\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-81/episode-81.mp3",
+      "mp3_bytes": 9269124,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-81/impact-signal-81.mp4",
+      "mp4_bytes": 57136730,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 579,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "2027 (announced 2026-07-20; long-lead, dates to verify on organizer page)",
+        "Location: Thailand",
+        "WFP El Salvador: Climate Advisory and Early Warning Systems Initiative",
+        "UNHCR Innovation Accelerator (scaling humanitarian innovations)",
+        "Climate Tech Fellowship Program 2026",
+        "Climate and Health Innovation Transition to Scale Program",
+        "M7.3 earthquake offshore Chiapas, Mexico (58 km WSW of Puerto Madero):** M7.3 at shallow depth, USGS PAGER yellow alert (some casualties/damage possible); significant event for coastal Chiapas and adjacent Guatemala Monitoring aftershock sequence",
+        "M5.5 earthquake near Chupaca, Jun\u00edn, Peru:** GDACS Orange alert; shallow (10 km depth), an estimated 240,000 people in MMI VII or greater shaking Ongoing assessment per GDACS"
+      ],
+      "youtube_id": "SZ_jjpmNLsc",
+      "youtube_url": "https://www.youtube.com/watch?v=SZ_jjpmNLsc"
     }
   ],
-  "lastEpisode": 80,
-  "lastUpdated": "2026-07-21T14:36:42.369504+00:00",
-  "lastPublicEpisode": 80,
+  "lastEpisode": 81,
+  "lastUpdated": "2026-07-22T12:47:45.543024+00:00",
+  "lastPublicEpisode": 81,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
