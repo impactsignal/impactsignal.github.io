@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 82,
+  "nextEpisode": 83,
   "episodes": [
     {
       "number": 1,
@@ -2386,10 +2386,43 @@
       ],
       "youtube_id": "SZ_jjpmNLsc",
       "youtube_url": "https://www.youtube.com/watch?v=SZ_jjpmNLsc"
+    },
+    {
+      "number": 82,
+      "date": "2026-07-23",
+      "title": "Impact Signals #82 \u2014 The warning systems built after Kerr County's 100-plus deaths just got their first real test, and they mostly worked",
+      "headline": "The warning systems built after Kerr County's 100-plus deaths just got their first real test, and they mostly worked",
+      "slug": "82-the-warning-systems-built-after-kerr-county-s-100-plus-deaths-just-got-their-first-real",
+      "description": "Impact Signals #82: The warning systems built after Kerr County's 100-plus deaths just got their first real test, and they mostly worked Today: The warning systems built after Kerr County's 100-plus deaths just got their first real test, and they mostly worked; Blackbaud announces four new \"Agents for Good\": autonomous AI moves beyond the fundraising office; India expands Mission Mausam: AI forecasting and village-level warnings under the Rs 2,000 crore program. --- Top Stories **1. The warning systems built after Kerr County's 100-plus deaths just got their first real test, and they mostly worked** A new round of storms hit Texas Hill Country this past week, triggering flash floods in some of the same areas devastated by the July 2025 disaster that killed more than 100 people. At least two people died and hundreds needed rescue, but this time the warning infrastructure promised after last year's catastrophe was in place and firing: newly installed sirens in Ingram and in Kerr and Kendall counties sounded, Kerr County issued four alerts and the city of Kerrville one as the flood risk became apparent, the National Weather Service pushed watches, warnings and flood emergencies to broadcast outlets, weather radios and mobile phones, and residents signed up for Kerr County's CodeRED system received text warnings. Residents in some of the hardest-hit areas told the AP that a year of preparation made a tangible difference. This is the rare disaster story where the metric is not wh\u2026",
+      "rss_description": "Impact Signals #82: The warning systems built after Kerr County's 100-plus deaths just got their first real test, and they mostly worked Today: The warning systems built after Kerr County's 100-plus deaths just got their first real test, and they mostly worked; Blackbaud announces four new \"Agents for Good\": autonomous AI moves beyond the fundraising office; India expands Mission Mausam: AI forecasting and village-level warnings under the Rs 2,000 crore program. --- Top Stories **1. The warning systems built after Kerr County's 100-plus deaths just got their first real test, and they mostly worked** A new round of storms hit Texas Hill Country this past week, triggering flash floods in some of the same areas devastated by the July 2025 disaster that killed more than 100 people. At least two people died and hundreds needed rescue, but this time the warning infrastructure promised after last year's catastrophe was in place and firing: newly installed sirens in Ingram and in Kerr and Kendall counties sounded, Kerr County issued four alerts and the city of Kerrville one as the flood risk became apparent, the National Weather Service pushed watches, warnings and flood emergencies to broadcast outlets, weather radios and mobile phones, and residents signed up for Kerr County's CodeRED system received text warnings. Residents in some of the hardest-hit areas told the AP that a year of preparation made a tangible difference. This is the rare disaster story where the metric is not wh\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-82/episode-82.mp3",
+      "mp3_bytes": 8079195,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-82/impact-signal-82.mp4",
+      "mp4_bytes": 50429225,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 504,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "September 29 to October 1, 2026",
+        "Deadline: verify on site",
+        "Location: Columbus, Ohio",
+        "Register: [prnewswire.com](https://www.prnewswire.com/news-releases/blackbaud-announces-new-agents-for-good-embedded-ai-capabilities-for-a-reimagined-cloud-native-ai-first-connected-platform-302831624.html)",
+        "UNHCR Innovation Accelerator 2026",
+        "WFP Climate Advisory and EWS Initiative (El Salvador)",
+        "Climate Tech Fellowship Program 2026",
+        "Climate and Health Innovation Transition to Scale Program"
+      ],
+      "youtube_id": "ZOxyELe4nEs",
+      "youtube_url": "https://www.youtube.com/watch?v=ZOxyELe4nEs"
     }
   ],
-  "lastEpisode": 81,
-  "lastUpdated": "2026-07-22T12:47:45.543024+00:00",
-  "lastPublicEpisode": 81,
+  "lastEpisode": 82,
+  "lastUpdated": "2026-07-23T12:42:19.497511+00:00",
+  "lastPublicEpisode": 82,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
