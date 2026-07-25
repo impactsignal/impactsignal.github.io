@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 83,
+  "nextEpisode": 84,
   "episodes": [
     {
       "number": 1,
@@ -2419,10 +2419,41 @@
       ],
       "youtube_id": "ZOxyELe4nEs",
       "youtube_url": "https://www.youtube.com/watch?v=ZOxyELe4nEs"
+    },
+    {
+      "number": 83,
+      "date": "2026-07-25",
+      "title": "Impact Signals #83 \u2014 From Cyclone Forecasts to Village Alerts: India Harnesses AI for Climate Action and Disaster Resilience",
+      "headline": "From Cyclone Forecasts to Village Alerts: India Harnesses AI for Climate Action and Disaster Resilience",
+      "slug": "83-from-cyclone-forecasts-to-village-alerts-india-harnesses-ai-for-climate-action-and-disa",
+      "description": "Impact Signals #83: From Cyclone Forecasts to Village Alerts: India Harnesses AI for Climate Action and Disaster Resilience Today: From Cyclone Forecasts to Village Alerts: India Harnesses AI for Climate Action and Disaster Resilience; China to Extend AI Weather Warning System MAZU to 30 Countries; Regional Workshop on Strengthening Climate Action and Disaster Preparedness for Media in the Lake Chad Basin. --- Top Stories **1. From Cyclone Forecasts to Village Alerts: India Harnesses AI for Climate Action and Disaster Resilience** India is deploying AI-powered systems to transform cyclone forecasting and disaster-alert delivery at the village level. The initiative combines machine-learning models for real-time weather analysis with automated SMS and mobile alerts tailored to local language and literacy levels. The deployment targets coastal and monsoon-prone regions where early warning can reduce casualties and enable pre-evacuation resource positioning. Field operators report that AI-assisted alerts reach remote communities within minutes of hazard onset, cutting the lag between warning issuance and community action that has historically delayed evacuations. This represents a maturation of India's early-warning ecosystem: moving beyond state-level forecasts to hyperlocal, language-accessible alerts that give people time to act. The approach has been tested with India Meteorological Department data and is now scaling across coastal states. **Why it matters:** For NGOs and hu\u2026",
+      "rss_description": "Impact Signals #83: From Cyclone Forecasts to Village Alerts: India Harnesses AI for Climate Action and Disaster Resilience Today: From Cyclone Forecasts to Village Alerts: India Harnesses AI for Climate Action and Disaster Resilience; China to Extend AI Weather Warning System MAZU to 30 Countries; Regional Workshop on Strengthening Climate Action and Disaster Preparedness for Media in the Lake Chad Basin. --- Top Stories **1. From Cyclone Forecasts to Village Alerts: India Harnesses AI for Climate Action and Disaster Resilience** India is deploying AI-powered systems to transform cyclone forecasting and disaster-alert delivery at the village level. The initiative combines machine-learning models for real-time weather analysis with automated SMS and mobile alerts tailored to local language and literacy levels. The deployment targets coastal and monsoon-prone regions where early warning can reduce casualties and enable pre-evacuation resource positioning. Field operators report that AI-assisted alerts reach remote communities within minutes of hazard onset, cutting the lag between warning issuance and community action that has historically delayed evacuations. This represents a maturation of India's early-warning ecosystem: moving beyond state-level forecasts to hyperlocal, language-accessible alerts that give people time to act. The approach has been tested with India Meteorological Department data and is now scaling across coastal states. **Why it matters:** For NGOs and hu\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-83/episode-83.mp3",
+      "mp3_bytes": 12964302,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-83/impact-signal-83.mp4",
+      "mp4_bytes": 78427938,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 810,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Amount: Approx. INR 2\u20135 crore per project (varies by proposal scope)",
+        "Deadline: To be confirmed via official announcement (expected late July / early August 2026)",
+        "Eligibility: Indian research institutions, NGOs, university consortia",
+        "Apply: [dst.gov.in](https://dst.gov.in)",
+        "AI-BOOST Challenge Competition** (fundsforNGOs, July 22, 2026)",
+        "Family Planning Innovation: AI-Enabled Consumer Engagement** (Gates Foundation, July 24 listing)",
+        "M6.0 Earthquake, 82 km W of Sola, Vanuatu:** Magnitude 6.0; felt/alert status Green (no tsunami threat) No significant casualties reported; ongoing monitoring by USGS",
+        "Tropical Cyclone NOUL-26 (Orange Alert):** Category status being monitored; population affected in Pacific/South China Sea region Orange GDACS alert; regional early-warning systems activated"
+      ]
     }
   ],
-  "lastEpisode": 82,
-  "lastUpdated": "2026-07-23T12:42:19.497511+00:00",
-  "lastPublicEpisode": 82,
+  "lastEpisode": 83,
+  "lastUpdated": "2026-07-25T12:31:10.130816+00:00",
+  "lastPublicEpisode": 83,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
