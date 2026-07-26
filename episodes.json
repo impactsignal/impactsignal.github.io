@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 84,
+  "nextEpisode": 85,
   "episodes": [
     {
       "number": 1,
@@ -2450,10 +2450,43 @@
         "M6.0 Earthquake, 82 km W of Sola, Vanuatu:** Magnitude 6.0; felt/alert status Green (no tsunami threat) No significant casualties reported; ongoing monitoring by USGS",
         "Tropical Cyclone NOUL-26 (Orange Alert):** Category status being monitored; population affected in Pacific/South China Sea region Orange GDACS alert; regional early-warning systems activated"
       ]
+    },
+    {
+      "number": 84,
+      "date": "2026-07-26",
+      "title": "Impact Signals #84 \u2014 aiEDU Funds Rural AI Training, Nigeria's AI Crop Monitor Hits 250,000 Farmers, Google's India Hackathon Reaches Parliament",
+      "headline": "aiEDU Funds Rural AI Training, Nigeria's AI Crop Monitor Hits 250,000 Farmers, Google's India Hackathon Reaches Parliament",
+      "slug": "84-aiedu-funds-rural-ai-training-nigeria-s-ai-crop-monitor-hits-250-000-farmers-google-s-i",
+      "description": "Impact Signals #84: aiEDU Funds Rural AI Training, Nigeria's AI Crop Monitor Hits 250,000 Farmers, Google's India Hackathon Reaches Parliament Today: aiEDU names seven grantees bringing AI-literacy training to rural and Indigenous school districts across six US states; Google and Indian policy nonprofit The Dialogue move 12 civic-tech apps built by 7,000 developers into pilot deployment inside the constituencies of the Members of Parliament who posed the problems; and Nigeria's new AI-and-satellite crop monitoring system, already tracking 250,000 farmers across three planting seasons, heads toward a nationwide rollout. The through-line: AI showing up in the operational middle of five different sectors \u2014 education funding, civic governance, agriculture, workforce training, and lending \u2014 rather than in another early-warning or disaster-response headline. --- Top Stories **1. aiEDU's 2026 Grantees Bring AI Training to Rural and Indigenous School Districts, Not Just Cities** aiEDU (the AI Education Project) named the seven grantees of its 2026 Community Catalyst Program on July 23 \u2014 the third round of a grantmaking track built specifically for rural and Indigenous communities that national AI-in-education conversations tend to skip. The cohort spans school districts, educational service agencies, and education nonprofits across Washington, Nebraska, Texas, Illinois, Montana, and Wyoming, each receiving $25,000 to $50,000 over twelve months. The money targets educator capacity bu\u2026",
+      "rss_description": "Impact Signals #84: aiEDU Funds Rural AI Training, Nigeria's AI Crop Monitor Hits 250,000 Farmers, Google's India Hackathon Reaches Parliament Today: aiEDU names seven grantees bringing AI-literacy training to rural and Indigenous school districts across six US states; Google and Indian policy nonprofit The Dialogue move 12 civic-tech apps built by 7,000 developers into pilot deployment inside the constituencies of the Members of Parliament who posed the problems; and Nigeria's new AI-and-satellite crop monitoring system, already tracking 250,000 farmers across three planting seasons, heads toward a nationwide rollout. The through-line: AI showing up in the operational middle of five different sectors \u2014 education funding, civic governance, agriculture, workforce training, and lending \u2014 rather than in another early-warning or disaster-response headline. --- Top Stories **1. aiEDU's 2026 Grantees Bring AI Training to Rural and Indigenous School Districts, Not Just Cities** aiEDU (the AI Education Project) named the seven grantees of its 2026 Community Catalyst Program on July 23 \u2014 the third round of a grantmaking track built specifically for rural and Indigenous communities that national AI-in-education conversations tend to skip. The cohort spans school districts, educational service agencies, and education nonprofits across Washington, Nebraska, Texas, Illinois, Montana, and Wyoming, each receiving $25,000 to $50,000 over twelve months. The money targets educator capacity bu\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-84/episode-84.mp3",
+      "mp3_bytes": 6215515,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-84/impact-signal-84.mp4",
+      "mp4_bytes": 38883889,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 388,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Application window closes August 5, 2026",
+        "Location: North Africa (regional program)",
+        "Youth-focused hackathon on disaster risk reduction and climate resilience, organized by the African Youth Advisory Board on Disaster Risk Reduction and the African Union with ALF, Periperi U, and the EU",
+        "Register: [globalsouthopportunities.com](https://www.globalsouthopportunities.com/2026/07/25/hackathon-2/)",
+        "Rolling start dates, 3-month terms",
+        "Location: Remote (global)",
+        "Fully remote, paid internship inside UNDP's Digital, AI and Innovation Hub; deadlines reviewed continuously",
+        "Apply: [unjobs.org](https://unjobs.org/vacancies/1774907044870)"
+      ],
+      "youtube_id": "GQu_cKyQryE",
+      "youtube_url": "https://www.youtube.com/watch?v=GQu_cKyQryE"
     }
   ],
-  "lastEpisode": 83,
-  "lastUpdated": "2026-07-25T12:31:10.130816+00:00",
-  "lastPublicEpisode": 83,
+  "lastEpisode": 84,
+  "lastUpdated": "2026-07-26T12:33:46.201812+00:00",
+  "lastPublicEpisode": 84,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
