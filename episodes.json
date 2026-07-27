@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 85,
+  "nextEpisode": 86,
   "episodes": [
     {
       "number": 1,
@@ -2483,10 +2483,43 @@
       ],
       "youtube_id": "GQu_cKyQryE",
       "youtube_url": "https://www.youtube.com/watch?v=GQu_cKyQryE"
+    },
+    {
+      "number": 85,
+      "date": "2026-07-27",
+      "title": "Impact Signals #85 \u2014 Galicia Bets EUR213M on AI Wildfire Cameras, Five African Governments Back an AI Connectivity Declaration, Andhra Pradesh Launches 48-Hour Flood AI",
+      "headline": "Galicia Bets EUR213M on AI Wildfire Cameras, Five African Governments Back an AI Connectivity Declaration, Andhra Pradesh Launches 48-Hour Flood AI",
+      "slug": "85-galicia-bets-eur213m-on-ai-wildfire-cameras-five-african-governments-back-an-ai-connect",
+      "description": "Impact Signals #85: Galicia Bets EUR213M on AI Wildfire Cameras, Five African Governments Back an AI Connectivity Declaration, Andhra Pradesh Launches 48-Hour Flood AI Today: Galicia switches on a EUR213 million network of 241 AI wildfire cameras as Spain declares its first-ever national wildfire emergency and 267,000 people evacuate across Spain and France; five African governments (Benin, Kenya, Namibia, Nigeria, Togo) back the GSMA's Abuja Declaration and launch ATLAS Umoja AI to fast-track connectivity and locally built AI; and Andhra Pradesh's RTGS switches on City Flood Alert, an AI platform giving Vijayawada up to 48 hours' warning before floods hit. The throughline: AI infrastructure is moving from pilot to production this week across wildfire response, connectivity policy, and flood forecasting \u2014 governments building operational backbone, not announcing another study. --- Top Stories **1. Galicia Bets EUR213 Million on AI Camera Networks and Satellites to Beat Europe's Wildfires to the Punch** Galicia, one of Europe's most fire-prone regions, is deploying 241 AI-powered surveillance cameras across its highest-risk parishes, feeding neural networks trained to recognize smoke patterns, combined with satellite thermal detection and a public mobile alert app, all running through an internal platform called Xeocode. After a two-year pilot, the system spots fires from 15-25 kilometers away, cutting detection time from hours to minutes. The EUR213 million investment follow\u2026",
+      "rss_description": "Impact Signals #85: Galicia Bets EUR213M on AI Wildfire Cameras, Five African Governments Back an AI Connectivity Declaration, Andhra Pradesh Launches 48-Hour Flood AI Today: Galicia switches on a EUR213 million network of 241 AI wildfire cameras as Spain declares its first-ever national wildfire emergency and 267,000 people evacuate across Spain and France; five African governments (Benin, Kenya, Namibia, Nigeria, Togo) back the GSMA's Abuja Declaration and launch ATLAS Umoja AI to fast-track connectivity and locally built AI; and Andhra Pradesh's RTGS switches on City Flood Alert, an AI platform giving Vijayawada up to 48 hours' warning before floods hit. The throughline: AI infrastructure is moving from pilot to production this week across wildfire response, connectivity policy, and flood forecasting \u2014 governments building operational backbone, not announcing another study. --- Top Stories **1. Galicia Bets EUR213 Million on AI Camera Networks and Satellites to Beat Europe's Wildfires to the Punch** Galicia, one of Europe's most fire-prone regions, is deploying 241 AI-powered surveillance cameras across its highest-risk parishes, feeding neural networks trained to recognize smoke patterns, combined with satellite thermal detection and a public mobile alert app, all running through an internal platform called Xeocode. After a two-year pilot, the system spots fires from 15-25 kilometers away, cutting detection time from hours to minutes. The EUR213 million investment follow\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-85/episode-85.mp3",
+      "mp3_bytes": 7699270,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-85/impact-signal-85.mp4",
+      "mp4_bytes": 48360343,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 481,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Applications open now",
+        "Deadline: August 5, 2026",
+        "Location: North Africa (regional; African Youth Advisory Board on Disaster Risk Reduction / African Union, with ALF, Periperi U, and the EU)",
+        "Practitioners building early-warning tools for the region should apply before the window closes",
+        "Register: [globalsouthopportunities.com](https://www.globalsouthopportunities.com/2026/07/25/hackathon-2/)",
+        "Spain and France:** Wildfires across Galicia, the Madrid region, Avila, and the Bordeaux area",
+        "China (Guangdong):** Tropical Cyclone Noul made landfall; GDACS Orange alert, roughly 11.89 million people affected by Category 1 winds; China activated a formal emergency response after landfall. Source: GDACS.",
+        "Vanuatu:** M6.0 earthquake 82 km west of Sola; meets the major-earthquake threshold, no populated-area damage reports at time of writing. Source: USGS."
+      ],
+      "youtube_id": "LP3JhW3Yb0M",
+      "youtube_url": "https://www.youtube.com/watch?v=LP3JhW3Yb0M"
     }
   ],
-  "lastEpisode": 84,
-  "lastUpdated": "2026-07-26T12:33:46.201812+00:00",
-  "lastPublicEpisode": 84,
+  "lastEpisode": 85,
+  "lastUpdated": "2026-07-27T15:54:13.343196+00:00",
+  "lastPublicEpisode": 85,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
