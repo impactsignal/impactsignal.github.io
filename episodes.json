@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 86,
+  "nextEpisode": 87,
   "episodes": [
     {
       "number": 1,
@@ -2516,10 +2516,43 @@
       ],
       "youtube_id": "LP3JhW3Yb0M",
       "youtube_url": "https://www.youtube.com/watch?v=LP3JhW3Yb0M"
+    },
+    {
+      "number": 86,
+      "date": "2026-07-28",
+      "title": "Impact Signals #86 \u2014 SoftBank and Tohoku University are building a \"sovereign AI\" disaster-science lab, with a Nankai Trough simulation as its first test",
+      "headline": "SoftBank and Tohoku University are building a \"sovereign AI\" disaster-science lab, with a Nankai Trough simulation as its first test",
+      "slug": "86-softbank-and-tohoku-university-are-building-a-sovereign-ai-disaster-science-lab-with-a",
+      "description": "Impact Signals #86: SoftBank and Tohoku University are building a \"sovereign AI\" disaster-science lab, with a Nankai Trough simulation as its first test Today: SoftBank and Tohoku University are building a \"sovereign AI\" disaster-science lab, with a Nankai Trough simulation as its first test; China is running a real crackdown on AI-faked disaster videos, and it's already disrupting flood response; A federal push to copy an AI disaster-coordination platform UNESCO already deployed in the Solomon Islands. --- Top Stories **1. SoftBank and Tohoku University are building a \"sovereign AI\" disaster-science lab, with a Nankai Trough simulation as its first test** SoftBank and Tohoku University's International Research Institute of Disaster Science (IRIDeS) announced on July 27 that they will open the \"AI for Disaster Science Co-Creation Laboratory\" on August 1, 2026. The lab pairs generative AI trained on lessons from the 2011 Great East Japan Earthquake with digital-twin technology that recreates real-world terrain and infrastructure in virtual space, aiming to predict compound disaster risks (quake plus tsunami plus infrastructure failure) and propose recovery measures before an event happens rather than after. The first proof-of-concept, beginning in fiscal 2026, simulates a Nankai Trough megaquake in Hyuga City, Miyazaki Prefecture, a region long flagged by Japanese seismologists as facing a high-probability, high-casualty rupture in the coming decades. The project explicitly c\u2026",
+      "rss_description": "Impact Signals #86: SoftBank and Tohoku University are building a \"sovereign AI\" disaster-science lab, with a Nankai Trough simulation as its first test Today: SoftBank and Tohoku University are building a \"sovereign AI\" disaster-science lab, with a Nankai Trough simulation as its first test; China is running a real crackdown on AI-faked disaster videos, and it's already disrupting flood response; A federal push to copy an AI disaster-coordination platform UNESCO already deployed in the Solomon Islands. --- Top Stories **1. SoftBank and Tohoku University are building a \"sovereign AI\" disaster-science lab, with a Nankai Trough simulation as its first test** SoftBank and Tohoku University's International Research Institute of Disaster Science (IRIDeS) announced on July 27 that they will open the \"AI for Disaster Science Co-Creation Laboratory\" on August 1, 2026. The lab pairs generative AI trained on lessons from the 2011 Great East Japan Earthquake with digital-twin technology that recreates real-world terrain and infrastructure in virtual space, aiming to predict compound disaster risks (quake plus tsunami plus infrastructure failure) and propose recovery measures before an event happens rather than after. The first proof-of-concept, beginning in fiscal 2026, simulates a Nankai Trough megaquake in Hyuga City, Miyazaki Prefecture, a region long flagged by Japanese seismologists as facing a high-probability, high-casualty rupture in the coming decades. The project explicitly c\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-86/episode-86.mp3",
+      "mp3_bytes": 7236171,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-86/impact-signal-86.mp4",
+      "mp4_bytes": 45546189,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 452,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Applications open now; deadline 2026-08-05.",
+        "Deadline: 2026-08-05",
+        "Location: North Africa region (organized by the African Youth Advisory Board on Disaster Risk Reduction / African Union, with ALF, Periperi U, and the EU)",
+        "Register: [news.google.com](https://news.google.com/rss/articles/CBMickFVX3lxTE1xVFYzcWlXNmFnVXlpWGdieWlLeGxNVkNjckdlUnlSd053VjhhSTNJZDBoVV9lZDNFSzA3MnlnenJJTEh1ekllSGsxaUZCMWtZMUNnQktMNXpsSGwtNFZRazlPNTZsNXg1R2V5cnJDUVZ1dw?oc=5)",
+        "Amount: EUR 5,000, plus exhibition of the winning work",
+        "Deadline: 2026-08-31",
+        "Eligibility: Photographers/multimedia creators working on humanitarian themes (this round: food systems and nutrition)",
+        "Apply: [news.google.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxQRVN5ZXBmQ29SV3dwcGU0YTQwZFMwaWFUVUU1R09iOG1RZXJtMnJsX2dfMHpaSEh0cTA5cGxjLTZvQUxub1kxQW90ZWMyUVVGRTRyRjZmQXZEZUV0TmZSSzhSaXNpczB5anJ0UGx3VHNqUTc4Y185WU9nTFl0cExoNFJraE13eHM5bUtZYy1sbWF5VDVRQUxhbjJB0gGfAUFVX3lxTE1VY1JPbl90emR3bXd3SnNpQ1pfWTVZMXp1MGpWMkZFTVJNdkYzOVlaQkVmaHZpUTlFbV85bkpvUXlqeWFPX2VQaU03b054UWFqUEx3MVM2MGd6MVVqbHRlOVdDMEhFYjdGSENVdjZkV0xQX1otRlV3bUF0UzBETWlJa284dW9SRFF4ZW4zVGpoN2k1LUlsU0pMSFFmakZBQQ?oc=5)"
+      ],
+      "youtube_id": "vvbzfCkqQYs",
+      "youtube_url": "https://www.youtube.com/watch?v=vvbzfCkqQYs"
     }
   ],
-  "lastEpisode": 85,
-  "lastUpdated": "2026-07-27T15:54:13.343196+00:00",
-  "lastPublicEpisode": 85,
+  "lastEpisode": 86,
+  "lastUpdated": "2026-07-28T12:43:54.944483+00:00",
+  "lastPublicEpisode": 86,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
