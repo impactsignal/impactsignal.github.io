@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 87,
+  "nextEpisode": 88,
   "episodes": [
     {
       "number": 1,
@@ -2549,10 +2549,43 @@
       ],
       "youtube_id": "vvbzfCkqQYs",
       "youtube_url": "https://www.youtube.com/watch?v=vvbzfCkqQYs"
+    },
+    {
+      "number": 87,
+      "date": "2026-07-29",
+      "title": "Impact Signals #87 \u2014 An Aspen fire district just closed its last satellite-detection blind spot",
+      "headline": "An Aspen fire district just closed its last satellite-detection blind spot",
+      "slug": "87-an-aspen-fire-district-just-closed-its-last-satellite-detection-blind-spot",
+      "description": "Impact Signals #87: An Aspen fire district just closed its last satellite-detection blind spot Today: An Aspen fire district just closed its last satellite-detection blind spot; Google.org puts $10 million behind AI coaching for nonprofits in five U.S. cities; Nigeria's weather agency signs a second AI partnership in two days, this time aimed at food security. --- Top Stories **1. An Aspen fire district just closed its last satellite-detection blind spot** Source URL: [aerialfiremag.com](https://aerialfiremag.com/2026/07/29/aspen-fire-protection-district-launches-ororatech-satellite-wildfire-detection-across-district-and-lincoln-creek-valley/) The Aspen Fire Protection District, working with the Aspen Wildfire Foundation, has extended OroraTech's satellite wildfire-detection network to cover the full district plus the previously-unmonitored Lincoln Creek Valley and surrounding U.S. Forest Service land. OroraTech's constellation uses thermal (not optical) imaging satellites, so it can spot heat anomalies day or night, in rugged terrain and other blind spots where ground cameras and traditional monitoring fall short, and push near-real-time alerts to responders. The expansion was privately funded through the Aspen Wildfire Foundation, championed by a retired paramedic firefighter, George Newell, who identified the monitoring gap in the valley. This is a live, operational deployment as of today, not an announcement of future intent: the system is watching the valley now, ahead\u2026",
+      "rss_description": "Impact Signals #87: An Aspen fire district just closed its last satellite-detection blind spot Today: An Aspen fire district just closed its last satellite-detection blind spot; Google.org puts $10 million behind AI coaching for nonprofits in five U.S. cities; Nigeria's weather agency signs a second AI partnership in two days, this time aimed at food security. --- Top Stories **1. An Aspen fire district just closed its last satellite-detection blind spot** Source URL: [aerialfiremag.com](https://aerialfiremag.com/2026/07/29/aspen-fire-protection-district-launches-ororatech-satellite-wildfire-detection-across-district-and-lincoln-creek-valley/) The Aspen Fire Protection District, working with the Aspen Wildfire Foundation, has extended OroraTech's satellite wildfire-detection network to cover the full district plus the previously-unmonitored Lincoln Creek Valley and surrounding U.S. Forest Service land. OroraTech's constellation uses thermal (not optical) imaging satellites, so it can spot heat anomalies day or night, in rugged terrain and other blind spots where ground cameras and traditional monitoring fall short, and push near-real-time alerts to responders. The expansion was privately funded through the Aspen Wildfire Foundation, championed by a retired paramedic firefighter, George Newell, who identified the monitoring gap in the valley. This is a live, operational deployment as of today, not an announcement of future intent: the system is watching the valley now, ahead\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-87/episode-87.mp3",
+      "mp3_bytes": 5652106,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-87/impact-signal-87.mp4",
+      "mp4_bytes": 35662583,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 353,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Three-day workshop, convened 2026-07-29",
+        "Deadline: N/A (government/UNDP-convened technical workshop, not open registration)",
+        "Location: Fiji (National Disaster Risk Management Office, with UNDP)",
+        "Amount: Not capped in the call; inaugural Data Science and AI grant round (amount per award not yet published)",
+        "Deadline: 2026-08-26",
+        "Eligibility: UK-based researchers using data science, bioinformatics, or AI methods on kidney disease",
+        "Apply: [kidneyresearchuk.org](https://www.kidneyresearchuk.org/research/data-ai-strategy/)",
+        "Amount: Not disclosed in source (creative/storytelling grant; winner showcased from October 2027)"
+      ],
+      "youtube_id": "hMC9xEgegaE",
+      "youtube_url": "https://www.youtube.com/watch?v=hMC9xEgegaE"
     }
   ],
-  "lastEpisode": 86,
-  "lastUpdated": "2026-07-28T12:43:54.944483+00:00",
-  "lastPublicEpisode": 86,
+  "lastEpisode": 87,
+  "lastUpdated": "2026-07-29T12:41:19.691767+00:00",
+  "lastPublicEpisode": 87,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
