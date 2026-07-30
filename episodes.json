@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 88,
+  "nextEpisode": 89,
   "episodes": [
     {
       "number": 1,
@@ -2582,10 +2582,43 @@
       ],
       "youtube_id": "hMC9xEgegaE",
       "youtube_url": "https://www.youtube.com/watch?v=hMC9xEgegaE"
+    },
+    {
+      "number": 88,
+      "date": "2026-07-30",
+      "title": "Impact Signals #88 \u2014 A Kenyan tech hub backs 12 startups building AI-enabled schooling for disabled, refugee, and rural kids",
+      "headline": "A Kenyan tech hub backs 12 startups building AI-enabled schooling for disabled, refugee, and rural kids",
+      "slug": "88-a-kenyan-tech-hub-backs-12-startups-building-ai-enabled-schooling-for-disabled-refugee",
+      "description": "Impact Signals #88: A Kenyan tech hub backs 12 startups building AI-enabled schooling for disabled, refugee, and rural kids Today: A Kenyan tech hub backs 12 startups building AI-enabled schooling for disabled, refugee, and rural kids; An AI lifeguard-assist system goes live at a Melbourne pool, timed to World Drowning Prevention Day; Kakao's philanthropic arm builds an \"AI citizenship\" curriculum for teens, with KAIST and Seoul National University advising. --- Top Stories **1. A Kenyan tech hub backs 12 startups building AI-enabled schooling for disabled, refugee, and rural kids** iHub, working with the Mastercard Foundation, launched the fourth cohort of its EdTech Fellowship in Nairobi on July 23, selecting 12 early-stage Kenyan startups for an 18-month, equity-free funding track worth up to $100,000 each. Unlike prior cohorts, which backed growth-stage companies for eight months, this round bets on unproven, early founders across four gaps: assistive technology for learners with disabilities (DEAFHEALTH, AssistiveMath, Signvrse, Deaf Outreach Program, SmartSteamMinds Edtech, Chipurobo), AI-enabled multilingual and offline learning for refugee and displaced communities (Neurollect Audread, JUZA AI, Ubuntu Universe, RYEH CBO), and entrepreneurial/digital skills for girls and young women (Gwiji for Women, Tausi App). The program's third cohort (announced Nov 2025) had already reached over half a million learners, giving the Foundation a track record to point to for this ex\u2026",
+      "rss_description": "Impact Signals #88: A Kenyan tech hub backs 12 startups building AI-enabled schooling for disabled, refugee, and rural kids Today: A Kenyan tech hub backs 12 startups building AI-enabled schooling for disabled, refugee, and rural kids; An AI lifeguard-assist system goes live at a Melbourne pool, timed to World Drowning Prevention Day; Kakao's philanthropic arm builds an \"AI citizenship\" curriculum for teens, with KAIST and Seoul National University advising. --- Top Stories **1. A Kenyan tech hub backs 12 startups building AI-enabled schooling for disabled, refugee, and rural kids** iHub, working with the Mastercard Foundation, launched the fourth cohort of its EdTech Fellowship in Nairobi on July 23, selecting 12 early-stage Kenyan startups for an 18-month, equity-free funding track worth up to $100,000 each. Unlike prior cohorts, which backed growth-stage companies for eight months, this round bets on unproven, early founders across four gaps: assistive technology for learners with disabilities (DEAFHEALTH, AssistiveMath, Signvrse, Deaf Outreach Program, SmartSteamMinds Edtech, Chipurobo), AI-enabled multilingual and offline learning for refugee and displaced communities (Neurollect Audread, JUZA AI, Ubuntu Universe, RYEH CBO), and entrepreneurial/digital skills for girls and young women (Gwiji for Women, Tausi App). The program's third cohort (announced Nov 2025) had already reached over half a million learners, giving the Foundation a track record to point to for this ex\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-88/episode-88.mp3",
+      "mp3_bytes": 9087312,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-88/impact-signal-88.mp4",
+      "mp4_bytes": 56504050,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 567,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "OpenAI Foundation, 2026 People-First AI Fund",
+        "Kidney Research UK, data-science/AI research grants",
+        "M6.8 earthquake, Uto, Japan (ongoing aftershock sequence):** GDACS estimates ~1.2 million people in MMI>=V shaking intensity zone. Ongoing; aftershocks remain a stated concern per local reporting.",
+        "Red flood alert, China:** Regional flooding tied to the Typhoon Noul aftermath in Guangdong and neighboring provinces. Active response; authorities have also launched an anti-disinformation campaign targeting AI-faked disaster videos circulating during the flood (previously covered on the show 2026-07-28).",
+        "M5.7 / M5.8 earthquake pair, 191-192 km NW of Oula Xiuma, China:** GDACS estimates 2,000-6,000 people in MMI>=VI zones across the two events. Monitoring; no major-damage reports surfaced in this window's sourcing.",
+        "Red forest-fire notification, France:** Highest GDACS severity tier for wildfire; population/area affected not itemized in the feed. Active as of alert issuance; not independently re-verified beyond the GDACS feed this cycle.",
+        "Note: only major or ongoing-major disasters are featured; low-severity GDACS Green alerts are excluded per the major-only bar.",
+        "[techcabal.com](https://techcabal.com/2026/07/28/ihub-picks-12-kenyan-edtech-startups-for-100000-funding-programme/)"
+      ],
+      "youtube_id": "LU_zF2PVIak",
+      "youtube_url": "https://www.youtube.com/watch?v=LU_zF2PVIak"
     }
   ],
-  "lastEpisode": 87,
-  "lastUpdated": "2026-07-29T12:41:19.691767+00:00",
-  "lastPublicEpisode": 87,
+  "lastEpisode": 88,
+  "lastUpdated": "2026-07-30T12:37:02.038850+00:00",
+  "lastPublicEpisode": 88,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
