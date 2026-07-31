@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 89,
+  "nextEpisode": 90,
   "episodes": [
     {
       "number": 1,
@@ -2615,10 +2615,43 @@
       ],
       "youtube_id": "LU_zF2PVIak",
       "youtube_url": "https://www.youtube.com/watch?v=LU_zF2PVIak"
+    },
+    {
+      "number": 89,
+      "date": "2026-07-31",
+      "title": "Impact Signals #89 \u2014 Eleven hospitals wired an AI deterioration score into their rapid-response teams, and deaths among high-risk patients fell by nearly a fifth",
+      "headline": "Eleven hospitals wired an AI deterioration score into their rapid-response teams, and deaths among high-risk patients fell by nearly a fifth",
+      "slug": "89-eleven-hospitals-wired-an-ai-deterioration-score-into-their-rapid-response-teams-and-de",
+      "description": "Impact Signals #89: Eleven hospitals wired an AI deterioration score into their rapid-response teams, and deaths among high-risk patients fell by nearly a fifth Today: Eleven hospitals wired an AI deterioration score into their rapid-response teams, and deaths among high-risk patients fell by nearly a fifth; Bengaluru is sending robots into its Cauvery water mains, and the utility is paying nothing for it; Seven Nigerian civil-society groups just got funded to argue with their own government about AI. --- Top Stories **1. Eleven hospitals wired an AI deterioration score into their rapid-response teams, and deaths among high-risk patients fell by nearly a fifth** Source URL: [rutgers.edu](https://www.rutgers.edu/news/rwjbarnabas-health-and-rutgers-researchers-find-ai-tool-helps-detect-patients-risk-earlier) Researchers from RWJBarnabas Health and Rutgers Robert Wood Johnson Medical School published a study in NEJM AI on July 28 evaluating outcomes for 23,132 high-risk patients across 11 RWJBarnabas Health hospitals. After the system went live, deaths among high-risk patients fell from 23.1 percent to 18.6 percent, an 18 percent reduction in the risk-adjusted odds of dying in hospital. Rapid response team activations for high-risk patients rose from 25.3 percent of hospital stays to 37.5 percent, while transfers to intensive care did not increase significantly. The tool is the Epic Deterioration Index, a proprietary machine-learning model that reads data already sitting in the\u2026",
+      "rss_description": "Impact Signals #89: Eleven hospitals wired an AI deterioration score into their rapid-response teams, and deaths among high-risk patients fell by nearly a fifth Today: Eleven hospitals wired an AI deterioration score into their rapid-response teams, and deaths among high-risk patients fell by nearly a fifth; Bengaluru is sending robots into its Cauvery water mains, and the utility is paying nothing for it; Seven Nigerian civil-society groups just got funded to argue with their own government about AI. --- Top Stories **1. Eleven hospitals wired an AI deterioration score into their rapid-response teams, and deaths among high-risk patients fell by nearly a fifth** Source URL: [rutgers.edu](https://www.rutgers.edu/news/rwjbarnabas-health-and-rutgers-researchers-find-ai-tool-helps-detect-patients-risk-earlier) Researchers from RWJBarnabas Health and Rutgers Robert Wood Johnson Medical School published a study in NEJM AI on July 28 evaluating outcomes for 23,132 high-risk patients across 11 RWJBarnabas Health hospitals. After the system went live, deaths among high-risk patients fell from 23.1 percent to 18.6 percent, an 18 percent reduction in the risk-adjusted odds of dying in hospital. Rapid response team activations for high-risk patients rose from 25.3 percent of hospital stays to 37.5 percent, while transfers to intensive care did not increase significantly. The tool is the Epic Deterioration Index, a proprietary machine-learning model that reads data already sitting in the\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-89/episode-89.mp3",
+      "mp3_bytes": 8306564,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-89/impact-signal-89.mp4",
+      "mp4_bytes": 50209301,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 519,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "July 27\u201331, 2026 (concluding today, listed as context rather than as an upcoming event)",
+        "Location: Nacala, Mozambique, centred on the SADC Humanitarian and Emergency Operations Centre (SHOC)",
+        "Register: [sadc.int](https://www.sadc.int/latest-news/sadc-and-partners-set-conduct-regional-simulation-exercise-strengthen-disaster)",
+        "NOT VERIFIED. The PreventionWeb listing was unreachable at fetch time (Cloudflare challenge), so no date, location, or registration deadline is asserted here.",
+        "Register: [preventionweb.net](https://www.preventionweb.net/event/ai-disaster-risk-reduction-conference-2026)",
+        "Amount: US$10,000 per grant, projects up to eight months (final submission by June 30, 2027)",
+        "Deadline: July 31, 2026, 23:59 UTC (closing today, roughly 17:00 Pacific)",
+        "Eligibility: Researchers based in low- and middle-income countries. Research on the principled and accountable use of ICTs, including AI, in humanitarian action: community needs, digital realities, data protection. English or French; translation costs eligible."
+      ],
+      "youtube_id": "CiQmPu25lwA",
+      "youtube_url": "https://www.youtube.com/watch?v=CiQmPu25lwA"
     }
   ],
-  "lastEpisode": 88,
-  "lastUpdated": "2026-07-30T12:37:02.038850+00:00",
-  "lastPublicEpisode": 88,
+  "lastEpisode": 89,
+  "lastUpdated": "2026-07-31T12:57:22.069795+00:00",
+  "lastPublicEpisode": 89,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
