@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#89: Eleven hospitals wired an AI deterioration score into their rapid-response teams, and deaths among high-risk patients fell by nearly a fifth</title>
+      <title>#90: AI-generated fake disaster videos are complicating China's flood response, and authorities have opened a national crackdown</title>
       <description />
+      <link>https://impactsignals.ai/episodes/90-ai-generated-fake-disaster-videos-are-complicating-china-s-flood-response-and-authoriti/</link>
+      <guid isPermaLink="false">impact-signal-90</guid>
+      <pubDate>Sat, 01 Aug 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-90/episode-90.mp3" length="11960782" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#89: Eleven hospitals wired an AI deterioration score into their rapid-response teams, and deaths among high-risk patients fell by nearly a fifth</title>
+      <description>Impact Signals #89: Eleven hospitals wired an AI deterioration score into their rapid-response teams, and deaths among high-risk patients fell by nearly a fifth Today: Eleven hospitals wired an AI deterioration score into their rapid-response teams, and deaths among high-risk patients fell by nearly a fifth; Bengaluru is sending robots into its Cauvery water mains, and the utility is paying nothing for it; Seven Nigerian civil-society groups just got funded to argue with their own government about AI. --- Top Stories **1. Eleven hospitals wired an AI deterioration score into their rapid-response teams, and deaths among high-risk patients fell by nearly a fifth** Source URL: [rutgers.edu](https://www.rutgers.edu/news/rwjbarnabas-health-and-rutgers-researchers-find-ai-tool-helps-detect-patients-risk-earlier) Researchers from RWJBarnabas Health and Rutgers Robert Wood Johnson Medical School published a study in NEJM AI on July 28 evaluating outcomes for 23,132 high-risk patients across 11 RWJBarnabas Health hospitals. After the system went live, deaths among high-risk patients fell from 23.1 percent to 18.6 percent, an 18 percent reduction in the risk-adjusted odds of dying in hospital. Rapid response team activations for high-risk patients rose from 25.3 percent of hospital stays to 37.5 percent, while transfers to intensive care did not increase significantly. The tool is the Epic Deterioration Index, a proprietary machine-learning model that reads data already sitting in the…</description>
       <link>https://impactsignals.ai/episodes/89-eleven-hospitals-wired-an-ai-deterioration-score-into-their-rapid-response-teams-and-de/</link>
       <guid isPermaLink="false">impact-signal-89</guid>
       <pubDate>Fri, 31 Jul 2026 14:00:00 +0000</pubDate>

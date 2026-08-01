@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 90,
+  "nextEpisode": 91,
   "episodes": [
     {
       "number": 1,
@@ -2648,10 +2648,43 @@
       ],
       "youtube_id": "CiQmPu25lwA",
       "youtube_url": "https://www.youtube.com/watch?v=CiQmPu25lwA"
+    },
+    {
+      "number": 90,
+      "date": "2026-08-01",
+      "title": "Impact Signals #90 \u2014 AI-generated fake disaster videos are complicating China's flood response, and authorities have opened a national crackdown",
+      "headline": "AI-generated fake disaster videos are complicating China's flood response, and authorities have opened a national crackdown",
+      "slug": "90-ai-generated-fake-disaster-videos-are-complicating-china-s-flood-response-and-authoriti",
+      "description": "Impact Signals #90: AI-generated fake disaster videos are complicating China's flood response, and authorities have opened a national crackdown Today: AI-generated fake disaster videos are complicating China's flood response, and authorities have opened a national crackdown; Himachal Pradesh University's satellite-driven model reconstructs cloudburst flash floods with 95 percent accuracy; First building-level national landslide map finds 6.5 million Americans living in hazard zones, with Appalachia carrying the heaviest burden. --- Top Stories **1. AI-generated fake disaster videos are complicating China's flood response, and authorities have opened a national crackdown** Source URL: [tbsnews.net](https://www.tbsnews.net/worldbiz/china/ai-generated-misinformation-surges-after-china-disasters-complicating-emergency) As China works through a severe flood and typhoon season, AFP reporting published July 31 describes a surge of AI-generated disaster misinformation that is actively interfering with emergency response. Documented fakes include AI-generated images of bodies floating in floodwaters, fabricated flooding reports for unaffected areas, and false power-outage claims that triggered panic buying of emergency supplies. In one case, after snakes escaped a breeding farm during flooding, AI-generated images falsely showed crocodiles released into nearby rivers. The government response has teeth and dates: the Cyberspace Administration of China announced a nationwide crackdown\u2026",
+      "rss_description": "Impact Signals #90: AI-generated fake disaster videos are complicating China's flood response, and authorities have opened a national crackdown Today: AI-generated fake disaster videos are complicating China's flood response, and authorities have opened a national crackdown; Himachal Pradesh University's satellite-driven model reconstructs cloudburst flash floods with 95 percent accuracy; First building-level national landslide map finds 6.5 million Americans living in hazard zones, with Appalachia carrying the heaviest burden. --- Top Stories **1. AI-generated fake disaster videos are complicating China's flood response, and authorities have opened a national crackdown** Source URL: [tbsnews.net](https://www.tbsnews.net/worldbiz/china/ai-generated-misinformation-surges-after-china-disasters-complicating-emergency) As China works through a severe flood and typhoon season, AFP reporting published July 31 describes a surge of AI-generated disaster misinformation that is actively interfering with emergency response. Documented fakes include AI-generated images of bodies floating in floodwaters, fabricated flooding reports for unaffected areas, and false power-outage claims that triggered panic buying of emergency supplies. In one case, after snakes escaped a breeding farm during flooding, AI-generated images falsely showed crocodiles released into nearby rivers. The government response has teeth and dates: the Cyberspace Administration of China announced a nationwide crackdown\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-90/episode-90.mp3",
+      "mp3_bytes": 11960782,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-90/impact-signal-90.mp4",
+      "mp4_bytes": 72673252,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 747,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Underway as of 2026-07-31 per News On AIR coverage; closing date verify",
+        "Deadline: n/a (in progress)",
+        "Location: India",
+        "Register: [newsonair.gov.in](https://www.newsonair.gov.in/)",
+        "Convened week of 2026-07-30 (AUC opening remarks published 2026-07-30); follow-on outputs verify",
+        "Deadline: n/a",
+        "Location: African Union",
+        "Register: [au.int](https://au.int/)"
+      ],
+      "youtube_id": "dZ-zNKiMfu8",
+      "youtube_url": "https://www.youtube.com/watch?v=dZ-zNKiMfu8"
     }
   ],
-  "lastEpisode": 89,
-  "lastUpdated": "2026-07-31T12:57:22.069795+00:00",
-  "lastPublicEpisode": 89,
+  "lastEpisode": 90,
+  "lastUpdated": "2026-08-01T13:05:03.483880+00:00",
+  "lastPublicEpisode": 90,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
