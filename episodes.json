@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 91,
+  "nextEpisode": 92,
   "episodes": [
     {
       "number": 1,
@@ -2681,10 +2681,43 @@
       ],
       "youtube_id": "dZ-zNKiMfu8",
       "youtube_url": "https://www.youtube.com/watch?v=dZ-zNKiMfu8"
+    },
+    {
+      "number": 91,
+      "date": "2026-08-02",
+      "title": "Impact Signals #91 \u2014 Manila's Two-Hour Flood AI, Cross River's Emergency-Response Camera Network, Irvine's Wildfire-Sensor Expansion",
+      "headline": "Manila's Two-Hour Flood AI, Cross River's Emergency-Response Camera Network, Irvine's Wildfire-Sensor Expansion",
+      "slug": "91-manila-s-two-hour-flood-ai-cross-river-s-emergency-response-camera-network-irvine-s-wil",
+      "description": "Impact Signals #91: Manila's Two-Hour Flood AI, Cross River's Emergency-Response Camera Network, Irvine's Wildfire-Sensor Expansion Manila's city government now runs an AI-and-drone flood model that gives residents in specific districts a two-hour head start before water hits, built on a millimeter-precision GIS layer the Manila City Disaster Risk Reduction and Management Department already had in place. In Nigeria, Cross River State's new Huawei-built AI camera network is projected to cut Calabar emergency response from over 45 minutes to under 12, pairing public-safety monitoring with flood-level sensors along the coast. Irvine, California moved a teen-founded wildfire-sensor pilot into a funded, multi-year expansion across its open-space preserve, and the UN pointed to a season that has already burned 434,000 hectares across Europe to call for AI prevention spending, not just firefighting budgets. Today's signal: the AI infrastructure cities and regions already have on hand \u2014 GIS layers, camera networks, sensor pilots \u2014 is what's turning into faster, district-level warning and response. --- Top Stories **1. Manila Deploys an AI-and-Drone Flood Model That Gives Residents a Two-Hour Head Start** Manila Mayor Isko Moreno announced on July 29 that the city is using an AI-and-drone system, built on a millimeter-precision 3D map of city structures via ArcGIS, to forecast localized flooding roughly two hours before it happens. The system calculates rainfall volume against land e\u2026",
+      "rss_description": "Impact Signals #91: Manila's Two-Hour Flood AI, Cross River's Emergency-Response Camera Network, Irvine's Wildfire-Sensor Expansion Manila's city government now runs an AI-and-drone flood model that gives residents in specific districts a two-hour head start before water hits, built on a millimeter-precision GIS layer the Manila City Disaster Risk Reduction and Management Department already had in place. In Nigeria, Cross River State's new Huawei-built AI camera network is projected to cut Calabar emergency response from over 45 minutes to under 12, pairing public-safety monitoring with flood-level sensors along the coast. Irvine, California moved a teen-founded wildfire-sensor pilot into a funded, multi-year expansion across its open-space preserve, and the UN pointed to a season that has already burned 434,000 hectares across Europe to call for AI prevention spending, not just firefighting budgets. Today's signal: the AI infrastructure cities and regions already have on hand \u2014 GIS layers, camera networks, sensor pilots \u2014 is what's turning into faster, district-level warning and response. --- Top Stories **1. Manila Deploys an AI-and-Drone Flood Model That Gives Residents a Two-Hour Head Start** Manila Mayor Isko Moreno announced on July 29 that the city is using an AI-and-drone system, built on a millimeter-precision 3D map of city structures via ArcGIS, to forecast localized flooding roughly two hours before it happens. The system calculates rainfall volume against land e\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-91/episode-91.mp3",
+      "mp3_bytes": 6533164,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-91/impact-signal-91.mp4",
+      "mp4_bytes": 41850695,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 408,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Amount: Up to $50,000 per selected venture",
+        "Deadline: August 31, 2026",
+        "Eligibility: AI-driven climate-smart agriculture startups registered in Ghana, Kenya, Malawi, Rwanda, or Uganda",
+        "Apply: [opportunitydesk.org](https://opportunitydesk.org/2026/07/29/innovate-africa-challenge-2026-3rd-edition/)",
+        "Japan/China:** M6.8 earthquake near Uto, Japan on July 28, with an associated M5.8/M5.7 sequence near Oula Xiuma, China the same day. USGS red alert, significance score 723, no tsunami generated; monitoring continues for aftershocks and structural damage. Source: USGS.",
+        "China:** Flooding ongoing since July 25; GDACS red alert with 10 deaths and 809,145 displaced as of the July 31 update. Source: GDACS.",
+        "France:** Forest fire active since July 22; GDACS red alert held through August 1. Source: GDACS.",
+        "Spain:** Forest fire active since July 25; GDACS orange alert held through July 30. Source: GDACS."
+      ],
+      "youtube_id": "JZDMFkPPU6A",
+      "youtube_url": "https://www.youtube.com/watch?v=JZDMFkPPU6A"
     }
   ],
-  "lastEpisode": 90,
-  "lastUpdated": "2026-08-01T13:05:03.483880+00:00",
-  "lastPublicEpisode": 90,
+  "lastEpisode": 91,
+  "lastUpdated": "2026-08-02T13:32:05.815310+00:00",
+  "lastPublicEpisode": 91,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
