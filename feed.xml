@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#91: Manila's Two-Hour Flood AI, Cross River's Emergency-Response Camera Network, Irvine's Wildfire-Sensor Expansion</title>
+      <title>#92: FAO and Smart Africa Open a $50,000 AI Farm-Tech Fund, Zambia's Green Giraffe Locks In Buyers Before Planting, Nigeria's Bank of Agriculture Rebuilds Lending on AI</title>
       <description />
+      <link>https://impactsignals.ai/episodes/92-fao-and-smart-africa-open-a-50-000-ai-farm-tech-fund-zambia-s-green-giraffe-locks-in-bu/</link>
+      <guid isPermaLink="false">impact-signal-92</guid>
+      <pubDate>Mon, 03 Aug 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-92/episode-92.mp3" length="4769794" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#91: Manila's Two-Hour Flood AI, Cross River's Emergency-Response Camera Network, Irvine's Wildfire-Sensor Expansion</title>
+      <description>Impact Signals #91: Manila's Two-Hour Flood AI, Cross River's Emergency-Response Camera Network, Irvine's Wildfire-Sensor Expansion Manila's city government now runs an AI-and-drone flood model that gives residents in specific districts a two-hour head start before water hits, built on a millimeter-precision GIS layer the Manila City Disaster Risk Reduction and Management Department already had in place. In Nigeria, Cross River State's new Huawei-built AI camera network is projected to cut Calabar emergency response from over 45 minutes to under 12, pairing public-safety monitoring with flood-level sensors along the coast. Irvine, California moved a teen-founded wildfire-sensor pilot into a funded, multi-year expansion across its open-space preserve, and the UN pointed to a season that has already burned 434,000 hectares across Europe to call for AI prevention spending, not just firefighting budgets. Today's signal: the AI infrastructure cities and regions already have on hand — GIS layers, camera networks, sensor pilots — is what's turning into faster, district-level warning and response. --- Top Stories **1. Manila Deploys an AI-and-Drone Flood Model That Gives Residents a Two-Hour Head Start** Manila Mayor Isko Moreno announced on July 29 that the city is using an AI-and-drone system, built on a millimeter-precision 3D map of city structures via ArcGIS, to forecast localized flooding roughly two hours before it happens. The system calculates rainfall volume against land e…</description>
       <link>https://impactsignals.ai/episodes/91-manila-s-two-hour-flood-ai-cross-river-s-emergency-response-camera-network-irvine-s-wil/</link>
       <guid isPermaLink="false">impact-signal-91</guid>
       <pubDate>Sun, 02 Aug 2026 14:00:00 +0000</pubDate>
