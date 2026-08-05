@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 94,
+  "nextEpisode": 95,
   "episodes": [
     {
       "number": 1,
@@ -2780,10 +2780,43 @@
       ],
       "youtube_id": "dYNJaB-mFKI",
       "youtube_url": "https://www.youtube.com/watch?v=dYNJaB-mFKI"
+    },
+    {
+      "number": 94,
+      "date": "2026-08-05",
+      "title": "Impact Signals #94 \u2014 Kerala answers a flood disaster that killed 26 with a statewide AI early-warning program, piloted in the hardest-hit district",
+      "headline": "Kerala answers a flood disaster that killed 26 with a statewide AI early-warning program, piloted in the hardest-hit district",
+      "slug": "94-kerala-answers-a-flood-disaster-that-killed-26-with-a-statewide-ai-early-warning-progra",
+      "description": "Impact Signals #94: Kerala answers a flood disaster that killed 26 with a statewide AI early-warning program, piloted in the hardest-hit district Today: Kerala answers a flood disaster that killed 26 with a statewide AI early-warning program, piloted in the hardest-hit district; NSF puts $100 million into state and regional AI infrastructure hubs, up to 10 consortia nationwide; A Korean AI model gives fish farms an average 38-hour warning before lethal marine heatwaves. --- Top Stories **1. Kerala answers a flood disaster that killed 26 with a statewide AI early-warning program, piloted in the hardest-hit district** Source URL: [news.google.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd0kyWFptanNPcEtneXhza2hiZ3ZTRE5kUUtPWG93N1Z1SHRWa1NSUVVWUVdmY0N0YUNLY1lfamlJLWpkVW9ITXhXMnM4dEl5cnhqbGtHRlJqVTFBbVRHLWU3UHVOV2ltMWFhcDRsZG9hVGRCcnI4RVlkeDVOYnZsT3IzdFNnVC0tRFFEbVlXSXZGUE0xVXFNNW9jc251YXdpZkMtZDFQZ2xJdFV2N0t2bUZTbUpOWlZlY2xv?oc=5) On August 4, 2026, Kerala Chief Minister V. D. Satheesan announced that the state will build an AI-backed disaster management and resilience system designed to predict sudden weather shifts and issue earlier alerts. The announcement came after a high-level review meeting in Kozhencherry and a visit to flood-hit areas of Pathanamthitta district, where the program's pilot will run. The backdrop is the state's ongoing flood crisis: 26 people dead and roughly 27,000 displaced as of August 5. The plan pairs additional rain gauges, both manual a\u2026",
+      "rss_description": "Impact Signals #94: Kerala answers a flood disaster that killed 26 with a statewide AI early-warning program, piloted in the hardest-hit district Today: Kerala answers a flood disaster that killed 26 with a statewide AI early-warning program, piloted in the hardest-hit district; NSF puts $100 million into state and regional AI infrastructure hubs, up to 10 consortia nationwide; A Korean AI model gives fish farms an average 38-hour warning before lethal marine heatwaves. --- Top Stories **1. Kerala answers a flood disaster that killed 26 with a statewide AI early-warning program, piloted in the hardest-hit district** Source URL: [news.google.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd0kyWFptanNPcEtneXhza2hiZ3ZTRE5kUUtPWG93N1Z1SHRWa1NSUVVWUVdmY0N0YUNLY1lfamlJLWpkVW9ITXhXMnM4dEl5cnhqbGtHRlJqVTFBbVRHLWU3UHVOV2ltMWFhcDRsZG9hVGRCcnI4RVlkeDVOYnZsT3IzdFNnVC0tRFFEbVlXSXZGUE0xVXFNNW9jc251YXdpZkMtZDFQZ2xJdFV2N0t2bUZTbUpOWlZlY2xv?oc=5) On August 4, 2026, Kerala Chief Minister V. D. Satheesan announced that the state will build an AI-backed disaster management and resilience system designed to predict sudden weather shifts and issue earlier alerts. The announcement came after a high-level review meeting in Kozhencherry and a visit to flood-hit areas of Pathanamthitta district, where the program's pilot will run. The backdrop is the state's ongoing flood crisis: 26 people dead and roughly 27,000 displaced as of August 5. The plan pairs additional rain gauges, both manual a\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-94/episode-94.mp3",
+      "mp3_bytes": 7810865,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-94/impact-signal-94.mp4",
+      "mp4_bytes": 48582486,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 488,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "sessions running 2026-08-04 through 2026-08-05, New Delhi",
+        "Deadline: n/a (in progress)",
+        "Location: New Delhi, India",
+        "Register: [news.google.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxNSnpqTEtIX2lGZWluTjQ4UGk3SkxJU2JyNC04REo2RDZILWZBNzJMNDVOUk1wODc0bndsVmQ5dmFIY0pGMmEtSkNhNGRrOXl2S1F6VmVxaTl5ZEZMUmhTX050ejItSGVSNGNpUElWMmlma0NybWNmRGtOYi1ZQnNNOTRwODllWHNXN)",
+        "Amount: $100M program; awards typically $4M to $12M over 5 years, up to 10 hubs",
+        "Deadline: 2026-11-04 (full proposals, per NSF solicitation page)",
+        "Eligibility: US state or multi-state consortia (universities, state/local government, philanthropy, industry)",
+        "Apply: [nsf.gov](https://www.nsf.gov/funding/opportunities/us-national-science-foundation-state-regional-artificial/nsf26-513/solicitation)"
+      ],
+      "youtube_id": "K3EdykVRDsE",
+      "youtube_url": "https://www.youtube.com/watch?v=K3EdykVRDsE"
     }
   ],
-  "lastEpisode": 93,
-  "lastUpdated": "2026-08-04T15:15:56.091716+00:00",
-  "lastPublicEpisode": 93,
+  "lastEpisode": 94,
+  "lastUpdated": "2026-08-05T14:38:44.569138+00:00",
+  "lastPublicEpisode": 94,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }

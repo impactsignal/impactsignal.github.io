@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#93: WFP's AI Hunger Tracker Reaches Somalia, a Ghanaian Developer Builds Assistive AI From Scratch, India Turns Paper Records Into a Disaster AI Model</title>
+      <title>#94: Kerala answers a flood disaster that killed 26 with a statewide AI early-warning program, piloted in the hardest-hit district</title>
       <description />
+      <link>https://impactsignals.ai/episodes/94-kerala-answers-a-flood-disaster-that-killed-26-with-a-statewide-ai-early-warning-progra/</link>
+      <guid isPermaLink="false">impact-signal-94</guid>
+      <pubDate>Wed, 05 Aug 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-94/episode-94.mp3" length="7810865" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#93: WFP's AI Hunger Tracker Reaches Somalia, a Ghanaian Developer Builds Assistive AI From Scratch, India Turns Paper Records Into a Disaster AI Model</title>
+      <description>Impact Signals #93: WFP's AI Hunger Tracker Reaches Somalia, a Ghanaian Developer Builds Assistive AI From Scratch, India Turns Paper Records Into a Disaster AI Model Today, the World Food Programme's AI-powered HungerMap Live flagged deteriorating conditions in Somalia's Burhakaba District before malnutrition took hold, triggering food assistance for 48,000 people. In Ghana, developer Emmanuel Quartey is building assistive smart glasses from scratch because imported versions don't recognize the Ghanaian cedi or African accents. India's Centre for Development of Advanced Computing signed an MoU with the Geological Survey of India to convert decades of paper landslide and glacial-flood records into a usable AI model, and Chinese researchers published a physics-AI hybrid that cut typhoon track errors by up to 32% on less compute. The through-line: three of today's four stories are AI acting on data that already exists, hunger surveys, geological archives, satellite feeds, rather than new tools; Ghana is the exception that proves the rule, built precisely because the imported AI didn't fit. --- Top Stories **1. WFP's AI Hunger Tracker Flags a Somali District Before Malnutrition Takes Hold, Reaching 48,000 People** The World Food Programme's HungerMap Live platform, upgraded in April 2026 with new predictive AI features, identified deteriorating conditions in Somalia's Burhakaba District, 180 km from Mogadishu, before the situation reached crisis level. WFP responded with food a…</description>
       <link>https://impactsignals.ai/episodes/93-wfp-s-ai-hunger-tracker-reaches-somalia-a-ghanaian-developer-builds-assistive-ai-from-s/</link>
       <guid isPermaLink="false">impact-signal-93</guid>
       <pubDate>Tue, 04 Aug 2026 14:00:00 +0000</pubDate>
