@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 96,
+  "nextEpisode": 97,
   "episodes": [
     {
       "number": 1,
@@ -2846,10 +2846,43 @@
       ],
       "youtube_id": "jXt_fsya2kc",
       "youtube_url": "https://www.youtube.com/watch?v=jXt_fsya2kc"
+    },
+    {
+      "number": 96,
+      "date": "2026-08-07",
+      "title": "Impact Signals #96 \u2014 New Orleans 911 AI Disclosure, Data Centers Near 1,900 US Schools, Korea's 21-Hospital AI Pilot",
+      "headline": "New Orleans 911 AI Disclosure, Data Centers Near 1,900 US Schools, Korea's 21-Hospital AI Pilot",
+      "slug": "96-new-orleans-911-ai-disclosure-data-centers-near-1-900-us-schools-korea-s-21-hospital-ai",
+      "description": "Impact Signals #96: New Orleans 911 AI Disclosure, Data Centers Near 1,900 US Schools, Korea's 21-Hospital AI Pilot New Orleans confirmed on August 6 that an AI built with Carbyne has been answering certain 911 calls since 2023, and callers are never told \u2014 the disclosure came only after a viral post forced the issue. The same day, Brown University researchers counted 1,878 US public schools within a mile of a data center and linked proximity to lower math scores, while Seoul National University Bundang Hospital kicked off a 21-institution national pilot wiring 19 approved AI tools across the full patient journey. Today's signal: AI systems already embedded in emergency lines, school zones, and hospital wards are now being counted, confirmed, and formalized \u2014 the accounting is catching up to the deployment. --- Top Stories **1. New Orleans Confirms an AI Has Been Answering Some 911 Calls Since 2023 \u2014 Callers Are Never Told** The Orleans Parish Communications District confirmed on August 6 that an AI system built with emergency-call software firm Carbyne has been answering certain 911 calls since 2023. The tool triggers only when a caller dials from within 200 meters of a car accident already logged in dispatch: it confirms the caller is reporting the same crash, says the incident is handled, and asks them to stay on the line only if they are directly involved or have new information. OPCD says the AI now absorbs 15 to 18 of every 20 calls about a single accident, freeing rou\u2026",
+      "rss_description": "Impact Signals #96: New Orleans 911 AI Disclosure, Data Centers Near 1,900 US Schools, Korea's 21-Hospital AI Pilot New Orleans confirmed on August 6 that an AI built with Carbyne has been answering certain 911 calls since 2023, and callers are never told \u2014 the disclosure came only after a viral post forced the issue. The same day, Brown University researchers counted 1,878 US public schools within a mile of a data center and linked proximity to lower math scores, while Seoul National University Bundang Hospital kicked off a 21-institution national pilot wiring 19 approved AI tools across the full patient journey. Today's signal: AI systems already embedded in emergency lines, school zones, and hospital wards are now being counted, confirmed, and formalized \u2014 the accounting is catching up to the deployment. --- Top Stories **1. New Orleans Confirms an AI Has Been Answering Some 911 Calls Since 2023 \u2014 Callers Are Never Told** The Orleans Parish Communications District confirmed on August 6 that an AI system built with emergency-call software firm Carbyne has been answering certain 911 calls since 2023. The tool triggers only when a caller dials from within 200 meters of a car accident already logged in dispatch: it confirms the caller is reporting the same crash, says the incident is handled, and asks them to stay on the line only if they are directly involved or have new information. OPCD says the AI now absorbs 15 to 18 of every 20 calls about a single accident, freeing rou\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-96/episode-96.mp3",
+      "mp3_bytes": 9324713,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-96/impact-signal-96.mp4",
+      "mp4_bytes": 56795543,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 582,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Amount: Two prizes of CHF 3,000 (about $3,650) plus nine months of implementation mentorship",
+        "Deadline: August 31, 2026",
+        "Eligibility: Students and young professionals aged 18-35 leading youth-involving flood and drought resilience projects; English or Spanish",
+        "Apply: [wmo.int](https://wmo.int/media/announcement/now-open-call-proposals-youth-led-projects-flood-and-drought-resilience)",
+        "Amount: $1,000,000 total pool",
+        "Deadline: September 30, 2026 (extended)",
+        "Eligibility: Universities, research centers, companies, organizations, and individual innovators worldwide",
+        "Apply: [zawya.com](https://www.zawya.com/en/press-release/government-news/submission-deadline-for-5th-cycle-of-the-mohammed-bin-rashid-al-maktoum-global-water-award-extended-to-30-september-2026-morjiksh)"
+      ],
+      "youtube_id": "wogDLn8uO8Y",
+      "youtube_url": "https://www.youtube.com/watch?v=wogDLn8uO8Y"
     }
   ],
-  "lastEpisode": 95,
-  "lastUpdated": "2026-08-06T13:59:43.214625+00:00",
-  "lastPublicEpisode": 95,
+  "lastEpisode": 96,
+  "lastUpdated": "2026-08-07T13:08:48.639849+00:00",
+  "lastPublicEpisode": 96,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
