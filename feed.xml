@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#96: New Orleans 911 AI Disclosure, Data Centers Near 1,900 US Schools, Korea's 21-Hospital AI Pilot</title>
+      <title>#97: DeepMind Open-Sources a Cyclone Model That Gains a Full Day of Warning, Bangladesh Closes the Last-Mile Language Gap, US School AI Surveillance Loses Its Federal Check</title>
       <description />
+      <link>https://impactsignals.ai/episodes/97-deepmind-open-sources-a-cyclone-model-that-gains-a-full-day-of-warning-bangladesh-close/</link>
+      <guid isPermaLink="false">impact-signal-97</guid>
+      <pubDate>Sat, 08 Aug 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-97/episode-97.mp3" length="8838208" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#96: New Orleans 911 AI Disclosure, Data Centers Near 1,900 US Schools, Korea's 21-Hospital AI Pilot</title>
+      <description>Impact Signals #96: New Orleans 911 AI Disclosure, Data Centers Near 1,900 US Schools, Korea's 21-Hospital AI Pilot New Orleans confirmed on August 6 that an AI built with Carbyne has been answering certain 911 calls since 2023, and callers are never told — the disclosure came only after a viral post forced the issue. The same day, Brown University researchers counted 1,878 US public schools within a mile of a data center and linked proximity to lower math scores, while Seoul National University Bundang Hospital kicked off a 21-institution national pilot wiring 19 approved AI tools across the full patient journey. Today's signal: AI systems already embedded in emergency lines, school zones, and hospital wards are now being counted, confirmed, and formalized — the accounting is catching up to the deployment. --- Top Stories **1. New Orleans Confirms an AI Has Been Answering Some 911 Calls Since 2023 — Callers Are Never Told** The Orleans Parish Communications District confirmed on August 6 that an AI system built with emergency-call software firm Carbyne has been answering certain 911 calls since 2023. The tool triggers only when a caller dials from within 200 meters of a car accident already logged in dispatch: it confirms the caller is reporting the same crash, says the incident is handled, and asks them to stay on the line only if they are directly involved or have new information. OPCD says the AI now absorbs 15 to 18 of every 20 calls about a single accident, freeing rou…</description>
       <link>https://impactsignals.ai/episodes/96-new-orleans-911-ai-disclosure-data-centers-near-1-900-us-schools-korea-s-21-hospital-ai/</link>
       <guid isPermaLink="false">impact-signal-96</guid>
       <pubDate>Fri, 07 Aug 2026 14:00:00 +0000</pubDate>

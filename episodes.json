@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 97,
+  "nextEpisode": 98,
   "episodes": [
     {
       "number": 1,
@@ -2879,10 +2879,43 @@
       ],
       "youtube_id": "wogDLn8uO8Y",
       "youtube_url": "https://www.youtube.com/watch?v=wogDLn8uO8Y"
+    },
+    {
+      "number": 97,
+      "date": "2026-08-08",
+      "title": "Impact Signals #97 \u2014 DeepMind Open-Sources a Cyclone Model That Gains a Full Day of Warning, Bangladesh Closes the Last-Mile Language Gap, US School AI Surveillance Loses Its Federal Check",
+      "headline": "DeepMind Open-Sources a Cyclone Model That Gains a Full Day of Warning, Bangladesh Closes the Last-Mile Language Gap, US School AI Surveillance Loses Its Federal Check",
+      "slug": "97-deepmind-open-sources-a-cyclone-model-that-gains-a-full-day-of-warning-bangladesh-close",
+      "description": "Impact Signals #97: DeepMind Open-Sources a Cyclone Model That Gains a Full Day of Warning, Bangladesh Closes the Last-Mile Language Gap, US School AI Surveillance Loses Its Federal Check Google DeepMind published peer-reviewed results in Nature showing its WeatherNext cyclone model hands forecasters an extra day of accurate warning, then open-sourced the model so met agencies without supercomputers can run it themselves. In Bangladesh's Chittagong Hill Tracts, volunteers translating national disaster alerts into local languages got usable warnings to communities before July's landslides, and in the US, the Department of Education's removal of disparate-impact enforcement has left school AI monitoring, which survey data says has outed nearly a third of students, without its main federal check. Today's signal is the widening gap between what early-warning AI can now do and the institutional plumbing, language, governance, and accountability that decides who actually benefits. --- Top Stories **1. DeepMind's Cyclone Model Gains a Full Day of Warning, and Google Is Giving It Away** Google DeepMind published peer-reviewed results in Nature on August 6 showing its WeatherNext cyclone model predicts tropical cyclone track, intensity, and wind structure at state-of-the-art accuracy: its three-day forecasts match what the best physics-based models previously achieved only at two days, effectively an extra day of lead time. The model was trained on roughly 20 terabytes of reanalysis\u2026",
+      "rss_description": "Impact Signals #97: DeepMind Open-Sources a Cyclone Model That Gains a Full Day of Warning, Bangladesh Closes the Last-Mile Language Gap, US School AI Surveillance Loses Its Federal Check Google DeepMind published peer-reviewed results in Nature showing its WeatherNext cyclone model hands forecasters an extra day of accurate warning, then open-sourced the model so met agencies without supercomputers can run it themselves. In Bangladesh's Chittagong Hill Tracts, volunteers translating national disaster alerts into local languages got usable warnings to communities before July's landslides, and in the US, the Department of Education's removal of disparate-impact enforcement has left school AI monitoring, which survey data says has outed nearly a third of students, without its main federal check. Today's signal is the widening gap between what early-warning AI can now do and the institutional plumbing, language, governance, and accountability that decides who actually benefits. --- Top Stories **1. DeepMind's Cyclone Model Gains a Full Day of Warning, and Google Is Giving It Away** Google DeepMind published peer-reviewed results in Nature on August 6 showing its WeatherNext cyclone model predicts tropical cyclone track, intensity, and wind structure at state-of-the-art accuracy: its three-day forecasts match what the best physics-based models previously achieved only at two days, effectively an extra day of lead time. The model was trained on roughly 20 terabytes of reanalysis\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-97/episode-97.mp3",
+      "mp3_bytes": 8838208,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-97/impact-signal-97.mp4",
+      "mp4_bytes": 54516781,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 552,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "In progress this week, with sessions reported August 7, 2026",
+        "Location: New Delhi, India",
+        "Sessions cover governing safe and responsible AI within digital public infrastructure",
+        "Details: [newsonair.gov.in](https://newsonair.gov.in) (per News On AIR coverage)",
+        "Amount: Financial support plus nine months of expert mentorship for winning projects (coverage reports two prizes of CHF 3,000 each)",
+        "Deadline: August 31, 2026",
+        "Eligibility: Youth-led projects addressing flood and drought risk; proposals in English or Spanish",
+        "Apply: [wmo.int](https://wmo.int/media/announcement/now-open-call-proposals-youth-led-projects-flood-and-drought-resilience)"
+      ],
+      "youtube_id": "-cgoJx-NDdU",
+      "youtube_url": "https://www.youtube.com/watch?v=-cgoJx-NDdU"
     }
   ],
-  "lastEpisode": 96,
-  "lastUpdated": "2026-08-07T13:08:48.639849+00:00",
-  "lastPublicEpisode": 96,
+  "lastEpisode": 97,
+  "lastUpdated": "2026-08-08T12:47:44.565619+00:00",
+  "lastPublicEpisode": 97,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
