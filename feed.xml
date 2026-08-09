@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#97: DeepMind Open-Sources a Cyclone Model That Gains a Full Day of Warning, Bangladesh Closes the Last-Mile Language Gap, US School AI Surveillance Loses Its Federal Check</title>
+      <title>#98: Gujarat Flags 167,000 At-Risk Students, Ahmedabad's AI Command Centre Counts Lives, WHO's Climate-Migration Health Agenda</title>
       <description />
+      <link>https://impactsignals.ai/episodes/98-gujarat-flags-167-000-at-risk-students-ahmedabad-s-ai-command-centre-counts-lives-who-s/</link>
+      <guid isPermaLink="false">impact-signal-98</guid>
+      <pubDate>Sun, 09 Aug 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-98/episode-98.mp3" length="8557758" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#97: DeepMind Open-Sources a Cyclone Model That Gains a Full Day of Warning, Bangladesh Closes the Last-Mile Language Gap, US School AI Surveillance Loses Its Federal Check</title>
+      <description>Impact Signals #97: DeepMind Open-Sources a Cyclone Model That Gains a Full Day of Warning, Bangladesh Closes the Last-Mile Language Gap, US School AI Surveillance Loses Its Federal Check Google DeepMind published peer-reviewed results in Nature showing its WeatherNext cyclone model hands forecasters an extra day of accurate warning, then open-sourced the model so met agencies without supercomputers can run it themselves. In Bangladesh's Chittagong Hill Tracts, volunteers translating national disaster alerts into local languages got usable warnings to communities before July's landslides, and in the US, the Department of Education's removal of disparate-impact enforcement has left school AI monitoring, which survey data says has outed nearly a third of students, without its main federal check. Today's signal is the widening gap between what early-warning AI can now do and the institutional plumbing, language, governance, and accountability that decides who actually benefits. --- Top Stories **1. DeepMind's Cyclone Model Gains a Full Day of Warning, and Google Is Giving It Away** Google DeepMind published peer-reviewed results in Nature on August 6 showing its WeatherNext cyclone model predicts tropical cyclone track, intensity, and wind structure at state-of-the-art accuracy: its three-day forecasts match what the best physics-based models previously achieved only at two days, effectively an extra day of lead time. The model was trained on roughly 20 terabytes of reanalysis…</description>
       <link>https://impactsignals.ai/episodes/97-deepmind-open-sources-a-cyclone-model-that-gains-a-full-day-of-warning-bangladesh-close/</link>
       <guid isPermaLink="false">impact-signal-97</guid>
       <pubDate>Sat, 08 Aug 2026 14:00:00 +0000</pubDate>

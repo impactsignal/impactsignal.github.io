@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 98,
+  "nextEpisode": 99,
   "episodes": [
     {
       "number": 1,
@@ -2912,10 +2912,43 @@
       ],
       "youtube_id": "-cgoJx-NDdU",
       "youtube_url": "https://www.youtube.com/watch?v=-cgoJx-NDdU"
+    },
+    {
+      "number": 98,
+      "date": "2026-08-09",
+      "title": "Impact Signals #98 \u2014 Gujarat Flags 167,000 At-Risk Students, Ahmedabad's AI Command Centre Counts Lives, WHO's Climate-Migration Health Agenda",
+      "headline": "Gujarat Flags 167,000 At-Risk Students, Ahmedabad's AI Command Centre Counts Lives, WHO's Climate-Migration Health Agenda",
+      "slug": "98-gujarat-flags-167-000-at-risk-students-ahmedabad-s-ai-command-centre-counts-lives-who-s",
+      "description": "Impact Signals #98: Gujarat Flags 167,000 At-Risk Students, Ahmedabad's AI Command Centre Counts Lives, WHO's Climate-Migration Health Agenda Gujarat's Education Department, working with Wadhwani AI and UNICEF India, is using an AI early-warning system inside the state's own school census to flag students likely to drop out, 167,000 in its first year and another 118,000 for 2026-27. In Ahmedabad, Marengo CIMS Hospital published a two-and-a-half-year tally from its 24/7 AI monitoring command centre: 836 deteriorations caught early and 115 code blue emergencies avoided across 6,551 high-risk patients. And the World Health Organization released its first global research agenda on health, migration and climate change, the document funders will cite when they decide which studies at that intersection get money. Today's signal: AI is moving into the institutions that already hold the data (a school census, a cardiac ward, a health system's follow-up calls), and the results are being counted in students kept and emergencies avoided, not in demos. --- Top Stories **1. Gujarat's Dropout Early-Warning System Flags 167,000 At-Risk Students Before They Disappear** Gujarat's Education Department, with Wadhwani AI and UNICEF India, has built an AI early-warning system into the state's existing Child Tracking System that predicts which primary-school students (Classes 1 to 8) are likely to drop out, using data the state already collects: attendance, assessment scores, age, gender, disabili\u2026",
+      "rss_description": "Impact Signals #98: Gujarat Flags 167,000 At-Risk Students, Ahmedabad's AI Command Centre Counts Lives, WHO's Climate-Migration Health Agenda Gujarat's Education Department, working with Wadhwani AI and UNICEF India, is using an AI early-warning system inside the state's own school census to flag students likely to drop out, 167,000 in its first year and another 118,000 for 2026-27. In Ahmedabad, Marengo CIMS Hospital published a two-and-a-half-year tally from its 24/7 AI monitoring command centre: 836 deteriorations caught early and 115 code blue emergencies avoided across 6,551 high-risk patients. And the World Health Organization released its first global research agenda on health, migration and climate change, the document funders will cite when they decide which studies at that intersection get money. Today's signal: AI is moving into the institutions that already hold the data (a school census, a cardiac ward, a health system's follow-up calls), and the results are being counted in students kept and emergencies avoided, not in demos. --- Top Stories **1. Gujarat's Dropout Early-Warning System Flags 167,000 At-Risk Students Before They Disappear** Gujarat's Education Department, with Wadhwani AI and UNICEF India, has built an AI early-warning system into the state's existing Child Tracking System that predicts which primary-school students (Classes 1 to 8) are likely to drop out, using data the state already collects: attendance, assessment scores, age, gender, disabili\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-98/episode-98.mp3",
+      "mp3_bytes": 8557758,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-98/impact-signal-98.mp4",
+      "mp4_bytes": 52706465,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 534,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Amount: Program support for AI farm tools, deployment-stage focus (\"From Ideation to Deployment\")",
+        "Deadline: August 31, 2026",
+        "Eligibility: African AI-for-agriculture innovators",
+        "Apply: via the Smart Africa / FAO Innovate Africa Challenge pages",
+        "The 10-foundation pooled fund (MacArthur, Ford, Mellon, Omidyar and others) said in its May 12 release, which announced $18M in grants to 12 organizations, that a $10M open call would launch this summer; no application page or deadline has been posted yet",
+        "Watch: [humanityai.ai](https://humanityai.ai/humanity-ai-announces-more-than-18-million-in-new-grants-to-shape-ai-for-the-public-good/)",
+        "Philippines:** M6.3 earthquake 32 km SW of Sarangani, August 5; GDACS Orange alert, an estimated 10,000 people in MMI VII or stronger shaking; local assessment ongoing. Source: [gdacs.org](https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1556215).",
+        "NW Pacific:** Typhoon Dolphin, active since July 27; GDACS Orange alert, maximum winds 269 km/h, an estimated 11.2 million people exposed to Category 1+ winds across the Marshall Islands, Japan, and China; China has activated disaster response measures. Source: [gdacs.org](https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001297)."
+      ],
+      "youtube_id": "TmFqPennaE4",
+      "youtube_url": "https://www.youtube.com/watch?v=TmFqPennaE4"
     }
   ],
-  "lastEpisode": 97,
-  "lastUpdated": "2026-08-08T12:47:44.565619+00:00",
-  "lastPublicEpisode": 97,
+  "lastEpisode": 98,
+  "lastUpdated": "2026-08-09T12:50:44.257452+00:00",
+  "lastPublicEpisode": 98,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
