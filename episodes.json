@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 99,
+  "nextEpisode": 100,
   "episodes": [
     {
       "number": 1,
@@ -2945,10 +2945,43 @@
       ],
       "youtube_id": "TmFqPennaE4",
       "youtube_url": "https://www.youtube.com/watch?v=TmFqPennaE4"
+    },
+    {
+      "number": 99,
+      "date": "2026-08-10",
+      "title": "Impact Signals #99 \u2014 World Bank's First AI Flagship Report, New Orleans Corrects the 911 AI Story, Xcel Files a Wildfire AI Plan With Texas Regulators",
+      "headline": "World Bank's First AI Flagship Report, New Orleans Corrects the 911 AI Story, Xcel Files a Wildfire AI Plan With Texas Regulators",
+      "slug": "99-world-bank-s-first-ai-flagship-report-new-orleans-corrects-the-911-ai-story-xcel-files",
+      "description": "Impact Signals #99: World Bank's First AI Flagship Report, New Orleans Corrects the 911 AI Story, Xcel Files a Wildfire AI Plan With Texas Regulators The World Bank has put its flagship research product behind AI for development for the first time: World Development Report 2026 landed August 4, and this morning's India coverage adds field numbers, including net savings of up to $560 per farmer from a Telangana forecasting pilot and 2.7 million chatbot queries answered in 186 days. In New Orleans, the Orleans Parish Communication District went on the record to correct national headlines about AI answering 911 calls, publishing the actual activation rules. And Xcel Energy filed a Texas Panhandle wildfire plan built on AI detection cameras with the state's utility regulator. Today's signal: AI for impact is moving out of press releases and into records, a flagship report, a regulatory docket, an on-the-record correction. --- Top Stories **1. World Bank's First AI Flagship Report Says Developing Economies Could Compress a Century of Progress Into a Decade, With India as Proving Ground** The World Bank released World Development Report 2026, \"The Promise of Artificial Intelligence,\" on August 4, its first comprehensive assessment of what AI means for developing economies. Its headline claim: AI could let developing countries do in a decade what might otherwise take a century, if governments close gaps in power, connectivity, skills, and institutions. It also lands a counterintuit\u2026",
+      "rss_description": "Impact Signals #99: World Bank's First AI Flagship Report, New Orleans Corrects the 911 AI Story, Xcel Files a Wildfire AI Plan With Texas Regulators The World Bank has put its flagship research product behind AI for development for the first time: World Development Report 2026 landed August 4, and this morning's India coverage adds field numbers, including net savings of up to $560 per farmer from a Telangana forecasting pilot and 2.7 million chatbot queries answered in 186 days. In New Orleans, the Orleans Parish Communication District went on the record to correct national headlines about AI answering 911 calls, publishing the actual activation rules. And Xcel Energy filed a Texas Panhandle wildfire plan built on AI detection cameras with the state's utility regulator. Today's signal: AI for impact is moving out of press releases and into records, a flagship report, a regulatory docket, an on-the-record correction. --- Top Stories **1. World Bank's First AI Flagship Report Says Developing Economies Could Compress a Century of Progress Into a Decade, With India as Proving Ground** The World Bank released World Development Report 2026, \"The Promise of Artificial Intelligence,\" on August 4, its first comprehensive assessment of what AI means for developing economies. Its headline claim: AI could let developing countries do in a decade what might otherwise take a century, if governments close gaps in power, connectivity, skills, and institutions. It also lands a counterintuit\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-99/episode-99.mp3",
+      "mp3_bytes": 9232344,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-99/impact-signal-99.mp4",
+      "mp4_bytes": 56779117,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 576,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Session on Governing Safe and Responsible AI within Digital Public Infrastructure convened August 9, 2026; summit program continuing",
+        "Location: India",
+        "Puts AI governance inside digital public infrastructure, the delivery rails for benefits, payments, and identity across the Global South",
+        "Deadline: August 31, 2026",
+        "The last verified open call in this space; targets AI tools for smallholder agriculture across Africa",
+        "The pooled fund (Ford, MacArthur, Mellon, Omidyar and six others) said in its May 12, 2026 announcement that a $10M open call is expected in summer 2026; RFP not yet posted",
+        "Watch: [humanityai.ai](https://humanityai.ai/humanity-ai-announces-more-than-18-million-in-new-grants-to-shape-ai-for-the-public-good/)",
+        "Northwest Pacific (Marshall Islands, Japan, China):** Typhoon Dolphin-26, GDACS Orange alert; maximum winds 269 km/h, an estimated 14.05 million people affected by Category 1 or higher winds. China ran coordinated national disaster response as the typhoon entered its 48-hour warning zone August 7. Source: [gdacs.org](https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001297)."
+      ],
+      "youtube_id": "C6O_pxqMbNY",
+      "youtube_url": "https://www.youtube.com/watch?v=C6O_pxqMbNY"
     }
   ],
-  "lastEpisode": 98,
-  "lastUpdated": "2026-08-09T12:50:44.257452+00:00",
-  "lastPublicEpisode": 98,
+  "lastEpisode": 99,
+  "lastUpdated": "2026-08-10T12:49:02.766278+00:00",
+  "lastPublicEpisode": 99,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
