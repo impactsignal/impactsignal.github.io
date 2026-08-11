@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 100,
+  "nextEpisode": 101,
   "episodes": [
     {
       "number": 1,
@@ -2978,10 +2978,43 @@
       ],
       "youtube_id": "C6O_pxqMbNY",
       "youtube_url": "https://www.youtube.com/watch?v=C6O_pxqMbNY"
+    },
+    {
+      "number": 100,
+      "date": "2026-08-11",
+      "title": "Impact Signals #100 \u2014 Oregon Fields Mobile AI Wildfire Cameras, Korea's Marine Heatwave Kills 860,000 Farmed Fish, AVPN Opens an AI Fellowship for Nonprofit Leaders",
+      "headline": "Oregon Fields Mobile AI Wildfire Cameras, Korea's Marine Heatwave Kills 860,000 Farmed Fish, AVPN Opens an AI Fellowship for Nonprofit Leaders",
+      "slug": "100-oregon-fields-mobile-ai-wildfire-cameras-korea-s-marine-heatwave-kills-860-000-farmed",
+      "description": "Impact Signals #100: Oregon Fields Mobile AI Wildfire Cameras, Korea's Marine Heatwave Kills 860,000 Farmed Fish, AVPN Opens an AI Fellowship for Nonprofit Leaders The Oregon Hazards Lab is trucking solar-powered AI wildfire cameras to active fires in Eastern Oregon, closing in hours the coverage gaps a fixed tower network leaves open for years. Off the Korean coast, a record-hot ocean has killed more than 860,000 farmed fish, the exact event class the country's new 38-hour AI marine-heatwave warnings were built to get ahead of. And in Fortune, two nonprofit-sector veterans tell AI's new millionaires that the $600 billion US charitable economy needs their funding, not their reinvention. Today's signal: detection infrastructure is going mobile while the climate outruns the warnings. --- Top Stories **1. Oregon Hazards Lab Fields Mobile AI Wildfire Cameras That Deploy to Active Fires Within Hours** The Oregon Hazards Lab at the University of Oregon has begun fielding the Deployable Universal Camera Kit, a mobile wildfire-detection unit built around a pan-tilt-zoom camera, a lightweight mast tower, a solar-charged battery pack, and a Starlink uplink, designed to stand up within hours in places the fixed camera network cannot see. Four mobile units are deployed now, including at active fires in Eastern Oregon. The mobile feeds plug directly into ALERTWest, the AI-monitored western wildfire camera network KEZI reports is now the largest of its kind, so temporary units get the sam\u2026",
+      "rss_description": "Impact Signals #100: Oregon Fields Mobile AI Wildfire Cameras, Korea's Marine Heatwave Kills 860,000 Farmed Fish, AVPN Opens an AI Fellowship for Nonprofit Leaders The Oregon Hazards Lab is trucking solar-powered AI wildfire cameras to active fires in Eastern Oregon, closing in hours the coverage gaps a fixed tower network leaves open for years. Off the Korean coast, a record-hot ocean has killed more than 860,000 farmed fish, the exact event class the country's new 38-hour AI marine-heatwave warnings were built to get ahead of. And in Fortune, two nonprofit-sector veterans tell AI's new millionaires that the $600 billion US charitable economy needs their funding, not their reinvention. Today's signal: detection infrastructure is going mobile while the climate outruns the warnings. --- Top Stories **1. Oregon Hazards Lab Fields Mobile AI Wildfire Cameras That Deploy to Active Fires Within Hours** The Oregon Hazards Lab at the University of Oregon has begun fielding the Deployable Universal Camera Kit, a mobile wildfire-detection unit built around a pan-tilt-zoom camera, a lightweight mast tower, a solar-charged battery pack, and a Starlink uplink, designed to stand up within hours in places the fixed camera network cannot see. Four mobile units are deployed now, including at active fires in Eastern Oregon. The mobile feeds plug directly into ALERTWest, the AI-monitored western wildfire camera network KEZI reports is now the largest of its kind, so temporary units get the sam\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-100/episode-100.mp3",
+      "mp3_bytes": 7568866,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-100/impact-signal-100.mp4",
+      "mp4_bytes": 47147796,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 472,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "In progress week of August 10, 2026",
+        "Location: India",
+        "A session on Governing Safe and Responsible AI within Digital Public Infrastructure convened August 10, per News On AIR",
+        "Deadline: August 31, 2026 (verified August 3; confirm on the funder page before relying)",
+        "Funding for AI farm tools across Africa",
+        "Fully funded, remote, for early-career researchers on AI's societal impact",
+        "Posted August 4; deadline not yet published",
+        "Apply: [opportunitiesforyouth.org](https://opportunitiesforyouth.org/2026/08/04/autumn-2026-ai-societal-impact-lab-fellowship-fully-funded-remote-opportunity-for-emerging-researchers-and-professionals-exploring-the-societal-impact-of-artificial-intelligence/)"
+      ],
+      "youtube_id": "ZuE2l5ddbCo",
+      "youtube_url": "https://www.youtube.com/watch?v=ZuE2l5ddbCo"
     }
   ],
-  "lastEpisode": 99,
-  "lastUpdated": "2026-08-10T12:49:02.766278+00:00",
-  "lastPublicEpisode": 99,
+  "lastEpisode": 100,
+  "lastUpdated": "2026-08-11T14:34:41.472787+00:00",
+  "lastPublicEpisode": 100,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
