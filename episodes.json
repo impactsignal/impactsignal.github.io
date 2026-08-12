@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 101,
+  "nextEpisode": 102,
   "episodes": [
     {
       "number": 1,
@@ -3011,10 +3011,43 @@
       ],
       "youtube_id": "ZuE2l5ddbCo",
       "youtube_url": "https://www.youtube.com/watch?v=ZuE2l5ddbCo"
+    },
+    {
+      "number": 101,
+      "date": "2026-08-12",
+      "title": "Impact Signals #101 \u2014 Canada Redraws Its Storm Warnings, India Builds a National AI Early-Warning Platform, Code.org Becomes CodeAI",
+      "headline": "Canada Redraws Its Storm Warnings, India Builds a National AI Early-Warning Platform, Code.org Becomes CodeAI",
+      "slug": "101-canada-redraws-its-storm-warnings-india-builds-a-national-ai-early-warning-platform-co",
+      "description": "Impact Signals #101: Canada Redraws Its Storm Warnings, India Builds a National AI Early-Warning Platform, Code.org Becomes CodeAI Environment and Climate Change Canada switched on free-form polygon alerts for severe thunderstorms and tornadoes, warning only the people a storm is actually expected to hit. In India, the government told Parliament it is building a national AI-powered early-warning platform on 50 Doppler radars and nearly 7,000 rain gauges, while in Nairobi two schoolgirls from Wajir won the national science fair with an AI drought predictor built for the communities that live under the hazard. Today's signal: warning systems are getting rebuilt at national scale, and Colombia's strongest earthquake this century is testing every one of them in real time. --- Top Stories **1. Canada Redraws Its Storm Warnings: Free-Form Polygons Replace Zone Blasts to Fight Alert Fatigue** Environment and Climate Change Canada launched its Convective Alert Modernization system on Tuesday, August 11. Instead of warning entire pre-drawn forecast zones, meteorologists now draw a free-form polygon around the area a severe thunderstorm or tornado is actually expected to hit, and only people inside that shape get the warning. Forecasters can track a storm in real time, splitting or merging warning areas and upgrading one portion of a storm without re-alerting everyone else. The change covers severe thunderstorm and tornado warnings; heat warnings and thunderstorm watches stay on the b\u2026",
+      "rss_description": "Impact Signals #101: Canada Redraws Its Storm Warnings, India Builds a National AI Early-Warning Platform, Code.org Becomes CodeAI Environment and Climate Change Canada switched on free-form polygon alerts for severe thunderstorms and tornadoes, warning only the people a storm is actually expected to hit. In India, the government told Parliament it is building a national AI-powered early-warning platform on 50 Doppler radars and nearly 7,000 rain gauges, while in Nairobi two schoolgirls from Wajir won the national science fair with an AI drought predictor built for the communities that live under the hazard. Today's signal: warning systems are getting rebuilt at national scale, and Colombia's strongest earthquake this century is testing every one of them in real time. --- Top Stories **1. Canada Redraws Its Storm Warnings: Free-Form Polygons Replace Zone Blasts to Fight Alert Fatigue** Environment and Climate Change Canada launched its Convective Alert Modernization system on Tuesday, August 11. Instead of warning entire pre-drawn forecast zones, meteorologists now draw a free-form polygon around the area a severe thunderstorm or tornado is actually expected to hit, and only people inside that shape get the warning. Forecasters can track a storm in real time, splitting or merging warning areas and upgrading one portion of a storm without re-alerting everyone else. The change covers severe thunderstorm and tornado warnings; heat warnings and thunderstorm watches stay on the b\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-101/episode-101.mp3",
+      "mp3_bytes": 9173412,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-101/impact-signal-101.mp4",
+      "mp4_bytes": 55968067,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 573,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Reported ongoing this week per News On AIR coverage of the Prime Minister's remarks, August 11",
+        "Location: India",
+        "Full schedule not independently verified; relevant as the convening backdrop to India's national AI early-warning platform disclosures",
+        "Amount: EUR 8.4 million total; EUR 100,000 to 1 million per project",
+        "Deadline: October 6, 2026, 12:00 noon CET",
+        "Eligibility: Austria-based consortia of companies, startups, research organisations and universities; industrial R&D advancing core Hybrid AI or Green AI (pure application of existing models not eligible)",
+        "Apply: [ffg.at](https://www.ffg.at/en/ai-oekosysteme-2026)",
+        "Deadline: August 31, 2026 (19 days out)"
+      ],
+      "youtube_id": "Vi_9GEyeiK8",
+      "youtube_url": "https://www.youtube.com/watch?v=Vi_9GEyeiK8"
     }
   ],
-  "lastEpisode": 100,
-  "lastUpdated": "2026-08-11T14:34:41.472787+00:00",
-  "lastPublicEpisode": 100,
+  "lastEpisode": 101,
+  "lastUpdated": "2026-08-12T12:52:23.031066+00:00",
+  "lastPublicEpisode": 101,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }

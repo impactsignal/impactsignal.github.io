@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://impactsignals.ai/</loc>
-        <lastmod>2026-08-11</lastmod>
+        <lastmod>2026-08-12</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
@@ -21,6 +21,12 @@
     <url>
         <loc>https://impactsignals.ai/episodes/100-oregon-fields-mobile-ai-wildfire-cameras-korea-s-marine-heatwave-kills-860-000-farmed/</loc>
         <lastmod>2026-08-11</lastmod>
+        <changefreq>never</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://impactsignals.ai/episodes/101-canada-redraws-its-storm-warnings-india-builds-a-national-ai-early-warning-platform-co/</loc>
+        <lastmod>2026-08-12</lastmod>
         <changefreq>never</changefreq>
         <priority>0.8</priority>
     </url>
@@ -92,7 +98,7 @@
     </url>
     <url>
         <loc>https://impactsignals.ai/episodes/21/</loc>
-        <lastmod>2026-08-11</lastmod>
+        <lastmod>2026-08-12</lastmod>
         <changefreq>never</changefreq>
         <priority>0.8</priority>
     </url>
@@ -110,7 +116,7 @@
     </url>
     <url>
         <loc>https://impactsignals.ai/episodes/23/</loc>
-        <lastmod>2026-08-11</lastmod>
+        <lastmod>2026-08-12</lastmod>
         <changefreq>never</changefreq>
         <priority>0.8</priority>
     </url>
@@ -146,7 +152,7 @@
     </url>
     <url>
         <loc>https://impactsignals.ai/episodes/29/</loc>
-        <lastmod>2026-08-11</lastmod>
+        <lastmod>2026-08-12</lastmod>
         <changefreq>never</changefreq>
         <priority>0.8</priority>
     </url>
@@ -236,7 +242,7 @@
     </url>
     <url>
         <loc>https://impactsignals.ai/episodes/5-india-sahi-healthcare-undrr-disaster-frameworks/</loc>
-        <lastmod>2026-08-11</lastmod>
+        <lastmod>2026-08-12</lastmod>
         <changefreq>never</changefreq>
         <priority>0.8</priority>
     </url>
@@ -266,7 +272,7 @@
     </url>
     <url>
         <loc>https://impactsignals.ai/episodes/55-nigerian-displacement-us-disaster-hubs-anticipatory-ai/</loc>
-        <lastmod>2026-08-11</lastmod>
+        <lastmod>2026-08-12</lastmod>
         <changefreq>never</changefreq>
         <priority>0.8</priority>
     </url>
@@ -278,13 +284,13 @@
     </url>
     <url>
         <loc>https://impactsignals.ai/episodes/56-tools-platforms-five-things-practitioners-can-use-this-week/</loc>
-        <lastmod>2026-08-11</lastmod>
+        <lastmod>2026-08-12</lastmod>
         <changefreq>never</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://impactsignals.ai/episodes/56-who-governs-humanitarian-ai-preemption-public-good-debate/</loc>
-        <lastmod>2026-08-11</lastmod>
+        <lastmod>2026-08-12</lastmod>
         <changefreq>never</changefreq>
         <priority>0.8</priority>
     </url>
@@ -296,13 +302,13 @@
     </url>
     <url>
         <loc>https://impactsignals.ai/episodes/57-ai-policy-governance-humanitarian-aid/</loc>
-        <lastmod>2026-08-11</lastmod>
+        <lastmod>2026-08-12</lastmod>
         <changefreq>never</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://impactsignals.ai/episodes/58-ai-moves-into-frontline-decisions/</loc>
-        <lastmod>2026-08-11</lastmod>
+        <lastmod>2026-08-12</lastmod>
         <changefreq>never</changefreq>
         <priority>0.8</priority>
     </url>
@@ -314,7 +320,7 @@
     </url>
     <url>
         <loc>https://impactsignals.ai/episodes/58-weekly-wrap-unicef-paris-peace-forum-ai-weather-models/</loc>
-        <lastmod>2026-08-11</lastmod>
+        <lastmod>2026-08-12</lastmod>
         <changefreq>never</changefreq>
         <priority>0.8</priority>
     </url>
@@ -326,7 +332,7 @@
     </url>
     <url>
         <loc>https://impactsignals.ai/episodes/59-weekend-light-ai-weather-floodsens-asean/</loc>
-        <lastmod>2026-08-11</lastmod>
+        <lastmod>2026-08-12</lastmod>
         <changefreq>never</changefreq>
         <priority>0.8</priority>
     </url>
@@ -608,7 +614,7 @@
     </url>
     <url>
         <loc>https://impactsignals.ai/episodes/ep-56-weekend-light-vietnam-sukkur-rockefeller/</loc>
-        <lastmod>2026-08-11</lastmod>
+        <lastmod>2026-08-12</lastmod>
         <changefreq>never</changefreq>
         <priority>0.8</priority>
     </url>
@@ -668,19 +674,19 @@
     </url>
     <url>
         <loc>https://impactsignals.ai/episodes/impact-signals-1-un-ai-panel-india-summit-aid-collapsing/</loc>
-        <lastmod>2026-08-11</lastmod>
+        <lastmod>2026-08-12</lastmod>
         <changefreq>never</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://impactsignals.ai/episodes/impact-signals-2-ai-drones-turning-wars-on-civilians/</loc>
-        <lastmod>2026-08-11</lastmod>
+        <lastmod>2026-08-12</lastmod>
         <changefreq>never</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://impactsignals.ai/episodes/impact-signals-3-india-ai-summit-ai-prosthetics-global-ai-fund/</loc>
-        <lastmod>2026-08-11</lastmod>
+        <lastmod>2026-08-12</lastmod>
         <changefreq>never</changefreq>
         <priority>0.8</priority>
     </url>
