@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 102,
+  "nextEpisode": 103,
   "episodes": [
     {
       "number": 1,
@@ -3044,10 +3044,43 @@
       ],
       "youtube_id": "Vi_9GEyeiK8",
       "youtube_url": "https://www.youtube.com/watch?v=Vi_9GEyeiK8"
+    },
+    {
+      "number": 102,
+      "date": "2026-08-13",
+      "title": "Impact Signals #102 \u2014 Gates Foundation's $540M AI Health-Data Bet, GiveDirectly's Three-Week Earthquake Cash, an AI Supercomputer for East Africa's Climate Center",
+      "headline": "Gates Foundation's $540M AI Health-Data Bet, GiveDirectly's Three-Week Earthquake Cash, an AI Supercomputer for East Africa's Climate Center",
+      "slug": "102-gates-foundation-s-540m-ai-health-data-bet-givedirectly-s-three-week-earthquake-cash-a",
+      "description": "Impact Signals #102: Gates Foundation's $540M AI Health-Data Bet, GiveDirectly's Three-Week Earthquake Cash, an AI Supercomputer for East Africa's Climate Center The Gates Foundation just made the largest charitable gift in University of Washington history: $540.2 million over ten years to the Institute for Health Metrics and Evaluation, expanding the Global Burden of Disease study from 925 to nearly 5,000 locations and funding AI-enabled tools inside the dataset the world's health planners steer by. On the operational side, Fast Company documented GiveDirectly landing cash on Venezuelan earthquake survivors' phones three weeks after the shock, guided by an AI targeting chain that people verified rather than drew. In Nairobi, the World Bank is financing a GPU server for the IGAD climate center, and Philippine agriculture officials are moving drone-and-AI crop surveillance from pilot to policy. Today's signal is money meeting infrastructure: private and development capital paying for the data backbones, compute, and targeting systems that public budgets are pulling away from. --- Top Stories **1. Gates Foundation Commits $540.2 Million to IHME to Build AI-Enabled Health Data as US Funding Retreats** On August 10 the Gates Foundation announced a $540.2 million, ten-year grant to the Institute for Health Metrics and Evaluation (IHME) at the University of Washington, the largest charitable gift in the university's history. The money expands the Global Burden of Disease study fro\u2026",
+      "rss_description": "Impact Signals #102: Gates Foundation's $540M AI Health-Data Bet, GiveDirectly's Three-Week Earthquake Cash, an AI Supercomputer for East Africa's Climate Center The Gates Foundation just made the largest charitable gift in University of Washington history: $540.2 million over ten years to the Institute for Health Metrics and Evaluation, expanding the Global Burden of Disease study from 925 to nearly 5,000 locations and funding AI-enabled tools inside the dataset the world's health planners steer by. On the operational side, Fast Company documented GiveDirectly landing cash on Venezuelan earthquake survivors' phones three weeks after the shock, guided by an AI targeting chain that people verified rather than drew. In Nairobi, the World Bank is financing a GPU server for the IGAD climate center, and Philippine agriculture officials are moving drone-and-AI crop surveillance from pilot to policy. Today's signal is money meeting infrastructure: private and development capital paying for the data backbones, compute, and targeting systems that public budgets are pulling away from. --- Top Stories **1. Gates Foundation Commits $540.2 Million to IHME to Build AI-Enabled Health Data as US Funding Retreats** On August 10 the Gates Foundation announced a $540.2 million, ten-year grant to the Institute for Health Metrics and Evaluation (IHME) at the University of Washington, the largest charitable gift in the university's history. The money expands the Global Burden of Disease study fro\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-102/episode-102.mp3",
+      "mp3_bytes": 8884602,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-102/impact-signal-102.mp4",
+      "mp4_bytes": 54615909,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 555,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Amount: Two HPC servers (one CPU, one GPU/AI), under the Food Systems Resilience Program for Eastern and Southern Africa Phase I",
+        "Deadline: September 24, 2026, 12:00pm East Africa Time (sealed bids at the ICPAC offices, Nairobi)",
+        "Eligibility: Bidders able to deliver sealed physical bids in Nairobi, per World Bank national competitive bidding rules; lot DJ-IGAD-560737-GO-RFB",
+        "Apply: [tuko.co.ke](https://www.tuko.co.ke/business-economy/economy/636150-world-bank-invites-kenyans-apply-tenders-sets-september-2026-deadline/)",
+        "Launched July 7, 2026 by ITU, UNEP, UNFCCC, UNESCO, UNOOSA, and WMO",
+        "A related Zindi challenge, \"Forecasting Global Water Storage,\" lists a EUR 2,000 prize",
+        "Submission deadlines are not yet confirmed on the ITU or Zindi pages; check there before relying on this entry",
+        "Apply: [zindi.world](https://zindi.world/competitions/one-step-ahead-of-drought-forecasting-global-water-storage-challenge)"
+      ],
+      "youtube_id": "puApJGoVu7s",
+      "youtube_url": "https://www.youtube.com/watch?v=puApJGoVu7s"
     }
   ],
-  "lastEpisode": 101,
-  "lastUpdated": "2026-08-12T12:52:23.031066+00:00",
-  "lastPublicEpisode": 101,
+  "lastEpisode": 102,
+  "lastUpdated": "2026-08-13T15:07:48.523889+00:00",
+  "lastPublicEpisode": 102,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }

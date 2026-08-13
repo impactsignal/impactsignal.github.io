@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#101: Canada Redraws Its Storm Warnings, India Builds a National AI Early-Warning Platform, Code.org Becomes CodeAI</title>
+      <title>#102: Gates Foundation's $540M AI Health-Data Bet, GiveDirectly's Three-Week Earthquake Cash, an AI Supercomputer for East Africa's Climate Center</title>
       <description />
+      <link>https://impactsignals.ai/episodes/102-gates-foundation-s-540m-ai-health-data-bet-givedirectly-s-three-week-earthquake-cash-a/</link>
+      <guid isPermaLink="false">impact-signal-102</guid>
+      <pubDate>Thu, 13 Aug 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-102/episode-102.mp3" length="8884602" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#101: Canada Redraws Its Storm Warnings, India Builds a National AI Early-Warning Platform, Code.org Becomes CodeAI</title>
+      <description>Impact Signals #101: Canada Redraws Its Storm Warnings, India Builds a National AI Early-Warning Platform, Code.org Becomes CodeAI Environment and Climate Change Canada switched on free-form polygon alerts for severe thunderstorms and tornadoes, warning only the people a storm is actually expected to hit. In India, the government told Parliament it is building a national AI-powered early-warning platform on 50 Doppler radars and nearly 7,000 rain gauges, while in Nairobi two schoolgirls from Wajir won the national science fair with an AI drought predictor built for the communities that live under the hazard. Today's signal: warning systems are getting rebuilt at national scale, and Colombia's strongest earthquake this century is testing every one of them in real time. --- Top Stories **1. Canada Redraws Its Storm Warnings: Free-Form Polygons Replace Zone Blasts to Fight Alert Fatigue** Environment and Climate Change Canada launched its Convective Alert Modernization system on Tuesday, August 11. Instead of warning entire pre-drawn forecast zones, meteorologists now draw a free-form polygon around the area a severe thunderstorm or tornado is actually expected to hit, and only people inside that shape get the warning. Forecasters can track a storm in real time, splitting or merging warning areas and upgrading one portion of a storm without re-alerting everyone else. The change covers severe thunderstorm and tornado warnings; heat warnings and thunderstorm watches stay on the b…</description>
       <link>https://impactsignals.ai/episodes/101-canada-redraws-its-storm-warnings-india-builds-a-national-ai-early-warning-platform-co/</link>
       <guid isPermaLink="false">impact-signal-101</guid>
       <pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate>
