@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 103,
+  "nextEpisode": 104,
   "episodes": [
     {
       "number": 1,
@@ -3077,10 +3077,43 @@
       ],
       "youtube_id": "puApJGoVu7s",
       "youtube_url": "https://www.youtube.com/watch?v=puApJGoVu7s"
+    },
+    {
+      "number": 103,
+      "date": "2026-08-14",
+      "title": "Impact Signals #103 \u2014 AIDE Counts 1,100 Emergency-Management AI Products, OpenAI Foundation Stakes $100M on Hepatitis C Cure Rates, Rural Patients Push Back",
+      "headline": "AIDE Counts 1,100 Emergency-Management AI Products, OpenAI Foundation Stakes $100M on Hepatitis C Cure Rates, Rural Patients Push Back",
+      "slug": "103-aide-counts-1-100-emergency-management-ai-products-openai-foundation-stakes-100m-on-he",
+      "description": "Impact Signals #103: AIDE Counts 1,100 Emergency-Management AI Products, OpenAI Foundation Stakes $100M on Hepatitis C Cure Rates, Rural Patients Push Back The Markle Foundation's AIDE Initiative published the first national assessment of AI in US emergency management on August 11, counting more than 1,100 products from over 700 companies against local offices that in many counties run on a single full-time staffer. Two days later the Common Health Coalition announced $100 million from the OpenAI Foundation to at least double hepatitis C cure rates in eight states and localities inside two years, starting with Alabama, Illinois, Louisiana and Massachusetts. On the same day KFF Health News reported from Hot Springs, South Dakota that the entire published evidence base for AI in rural health care runs to 26 peer-reviewed studies since 2010, while states steer money from a $50 billion federal program toward it. Today the money and the mandates arrive together, and the binding constraint everywhere is people, evidence and bandwidth rather than software. --- Top Stories **1. AIDE Initiative Counts 1,100 Emergency-Management AI Products, Then Names Staffing as the Binding Constraint** The AI for Disasters and Emergencies (AIDE) Initiative, led by the Markle Foundation with Aspen Digital and RAND, published its assessment of AI across the US emergency management community on August 11, 2026. It ships as three documents: the main report \"AI for Disasters and Emergencies: A Way Forwa\u2026",
+      "rss_description": "Impact Signals #103: AIDE Counts 1,100 Emergency-Management AI Products, OpenAI Foundation Stakes $100M on Hepatitis C Cure Rates, Rural Patients Push Back The Markle Foundation's AIDE Initiative published the first national assessment of AI in US emergency management on August 11, counting more than 1,100 products from over 700 companies against local offices that in many counties run on a single full-time staffer. Two days later the Common Health Coalition announced $100 million from the OpenAI Foundation to at least double hepatitis C cure rates in eight states and localities inside two years, starting with Alabama, Illinois, Louisiana and Massachusetts. On the same day KFF Health News reported from Hot Springs, South Dakota that the entire published evidence base for AI in rural health care runs to 26 peer-reviewed studies since 2010, while states steer money from a $50 billion federal program toward it. Today the money and the mandates arrive together, and the binding constraint everywhere is people, evidence and bandwidth rather than software. --- Top Stories **1. AIDE Initiative Counts 1,100 Emergency-Management AI Products, Then Names Staffing as the Binding Constraint** The AI for Disasters and Emergencies (AIDE) Initiative, led by the Markle Foundation with Aspen Digital and RAND, published its assessment of AI across the US emergency management community on August 11, 2026. It ships as three documents: the main report \"AI for Disasters and Emergencies: A Way Forwa\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-103/episode-103.mp3",
+      "mp3_bytes": 7872723,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-103/impact-signal-103.mp4",
+      "mp4_bytes": 49857977,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 491,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "August 19 to 20, 2026",
+        "Location: United States",
+        "Invitation-only per the organizer listing; verify status before relying on it",
+        "Convenes the state and local buyers the AIDE report identifies as the capacity bottleneck",
+        "Register: [events.govtech.com](https://events.govtech.com/State-and-Local-Government-AI-Summit)",
+        "Dates and registration deadline not yet verified against the ITU primary page",
+        "Location: Global, with virtual rounds",
+        "Youth robotics and AI challenge run under the ITU banner"
+      ],
+      "youtube_id": "aTaKtai_hNw",
+      "youtube_url": "https://www.youtube.com/watch?v=aTaKtai_hNw"
     }
   ],
-  "lastEpisode": 102,
-  "lastUpdated": "2026-08-13T15:07:48.523889+00:00",
-  "lastPublicEpisode": 102,
+  "lastEpisode": 103,
+  "lastUpdated": "2026-08-14T12:44:51.791395+00:00",
+  "lastPublicEpisode": 103,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }

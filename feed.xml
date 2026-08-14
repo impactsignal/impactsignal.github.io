@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#102: Gates Foundation's $540M AI Health-Data Bet, GiveDirectly's Three-Week Earthquake Cash, an AI Supercomputer for East Africa's Climate Center</title>
+      <title>#103: AIDE Counts 1,100 Emergency-Management AI Products, OpenAI Foundation Stakes $100M on Hepatitis C Cure Rates, Rural Patients Push Back</title>
       <description />
+      <link>https://impactsignals.ai/episodes/103-aide-counts-1-100-emergency-management-ai-products-openai-foundation-stakes-100m-on-he/</link>
+      <guid isPermaLink="false">impact-signal-103</guid>
+      <pubDate>Fri, 14 Aug 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-103/episode-103.mp3" length="7872723" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#102: Gates Foundation's $540M AI Health-Data Bet, GiveDirectly's Three-Week Earthquake Cash, an AI Supercomputer for East Africa's Climate Center</title>
+      <description>Impact Signals #102: Gates Foundation's $540M AI Health-Data Bet, GiveDirectly's Three-Week Earthquake Cash, an AI Supercomputer for East Africa's Climate Center The Gates Foundation just made the largest charitable gift in University of Washington history: $540.2 million over ten years to the Institute for Health Metrics and Evaluation, expanding the Global Burden of Disease study from 925 to nearly 5,000 locations and funding AI-enabled tools inside the dataset the world's health planners steer by. On the operational side, Fast Company documented GiveDirectly landing cash on Venezuelan earthquake survivors' phones three weeks after the shock, guided by an AI targeting chain that people verified rather than drew. In Nairobi, the World Bank is financing a GPU server for the IGAD climate center, and Philippine agriculture officials are moving drone-and-AI crop surveillance from pilot to policy. Today's signal is money meeting infrastructure: private and development capital paying for the data backbones, compute, and targeting systems that public budgets are pulling away from. --- Top Stories **1. Gates Foundation Commits $540.2 Million to IHME to Build AI-Enabled Health Data as US Funding Retreats** On August 10 the Gates Foundation announced a $540.2 million, ten-year grant to the Institute for Health Metrics and Evaluation (IHME) at the University of Washington, the largest charitable gift in the university's history. The money expands the Global Burden of Disease study fro…</description>
       <link>https://impactsignals.ai/episodes/102-gates-foundation-s-540m-ai-health-data-bet-givedirectly-s-three-week-earthquake-cash-a/</link>
       <guid isPermaLink="false">impact-signal-102</guid>
       <pubDate>Thu, 13 Aug 2026 14:00:00 +0000</pubDate>
