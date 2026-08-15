@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 104,
+  "nextEpisode": 105,
   "episodes": [
     {
       "number": 1,
@@ -3110,10 +3110,43 @@
       ],
       "youtube_id": "aTaKtai_hNw",
       "youtube_url": "https://www.youtube.com/watch?v=aTaKtai_hNw"
+    },
+    {
+      "number": 104,
+      "date": "2026-08-15",
+      "title": "Impact Signals #104 \u2014 Federal Child-Welfare Predictive Analytics, 15,000 Meta Glasses for Vision Ireland, AI Robocalls Close Georgia Schools",
+      "headline": "Federal Child-Welfare Predictive Analytics, 15,000 Meta Glasses for Vision Ireland, AI Robocalls Close Georgia Schools",
+      "slug": "104-federal-child-welfare-predictive-analytics-15-000-meta-glasses-for-vision-ireland-ai-r",
+      "description": "Impact Signals #104: Federal Child-Welfare Predictive Analytics, 15,000 Meta Glasses for Vision Ireland, AI Robocalls Close Georgia Schools The Administration for Children and Families is sending $6 million to ten jurisdictions to put predictive analytics inside decisions about whether a child is removed from a home, with three-year pilots starting September 30. Meta is donating 15,000 Ray-Ban glasses to Vision Ireland, enough for every blind adult the charity supports, while an AI-voiced robocall closed a Georgia school district for a full day and left no suspect and no device behind. Elsewhere, Nigeria certified 450 teachers to teach AI literacy in three displacement-heavy states, and Khyber Pakhtunkhwa connected 175 public schools to an AI teacher that answers in Pashto. Today the story is not who wrote a check, it is who is being handed an algorithm. --- Top Stories **1. Administration for Children and Families Puts $6 Million Into Predictive Analytics Across Ten Child-Welfare Jurisdictions** The Administration for Children and Families, the HHS agency that oversees child welfare, announced on August 13 that it is sending $6 million to ten jurisdictions to build and test predictive analytics inside their child welfare systems, roughly $600,000 each. The recipients are Indiana, Missouri, Nebraska, New Jersey, North Carolina, Ohio, Oklahoma, Texas, the District of Columbia and the Muscogee Creek Nation, and the three-year pilots begin September 30, 2026. ACF names the inte\u2026",
+      "rss_description": "Impact Signals #104: Federal Child-Welfare Predictive Analytics, 15,000 Meta Glasses for Vision Ireland, AI Robocalls Close Georgia Schools The Administration for Children and Families is sending $6 million to ten jurisdictions to put predictive analytics inside decisions about whether a child is removed from a home, with three-year pilots starting September 30. Meta is donating 15,000 Ray-Ban glasses to Vision Ireland, enough for every blind adult the charity supports, while an AI-voiced robocall closed a Georgia school district for a full day and left no suspect and no device behind. Elsewhere, Nigeria certified 450 teachers to teach AI literacy in three displacement-heavy states, and Khyber Pakhtunkhwa connected 175 public schools to an AI teacher that answers in Pashto. Today the story is not who wrote a check, it is who is being handed an algorithm. --- Top Stories **1. Administration for Children and Families Puts $6 Million Into Predictive Analytics Across Ten Child-Welfare Jurisdictions** The Administration for Children and Families, the HHS agency that oversees child welfare, announced on August 13 that it is sending $6 million to ten jurisdictions to build and test predictive analytics inside their child welfare systems, roughly $600,000 each. The recipients are Indiana, Missouri, Nebraska, New Jersey, North Carolina, Ohio, Oklahoma, Texas, the District of Columbia and the Muscogee Creek Nation, and the three-year pilots begin September 30, 2026. ACF names the inte\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-104/episode-104.mp3",
+      "mp3_bytes": 9924902,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-104/impact-signal-104.mp4",
+      "mp4_bytes": 60942514,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 620,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Program: Artificial Intelligence for American Indians (AI\u00b3) Action Institute, within the US Administration for Children and Families",
+        "Deadline: August 27, 2026 (30-day application window)",
+        "Amount: Funding plus technical assistance; per-award amount published in the Grants.gov announcement",
+        "Eligibility: Federally recognized Indian tribes, incorporated non-federally recognized and state-recognized tribes, tribal consortia, incorporated nonprofit multipurpose community-based Indian organizations, Urban Indian Centers, Native Community Development Financial Institutions, and Alaska Native villages",
+        "Apply: [acf.gov](https://acf.gov/ana/news/review-and-apply-funding-opportunities-economic-development-and-training-and-technical)",
+        "Sessions ongoing as of August 14-15, 2026",
+        "Location: India",
+        "Registration status not confirmed on a primary organiser page; carried as a lead"
+      ],
+      "youtube_id": "iyByHaSvwiI",
+      "youtube_url": "https://www.youtube.com/watch?v=iyByHaSvwiI"
     }
   ],
-  "lastEpisode": 103,
-  "lastUpdated": "2026-08-14T12:44:51.791395+00:00",
-  "lastPublicEpisode": 103,
+  "lastEpisode": 104,
+  "lastUpdated": "2026-08-15T12:48:32.669876+00:00",
+  "lastPublicEpisode": 104,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
