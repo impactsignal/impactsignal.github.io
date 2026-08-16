@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 105,
+  "nextEpisode": 106,
   "episodes": [
     {
       "number": 1,
@@ -3143,10 +3143,43 @@
       ],
       "youtube_id": "iyByHaSvwiI",
       "youtube_url": "https://www.youtube.com/watch?v=iyByHaSvwiI"
+    },
+    {
+      "number": 105,
+      "date": "2026-08-16",
+      "title": "Impact Signals #105 \u2014 Rules Imposed From Outside \u2014 Flock Cuts Plate Data to 7 Days, California Names AI Cyber Officers, CBERS-5 Goes Geostationary",
+      "headline": "Rules Imposed From Outside \u2014 Flock Cuts Plate Data to 7 Days, California Names AI Cyber Officers, CBERS-5 Goes Geostationary",
+      "slug": "105-rules-imposed-from-outside-flock-cuts-plate-data-to-7-days-california-names-ai-cyber-o",
+      "description": "Impact Signals #105: Rules Imposed From Outside \u2014 Flock Cuts Plate Data to 7 Days, California Names AI Cyber Officers, CBERS-5 Goes Geostationary Flock Safety, whose license-plate readers run across nearly 100,000 cameras and more than 6,000 US law enforcement agencies, cut its standard retention window from 30 days to 7 and made misuse audits mandatory after agencies in 23 states walked away from their contracts. In California, Governor Gavin Newsom ordered an AI Cybersecurity Officer into every state agency and pointed the new Cal-CSIC defense program at the water utilities that have been under coordinated attack. Brazil's INPE and a Chinese delegation, meanwhile, settled the design of CBERS-5, the first satellite in that programme built for geostationary orbit, which would give South American civil defence continuous watch rather than scheduled passes. The through-line this weekend is public-sector AI having its terms set from outside the room: by cancelled contracts, by executive order, by a treaty partner's payload, and by nearly 100 state chatbot bills that do not agree with each other. --- Top Stories **1. Flock Cuts License-Plate Retention From 30 Days to 7 and Makes Misuse Audits Mandatory After Agencies in 23 States Cancel** Flock Safety announced on Thursday, 13 August 2026 that it is cutting its standard data-retention window from 30 days to 7, requiring a case number for every search, adding automatic lockouts on suspicious activity, tightening cross-agency shar\u2026",
+      "rss_description": "Impact Signals #105: Rules Imposed From Outside \u2014 Flock Cuts Plate Data to 7 Days, California Names AI Cyber Officers, CBERS-5 Goes Geostationary Flock Safety, whose license-plate readers run across nearly 100,000 cameras and more than 6,000 US law enforcement agencies, cut its standard retention window from 30 days to 7 and made misuse audits mandatory after agencies in 23 states walked away from their contracts. In California, Governor Gavin Newsom ordered an AI Cybersecurity Officer into every state agency and pointed the new Cal-CSIC defense program at the water utilities that have been under coordinated attack. Brazil's INPE and a Chinese delegation, meanwhile, settled the design of CBERS-5, the first satellite in that programme built for geostationary orbit, which would give South American civil defence continuous watch rather than scheduled passes. The through-line this weekend is public-sector AI having its terms set from outside the room: by cancelled contracts, by executive order, by a treaty partner's payload, and by nearly 100 state chatbot bills that do not agree with each other. --- Top Stories **1. Flock Cuts License-Plate Retention From 30 Days to 7 and Makes Misuse Audits Mandatory After Agencies in 23 States Cancel** Flock Safety announced on Thursday, 13 August 2026 that it is cutting its standard data-retention window from 30 days to 7, requiring a case number for every search, adding automatic lockouts on suspicious activity, tightening cross-agency shar\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-105/episode-105.mp3",
+      "mp3_bytes": 8864958,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-105/impact-signal-105.mp4",
+      "mp4_bytes": 54473663,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 553,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Cycle announced 14 August 2026; national rounds run through the 2026-27 school year",
+        "Deadline: verify on the ITU challenge page",
+        "Location: national rounds worldwide, global finals venue to be confirmed",
+        "Session convened 15 August 2026; summit programme continues",
+        "Location: India",
+        "The session takes the DPI governance question directly, which is the layer most public-benefit AI in India runs on",
+        "Opened Saturday, 15 August 2026",
+        "Registration open now, on-site registration likely"
+      ],
+      "youtube_id": "2ZD0oAsJWFc",
+      "youtube_url": "https://www.youtube.com/watch?v=2ZD0oAsJWFc"
     }
   ],
-  "lastEpisode": 104,
-  "lastUpdated": "2026-08-15T12:48:32.669876+00:00",
-  "lastPublicEpisode": 104,
+  "lastEpisode": 105,
+  "lastUpdated": "2026-08-16T12:44:08.784498+00:00",
+  "lastPublicEpisode": 105,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
