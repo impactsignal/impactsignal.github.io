@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 106,
+  "nextEpisode": 107,
   "episodes": [
     {
       "number": 1,
@@ -3176,10 +3176,43 @@
       ],
       "youtube_id": "2ZD0oAsJWFc",
       "youtube_url": "https://www.youtube.com/watch?v=2ZD0oAsJWFc"
+    },
+    {
+      "number": 106,
+      "date": "2026-08-17",
+      "title": "Impact Signals #106 \u2014 Pakistan's 286 Glacial-Flood Warning Stations, America's AI Wildfire Watch, Wales's Bilingual Alert Gap",
+      "headline": "Pakistan's 286 Glacial-Flood Warning Stations, America's AI Wildfire Watch, Wales's Bilingual Alert Gap",
+      "slug": "106-pakistan-s-286-glacial-flood-warning-stations-america-s-ai-wildfire-watch-wales-s-bili",
+      "description": "Impact Signals #106: Pakistan's 286 Glacial-Flood Warning Stations, America's AI Wildfire Watch, Wales's Bilingual Alert Gap Pakistan committed $37 million to install 286 glacial-flood early warning systems across valleys where 7.1 million people live downstream of 3,000 glacial lakes. In the United States, three FireSat satellites are in orbit and Cal Fire's 1,200-camera network now spots half of California's wildfires before the first 911 call, while in Wales a national wildfire alert arrived in Welsh and English minutes apart and sent recipients to chatbots to translate their own emergency warning. Today's signal: detection is scaling fast on every layer from orbit to ground sensor, and the weak link is shifting to how warnings actually reach and read to the people in the path. --- Top Stories **1. Pakistan Will Install 286 Glacial-Flood Early Warning Systems Covering 7.1 Million People Downstream of 3,000 Glacial Lakes** Pakistan's government announced it will install 286 early warning systems across Gilgit-Baltistan and Khyber Pakhtunkhwa to detect glacial lake outburst floods, under the $37 million GLOF-II project financed through the UN Adaptation Fund. The systems cover 24 vulnerable valleys \u2014 18 in Gilgit-Baltistan and 6 in Khyber Pakhtunkhwa \u2014 where melting Hindu Kush, Himalaya and Karakoram glaciers have formed more than 3,000 glacial lakes, 33 of them assessed as at risk of hazardous outburst, with more than 7.1 million people living downstream. The timing is con\u2026",
+      "rss_description": "Impact Signals #106: Pakistan's 286 Glacial-Flood Warning Stations, America's AI Wildfire Watch, Wales's Bilingual Alert Gap Pakistan committed $37 million to install 286 glacial-flood early warning systems across valleys where 7.1 million people live downstream of 3,000 glacial lakes. In the United States, three FireSat satellites are in orbit and Cal Fire's 1,200-camera network now spots half of California's wildfires before the first 911 call, while in Wales a national wildfire alert arrived in Welsh and English minutes apart and sent recipients to chatbots to translate their own emergency warning. Today's signal: detection is scaling fast on every layer from orbit to ground sensor, and the weak link is shifting to how warnings actually reach and read to the people in the path. --- Top Stories **1. Pakistan Will Install 286 Glacial-Flood Early Warning Systems Covering 7.1 Million People Downstream of 3,000 Glacial Lakes** Pakistan's government announced it will install 286 early warning systems across Gilgit-Baltistan and Khyber Pakhtunkhwa to detect glacial lake outburst floods, under the $37 million GLOF-II project financed through the UN Adaptation Fund. The systems cover 24 vulnerable valleys \u2014 18 in Gilgit-Baltistan and 6 in Khyber Pakhtunkhwa \u2014 where melting Hindu Kush, Himalaya and Karakoram glaciers have formed more than 3,000 glacial lakes, 33 of them assessed as at risk of hazardous outburst, with more than 7.1 million people living downstream. The timing is con\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-106/episode-106.mp3",
+      "mp3_bytes": 8287756,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-106/impact-signal-106.mp4",
+      "mp4_bytes": 51768893,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 517,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "September 7, 2026",
+        "Location: United Kingdom (all compatible mobile devices)",
+        "The first national test since the Welsh-first bilingual delivery debate of August 14 (Story 3); accessible-format materials are already published",
+        "Register: [gov.uk](https://www.gov.uk/guidance/emergency-alerts-test-7-september-accessible-materials)",
+        "Amount: $12,000 stipend for the 8-week, fully remote program starting September 8, plus cloud GPU and API credits",
+        "Deadline: August 17, 2026, Anywhere-on-Earth (closes today)",
+        "Eligibility: global, all career stages; strong ML fundamentals and demonstrated independent research; Pacific-Time meeting overlap required",
+        "Apply: [aialignmentfoundation.org](https://www.aialignmentfoundation.org/fellowship)"
+      ],
+      "youtube_id": "5EfSOEdYMF0",
+      "youtube_url": "https://www.youtube.com/watch?v=5EfSOEdYMF0"
     }
   ],
-  "lastEpisode": 105,
-  "lastUpdated": "2026-08-16T12:44:08.784498+00:00",
-  "lastPublicEpisode": 105,
+  "lastEpisode": 106,
+  "lastUpdated": "2026-08-17T15:22:52.864149+00:00",
+  "lastPublicEpisode": 106,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
