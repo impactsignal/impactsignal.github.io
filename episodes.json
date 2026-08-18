@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 107,
+  "nextEpisode": 108,
   "episodes": [
     {
       "number": 1,
@@ -3209,10 +3209,43 @@
       ],
       "youtube_id": "5EfSOEdYMF0",
       "youtube_url": "https://www.youtube.com/watch?v=5EfSOEdYMF0"
+    },
+    {
+      "number": 107,
+      "date": "2026-08-18",
+      "title": "Impact Signals #107 \u2014 South Africa's Welfare Algorithm Goes on Trial, New Mexico Districts Exit an AI Reading Mandate, Pakistan's First Provincial Disaster Policy",
+      "headline": "South Africa's Welfare Algorithm Goes on Trial, New Mexico Districts Exit an AI Reading Mandate, Pakistan's First Provincial Disaster Policy",
+      "slug": "107-south-africa-s-welfare-algorithm-goes-on-trial-new-mexico-districts-exit-an-ai-reading",
+      "description": "Impact Signals #107: South Africa's Welfare Algorithm Goes on Trial, New Mexico Districts Exit an AI Reading Mandate, Pakistan's First Provincial Disaster Policy Seven days before South Africa's Supreme Court of Appeal decides whether an algorithm can keep determining who receives the country's R370 monthly hunger grant, a Wits University analysis details how digitization shrank the rolls from 16 million recipients to 5.6 million. In New Mexico, five districts and a charter school have pulled out of the state's mandatory AI reading assessment over children's voice recordings, and Khyber Pakhtunkhwa has become the first Pakistani province with a cabinet-approved disaster risk reduction policy. Today's signal is accountability: courts, parents, and provincial cabinets are putting on the record what automated systems are allowed to do to the people who depend on them. --- Top Stories **1. Sixteen Million Recipients Became 5.6 Million After Automation: South Africa's Top Appeals Court Hears the Algorithm Case on August 25** On August 25, South Africa's Supreme Court of Appeal hears the government's appeal in Institute for Economic Justice v. SASSA, the case that will decide whether the country's fully automated Social Relief of Distress grant survives. The SRD grant, launched in May 2020, pays R370 a month (about $23) to people with no other income; applications are digital-only, and eligibility is decided by algorithmic checks against bank records and government databases. The\u2026",
+      "rss_description": "Impact Signals #107: South Africa's Welfare Algorithm Goes on Trial, New Mexico Districts Exit an AI Reading Mandate, Pakistan's First Provincial Disaster Policy Seven days before South Africa's Supreme Court of Appeal decides whether an algorithm can keep determining who receives the country's R370 monthly hunger grant, a Wits University analysis details how digitization shrank the rolls from 16 million recipients to 5.6 million. In New Mexico, five districts and a charter school have pulled out of the state's mandatory AI reading assessment over children's voice recordings, and Khyber Pakhtunkhwa has become the first Pakistani province with a cabinet-approved disaster risk reduction policy. Today's signal is accountability: courts, parents, and provincial cabinets are putting on the record what automated systems are allowed to do to the people who depend on them. --- Top Stories **1. Sixteen Million Recipients Became 5.6 Million After Automation: South Africa's Top Appeals Court Hears the Algorithm Case on August 25** On August 25, South Africa's Supreme Court of Appeal hears the government's appeal in Institute for Economic Justice v. SASSA, the case that will decide whether the country's fully automated Social Relief of Distress grant survives. The SRD grant, launched in May 2020, pays R370 a month (about $23) to people with no other income; applications are digital-only, and eligibility is decided by algorithmic checks against bank records and government databases. The\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-107/episode-107.mp3",
+      "mp3_bytes": 8593702,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-107/impact-signal-107.mp4",
+      "mp4_bytes": 52038202,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 537,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Underway this week (sessions reported August 17 and 18)",
+        "Location: New Delhi, India",
+        "Sessions on governing safe and responsible AI within digital public infrastructure",
+        "Convened August 18, 2026",
+        "Location: Dalian, China",
+        "Focus on extreme weather early warning and AI climate technologies",
+        "Open now through October 30, 2026",
+        "Location: Virtual"
+      ],
+      "youtube_id": "5kKjkJ02dyM",
+      "youtube_url": "https://www.youtube.com/watch?v=5kKjkJ02dyM"
     }
   ],
-  "lastEpisode": 106,
-  "lastUpdated": "2026-08-17T15:22:52.864149+00:00",
-  "lastPublicEpisode": 106,
+  "lastEpisode": 107,
+  "lastUpdated": "2026-08-18T12:52:46.441772+00:00",
+  "lastPublicEpisode": 107,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
