@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 108,
+  "nextEpisode": 109,
   "episodes": [
     {
       "number": 1,
@@ -3242,10 +3242,43 @@
       ],
       "youtube_id": "5kKjkJ02dyM",
       "youtube_url": "https://www.youtube.com/watch?v=5kKjkJ02dyM"
+    },
+    {
+      "number": 108,
+      "date": "2026-08-19",
+      "title": "Impact Signals #108 \u2014 Meta Funds 30 Disability Groups to Test AI Glasses, Sarawak Launches Sovereign AI, Indiana's Record Flood Tests a Reshaped FEMA",
+      "headline": "Meta Funds 30 Disability Groups to Test AI Glasses, Sarawak Launches Sovereign AI, Indiana's Record Flood Tests a Reshaped FEMA",
+      "slug": "108-meta-funds-30-disability-groups-to-test-ai-glasses-sarawak-launches-sovereign-ai-india",
+      "description": "Impact Signals #108: Meta Funds 30 Disability Groups to Test AI Glasses, Sarawak Launches Sovereign AI, Indiana's Record Flood Tests a Reshaped FEMA Meta is putting nearly $2 million into 30 US organizations across 18 states to find out what its AI glasses can actually do for people with disabilities, while the Malaysian state of Sarawak stood up its own sovereign AI platform, hosted entirely in local data centres, to run government services. In Indiana, storms that broke a 113-year river record have killed at least six people and pushed a federal emergency declaration through a FEMA in mid-overhaul, and Busan just committed its drainage, terrain and CCTV data to a live AI flood-prediction trial with Korea's ETRI. Eight months after Cyclone Ditwah killed over 600 people, a leading resilience scholar puts on record that Sri Lanka's warnings arrived and the protection did not. Today's through-line: who gets the technology, and who is left holding the gap when it falls short. --- Top Stories **1. Meta Puts $2 Million Into 30 Organizations Across 18 States to Find Out What AI Glasses Can Do for Disability** Meta is distributing nearly $2 million in grants to 30 organizations across 18 US states to explore how its AI glasses can increase independence for people with disabilities, Disability Scoop reported August 18. A dozen of the 30 recipients focus specifically on disability needs; Meta says it selected grantees on demonstrated impact, scalability, and relevance to settings whe\u2026",
+      "rss_description": "Impact Signals #108: Meta Funds 30 Disability Groups to Test AI Glasses, Sarawak Launches Sovereign AI, Indiana's Record Flood Tests a Reshaped FEMA Meta is putting nearly $2 million into 30 US organizations across 18 states to find out what its AI glasses can actually do for people with disabilities, while the Malaysian state of Sarawak stood up its own sovereign AI platform, hosted entirely in local data centres, to run government services. In Indiana, storms that broke a 113-year river record have killed at least six people and pushed a federal emergency declaration through a FEMA in mid-overhaul, and Busan just committed its drainage, terrain and CCTV data to a live AI flood-prediction trial with Korea's ETRI. Eight months after Cyclone Ditwah killed over 600 people, a leading resilience scholar puts on record that Sri Lanka's warnings arrived and the protection did not. Today's through-line: who gets the technology, and who is left holding the gap when it falls short. --- Top Stories **1. Meta Puts $2 Million Into 30 Organizations Across 18 States to Find Out What AI Glasses Can Do for Disability** Meta is distributing nearly $2 million in grants to 30 organizations across 18 US states to explore how its AI glasses can increase independence for people with disabilities, Disability Scoop reported August 18. A dozen of the 30 recipients focus specifically on disability needs; Meta says it selected grantees on demonstrated impact, scalability, and relevance to settings whe\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-108/episode-108.mp3",
+      "mp3_bytes": 9179681,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-108/impact-signal-108.mp4",
+      "mp4_bytes": 56508187,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 573,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "In progress as of August 19, 2026; a session on Governing Safe and Responsible AI within Digital Public Infrastructure convened August 19",
+        "Location: India",
+        "Puts AI governance inside digital public infrastructure on the multilateral agenda this week",
+        "Details: [newsonair.gov.in](https://www.newsonair.gov.in)",
+        "Convened week of August 18, 2026",
+        "Location: Dalian, China",
+        "Focused on AI and extreme weather across APEC economies",
+        "Details: [sedaily.com](https://www.sedaily.com)"
+      ],
+      "youtube_id": "m2_3TkVvXAY",
+      "youtube_url": "https://www.youtube.com/watch?v=m2_3TkVvXAY"
     }
   ],
-  "lastEpisode": 107,
-  "lastUpdated": "2026-08-18T12:52:46.441772+00:00",
-  "lastPublicEpisode": 107,
+  "lastEpisode": 108,
+  "lastUpdated": "2026-08-19T13:07:11.121300+00:00",
+  "lastPublicEpisode": 108,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
