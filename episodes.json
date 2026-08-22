@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 109,
+  "nextEpisode": 110,
   "episodes": [
     {
       "number": 1,
@@ -3275,10 +3275,43 @@
       ],
       "youtube_id": "m2_3TkVvXAY",
       "youtube_url": "https://www.youtube.com/watch?v=m2_3TkVvXAY"
+    },
+    {
+      "number": 109,
+      "date": "2026-08-22",
+      "title": "Impact Signals #109 \u2014 IRC Publishes Signpost's AI Triage Rules, $5M for Rural Nurse AI Training, Kazakhstan Wires Its Glacial Lakes",
+      "headline": "IRC Publishes Signpost's AI Triage Rules, $5M for Rural Nurse AI Training, Kazakhstan Wires Its Glacial Lakes",
+      "slug": "109-irc-publishes-signpost-s-ai-triage-rules-5m-for-rural-nurse-ai-training-kazakhstan-wir",
+      "description": "Impact Signals #109: IRC Publishes Signpost's AI Triage Rules, $5M for Rural Nurse AI Training, Kazakhstan Wires Its Glacial Lakes The International Rescue Committee put the operating model behind Signpost's crisis triage on the record, including the risk-routing rules and the 24-hour human-escalation commitment that govern when AI is allowed to answer at all. Google.org and the Johnson & Johnson Foundation handed the American Nurses Enterprise $5 million to teach rural nurses what AI can and cannot do, and above Talgar in Kazakhstan, sensors now watch the three glacial lakes rated most likely to burst. Today's signal: the field is publishing its playbooks, deployment detail rather than demos. --- Top Stories **1. \"AI Has No Business Responding\": IRC Publishes the Operating Model Behind Signpost's Crisis Triage** In an August 21 piece by diginomica, the International Rescue Committee laid out how it actually runs AI inside Signpost, its digital support project for people navigating displacement and disaster. Signpost director Andre Heller states the design principle bluntly: for cases that require empathy and social skills, \"AI has no business responding.\" Every incoming request is evaluated for two things, whether the knowledge base can answer it and how risky the topic is; high-risk cases route automatically to a human under a 24-hour service-level agreement, and topic guardrails flag categories like legal information for attorney review. The scale problem is concrete: at\u2026",
+      "rss_description": "Impact Signals #109: IRC Publishes Signpost's AI Triage Rules, $5M for Rural Nurse AI Training, Kazakhstan Wires Its Glacial Lakes The International Rescue Committee put the operating model behind Signpost's crisis triage on the record, including the risk-routing rules and the 24-hour human-escalation commitment that govern when AI is allowed to answer at all. Google.org and the Johnson & Johnson Foundation handed the American Nurses Enterprise $5 million to teach rural nurses what AI can and cannot do, and above Talgar in Kazakhstan, sensors now watch the three glacial lakes rated most likely to burst. Today's signal: the field is publishing its playbooks, deployment detail rather than demos. --- Top Stories **1. \"AI Has No Business Responding\": IRC Publishes the Operating Model Behind Signpost's Crisis Triage** In an August 21 piece by diginomica, the International Rescue Committee laid out how it actually runs AI inside Signpost, its digital support project for people navigating displacement and disaster. Signpost director Andre Heller states the design principle bluntly: for cases that require empathy and social skills, \"AI has no business responding.\" Every incoming request is evaluated for two things, whether the knowledge base can answer it and how risky the topic is; high-risk cases route automatically to a human under a 24-hour service-level agreement, and topic guardrails flag categories like legal information for attorney review. The scale problem is concrete: at\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-109/episode-109.mp3",
+      "mp3_bytes": 8122662,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-109/impact-signal-109.mp4",
+      "mp4_bytes": 49297838,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 507,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Northwest Pacific (Northern Mariana Islands, Japan):** Tropical cyclone SAUDEL-26, GDACS Orange alert; maximum winds 241 km/h, an estimated 1.4 million people exposed to Category 1 or higher winds; track and warnings updating. Source: [gdacs.org](https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001305).",
+        "China:** Flooding since July 31, GDACS Orange alert; 1 death, 309,701 displaced; ongoing. Source: [gdacs.org](https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104081).",
+        "Serbia:** Forest fires since August 5, GDACS Orange alert; ongoing. Source: [gdacs.org](https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030252).",
+        "Peru:** M6.7 earthquake 31 km NW of Aniso, August 20, USGS alert level green; monitoring, no major damage reports. Source: [earthquake.usgs.gov](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm81).",
+        "Vanuatu:** M6.1 earthquake 56 km NNE of Port-Olry, August 16, alert level green; monitoring. Source: [earthquake.usgs.gov](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl4w).",
+        "Scotia Sea:** M6.2 earthquake, August 22, alert level green, remote maritime region; monitoring only. Source: [earthquake.usgs.gov](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrw).",
+        "[diginomica.com](https://diginomica.com/international-rescue-committee-ai-operating-model-humanitarian-crises)",
+        "[rescue.org](https://www.rescue.org/irc-responsible-ai-humanitarian-sector)"
+      ],
+      "youtube_id": "l8FiNzOedLM",
+      "youtube_url": "https://www.youtube.com/watch?v=l8FiNzOedLM"
     }
   ],
-  "lastEpisode": 108,
-  "lastUpdated": "2026-08-19T13:07:11.121300+00:00",
-  "lastPublicEpisode": 108,
+  "lastEpisode": 109,
+  "lastUpdated": "2026-08-22T20:21:23.280093+00:00",
+  "lastPublicEpisode": 109,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
