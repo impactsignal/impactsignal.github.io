@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 110,
+  "nextEpisode": 111,
   "episodes": [
     {
       "number": 1,
@@ -3308,10 +3308,43 @@
       ],
       "youtube_id": "l8FiNzOedLM",
       "youtube_url": "https://www.youtube.com/watch?v=l8FiNzOedLM"
+    },
+    {
+      "number": 110,
+      "date": "2026-08-23",
+      "title": "Impact Signals #110 \u2014 Japan's Quake Alert Reaches 37 Million Phones, ITU Writes Africa's Disaster Comms Playbook, Loudoun County Taps the Brakes",
+      "headline": "Japan's Quake Alert Reaches 37 Million Phones, ITU Writes Africa's Disaster Comms Playbook, Loudoun County Taps the Brakes",
+      "slug": "110-japan-s-quake-alert-reaches-37-million-phones-itu-writes-africa-s-disaster-comms-playb",
+      "description": "Impact Signals #110: Japan's Quake Alert Reaches 37 Million Phones, ITU Writes Africa's Disaster Comms Playbook, Loudoun County Taps the Brakes When a magnitude 5.9 earthquake struck under Ibaraki Prefecture at 2 a.m. Sunday, Japan's early-warning network rang 37 million Tokyo-area phones before the shaking arrived, and the injury ledger, 37 hurt and no deaths, is the performance review every alert system is implicitly promising. The ITU is trying to give Southern and West Africa the plumbing that makes such warnings deliverable, publishing model emergency telecommunication plans, while France's FireWatch platform now scans the whole country for fire starts every 10 minutes and Loudoun County, Virginia, the fiscal capital of the AI buildout, is starting to say no to new data centers. Today's signal is systems meeting reality: warning networks graded by a live event, plans written before networks fail, and the richest data-center county deciding how much more boom it wants. --- Top Stories **1. Japan's Earthquake Early Warning Rings 37 Million Tokyo-Area Phones Before the Shaking Hits** A magnitude 5.9 earthquake struck southern Ibaraki Prefecture at about 2 a.m. on Sunday, August 23, at a depth of roughly 70 kilometers (the JMA's preliminary magnitude is 5.9; the USGS measured 5.8). The Japan Meteorological Agency's early-warning network, built on 4,235 seismometers, detected the P-waves, computed where destructive shaking would land, and pushed a simultaneous alarm to about\u2026",
+      "rss_description": "Impact Signals #110: Japan's Quake Alert Reaches 37 Million Phones, ITU Writes Africa's Disaster Comms Playbook, Loudoun County Taps the Brakes When a magnitude 5.9 earthquake struck under Ibaraki Prefecture at 2 a.m. Sunday, Japan's early-warning network rang 37 million Tokyo-area phones before the shaking arrived, and the injury ledger, 37 hurt and no deaths, is the performance review every alert system is implicitly promising. The ITU is trying to give Southern and West Africa the plumbing that makes such warnings deliverable, publishing model emergency telecommunication plans, while France's FireWatch platform now scans the whole country for fire starts every 10 minutes and Loudoun County, Virginia, the fiscal capital of the AI buildout, is starting to say no to new data centers. Today's signal is systems meeting reality: warning networks graded by a live event, plans written before networks fail, and the richest data-center county deciding how much more boom it wants. --- Top Stories **1. Japan's Earthquake Early Warning Rings 37 Million Tokyo-Area Phones Before the Shaking Hits** A magnitude 5.9 earthquake struck southern Ibaraki Prefecture at about 2 a.m. on Sunday, August 23, at a depth of roughly 70 kilometers (the JMA's preliminary magnitude is 5.9; the USGS measured 5.8). The Japan Meteorological Agency's early-warning network, built on 4,235 seismometers, detected the P-waves, computed where destructive shaking would land, and pushed a simultaneous alarm to about\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-110/episode-110.mp3",
+      "mp3_bytes": 9791991,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-110/impact-signal-110.mp4",
+      "mp4_bytes": 59387102,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 611,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "August 24-27, 2026",
+        "Location: New York",
+        "Decides the $84 million Tajikistan country programme covered in story 4; outcomes are public",
+        "Register: [undp.org](https://www.undp.org/executive-board)",
+        "Japan:** M5.9 earthquake, southern Ibaraki Prefecture, August 23; 37 injured across five prefectures, no deaths, no tsunami; JMA warns of similar shaking risk over the coming week. Source: [japantimes.co.jp](https://www.japantimes.co.jp/news/2026/08/23/japan/society/ibaraki-earthquake-tokyo-kanto/).",
+        "Peru:** M6.7 earthquake 31 km NW of Aniso, August 20; deep event, USGS PAGER alert level green, no major damage reports. Source: [earthquake.usgs.gov](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm81).",
+        "Philippines:** Southwest monsoon (habagat) and cyclone impacts ongoing; NDRRMC reports 88 areas under a state of calamity, national response ongoing. Source: Inquirer.net.",
+        "Note: only major or ongoing-major events are featured; low-severity alerts (including an M6.2 Scotia Sea quake with minimal population exposure) are excluded per the major-only bar."
+      ],
+      "youtube_id": "N7vZXzn8UwI",
+      "youtube_url": "https://www.youtube.com/watch?v=N7vZXzn8UwI"
     }
   ],
-  "lastEpisode": 109,
-  "lastUpdated": "2026-08-22T20:21:23.280093+00:00",
-  "lastPublicEpisode": 109,
+  "lastEpisode": 110,
+  "lastUpdated": "2026-08-23T12:50:49.016882+00:00",
+  "lastPublicEpisode": 110,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }

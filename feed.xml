@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#109: IRC Publishes Signpost's AI Triage Rules, $5M for Rural Nurse AI Training, Kazakhstan Wires Its Glacial Lakes</title>
+      <title>#110: Japan's Quake Alert Reaches 37 Million Phones, ITU Writes Africa's Disaster Comms Playbook, Loudoun County Taps the Brakes</title>
       <description />
+      <link>https://impactsignals.ai/episodes/110-japan-s-quake-alert-reaches-37-million-phones-itu-writes-africa-s-disaster-comms-playb/</link>
+      <guid isPermaLink="false">impact-signal-110</guid>
+      <pubDate>Sun, 23 Aug 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-110/episode-110.mp3" length="9791991" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#109: IRC Publishes Signpost's AI Triage Rules, $5M for Rural Nurse AI Training, Kazakhstan Wires Its Glacial Lakes</title>
+      <description>Impact Signals #109: IRC Publishes Signpost's AI Triage Rules, $5M for Rural Nurse AI Training, Kazakhstan Wires Its Glacial Lakes The International Rescue Committee put the operating model behind Signpost's crisis triage on the record, including the risk-routing rules and the 24-hour human-escalation commitment that govern when AI is allowed to answer at all. Google.org and the Johnson &amp; Johnson Foundation handed the American Nurses Enterprise $5 million to teach rural nurses what AI can and cannot do, and above Talgar in Kazakhstan, sensors now watch the three glacial lakes rated most likely to burst. Today's signal: the field is publishing its playbooks, deployment detail rather than demos. --- Top Stories **1. "AI Has No Business Responding": IRC Publishes the Operating Model Behind Signpost's Crisis Triage** In an August 21 piece by diginomica, the International Rescue Committee laid out how it actually runs AI inside Signpost, its digital support project for people navigating displacement and disaster. Signpost director Andre Heller states the design principle bluntly: for cases that require empathy and social skills, "AI has no business responding." Every incoming request is evaluated for two things, whether the knowledge base can answer it and how risky the topic is; high-risk cases route automatically to a human under a 24-hour service-level agreement, and topic guardrails flag categories like legal information for attorney review. The scale problem is concrete: at…</description>
       <link>https://impactsignals.ai/episodes/109-irc-publishes-signpost-s-ai-triage-rules-5m-for-rural-nurse-ai-training-kazakhstan-wir/</link>
       <guid isPermaLink="false">impact-signal-109</guid>
       <pubDate>Sat, 22 Aug 2026 14:00:00 +0000</pubDate>
