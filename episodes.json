@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 111,
+  "nextEpisode": 112,
   "episodes": [
     {
       "number": 1,
@@ -3341,10 +3341,43 @@
       ],
       "youtube_id": "eu4WgJnmzMg",
       "youtube_url": "https://www.youtube.com/watch?v=eu4WgJnmzMg"
+    },
+    {
+      "number": 111,
+      "date": "2026-08-24",
+      "title": "Impact Signals #111 \u2014 Manila's 1 Billion Peso Flood-Forecast Bet, Chengdu's False 7.7 Alert, Kazakhstan's 63 Drone Rescues",
+      "headline": "Manila's 1 Billion Peso Flood-Forecast Bet, Chengdu's False 7.7 Alert, Kazakhstan's 63 Drone Rescues",
+      "slug": "111-manila-s-1-billion-peso-flood-forecast-bet-chengdu-s-false-7-7-alert-kazakhstan-s-63-d",
+      "description": "Impact Signals #111: Manila's 1 Billion Peso Flood-Forecast Bet, Chengdu's False 7.7 Alert, Kazakhstan's 63 Drone Rescues The Philippine budget department released 1 billion pesos to Project NOAH on Monday morning and put 935 million of it into research services at a university institute rather than into finished hardware. Hours earlier and 3,000 kilometers north, the Institute of Care-Life pushed a magnitude 7.7 earthquake alert to phones across Sichuan for a quake that measured 4.7, then apologized and published its own second-by-second revision trail. Kazakhstan's emergency ministry, meanwhile, disclosed the first hard survivor count anyone has attached to an AI-equipped drone fleet: 63 people, against 241 aircraft and more than 5,000 sorties. Today's signal is that early-warning and response AI is finally being measured by disclosed numbers, the money behind the models and the errors they make in public. --- Top Stories **1. Manila Releases 1 Billion Pesos to Project NOAH, With 935 Million Going to Research Rather Than Hardware** The Philippine Department of Budget and Management released 1 billion pesos to the University of the Philippines System on August 24 to expand Project NOAH, the national flood hazard and forecasting platform run by the UP Resilience Institute. The split is unusually specific: 935 million pesos to research services, 65 million to general management and supervision, charged against UP's appropriation under the 2026 General Appropriations Act. The\u2026",
+      "rss_description": "Impact Signals #111: Manila's 1 Billion Peso Flood-Forecast Bet, Chengdu's False 7.7 Alert, Kazakhstan's 63 Drone Rescues The Philippine budget department released 1 billion pesos to Project NOAH on Monday morning and put 935 million of it into research services at a university institute rather than into finished hardware. Hours earlier and 3,000 kilometers north, the Institute of Care-Life pushed a magnitude 7.7 earthquake alert to phones across Sichuan for a quake that measured 4.7, then apologized and published its own second-by-second revision trail. Kazakhstan's emergency ministry, meanwhile, disclosed the first hard survivor count anyone has attached to an AI-equipped drone fleet: 63 people, against 241 aircraft and more than 5,000 sorties. Today's signal is that early-warning and response AI is finally being measured by disclosed numbers, the money behind the models and the errors they make in public. --- Top Stories **1. Manila Releases 1 Billion Pesos to Project NOAH, With 935 Million Going to Research Rather Than Hardware** The Philippine Department of Budget and Management released 1 billion pesos to the University of the Philippines System on August 24 to expand Project NOAH, the national flood hazard and forecasting platform run by the UP Resilience Institute. The split is unusually specific: 935 million pesos to research services, 65 million to general management and supervision, charged against UP's appropriation under the 2026 General Appropriations Act. The\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-111/episode-111.mp3",
+      "mp3_bytes": 9765242,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-111/impact-signal-111.mp4",
+      "mp4_bytes": 59485199,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 610,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Deadline: September 6, 2026, 23:59 UTC",
+        "Amount: Grant funding plus bootcamp support; per-innovation amount not stated on the call page",
+        "Eligibility: Low-tech and high-tech climate adaptation innovations for vulnerable communities, Latin America and the Caribbean cohort, with El Salvador, the Dominican Republic and Peru named",
+        "10 to 12 innovations selected in November 2026; bootcamp runs January 2027 for the selected cohort",
+        "Apply: [innovation.wfp.org](https://innovation.wfp.org/adaptation-fund-innovation-accelerator)",
+        "AI for Transformative Social Impact (India):** call for proposals surfaced August 24 via fundsforNGOs; deadline not confirmed against a funder page. [fundsforngos.org](https://www2.fundsforngos.org/)",
+        "Global Health and Wellbeing in an Era of Transformative AI:** RFP surfaced August 21; funder and deadline unverified.",
+        "GEF Small Grants Programme, second call (Egypt):** surfaced August 24; deadline unverified."
+      ],
+      "youtube_id": "7s1HAolkYgY",
+      "youtube_url": "https://www.youtube.com/watch?v=7s1HAolkYgY"
     }
   ],
-  "lastEpisode": 110,
-  "lastUpdated": "2026-08-23T18:15:23.987601+00:00",
-  "lastPublicEpisode": 110,
+  "lastEpisode": 111,
+  "lastUpdated": "2026-08-24T12:38:37.207987+00:00",
+  "lastPublicEpisode": 111,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }

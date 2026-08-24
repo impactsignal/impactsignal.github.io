@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#110: France Puts AI Fire Detection on Daily Duty, UNDP's $84M Tajikistan Program, the UN's Own AI Scorecard</title>
+      <title>#111: Manila's 1 Billion Peso Flood-Forecast Bet, Chengdu's False 7.7 Alert, Kazakhstan's 63 Drone Rescues</title>
       <description />
+      <link>https://impactsignals.ai/episodes/111-manila-s-1-billion-peso-flood-forecast-bet-chengdu-s-false-7-7-alert-kazakhstan-s-63-d/</link>
+      <guid isPermaLink="false">impact-signal-111</guid>
+      <pubDate>Mon, 24 Aug 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-111/episode-111.mp3" length="9765242" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#110: France Puts AI Fire Detection on Daily Duty, UNDP's $84M Tajikistan Program, the UN's Own AI Scorecard</title>
+      <description>Impact Signals #110: France Puts AI Fire Detection on Daily Duty, UNDP's $84M Tajikistan Program, the UN's Own AI Scorecard France's civil security directorate and space agency CNES have moved FireWatch, their AI-and-satellite wildfire detector, from a four-year development project into daily operational use across nearly half the country's fire services. UNDP put an $84 million price tag on Tajikistan's next four years of development, with climate resilience as the largest line and a measurable AI-readiness target attached. And the UN published a rare system-wide accounting of its own AI deployments, from 2 million children on adaptive textbooks to 7,500 methane alerts. Today's signal: institutions are moving AI for public good out of the pilot column and into budgets, duty rosters, and published scorecards. --- Top Stories **1. Half of France's Fire Services Now Start the Day With FireWatch, the State's AI-and-Satellite Fire Detector** France's civil security directorate (DGSCGC) and space agency CNES, with the Kayrros-SERTIT consortium, have taken FireWatch from a four-year development project to daily operational use in the 2026 fire season. The platform fuses satellite passes with AI to auto-detect fire starts, including in areas with no camera or lookout coverage, refreshing hotspot detection as often as every 10 minutes, and couples detection to the ForeFire spread-simulation model plus building-defensibility assessment. More than 40 departmental fire and rescue servi…</description>
       <link>https://impactsignals.ai/episodes/110-france-puts-ai-fire-detection-on-daily-duty-undp-s-84m-tajikistan-program-the-un-s-own/</link>
       <guid isPermaLink="false">impact-signal-110</guid>
       <pubDate>Sun, 23 Aug 2026 14:00:00 +0000</pubDate>
