@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 112,
+  "nextEpisode": 113,
   "episodes": [
     {
       "number": 1,
@@ -3374,10 +3374,43 @@
       ],
       "youtube_id": "7s1HAolkYgY",
       "youtube_url": "https://www.youtube.com/watch?v=7s1HAolkYgY"
+    },
+    {
+      "number": 112,
+      "date": "2026-08-25",
+      "title": "Impact Signals #112 \u2014 Microsoft's Expired Nonprofit Grant Deletes 171,000 Orgs' Files, Massachusetts Routes 79,500 Non-Emergency Calls to AI, Croatia Adds 25 Fire Cameras",
+      "headline": "Microsoft's Expired Nonprofit Grant Deletes 171,000 Orgs' Files, Massachusetts Routes 79,500 Non-Emergency Calls to AI, Croatia Adds 25 Fire Cameras",
+      "slug": "112-microsoft-s-expired-nonprofit-grant-deletes-171-000-orgs-files-massachusetts-routes-79",
+      "description": "Impact Signals #112: Microsoft's Expired Nonprofit Grant Deletes 171,000 Orgs' Files, Massachusetts Routes 79,500 Non-Emergency Calls to AI, Croatia Adds 25 Fire Cameras A donated software grant that quietly expired left about 171,000 small nonprofits with empty drives, and one venture firm says its files went months before the access date Microsoft had confirmed in writing. In western Massachusetts, Westcomm Regional Dispatch is handing its 79,500 annual non-emergency calls to an AI from Prepared while the state ACLU asks what happens when machine-written transcripts become criminal evidence. A Hertfordshire master's student's offline-first assistant is already in the hands of gender-based-violence responders in Jordan, Lebanon, Syria and Gaza; UNICEF is buying water resilience 30 villages at a time in the Citarum; Croatia's fire-camera network grew by half in a single procurement. Today the story is plumbing, not announcements: who owns the storage, who owns the transcript, who owns the camera. --- Top Stories **1. A Software Grant Quietly Expired, and 171,000 Small Nonprofits Found Their Files Already Deleted** Nitish Pahwa reported in Slate on August 18 that Microsoft retired the donated Microsoft 365 Business Premium and Office 365 E1 grants that roughly 400,000 small organisations had been running on since 2013. The phase-out began in July 2025 and the deletions landed in June 2026: about 171,000 small organisations lost the OneDrive contents attached to those licences\u2026",
+      "rss_description": "Impact Signals #112: Microsoft's Expired Nonprofit Grant Deletes 171,000 Orgs' Files, Massachusetts Routes 79,500 Non-Emergency Calls to AI, Croatia Adds 25 Fire Cameras A donated software grant that quietly expired left about 171,000 small nonprofits with empty drives, and one venture firm says its files went months before the access date Microsoft had confirmed in writing. In western Massachusetts, Westcomm Regional Dispatch is handing its 79,500 annual non-emergency calls to an AI from Prepared while the state ACLU asks what happens when machine-written transcripts become criminal evidence. A Hertfordshire master's student's offline-first assistant is already in the hands of gender-based-violence responders in Jordan, Lebanon, Syria and Gaza; UNICEF is buying water resilience 30 villages at a time in the Citarum; Croatia's fire-camera network grew by half in a single procurement. Today the story is plumbing, not announcements: who owns the storage, who owns the transcript, who owns the camera. --- Top Stories **1. A Software Grant Quietly Expired, and 171,000 Small Nonprofits Found Their Files Already Deleted** Nitish Pahwa reported in Slate on August 18 that Microsoft retired the donated Microsoft 365 Business Premium and Office 365 E1 grants that roughly 400,000 small organisations had been running on since 2013. The phase-out began in July 2025 and the deletions landed in June 2026: about 171,000 small organisations lost the OneDrive contents attached to those licences\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-112/episode-112.mp3",
+      "mp3_bytes": 9685412,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-112/impact-signal-112.mp4",
+      "mp4_bytes": 59350713,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 605,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Deadline: September 6, 2026",
+        "Region: Latin America and the Caribbean (El Salvador, Dominican Republic, Peru)",
+        "10 to 12 innovations selected in November 2026, innovation bootcamp January 2027",
+        "Apply: [innovation.wfp.org](https://innovation.wfp.org/adaptation-fund-innovation-accelerator)",
+        "Ongoing this week",
+        "A session on governing safe and responsible AI within digital public infrastructure convened August 22",
+        "The governance track most directly touching public-service AI delivery",
+        "Announced August 24"
+      ],
+      "youtube_id": "u4Hglgkcs2I",
+      "youtube_url": "https://www.youtube.com/watch?v=u4Hglgkcs2I"
     }
   ],
-  "lastEpisode": 111,
-  "lastUpdated": "2026-08-24T12:38:37.207987+00:00",
-  "lastPublicEpisode": 111,
+  "lastEpisode": 112,
+  "lastUpdated": "2026-08-25T12:36:05.869966+00:00",
+  "lastPublicEpisode": 112,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
