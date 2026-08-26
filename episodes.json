@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 113,
+  "nextEpisode": 114,
   "episodes": [
     {
       "number": 1,
@@ -3407,10 +3407,43 @@
       ],
       "youtube_id": "u4Hglgkcs2I",
       "youtube_url": "https://www.youtube.com/watch?v=u4Hglgkcs2I"
+    },
+    {
+      "number": 113,
+      "date": "2026-08-26",
+      "title": "Impact Signals #113 \u2014 A school-by-school hazard model went national today, and the point is to stop cancelling classes across whole provinces",
+      "headline": "A school-by-school hazard model went national today, and the point is to stop cancelling classes across whole provinces",
+      "slug": "113-a-school-by-school-hazard-model-went-national-today-and-the-point-is-to-stop-cancellin",
+      "description": "Impact Signals #113: A school-by-school hazard model went national today, and the point is to stop cancelling classes across whole provinces Today: A school-by-school hazard model went national today, and the point is to stop cancelling classes across whole provinces; The AI was right 99 times out of 100. Doctors stopped using it anyway, and the ER got no faster; Kenya just put a price tag on maternal-health AI: tenders opened 26 August for the modules that would follow a pregnancy end to end. --- Top Stories **1. A school-by-school hazard model went national today, and the point is to stop cancelling classes across whole provinces** Source URL: [gmanetwork.com](https://www.gmanetwork.com/news/scitech/technology/999947/deped-s-project-ligtas-aims-for-school-level-class-suspensions-resumptions/story/) The Philippine Department of Education launched Project LIGTAS+ nationally in Makati City today, 26 August, with Education Secretary Sonny Angara presiding. LIGTAS+ stands for Learning Institution Geohazard Tracking and Assessment for Safety. It was built by DepEd's Disaster Risk Reduction and Management Service with the Education Center for AI Research, and it had been running as a pilot since 8 May under the M7X Ready School Program, so today is the national rollout of a tested system rather than a first reveal. The platform combines satellite imagery, geospatial analytics, interactive multi-hazard mapping and historical hazard data to generate a risk profile for an individual\u2026",
+      "rss_description": "Impact Signals #113: A school-by-school hazard model went national today, and the point is to stop cancelling classes across whole provinces Today: A school-by-school hazard model went national today, and the point is to stop cancelling classes across whole provinces; The AI was right 99 times out of 100. Doctors stopped using it anyway, and the ER got no faster; Kenya just put a price tag on maternal-health AI: tenders opened 26 August for the modules that would follow a pregnancy end to end. --- Top Stories **1. A school-by-school hazard model went national today, and the point is to stop cancelling classes across whole provinces** Source URL: [gmanetwork.com](https://www.gmanetwork.com/news/scitech/technology/999947/deped-s-project-ligtas-aims-for-school-level-class-suspensions-resumptions/story/) The Philippine Department of Education launched Project LIGTAS+ nationally in Makati City today, 26 August, with Education Secretary Sonny Angara presiding. LIGTAS+ stands for Learning Institution Geohazard Tracking and Assessment for Safety. It was built by DepEd's Disaster Risk Reduction and Management Service with the Education Center for AI Research, and it had been running as a pilot since 8 May under the M7X Ready School Program, so today is the national rollout of a tested system rather than a first reveal. The platform combines satellite imagery, geospatial analytics, interactive multi-hazard mapping and historical hazard data to generate a risk profile for an individual\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-113/episode-113.mp3",
+      "mp3_bytes": 9395348,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-113/impact-signal-113.mp4",
+      "mp4_bytes": 56998085,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 587,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Amount: up to USD 150,000 in technical assistance support per project (technical assistance, not a cash transfer); up to 10 projects selected",
+        "Deadline: 7 October 2026",
+        "Eligibility: entities based in developing countries with an officially nominated National Designated Entity to the UNFCCC Technology Mechanism, covering government institutions, universities, research centres, NGOs and private-sector entities. Least Developed Countries and Small Island Developing States especially encouraged. This call is the Asia Pacific regional window.",
+        "Apply: [ctc-n.org](https://www.ctc-n.org/whats-happening/news/call-proposals-climate-adaptation-innovation-asia-pacific)",
+        "Apply: [ctc-n.org](https://www.ctc-n.org/sites/default/files/Instructions_AP%20Call%20for%20Proposals%20%28final%29.pdf)",
+        "Kenya Digital Health Agency, Tender DHA/ONT/02/2026-2027",
+        "Adaptation Fund Climate Innovation Accelerator, Latin America and the Caribbean window",
+        "Moderna Foundation Grant Program (United States)"
+      ],
+      "youtube_id": "wiM3n_3Yt7U",
+      "youtube_url": "https://www.youtube.com/watch?v=wiM3n_3Yt7U"
     }
   ],
-  "lastEpisode": 112,
-  "lastUpdated": "2026-08-25T12:36:05.869966+00:00",
-  "lastPublicEpisode": 112,
+  "lastEpisode": 113,
+  "lastUpdated": "2026-08-26T12:54:26.681687+00:00",
+  "lastPublicEpisode": 113,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
