@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 114,
+  "nextEpisode": 115,
   "episodes": [
     {
       "number": 1,
@@ -3440,10 +3440,43 @@
       ],
       "youtube_id": "wiM3n_3Yt7U",
       "youtube_url": "https://www.youtube.com/watch?v=wiM3n_3Yt7U"
+    },
+    {
+      "number": 114,
+      "date": "2026-08-27",
+      "title": "Impact Signals #114 \u2014 One Nepali Gauge Recorded Nine Metres in Thirty Minutes, MIT Generates the Storm That Never Happened, $16M Lands on AI Evaluation",
+      "headline": "One Nepali Gauge Recorded Nine Metres in Thirty Minutes, MIT Generates the Storm That Never Happened, $16M Lands on AI Evaluation",
+      "slug": "114-one-nepali-gauge-recorded-nine-metres-in-thirty-minutes-mit-generates-the-storm-that-n",
+      "description": "Impact Signals #114: One Nepali Gauge Recorded Nine Metres in Thirty Minutes, MIT Generates the Storm That Never Happened, $16M Lands on AI Evaluation Today is about instruments and the people who read them. In Nepal's Rasuwa district, ICIMOD's technical assessment of the Bhote Koshi flash flood found that the monitoring stations nearest the impact were destroyed by the surge they existed to measure, leaving one surviving gauge at Galchchi to record a nine-metre rise in roughly thirty minutes. MIT published a generative method in Nature Communications that produces a plausible 300-millimetre storm for New York City, a level with no match in the observational record, so planners have a defensible tail event to design against. And in a single week Anthropic and Coefficient Giving put a combined $16 million into building the evaluation layer that nobody currently owns, while Florida classified emergency management itself as a workforce-supply problem across eleven university curricula. --- Top Stories **1. Nepal: ICIMOD Finds the Bhote Koshi Early Warning System Had the Wrong Geometry, Not No Coverage** The International Centre for Integrated Mountain Development published its assessment on August 26 of the flash flood that swept Rasuwa district, Nepal. ICIMOD scientists suspect a large volume of ice and rock entered the Lhende Khola, a tributary of the Bhote Koshi on the Tibetan side roughly 20 km northeast of the Rasuwagadhi border point; the cause remains unconfirmed, and th\u2026",
+      "rss_description": "Impact Signals #114: One Nepali Gauge Recorded Nine Metres in Thirty Minutes, MIT Generates the Storm That Never Happened, $16M Lands on AI Evaluation Today is about instruments and the people who read them. In Nepal's Rasuwa district, ICIMOD's technical assessment of the Bhote Koshi flash flood found that the monitoring stations nearest the impact were destroyed by the surge they existed to measure, leaving one surviving gauge at Galchchi to record a nine-metre rise in roughly thirty minutes. MIT published a generative method in Nature Communications that produces a plausible 300-millimetre storm for New York City, a level with no match in the observational record, so planners have a defensible tail event to design against. And in a single week Anthropic and Coefficient Giving put a combined $16 million into building the evaluation layer that nobody currently owns, while Florida classified emergency management itself as a workforce-supply problem across eleven university curricula. --- Top Stories **1. Nepal: ICIMOD Finds the Bhote Koshi Early Warning System Had the Wrong Geometry, Not No Coverage** The International Centre for Integrated Mountain Development published its assessment on August 26 of the flash flood that swept Rasuwa district, Nepal. ICIMOD scientists suspect a large volume of ice and rock entered the Lhende Khola, a tributary of the Bhote Koshi on the Tibetan side roughly 20 km northeast of the Rasuwagadhi border point; the cause remains unconfirmed, and th\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-114/episode-114.mp3",
+      "mp3_bytes": 9366509,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-114/impact-signal-114.mp4",
+      "mp4_bytes": 56628139,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 585,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Amount: $5 million total programme; per-grant size not published. Includes model access and technical support alongside cash.",
+        "Deadline: September 21, 2026. Shortlisted applicants notified by October 5, 2026 and invited to submit full proposals.",
+        "Eligibility: independent research teams with relevant expertise, explicitly including clinicians, psychologists and methodologists. Outputs must be published as open-source evaluations, and grantees work independently of the funder.",
+        "Apply: [anthropic.com](https://www.anthropic.com/news/wellbeing-research-grants)",
+        "Africa Food Systems Forum, GoGettaz Agripreneur Prize Grand Finale**, Kigali, Rwanda, September 2026. US$160,000 total across two $50,000 grand prizes and four $15,000 Impact Awards. Exact dates and entry deadline are not confirmed against the organiser programme page. Verify at [gogettaz.africa](https://gogettaz.africa/2026-gogettaz-agripreneur-prize/).",
+        "Cayuga County Nonprofit Summit** (AI and leadership sessions), Cayuga County, New York, listed as October 8, 2026 per aggregator metadata and not verified against an organiser page. Registration details unconfirmed.",
+        "Adaptation Fund Climate Innovation Accelerator (AFCIA) 2026, via WFP**: surfaced August 25, deadline could not be confirmed against an Adaptation Fund or WFP page. Verify at [adaptation-fund.org](https://www.adaptation-fund.org/).",
+        "Nepal (Rasuwa district):** Bhote Koshi flash flood, onset August 26 around 09:00 local; 165 dead per NDRRMA as of August 27 and rising, 579 travellers unaccounted for per preliminary Nepal Tourism Board data, and 85 security personnel out of contact. Active search and rescue, 123 airlifted from Timure; affected areas declared disaster crisis zones by cabinet decision on August 26."
+      ],
+      "youtube_id": "5nD3en-_8wQ",
+      "youtube_url": "https://www.youtube.com/watch?v=5nD3en-_8wQ"
     }
   ],
-  "lastEpisode": 113,
-  "lastUpdated": "2026-08-26T12:54:26.681687+00:00",
-  "lastPublicEpisode": 113,
+  "lastEpisode": 114,
+  "lastUpdated": "2026-08-27T12:45:15.298824+00:00",
+  "lastPublicEpisode": 114,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
