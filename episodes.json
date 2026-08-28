@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 115,
+  "nextEpisode": 116,
   "episodes": [
     {
       "number": 1,
@@ -3473,10 +3473,43 @@
       ],
       "youtube_id": "5nD3en-_8wQ",
       "youtube_url": "https://www.youtube.com/watch?v=5nD3en-_8wQ"
+    },
+    {
+      "number": 115,
+      "date": "2026-08-28",
+      "title": "Impact Signals #115 \u2014 ARPA-H Bets $175M on Stroke Robots, Four States Test EBT Fraud Blocking, Japan Dates AI 119 Calls to 2030",
+      "headline": "ARPA-H Bets $175M on Stroke Robots, Four States Test EBT Fraud Blocking, Japan Dates AI 119 Calls to 2030",
+      "slug": "115-arpa-h-bets-175m-on-stroke-robots-four-states-test-ebt-fraud-blocking-japan-dates-ai-1",
+      "description": "Impact Signals #115: ARPA-H Bets $175M on Stroke Robots, Four States Test EBT Fraud Blocking, Japan Dates AI 119 Calls to 2030 The Advanced Research Projects Agency for Health put up to $175.3 million behind AI-enabled robotic thrombectomy on August 21, aimed at the 88 percent of eligible US stroke patients who never get the clot pulled in time. The Aspen Institute began piloting bank-style real-time transaction blocking inside the EBT authorization flow with four state benefits agencies, after $607 million in food benefits was skimmed off cards in a single year. And Japan's Fire and Disaster Management Agency published a roadmap that puts AI inside the 119 emergency call, with automated response written in for 2030. Today the money and the machinery both move inside rich-country public systems, and each of the three arrives with a date attached that the agency can be held to. --- Top Stories **1. ARPA-H Commits Up to $175.3M to AI-Enabled Stroke Robots, Targeting the 88 Percent Who Never Get a Thrombectomy** The Advanced Research Projects Agency for Health announced on August 21 that it is putting up to $175.3 million over five years into its Autonomous Interventions and Robotics program, led by Ileana Hancu, to build AI-enabled robotic systems for mechanical thrombectomy. Philips North America drew up to $33.7 million, Siemens Healthineers up to $31.1 million plus a $5.4 million company contribution, and Magnendo up to $32 million, with the remainder split between an MIT s\u2026",
+      "rss_description": "Impact Signals #115: ARPA-H Bets $175M on Stroke Robots, Four States Test EBT Fraud Blocking, Japan Dates AI 119 Calls to 2030 The Advanced Research Projects Agency for Health put up to $175.3 million behind AI-enabled robotic thrombectomy on August 21, aimed at the 88 percent of eligible US stroke patients who never get the clot pulled in time. The Aspen Institute began piloting bank-style real-time transaction blocking inside the EBT authorization flow with four state benefits agencies, after $607 million in food benefits was skimmed off cards in a single year. And Japan's Fire and Disaster Management Agency published a roadmap that puts AI inside the 119 emergency call, with automated response written in for 2030. Today the money and the machinery both move inside rich-country public systems, and each of the three arrives with a date attached that the agency can be held to. --- Top Stories **1. ARPA-H Commits Up to $175.3M to AI-Enabled Stroke Robots, Targeting the 88 Percent Who Never Get a Thrombectomy** The Advanced Research Projects Agency for Health announced on August 21 that it is putting up to $175.3 million over five years into its Autonomous Interventions and Robotics program, led by Ileana Hancu, to build AI-enabled robotic systems for mechanical thrombectomy. Philips North America drew up to $33.7 million, Siemens Healthineers up to $31.1 million plus a $5.4 million company contribution, and Magnendo up to $32 million, with the remainder split between an MIT s\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-115/episode-115.mp3",
+      "mp3_bytes": 9514884,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-115/impact-signal-115.mp4",
+      "mp4_bytes": 56385745,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 594,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Amount: up to USD 150,000 in technical assistance per project",
+        "Deadline: 6 September 2026, 23:59 UTC",
+        "Eligibility: legally registered entities (for-profit, non-profit, social business, NGO or INGO) with a presence or willingness to build one in the Dominican Republic, El Salvador or Peru",
+        "Themes include climate-smart agriculture, early warning systems, climate information, disaster risk management, water management, climate-risk financing and post-harvest losses; 10 to 12 candidates are selected in November 2026 with an Innovation Bootcamp in January 2027",
+        "Apply: [innovation.wfp.org](https://innovation.wfp.org/adaptation-fund-innovation-accelerator)",
+        "Cayuga County Nonprofit Summit** (reported August 26 by Finger Lakes Daily News): returning October 8, 2026 with AI and leadership sessions. Registration page not confirmed.",
+        "Youth Climate Action Fund, Australia** (surfaced August 27 via fundsforNGOs): funder page and deadline not independently confirmed.",
+        "Disability-Inclusive Disaster Risk Reduction Technical Assistance, India** (surfaced August 26 via fundsforNGOs): issuing body and deadline not independently confirmed."
+      ],
+      "youtube_id": "h4XESHa1egA",
+      "youtube_url": "https://www.youtube.com/watch?v=h4XESHa1egA"
     }
   ],
-  "lastEpisode": 114,
-  "lastUpdated": "2026-08-27T12:45:15.298824+00:00",
-  "lastPublicEpisode": 114,
+  "lastEpisode": 115,
+  "lastUpdated": "2026-08-28T12:45:41.824082+00:00",
+  "lastPublicEpisode": 115,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
