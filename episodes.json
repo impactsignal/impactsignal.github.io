@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 116,
+  "nextEpisode": 117,
   "episodes": [
     {
       "number": 1,
@@ -3506,10 +3506,43 @@
       ],
       "youtube_id": "h4XESHa1egA",
       "youtube_url": "https://www.youtube.com/watch?v=h4XESHa1egA"
+    },
+    {
+      "number": 116,
+      "date": "2026-08-29",
+      "title": "Impact Signals #116 \u2014 Britain's Disabled Students' Allowance Escape Hatch Has Approved Nobody, WHO Africa's 47-Country Health Data Hub, MeteoSwiss Hands Thunderstorm Warnings to a Deep Learning Model",
+      "headline": "Britain's Disabled Students' Allowance Escape Hatch Has Approved Nobody, WHO Africa's 47-Country Health Data Hub, MeteoSwiss Hands Thunderstorm Warnings to a Deep Learning Model",
+      "slug": "116-britain-s-disabled-students-allowance-escape-hatch-has-approved-nobody-who-africa-s-47",
+      "description": "Impact Signals #116: Britain's Disabled Students' Allowance Escape Hatch Has Approved Nobody, WHO Africa's 47-Country Health Data Hub, MeteoSwiss Hands Thunderstorm Warnings to a Deep Learning Model The British Assistive Technology Association filed Freedom of Information requests on the exceptions route attached to Britain's plan to stop funding specialist assistive software, and found it has approved zero applications in sixteen months. In the same week, three governments put new AI in front of the public: the WHO Regional Office for Africa opened a Regional Health Data Hub shared by all 47 member states, MeteoSwiss began issuing thunderstorm warnings from a deep learning model for the first time, and the US Department of Veterans Affairs shipped a large-language-model helpdesk in beta on its Contact Us page. Today's through-line is who gets to keep their assistive software, and on what evidence: one government is retiring funded specialist provision on the argument that a general model now covers it, while the others are shipping public-facing systems with their limits stated up front. --- Top Stories **1. Britain's Plan to Swap Disabled Students' Specialist Software for Mainstream AI Has an Escape Hatch That Has Approved Nobody in Sixteen Months** The Department for Education said in June 2026 that it intends to stop funding specialist assistive software through the Disabled Students' Allowance except in \"exceptional circumstances\", on the reasoning that free mass-market\u2026",
+      "rss_description": "Impact Signals #116: Britain's Disabled Students' Allowance Escape Hatch Has Approved Nobody, WHO Africa's 47-Country Health Data Hub, MeteoSwiss Hands Thunderstorm Warnings to a Deep Learning Model The British Assistive Technology Association filed Freedom of Information requests on the exceptions route attached to Britain's plan to stop funding specialist assistive software, and found it has approved zero applications in sixteen months. In the same week, three governments put new AI in front of the public: the WHO Regional Office for Africa opened a Regional Health Data Hub shared by all 47 member states, MeteoSwiss began issuing thunderstorm warnings from a deep learning model for the first time, and the US Department of Veterans Affairs shipped a large-language-model helpdesk in beta on its Contact Us page. Today's through-line is who gets to keep their assistive software, and on what evidence: one government is retiring funded specialist provision on the argument that a general model now covers it, while the others are shipping public-facing systems with their limits stated up front. --- Top Stories **1. Britain's Plan to Swap Disabled Students' Specialist Software for Mainstream AI Has an Escape Hatch That Has Approved Nobody in Sixteen Months** The Department for Education said in June 2026 that it intends to stop funding specialist assistive software through the Disabled Students' Allowance except in \"exceptional circumstances\", on the reasoning that free mass-market\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-116/episode-116.mp3",
+      "mp3_bytes": 10130956,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-116/impact-signal-116.mp4",
+      "mp4_bytes": 61510037,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 633,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Amount: 42,000 euros per organisation",
+        "Deadline: September 23, 2026, 13:00 CAT",
+        "Eligibility: Youth-led nonprofit organisations in Ethiopia, Kenya, Mozambique, Nigeria, Senegal, Sierra Leone, the Somaliland region of Somalia, Tanzania, Tunisia, Uganda, Zambia, and Zimbabwe",
+        "Implementation runs 12 months, January to December 2027",
+        "Apply: [aueuyouth.com](https://aueuyouth.com/innovation-grants/)",
+        "Saturday, September 12, 2026, 10:00 to 14:00",
+        "Location: Brecknock County Park, 80 Old Camden Road, Camden, Delaware",
+        "Free public event, no registration deadline; more than 40 public safety agencies, nonprofits, and community partners attending, and the 2026 edition marks the 25th anniversary of September 11"
+      ],
+      "youtube_id": "3qBwaTL-3aE",
+      "youtube_url": "https://www.youtube.com/watch?v=3qBwaTL-3aE"
     }
   ],
-  "lastEpisode": 115,
-  "lastUpdated": "2026-08-28T12:45:41.824082+00:00",
-  "lastPublicEpisode": 115,
+  "lastEpisode": 116,
+  "lastUpdated": "2026-08-29T12:41:46.552828+00:00",
+  "lastPublicEpisode": 116,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
