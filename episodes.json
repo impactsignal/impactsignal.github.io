@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 118,
+  "nextEpisode": 119,
   "episodes": [
     {
       "number": 1,
@@ -3572,10 +3572,43 @@
       ],
       "youtube_id": "QY5C_JNHGWo",
       "youtube_url": "https://www.youtube.com/watch?v=QY5C_JNHGWo"
+    },
+    {
+      "number": 118,
+      "date": "2026-08-31",
+      "title": "Impact Signals #118 \u2014 Opioid Settlement Cash Bought AI Plate Readers, Punjab Pilots a Ten-Disease CT Scanner, Lesotho Puts Every Farmer in One Registry",
+      "headline": "Opioid Settlement Cash Bought AI Plate Readers, Punjab Pilots a Ten-Disease CT Scanner, Lesotho Puts Every Farmer in One Registry",
+      "slug": "118-opioid-settlement-cash-bought-ai-plate-readers-punjab-pilots-a-ten-disease-ct-scanner",
+      "description": "Impact Signals #118: Opioid Settlement Cash Bought AI Plate Readers, Punjab Pilots a Ten-Disease CT Scanner, Lesotho Puts Every Farmer in One Registry Mother Jones traced more than 920,000 dollars of opioid settlement money to AI license plate readers bought by 19 police agencies across 10 states, including a town with one of Washington's highest overdose death rates and no detox centre. On the same day, Punjab's chief minister approved a pilot of an AI multi-disease CT screening tool after an Alibaba Cloud briefing, and Lesotho's agriculture ministry moved farmer records out of paper files and district spreadsheets into a single national registry. San Jose published a shelter dashboard that names the county data boundary keeping its own outcome numbers unreportable, and a Vancouver wildfire-sensor company bought its ground-sensor rival to reach 300 million acres of coverage. Today's through-line is money and who it actually reaches: the registries, dashboards and procurement lines that decide whether public spending lands on a person or a camera. --- Top Stories **1. Nineteen Police Agencies in Ten States Bought AI Plate Readers With Opioid Settlement Money** Mother Jones traced opioid settlement spending to automated license plate readers and found 19 law enforcement agencies across 10 states that put more than 920,000 dollars of settlement money into AI camera systems from vendors including Flock and Axon. The settlements total more than 50 billion dollars paid by pharmac\u2026",
+      "rss_description": "Impact Signals #118: Opioid Settlement Cash Bought AI Plate Readers, Punjab Pilots a Ten-Disease CT Scanner, Lesotho Puts Every Farmer in One Registry Mother Jones traced more than 920,000 dollars of opioid settlement money to AI license plate readers bought by 19 police agencies across 10 states, including a town with one of Washington's highest overdose death rates and no detox centre. On the same day, Punjab's chief minister approved a pilot of an AI multi-disease CT screening tool after an Alibaba Cloud briefing, and Lesotho's agriculture ministry moved farmer records out of paper files and district spreadsheets into a single national registry. San Jose published a shelter dashboard that names the county data boundary keeping its own outcome numbers unreportable, and a Vancouver wildfire-sensor company bought its ground-sensor rival to reach 300 million acres of coverage. Today's through-line is money and who it actually reaches: the registries, dashboards and procurement lines that decide whether public spending lands on a person or a camera. --- Top Stories **1. Nineteen Police Agencies in Ten States Bought AI Plate Readers With Opioid Settlement Money** Mother Jones traced opioid settlement spending to automated license plate readers and found 19 law enforcement agencies across 10 states that put more than 920,000 dollars of settlement money into AI camera systems from vendors including Flock and Axon. The settlements total more than 50 billion dollars paid by pharmac\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-118/episode-118.mp3",
+      "mp3_bytes": 8793069,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-118/impact-signal-118.mp4",
+      "mp4_bytes": 54611327,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 549,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Amount: fully funded nine-month training and certification pathway (GIAC AI Platform Security and GIAC AI Security Automation Engineer)",
+        "Deadline: September 10, 2026, 12:00 PM WAT",
+        "Eligibility: African women over 21, English-speaking, resident in an African country, at least three years of hands-on cybersecurity experience; no prior AI experience required",
+        "Programme dates: selection feedback September 30, 2026; orientation October 21, 2026; training begins October 26, 2026; completion July 30, 2027",
+        "Apply: [cybersafefoundation.org](https://cybersafefoundation.org/our-programs/cybersafe-sans-ai-security-fellowship/)",
+        "Nepal and Tibet:** Bhote Koshi glacial flood, onset August 26, ongoing. GDACS Orange flood alert with 527 deaths in the GDACS record as of its August 28 update; news reporting through August 31 puts the toll higher, in the 700 to 900 range with thousands still listed missing, figures attributed to Nepali authorities and not confirmed on a primary page. Search and rescue continues, including workers trapped in hydropower tunnels; fresh flood alerts were issued as Bhote Koshi flow rose again on August 30. Source: [gdacs.org](https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104124).",
+        "India:** Flooding, onset August 9, ongoing. GDACS Orange flood alert; 20 deaths and 240,570 displaced in the GDACS record as of its August 30 update. Source: [gdacs.org](https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104121).",
+        "China:** M5.0 earthquake, August 28, 05:13 UTC, depth 10 km. GDACS Orange alert; 15.8 million people within 100 km. Ongoing GDACS monitoring. Source: [gdacs.org](https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1562260)."
+      ],
+      "youtube_id": "Vyzdqi1C-wQ",
+      "youtube_url": "https://www.youtube.com/watch?v=Vyzdqi1C-wQ"
     }
   ],
-  "lastEpisode": 117,
-  "lastUpdated": "2026-08-30T14:36:34.787901+00:00",
-  "lastPublicEpisode": 117,
+  "lastEpisode": 118,
+  "lastUpdated": "2026-08-31T12:39:30.013760+00:00",
+  "lastPublicEpisode": 118,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
