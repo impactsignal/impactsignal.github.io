@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 119,
+  "nextEpisode": 120,
   "episodes": [
     {
       "number": 1,
@@ -3605,10 +3605,43 @@
       ],
       "youtube_id": "Vyzdqi1C-wQ",
       "youtube_url": "https://www.youtube.com/watch?v=Vyzdqi1C-wQ"
+    },
+    {
+      "number": 119,
+      "date": "2026-09-02",
+      "title": "Impact Signals #119 \u2014 GiveDirectly's AI Flood Cash Missed the Farmers Who Could Not Charge a Phone, Microsoft Puts 5 Million Dollars Behind California's Wildfire Cameras, Sikkim Wires Its 16 Most Dangerous Glacial Lakes",
+      "headline": "GiveDirectly's AI Flood Cash Missed the Farmers Who Could Not Charge a Phone, Microsoft Puts 5 Million Dollars Behind California's Wildfire Cameras, Sikkim Wires Its 16 Most Dangerous Glacial Lakes",
+      "slug": "119-givedirectly-s-ai-flood-cash-missed-the-farmers-who-could-not-charge-a-phone-microsoft",
+      "description": "Impact Signals #119: GiveDirectly's AI Flood Cash Missed the Farmers Who Could Not Charge a Phone, Microsoft Puts 5 Million Dollars Behind California's Wildfire Cameras, Sikkim Wires Its 16 Most Dangerous Glacial Lakes The New Humanitarian went to Ibaji, on Nigeria's Niger and Benue floodplains, to find out who GiveDirectly's forecast-triggered cash pilot actually paid, and found that the flood model held while the phone-based enrolment and exact-match identity checks cut out farmers who could not afford a charging hub or whose names did not match a bank record; GiveDirectly has since corrected its reach from 4,600 households to 4,600 individuals. On the same run, Microsoft disclosed a 5 million dollar package for ALERTCalifornia's 1,300-camera wildfire network, Coefficient Giving raised its 2026 global-health commitment from 175 million dollars to 1 billion on the expectation of AI-company liquidity, Yokosuka ran an earthquake scenario twice with and without generative AI in its disaster headquarters, and Sikkim put water-level probes on the 16 glacial lakes India rates most dangerous. Today's signal is the plumbing: the enrolment layers, cloud credit, controlled trials and sensors that decide whether a model's output ever reaches a person. --- Top Stories **1. GiveDirectly's AI Flood Cash Reached 4,600 People in Ibaji; The Farmers It Missed Could Not Keep a Phone Charged** In 2024 GiveDirectly and the International Rescue Committee received a 4.6 million dollar Google.org\u2026",
+      "rss_description": "Impact Signals #119: GiveDirectly's AI Flood Cash Missed the Farmers Who Could Not Charge a Phone, Microsoft Puts 5 Million Dollars Behind California's Wildfire Cameras, Sikkim Wires Its 16 Most Dangerous Glacial Lakes The New Humanitarian went to Ibaji, on Nigeria's Niger and Benue floodplains, to find out who GiveDirectly's forecast-triggered cash pilot actually paid, and found that the flood model held while the phone-based enrolment and exact-match identity checks cut out farmers who could not afford a charging hub or whose names did not match a bank record; GiveDirectly has since corrected its reach from 4,600 households to 4,600 individuals. On the same run, Microsoft disclosed a 5 million dollar package for ALERTCalifornia's 1,300-camera wildfire network, Coefficient Giving raised its 2026 global-health commitment from 175 million dollars to 1 billion on the expectation of AI-company liquidity, Yokosuka ran an earthquake scenario twice with and without generative AI in its disaster headquarters, and Sikkim put water-level probes on the 16 glacial lakes India rates most dangerous. Today's signal is the plumbing: the enrolment layers, cloud credit, controlled trials and sensors that decide whether a model's output ever reaches a person. --- Top Stories **1. GiveDirectly's AI Flood Cash Reached 4,600 People in Ibaji; The Farmers It Missed Could Not Keep a Phone Charged** In 2024 GiveDirectly and the International Rescue Committee received a 4.6 million dollar Google.org\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-119/episode-119.mp3",
+      "mp3_bytes": 12089513,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-119/impact-signal-119.mp4",
+      "mp4_bytes": 71573563,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 755,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Amount: fully funded nine-month training and certification pathway (SANS OnDemand courses, GIAC AI Platform Security and GIAC AI Security Automation Engineer); no tuition cost to fellows",
+        "Deadline: September 10, 2026, 12:00 PM WAT",
+        "Eligibility: women over 21, resident in an African country, English-speaking, at least three years of hands-on cybersecurity experience, able to commit to the full programme",
+        "Programme dates: selection notifications September 30, 2026; orientation October 21, 2026; training begins October 26, 2026; completion July 30, 2027",
+        "Apply: [cybersafefoundation.org](https://cybersafefoundation.org/our-programs/cybersafe-sans-ai-security-fellowship/)",
+        "October 26 to 29, 2026 in person; November 3, 2026 virtual programme, with main-stage sessions broadcast live from Amsterdam October 27 to 29",
+        "Location: Amsterdam, and virtual",
+        "The annual convening of the NetHope nonprofit-technology consortium; registration deadline not stated on the organiser page"
+      ],
+      "youtube_id": "eCl1STwQ2MM",
+      "youtube_url": "https://www.youtube.com/watch?v=eCl1STwQ2MM"
     }
   ],
-  "lastEpisode": 118,
-  "lastUpdated": "2026-08-31T12:39:30.013760+00:00",
-  "lastPublicEpisode": 118,
+  "lastEpisode": 119,
+  "lastUpdated": "2026-09-02T12:54:46.630834+00:00",
+  "lastPublicEpisode": 119,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
