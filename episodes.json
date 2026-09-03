@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 120,
+  "nextEpisode": 121,
   "episodes": [
     {
       "number": 1,
@@ -3638,10 +3638,43 @@
       ],
       "youtube_id": "eCl1STwQ2MM",
       "youtube_url": "https://www.youtube.com/watch?v=eCl1STwQ2MM"
+    },
+    {
+      "number": 120,
+      "date": "2026-09-03",
+      "title": "Impact Signals #120 \u2014 New York City Pulls Generative AI From 600,000 Classrooms, Satellites Saw Nepal's Glacier Moving for Weeks, Indonesian Red Cross Launches an AI Preparedness Coach",
+      "headline": "New York City Pulls Generative AI From 600,000 Classrooms, Satellites Saw Nepal's Glacier Moving for Weeks, Indonesian Red Cross Launches an AI Preparedness Coach",
+      "slug": "120-new-york-city-pulls-generative-ai-from-600-000-classrooms-satellites-saw-nepal-s-glaci",
+      "description": "Impact Signals #120: New York City Pulls Generative AI From 600,000 Classrooms, Satellites Saw Nepal's Glacier Moving for Weeks, Indonesian Red Cross Launches an AI Preparedness Coach New York City, the largest school district in the United States, put a one-year moratorium on student-facing generative AI for 600,000 children through eighth grade, keeping only assistive technology and multilingual-learner tools. In Nepal, Sentinel-1 radar processed at Virginia Tech shows the Bhote Koshi glacier mass had been creeping for eight months before the 26 August collapse, while The Kathmandu Post's reconstruction puts the first text alert 38 minutes after the mountain gave way. In Banyuwangi, the Indonesian Red Cross began a six-month pilot of an AI coach grounded in its own village vulnerability assessments, and Nebraska took a DMV chatbot statewide on published pilot numbers. Today's signal is large public systems drawing hard lines on where AI belongs, and the record of what happens when the line comes too late. --- Top Stories **1. New York City Pulls Student-Facing Generative AI Out of Every Classroom Through Eighth Grade for 600,000 Children** New York City Mayor Zohran Mamdani and Schools Chancellor Kamar Samuels announced on September 2, 2026 a one-year moratorium on all student-facing generative AI software for grades 2-K through 8 in New York City Public Schools, the largest district in the United States. The city puts the affected population at about 600,000 students, rou\u2026",
+      "rss_description": "Impact Signals #120: New York City Pulls Generative AI From 600,000 Classrooms, Satellites Saw Nepal's Glacier Moving for Weeks, Indonesian Red Cross Launches an AI Preparedness Coach New York City, the largest school district in the United States, put a one-year moratorium on student-facing generative AI for 600,000 children through eighth grade, keeping only assistive technology and multilingual-learner tools. In Nepal, Sentinel-1 radar processed at Virginia Tech shows the Bhote Koshi glacier mass had been creeping for eight months before the 26 August collapse, while The Kathmandu Post's reconstruction puts the first text alert 38 minutes after the mountain gave way. In Banyuwangi, the Indonesian Red Cross began a six-month pilot of an AI coach grounded in its own village vulnerability assessments, and Nebraska took a DMV chatbot statewide on published pilot numbers. Today's signal is large public systems drawing hard lines on where AI belongs, and the record of what happens when the line comes too late. --- Top Stories **1. New York City Pulls Student-Facing Generative AI Out of Every Classroom Through Eighth Grade for 600,000 Children** New York City Mayor Zohran Mamdani and Schools Chancellor Kamar Samuels announced on September 2, 2026 a one-year moratorium on all student-facing generative AI software for grades 2-K through 8 in New York City Public Schools, the largest district in the United States. The city puts the affected population at about 600,000 students, rou\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-120/episode-120.mp3",
+      "mp3_bytes": 9437562,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-120/impact-signal-120.mp4",
+      "mp4_bytes": 58860146,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 589,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "October 7-10, 2026",
+        "Location: University of Colorado Boulder, USA",
+        "The IEEE flagship for engineering and technology applied to humanitarian challenges; registration is open",
+        "Register: [ieeeghtc.org](https://ieeeghtc.org/)",
+        "October 26-28, 2026",
+        "Location: Bangkok, Thailand",
+        "Asia-Pacific counterpart to GHTC; registration details on the conference site",
+        "Register: [attend.ieee.org](https://attend.ieee.org/r10-htc/)"
+      ],
+      "youtube_id": "WJ5b9jON0Fk",
+      "youtube_url": "https://www.youtube.com/watch?v=WJ5b9jON0Fk"
     }
   ],
-  "lastEpisode": 119,
-  "lastUpdated": "2026-09-02T12:54:46.630834+00:00",
-  "lastPublicEpisode": 119,
+  "lastEpisode": 120,
+  "lastUpdated": "2026-09-03T13:01:10.492048+00:00",
+  "lastPublicEpisode": 120,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
