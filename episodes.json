@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 121,
+  "nextEpisode": 122,
   "episodes": [
     {
       "number": 1,
@@ -3671,10 +3671,43 @@
       ],
       "youtube_id": "WJ5b9jON0Fk",
       "youtube_url": "https://www.youtube.com/watch?v=WJ5b9jON0Fk"
+    },
+    {
+      "number": 121,
+      "date": "2026-09-04",
+      "title": "Impact Signals #121 \u2014 FDA Lets AI Medical Devices Treat Patients Before Full Sign-Off, UKHSA Hears a Flu Wave Coming From Sleep-App Coughs, Jonesboro PD Names Its AI Dispatcher After the Woman Whose Job It Now Does",
+      "headline": "FDA Lets AI Medical Devices Treat Patients Before Full Sign-Off, UKHSA Hears a Flu Wave Coming From Sleep-App Coughs, Jonesboro PD Names Its AI Dispatcher After the Woman Whose Job It Now Does",
+      "slug": "121-fda-lets-ai-medical-devices-treat-patients-before-full-sign-off-ukhsa-hears-a-flu-wave",
+      "description": "Impact Signals #121: FDA Lets AI Medical Devices Treat Patients Before Full Sign-Off, UKHSA Hears a Flu Wave Coming From Sleep-App Coughs, Jonesboro PD Names Its AI Dispatcher After the Woman Whose Job It Now Does Today: the FDA's new TEMPO pilot lets four companies \u2014 Cadence, Limbic, Dexcom, and SonderMind \u2014 put generative-AI medical devices in front of patients ahead of full marketing authorization, in exchange for real-world performance data; the UK Health Security Agency and Sleep Cycle show that aggregated nighttime-cough data from a sleep app tracks a week ahead of official flu and COVID-19 indicators; and the Jonesboro, Arkansas police department tests an AI non-emergency dispatcher, Lezle, named for the longtime human dispatcher it's modeled on. The through-line: AI is moving into the machinery public institutions use to decide who gets care, and how fast. --- Top Stories **1. FDA's TEMPO Pilot Lets AI Medical Devices Reach Patients Before Full Authorization** The FDA's new TEMPO pilot admits a first cohort of four companies \u2014 Cadence, Limbic, Dexcom, and SonderMind \u2014 whose generative-AI-enabled medical devices can reach patients under a provisional pathway, without full marketing authorization, as long as the companies feed real-world performance data back to regulators. The pilot is explicitly built to expand the pool of technologies eligible for the Medicare ACCESS model, the federal government's program paying providers to use tools that help beneficiaries manage\u2026",
+      "rss_description": "Impact Signals #121: FDA Lets AI Medical Devices Treat Patients Before Full Sign-Off, UKHSA Hears a Flu Wave Coming From Sleep-App Coughs, Jonesboro PD Names Its AI Dispatcher After the Woman Whose Job It Now Does Today: the FDA's new TEMPO pilot lets four companies \u2014 Cadence, Limbic, Dexcom, and SonderMind \u2014 put generative-AI medical devices in front of patients ahead of full marketing authorization, in exchange for real-world performance data; the UK Health Security Agency and Sleep Cycle show that aggregated nighttime-cough data from a sleep app tracks a week ahead of official flu and COVID-19 indicators; and the Jonesboro, Arkansas police department tests an AI non-emergency dispatcher, Lezle, named for the longtime human dispatcher it's modeled on. The through-line: AI is moving into the machinery public institutions use to decide who gets care, and how fast. --- Top Stories **1. FDA's TEMPO Pilot Lets AI Medical Devices Reach Patients Before Full Authorization** The FDA's new TEMPO pilot admits a first cohort of four companies \u2014 Cadence, Limbic, Dexcom, and SonderMind \u2014 whose generative-AI-enabled medical devices can reach patients under a provisional pathway, without full marketing authorization, as long as the companies feed real-world performance data back to regulators. The pilot is explicitly built to expand the pool of technologies eligible for the Medicare ACCESS model, the federal government's program paying providers to use tools that help beneficiaries manage\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-121/episode-121.mp3",
+      "mp3_bytes": 5803825,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-121/impact-signal-121.mp4",
+      "mp4_bytes": 36459612,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 362,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Fall 2027 (exact dates not yet announced)",
+        "Location: Sendai City, Japan",
+        "The region's flagship disaster-risk-reduction conference; host announcement came today",
+        "Register: [apmcdrr.undrr.org](https://apmcdrr.undrr.org/)",
+        "Nepal (Bhote Koshi/Rasuwa flash flood and glacial lake outburst):** Death toll reached 1,259 as of September 3, with several thousand still unaccounted for and an estimated $2.56 billion in flood losses. Nepali security forces continue search and recovery; the government is rebuilding the China-border early-warning system that gave only a 38-minute notice. China, Singapore, and the UN are providing relief support. GDACS Red flood alert, ongoing since August 26.",
+        "Note: only major or ongoing-major disasters are featured; low-severity alerts are excluded per the major-only bar.",
+        "[statnews.com](https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/)",
+        "[fda.gov](https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices)"
+      ],
+      "youtube_id": "y8-RemN2ZlA",
+      "youtube_url": "https://www.youtube.com/watch?v=y8-RemN2ZlA"
     }
   ],
-  "lastEpisode": 120,
-  "lastUpdated": "2026-09-03T13:01:10.492048+00:00",
-  "lastPublicEpisode": 120,
+  "lastEpisode": 121,
+  "lastUpdated": "2026-09-04T12:36:49.917771+00:00",
+  "lastPublicEpisode": 121,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
