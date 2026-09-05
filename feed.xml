@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#121: FDA Lets AI Medical Devices Treat Patients Before Full Sign-Off, UKHSA Hears a Flu Wave Coming From Sleep-App Coughs, Jonesboro PD Names Its AI Dispatcher After the Woman Whose Job It Now Does</title>
+      <title>#122: Colombia's Volunteer AI Aid Map, Philippines Mandates School Hazard AI, Chicago Tops Climate Ranking</title>
       <description />
+      <link>https://impactsignals.ai/episodes/122-colombia-s-volunteer-ai-aid-map-philippines-mandates-school-hazard-ai-chicago-tops-cli/</link>
+      <guid isPermaLink="false">impact-signal-122</guid>
+      <pubDate>Sat, 05 Sep 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-122/episode-122.mp3" length="4688292" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#121: FDA Lets AI Medical Devices Treat Patients Before Full Sign-Off, UKHSA Hears a Flu Wave Coming From Sleep-App Coughs, Jonesboro PD Names Its AI Dispatcher After the Woman Whose Job It Now Does</title>
+      <description>Impact Signals #121: FDA Lets AI Medical Devices Treat Patients Before Full Sign-Off, UKHSA Hears a Flu Wave Coming From Sleep-App Coughs, Jonesboro PD Names Its AI Dispatcher After the Woman Whose Job It Now Does Today: the FDA's new TEMPO pilot lets four companies — Cadence, Limbic, Dexcom, and SonderMind — put generative-AI medical devices in front of patients ahead of full marketing authorization, in exchange for real-world performance data; the UK Health Security Agency and Sleep Cycle show that aggregated nighttime-cough data from a sleep app tracks a week ahead of official flu and COVID-19 indicators; and the Jonesboro, Arkansas police department tests an AI non-emergency dispatcher, Lezle, named for the longtime human dispatcher it's modeled on. The through-line: AI is moving into the machinery public institutions use to decide who gets care, and how fast. --- Top Stories **1. FDA's TEMPO Pilot Lets AI Medical Devices Reach Patients Before Full Authorization** The FDA's new TEMPO pilot admits a first cohort of four companies — Cadence, Limbic, Dexcom, and SonderMind — whose generative-AI-enabled medical devices can reach patients under a provisional pathway, without full marketing authorization, as long as the companies feed real-world performance data back to regulators. The pilot is explicitly built to expand the pool of technologies eligible for the Medicare ACCESS model, the federal government's program paying providers to use tools that help beneficiaries manage…</description>
       <link>https://impactsignals.ai/episodes/121-fda-lets-ai-medical-devices-treat-patients-before-full-sign-off-ukhsa-hears-a-flu-wave/</link>
       <guid isPermaLink="false">impact-signal-121</guid>
       <pubDate>Fri, 04 Sep 2026 14:00:00 +0000</pubDate>

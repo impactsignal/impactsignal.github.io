@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 122,
+  "nextEpisode": 123,
   "episodes": [
     {
       "number": 1,
@@ -3704,10 +3704,43 @@
       ],
       "youtube_id": "y8-RemN2ZlA",
       "youtube_url": "https://www.youtube.com/watch?v=y8-RemN2ZlA"
+    },
+    {
+      "number": 122,
+      "date": "2026-09-05",
+      "title": "Impact Signals #122 \u2014 Colombia's Volunteer AI Aid Map, Philippines Mandates School Hazard AI, Chicago Tops Climate Ranking",
+      "headline": "Colombia's Volunteer AI Aid Map, Philippines Mandates School Hazard AI, Chicago Tops Climate Ranking",
+      "slug": "122-colombia-s-volunteer-ai-aid-map-philippines-mandates-school-hazard-ai-chicago-tops-cli",
+      "description": "Impact Signals #122: Colombia's Volunteer AI Aid Map, Philippines Mandates School Hazard AI, Chicago Tops Climate Ranking After a magnitude-7.4 earthquake left more than 1.5 million Colombians without water, power or cell service, tech volunteers built and launched an AI-powered aid-matching site \u2014 first called Ayudas Pereira, now alluda.online \u2014 before any government platform existed. In the Philippines, Education Secretary Sonny Angara has made the AI hazard tool LIGTAS+ mandatory for every public school's disaster decisions, turning a report that once took hours into a five-minute trigger for class suspensions nationwide. Elsewhere, a geospatial-AI ranking from AlphaGeo puts Chicago atop 72 global cities on climate-disaster preparedness, with Ahmedabad last and Phoenix flagged as the highest-risk U.S. city. Today's signal: when disaster tech works, it's usually built fast by the people closest to the damage, not the system that was supposed to be ready. --- Top Stories **1. After Colombia's Earthquake, Volunteers Built an AI Aid Map Before the Government Did** A magnitude-7.4 earthquake knocked out water, power and cell signal for more than 1.5 million people in Colombia. Civilians opened ad hoc donation points in homes, cafes, churches, gyms and a brewery, but supply matching turned chaotic \u2014 sites with food had no water, sites with water had no clothes, and on one day everyone needed underwear. Tech volunteers built a site, first called Ayudas Pereira and later renamed\u2026",
+      "rss_description": "Impact Signals #122: Colombia's Volunteer AI Aid Map, Philippines Mandates School Hazard AI, Chicago Tops Climate Ranking After a magnitude-7.4 earthquake left more than 1.5 million Colombians without water, power or cell service, tech volunteers built and launched an AI-powered aid-matching site \u2014 first called Ayudas Pereira, now alluda.online \u2014 before any government platform existed. In the Philippines, Education Secretary Sonny Angara has made the AI hazard tool LIGTAS+ mandatory for every public school's disaster decisions, turning a report that once took hours into a five-minute trigger for class suspensions nationwide. Elsewhere, a geospatial-AI ranking from AlphaGeo puts Chicago atop 72 global cities on climate-disaster preparedness, with Ahmedabad last and Phoenix flagged as the highest-risk U.S. city. Today's signal: when disaster tech works, it's usually built fast by the people closest to the damage, not the system that was supposed to be ready. --- Top Stories **1. After Colombia's Earthquake, Volunteers Built an AI Aid Map Before the Government Did** A magnitude-7.4 earthquake knocked out water, power and cell signal for more than 1.5 million people in Colombia. Civilians opened ad hoc donation points in homes, cafes, churches, gyms and a brewery, but supply matching turned chaotic \u2014 sites with food had no water, sites with water had no clothes, and on one day everyone needed underwear. Tech volunteers built a site, first called Ayudas Pereira and later renamed\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-122/episode-122.mp3",
+      "mp3_bytes": 4688292,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-122/impact-signal-122.mp4",
+      "mp4_bytes": 30196722,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 292,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Nepal:** The Bhote Koshi glacial flood, active since 2026-08-26, has killed 1,344 people as of 2026-09-05, with roughly 275 Indian nationals still listed missing and NDRRMA reporting over 30,000 people affected; GDACS issued its highest-tier Red flood alert on 2026-09-01. Nepal is rebuilding the seismic-sensor, camera and satellite-link monitoring network at the China-border settlement of Timure after the original equipment was swept away; a separate investigation found the first disaster alert went out 38 minutes after the glacier collapse, with the Syabrubesi hydrological station offline mid-event.",
+        "Alaska (United States):** A magnitude-6.3 earthquake struck 84 km SSW of Nikolski in the remote Aleutian Islands on 2026-09-03; no populated-area damage reports have surfaced. Included for magnitude threshold only, not for humanitarian response activity.",
+        "[thestar.com.my](https://www.thestar.com.my/tech/tech-news/2026/09/03/after-the-earthquake-they-used-ai-to-mobilise-aid)",
+        "[karmactive.com](https://www.karmactive.com/colombia-7-4-earthquake-ai-aid-coordination-331-deaths-august-2026/)",
+        "[philstar.com](https://www.philstar.com/headlines/2026/09/03/2553680/deped-schools-use-ai-tool-disaster-preparedness)",
+        "[manilatimes.net](https://www.manilatimes.net/2026/09/04/tmt-newswire/angara-to-school-heads-use-ligtas-to-build-disaster-resilient-schools/2418254)",
+        "[hoodline.com](https://hoodline.com/2026/09/chicago-ranks-world-s-most-climate-resilient-city-new-report-finds/)",
+        "[hawaii.edu](https://www.hawaii.edu/news/2026/09/03/ai-tools-food-production/)"
+      ],
+      "youtube_id": "xG8mHdIz0Js",
+      "youtube_url": "https://www.youtube.com/watch?v=xG8mHdIz0Js"
     }
   ],
-  "lastEpisode": 121,
-  "lastUpdated": "2026-09-04T12:36:49.917771+00:00",
-  "lastPublicEpisode": 121,
+  "lastEpisode": 122,
+  "lastUpdated": "2026-09-05T12:35:58.100610+00:00",
+  "lastPublicEpisode": 122,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
