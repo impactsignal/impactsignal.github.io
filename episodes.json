@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 123,
+  "nextEpisode": 124,
   "episodes": [
     {
       "number": 1,
@@ -3737,10 +3737,43 @@
       ],
       "youtube_id": "xG8mHdIz0Js",
       "youtube_url": "https://www.youtube.com/watch?v=xG8mHdIz0Js"
+    },
+    {
+      "number": 123,
+      "date": "2026-09-06",
+      "title": "Impact Signals #123 \u2014 Nepal's Glacier Blind Spot, Portugal's Four-System AI Stack, Africa's Zero-Equity Bet",
+      "headline": "Nepal's Glacier Blind Spot, Portugal's Four-System AI Stack, Africa's Zero-Equity Bet",
+      "slug": "123-nepal-s-glacier-blind-spot-portugal-s-four-system-ai-stack-africa-s-zero-equity-bet",
+      "description": "Impact Signals #123: Nepal's Glacier Blind Spot, Portugal's Four-System AI Stack, Africa's Zero-Equity Bet A France 24 investigation into Nepal's deadly glacier-rock collapse, which killed more than 1,000 people, traces the failure to a specific gap: no system was scanning for glacier-rock deformation the way rainfall and lake levels are routinely monitored. Portugal's civil protection authority, ANEPC, is running AI across four parts of the same emergency chain at once \u2014 noise-cancelling triage on Lisbon's 112 line, wildfire-camera imagery, a Portuguese-language disaster chatbot, and predictive digital twins. And in Lagos, Askya Investment Partners launched a zero-equity, $200,000-per-startup AI accelerator for African founders who already have paying customers, betting on companies that already work rather than early-stage ideas. Today's signal: whether it's a mountain slope in Nepal, an emergency line in Lisbon, or an accelerator stage in Lagos, the open question is the same \u2014 who is watching for the failure mode nobody built a system to catch. --- Top Stories **1. Nepal's Glacier Collapse Exposes a Monitoring Blind Spot AI Was Built to Fill** A France 24 report published September 4 explains why the Himalayan glacier-rock collapse that triggered Nepal's flash flood was so hard to see coming: it originated from a sudden glacier-rock system failure, not the rainfall or rising-glacial-lake triggers that monitoring systems are built to watch. Satellite imagery from August 24\u2026",
+      "rss_description": "Impact Signals #123: Nepal's Glacier Blind Spot, Portugal's Four-System AI Stack, Africa's Zero-Equity Bet A France 24 investigation into Nepal's deadly glacier-rock collapse, which killed more than 1,000 people, traces the failure to a specific gap: no system was scanning for glacier-rock deformation the way rainfall and lake levels are routinely monitored. Portugal's civil protection authority, ANEPC, is running AI across four parts of the same emergency chain at once \u2014 noise-cancelling triage on Lisbon's 112 line, wildfire-camera imagery, a Portuguese-language disaster chatbot, and predictive digital twins. And in Lagos, Askya Investment Partners launched a zero-equity, $200,000-per-startup AI accelerator for African founders who already have paying customers, betting on companies that already work rather than early-stage ideas. Today's signal: whether it's a mountain slope in Nepal, an emergency line in Lisbon, or an accelerator stage in Lagos, the open question is the same \u2014 who is watching for the failure mode nobody built a system to catch. --- Top Stories **1. Nepal's Glacier Collapse Exposes a Monitoring Blind Spot AI Was Built to Fill** A France 24 report published September 4 explains why the Himalayan glacier-rock collapse that triggered Nepal's flash flood was so hard to see coming: it originated from a sudden glacier-rock system failure, not the rainfall or rising-glacial-lake triggers that monitoring systems are built to watch. Satellite imagery from August 24\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-123/episode-123.mp3",
+      "mp3_bytes": 5587322,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-123/impact-signal-123.mp4",
+      "mp4_bytes": 35047419,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 349,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Nepal/Tibet border:** Flash flood and landslides from the glacier-rock collapse remain an ongoing major disaster; death toll at 1,341 as of September 6, with search and relief still active. Source: Republic World.",
+        "Sunda Strait, Indonesia:** Anak Krakatau's renewed eruption sequence (six eruptions since September 5) forced closure of six airports including Jakarta's Soekarno-Hatta, affecting 301 flights; airports are reopening in stages and cloud-seeding is under consideration. Source: GDACS, Al Jazeera.",
+        "Nikolski, Alaska:** M6.3 earthquake on September 3, 84 km SSW of Nikolski in the remote Aleutian Islands; no damage or casualties reported, monitoring only. Source: USGS.",
+        "[france24.com](https://www.france24.com/en/asia-pacific/20260904-nepal-why-early-warning-signs-of-glacier-collapse-were-difficult-to-detect)",
+        "[abc.net.au](https://www.abc.net.au/news/2026-09-01/warning-signs-visible-before-glacier-collapse-in-nepal/107097636)",
+        "[nature.com](https://www.nature.com/articles/d41586-026-02746-4)",
+        "[portugalresident.com](https://www.portugalresident.com/the-use-of-ai-in-natural-hazard-and-disaster-management-in-portugal/)",
+        "[techcabal.com](https://techcabal.com/2026/09/04/askya-launches-the-askya-ai-growth-platform-a-zero-equity-pan-african-program-with-up-to-200000-investment-for-startups/)"
+      ],
+      "youtube_id": "T_qOgENbcQM",
+      "youtube_url": "https://www.youtube.com/watch?v=T_qOgENbcQM"
     }
   ],
-  "lastEpisode": 122,
-  "lastUpdated": "2026-09-05T12:35:58.100610+00:00",
-  "lastPublicEpisode": 122,
+  "lastEpisode": 123,
+  "lastUpdated": "2026-09-06T12:44:59.181622+00:00",
+  "lastPublicEpisode": 123,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }

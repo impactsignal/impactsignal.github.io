@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#122: Colombia's Volunteer AI Aid Map, Philippines Mandates School Hazard AI, Chicago Tops Climate Ranking</title>
+      <title>#123: Nepal's Glacier Blind Spot, Portugal's Four-System AI Stack, Africa's Zero-Equity Bet</title>
       <description />
+      <link>https://impactsignals.ai/episodes/123-nepal-s-glacier-blind-spot-portugal-s-four-system-ai-stack-africa-s-zero-equity-bet/</link>
+      <guid isPermaLink="false">impact-signal-123</guid>
+      <pubDate>Sun, 06 Sep 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-123/episode-123.mp3" length="5587322" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#122: Colombia's Volunteer AI Aid Map, Philippines Mandates School Hazard AI, Chicago Tops Climate Ranking</title>
+      <description>Impact Signals #122: Colombia's Volunteer AI Aid Map, Philippines Mandates School Hazard AI, Chicago Tops Climate Ranking After a magnitude-7.4 earthquake left more than 1.5 million Colombians without water, power or cell service, tech volunteers built and launched an AI-powered aid-matching site — first called Ayudas Pereira, now alluda.online — before any government platform existed. In the Philippines, Education Secretary Sonny Angara has made the AI hazard tool LIGTAS+ mandatory for every public school's disaster decisions, turning a report that once took hours into a five-minute trigger for class suspensions nationwide. Elsewhere, a geospatial-AI ranking from AlphaGeo puts Chicago atop 72 global cities on climate-disaster preparedness, with Ahmedabad last and Phoenix flagged as the highest-risk U.S. city. Today's signal: when disaster tech works, it's usually built fast by the people closest to the damage, not the system that was supposed to be ready. --- Top Stories **1. After Colombia's Earthquake, Volunteers Built an AI Aid Map Before the Government Did** A magnitude-7.4 earthquake knocked out water, power and cell signal for more than 1.5 million people in Colombia. Civilians opened ad hoc donation points in homes, cafes, churches, gyms and a brewery, but supply matching turned chaotic — sites with food had no water, sites with water had no clothes, and on one day everyone needed underwear. Tech volunteers built a site, first called Ayudas Pereira and later renamed…</description>
       <link>https://impactsignals.ai/episodes/122-colombia-s-volunteer-ai-aid-map-philippines-mandates-school-hazard-ai-chicago-tops-cli/</link>
       <guid isPermaLink="false">impact-signal-122</guid>
       <pubDate>Sat, 05 Sep 2026 14:00:00 +0000</pubDate>
