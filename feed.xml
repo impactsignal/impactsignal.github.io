@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#123: Nepal's Glacier Blind Spot, Portugal's Four-System AI Stack, Africa's Zero-Equity Bet</title>
+      <title>#124: The UN's human rights chief just named the four AI companies he says hold "almost unlimited power"</title>
       <description />
+      <link>https://impactsignals.ai/episodes/124-the-un-s-human-rights-chief-just-named-the-four-ai-companies-he-says-hold-almost-unlim/</link>
+      <guid isPermaLink="false">impact-signal-124</guid>
+      <pubDate>Mon, 07 Sep 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-124/episode-124.mp3" length="6236831" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#123: Nepal's Glacier Blind Spot, Portugal's Four-System AI Stack, Africa's Zero-Equity Bet</title>
+      <description>Impact Signals #123: Nepal's Glacier Blind Spot, Portugal's Four-System AI Stack, Africa's Zero-Equity Bet A France 24 investigation into Nepal's deadly glacier-rock collapse, which killed more than 1,000 people, traces the failure to a specific gap: no system was scanning for glacier-rock deformation the way rainfall and lake levels are routinely monitored. Portugal's civil protection authority, ANEPC, is running AI across four parts of the same emergency chain at once — noise-cancelling triage on Lisbon's 112 line, wildfire-camera imagery, a Portuguese-language disaster chatbot, and predictive digital twins. And in Lagos, Askya Investment Partners launched a zero-equity, $200,000-per-startup AI accelerator for African founders who already have paying customers, betting on companies that already work rather than early-stage ideas. Today's signal: whether it's a mountain slope in Nepal, an emergency line in Lisbon, or an accelerator stage in Lagos, the open question is the same — who is watching for the failure mode nobody built a system to catch. --- Top Stories **1. Nepal's Glacier Collapse Exposes a Monitoring Blind Spot AI Was Built to Fill** A France 24 report published September 4 explains why the Himalayan glacier-rock collapse that triggered Nepal's flash flood was so hard to see coming: it originated from a sudden glacier-rock system failure, not the rainfall or rising-glacial-lake triggers that monitoring systems are built to watch. Satellite imagery from August 24…</description>
       <link>https://impactsignals.ai/episodes/123-nepal-s-glacier-blind-spot-portugal-s-four-system-ai-stack-africa-s-zero-equity-bet/</link>
       <guid isPermaLink="false">impact-signal-123</guid>
       <pubDate>Sun, 06 Sep 2026 14:00:00 +0000</pubDate>
