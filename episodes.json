@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 125,
+  "nextEpisode": 126,
   "episodes": [
     {
       "number": 1,
@@ -3803,10 +3803,43 @@
       ],
       "youtube_id": "1wlMQmNIiMo",
       "youtube_url": "https://www.youtube.com/watch?v=1wlMQmNIiMo"
+    },
+    {
+      "number": 125,
+      "date": "2026-09-08",
+      "title": "Impact Signals #125 \u2014 400 African Officials Set a 2027 Early-Warning Deadline, OroraTech's Satellites Beat Ground Crews to a California Wildfire, Nepal's IT Engineer Builds a Flood Portal Overnight",
+      "headline": "400 African Officials Set a 2027 Early-Warning Deadline, OroraTech's Satellites Beat Ground Crews to a California Wildfire, Nepal's IT Engineer Builds a Flood Portal Overnight",
+      "slug": "125-400-african-officials-set-a-2027-early-warning-deadline-ororatech-s-satellites-beat-gr",
+      "description": "Impact Signals #125: 400 African Officials Set a 2027 Early-Warning Deadline, OroraTech's Satellites Beat Ground Crews to a California Wildfire, Nepal's IT Engineer Builds a Flood Portal Overnight Today: more than 400 disaster officials meeting in Addis Ababa set a 2027 deadline to close Africa's remaining early-warning coverage gaps, while WMO's own chief says AI is what makes that timeline possible; a 16-satellite OroraTech constellation caught the Rock Fire near Aberdeen, California before ground crews could; and a single Nepali government engineer built an AI-assisted flood rescue portal overnight that became a working tool during the country's deadliest disaster in years. The through-line: AI is showing up less as strategy and more as the layer that gets a warning, a detection, or a coordination tool to the people who need it minutes or days sooner. --- Top Stories **1. 400 disaster officials in Addis Ababa set a 2027 target for early warnings in Africa, and WMO says AI is what makes the timeline possible** More than 400 experts and officials from African governments, regional bodies and international partners met in Addis Ababa, Ethiopia from September 2 to 4 and produced the \"Addis Ababa Call to Action on Early Warnings in Africa,\" setting five priorities to close remaining coverage gaps and reach every person on the continent by 2027. The forum was organized by UNDRR, WMO, the International Telecommunication Union and the IFRC, with the African Union Commission. Mult\u2026",
+      "rss_description": "Impact Signals #125: 400 African Officials Set a 2027 Early-Warning Deadline, OroraTech's Satellites Beat Ground Crews to a California Wildfire, Nepal's IT Engineer Builds a Flood Portal Overnight Today: more than 400 disaster officials meeting in Addis Ababa set a 2027 deadline to close Africa's remaining early-warning coverage gaps, while WMO's own chief says AI is what makes that timeline possible; a 16-satellite OroraTech constellation caught the Rock Fire near Aberdeen, California before ground crews could; and a single Nepali government engineer built an AI-assisted flood rescue portal overnight that became a working tool during the country's deadliest disaster in years. The through-line: AI is showing up less as strategy and more as the layer that gets a warning, a detection, or a coordination tool to the people who need it minutes or days sooner. --- Top Stories **1. 400 disaster officials in Addis Ababa set a 2027 target for early warnings in Africa, and WMO says AI is what makes the timeline possible** More than 400 experts and officials from African governments, regional bodies and international partners met in Addis Ababa, Ethiopia from September 2 to 4 and produced the \"Addis Ababa Call to Action on Early Warnings in Africa,\" setting five priorities to close remaining coverage gaps and reach every person on the continent by 2027. The forum was organized by UNDRR, WMO, the International Telecommunication Union and the IFRC, with the African Union Commission. Mult\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-125/episode-125.mp3",
+      "mp3_bytes": 7666251,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-125/impact-signal-125.mp4",
+      "mp4_bytes": 47538903,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 479,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "September 15-16, 2026",
+        "Location: Philippine Trade Training Center, Pasay City, Philippines",
+        "Climate and decarbonization conference organized by the Net Zero Carbon Alliance and Southeast Asia Corporate Decarbonization Exchange, relevant to disaster-resilience and climate-finance audiences in the region",
+        "Register: [netzerocarbonalliance.ph](https://netzerocarbonalliance.ph/nzca-con-2026/)",
+        "Funder: ECMWF, African Union Commission and EUMETSAT, delivered via WMO Regional Climate Centres",
+        "Amount: EUR 5 million total; up to EUR 1.25 million per project, four projects to be funded",
+        "Eligibility: Consortia of African and European organizations working on impact-based forecasting and early-warning pilots in Sub-Saharan Africa",
+        "Deadline: September 30, 2026, 14:00 CEST"
+      ],
+      "youtube_id": "htd-UOq2w_0",
+      "youtube_url": "https://www.youtube.com/watch?v=htd-UOq2w_0"
     }
   ],
-  "lastEpisode": 124,
-  "lastUpdated": "2026-09-07T12:40:53.857232+00:00",
-  "lastPublicEpisode": 124,
+  "lastEpisode": 125,
+  "lastUpdated": "2026-09-08T12:48:15.518424+00:00",
+  "lastPublicEpisode": 125,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
