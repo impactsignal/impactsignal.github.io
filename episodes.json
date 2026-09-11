@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 126,
+  "nextEpisode": 127,
   "episodes": [
     {
       "number": 1,
@@ -3836,10 +3836,43 @@
       ],
       "youtube_id": "htd-UOq2w_0",
       "youtube_url": "https://www.youtube.com/watch?v=htd-UOq2w_0"
+    },
+    {
+      "number": 126,
+      "date": "2026-09-11",
+      "title": "Impact Signals #126 \u2014 Flanders' 3.3M-Euro Wildfire Camera Shield, SenseNet's First Real Fire Catches, Maine 911 AI Triage",
+      "headline": "Flanders' 3.3M-Euro Wildfire Camera Shield, SenseNet's First Real Fire Catches, Maine 911 AI Triage",
+      "slug": "126-flanders-3-3m-euro-wildfire-camera-shield-sensenet-s-first-real-fire-catches-maine-911",
+      "description": "Impact Signals #126: Flanders' 3.3M-Euro Wildfire Camera Shield, SenseNet's First Real Fire Catches, Maine 911 AI Triage Flanders is putting a hard number on wildfire prevention: a 3.3 million euro network of AI cameras, drones, and smoke sensors across Limburg, Antwerp, and Flemish Brabant, with a decision on province-wide expansion due in early 2027. On Vancouver Island, a Canadian detection network built by SenseNet just caught its first five real fires ahead of ground crews near Nanaimo and Sidney Island, proof the pitch survived contact with an actual fire season. Meanwhile Maine's busiest 911 center is routing non-emergency calls to AI so dispatchers can stay focused on live emergencies, and Kenya's Supreme Court is telling every digitizing institution to name a person responsible for accessibility, not a policy. Today's signal: wildfire-detection AI is moving from pilot claims to budget lines and camera counts, while the smaller stories test whether AI implementations hold up once real people, not demos, are on the other end. --- Top Stories **1. Flanders Puts a 3.3-Million-Euro Price Tag on an AI Wildfire Camera Shield** The Flemish government is testing a network of 12 smart camera systems plus drones and AI-based smoke and heat detection across Flanders this autumn, backed by a 3.3 million euro budget. Eleven initial sites span Limburg, Antwerp, and Flemish Brabant. Environment Minister Jo Brouns says the goal is catching ignitions before they spread in the region'\u2026",
+      "rss_description": "Impact Signals #126: Flanders' 3.3M-Euro Wildfire Camera Shield, SenseNet's First Real Fire Catches, Maine 911 AI Triage Flanders is putting a hard number on wildfire prevention: a 3.3 million euro network of AI cameras, drones, and smoke sensors across Limburg, Antwerp, and Flemish Brabant, with a decision on province-wide expansion due in early 2027. On Vancouver Island, a Canadian detection network built by SenseNet just caught its first five real fires ahead of ground crews near Nanaimo and Sidney Island, proof the pitch survived contact with an actual fire season. Meanwhile Maine's busiest 911 center is routing non-emergency calls to AI so dispatchers can stay focused on live emergencies, and Kenya's Supreme Court is telling every digitizing institution to name a person responsible for accessibility, not a policy. Today's signal: wildfire-detection AI is moving from pilot claims to budget lines and camera counts, while the smaller stories test whether AI implementations hold up once real people, not demos, are on the other end. --- Top Stories **1. Flanders Puts a 3.3-Million-Euro Price Tag on an AI Wildfire Camera Shield** The Flemish government is testing a network of 12 smart camera systems plus drones and AI-based smoke and heat detection across Flanders this autumn, backed by a 3.3 million euro budget. Eleven initial sites span Limburg, Antwerp, and Flemish Brabant. Environment Minister Jo Brouns says the goal is catching ignitions before they spread in the region'\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-126/episode-126.mp3",
+      "mp3_bytes": 5661719,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-126/impact-signal-126.mp4",
+      "mp4_bytes": 36012025,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 353,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Date: September 15, 2026",
+        "Location: Rayburn House Office Building, Room 2318, Washington, DC",
+        "Witnesses: John Gale (Pano AI), Melissa Roberts (American Flood Coalition), Dr. Ali Mostafavidarani (Resilitix AI), Dr. Mike Falkowski (Earth Fire Alliance)",
+        "Congress hears directly from wildfire-detection and flood-resilience AI vendors on prediction and response technology.",
+        "[The Brussels Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdE1XUXhvUFN0MUZfbkJPZEZjNUI2dDFpZWxETXFneXBDMHFHR3d3aWFvTm1XQjM5TWFqSnBCazFYM0JmWmpjZzdVUk9DM29yNUZRYklMbS0xaGgzMVpWOWMwQnRNd0Z6ZUEtSVdwU1IydnFUZ0RJV2JEMGEybDVIbFN2R085UEFQX3VzYk1XSkdQem1VSmxYN3lpVmFMNkZ2NGU4azl0ekFRZnQ0RVZjMjktdkpXVWZFS0xBbk00STk?oc=5)",
+        "[Times Colonist](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSE1nQUZXUUx6N3R6cjliMTN1X3JFUXZRQWt5VzZhOXU3elpRNFhURW5CR0loM2c4WEd0R3cxdWR0QU1JbE11YWpKVlBsSDV3RkdocWVtVWJtQ1hSSVlqa2xmUXpsYVRJM2YzUUtaSTNhenJSaDhFMUo5ZWM4cVpvdDBfbE5aWXMtVm9YdnFRZVlSNFI4YWx6amRhaTFCR2VkOVluLTNkTEh6WUZuVkxpOUc1SE9GdUpi?oc=5)",
+        "[WGME (CBS13)](https://news.google.com/rss/articles/CBMirAFBVV95cUxNUGE0NE9QSGkxV3ZKUVhQQnp3ZmZNZWRZd0wybC05a01pQkFpVEk4VUpETndWSzdIdVFJZC1HSUtpVmZZV09EOVJOa3dMS0ZkSlJ5eXkwbXJ4NHRxeU5ySno4QnM5UzJxbE1iYlJQSExodUhSVkF1S1FFbXF2dHdpQW9XaV9MbXFPQ2ZKT2UzMlF5bk5QdzNfRXpkYXlsVkdUYjZLWlJrZjZfRWQx?oc=5)",
+        "[Chronicle of Philanthropy](https://news.google.com/rss/articles/CBMimgFBVV95cUxOQWtGNVBDbjhEZ3RHSHIwdW1iMll5WV95N2xSVGU5WWhPVFh1RWJSS29mTEQxVUdTRy1BWGF4VmJZS2F1VndrWEJCQUVKUFRMWGt0NGF1clVtRVpqZnhWaFZoNGtHeHFZSmdOMjIzaEJaMFBTUW1FN2ZNZUVUZ2E4bUUxOEVoaTZfZnJySVVWUXVPSWZqZHhwTU93?oc=5)"
+      ],
+      "youtube_id": "WHLXMVLNIJM",
+      "youtube_url": "https://www.youtube.com/watch?v=WHLXMVLNIJM"
     }
   ],
-  "lastEpisode": 125,
-  "lastUpdated": "2026-09-08T12:48:15.518424+00:00",
-  "lastPublicEpisode": 125,
+  "lastEpisode": 126,
+  "lastUpdated": "2026-09-11T12:40:56.735253+00:00",
+  "lastPublicEpisode": 126,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
