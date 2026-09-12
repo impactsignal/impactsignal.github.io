@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#126: Flanders' 3.3M-Euro Wildfire Camera Shield, SenseNet's First Real Fire Catches, Maine 911 AI Triage</title>
+      <title>#127: Monday.com's Foundation Runs Quake-Zone Coordination, ETH Zurich Speeds Disaster Forecasting With NASA Data, Canada Bets $13M on National AI Literacy</title>
       <description />
+      <link>https://impactsignals.ai/episodes/127-monday-com-s-foundation-runs-quake-zone-coordination-eth-zurich-speeds-disaster-foreca/</link>
+      <guid isPermaLink="false">impact-signal-127</guid>
+      <pubDate>Sat, 12 Sep 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-127/episode-127.mp3" length="6452497" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#126: Flanders' 3.3M-Euro Wildfire Camera Shield, SenseNet's First Real Fire Catches, Maine 911 AI Triage</title>
+      <description>Impact Signals #126: Flanders' 3.3M-Euro Wildfire Camera Shield, SenseNet's First Real Fire Catches, Maine 911 AI Triage Flanders is putting a hard number on wildfire prevention: a 3.3 million euro network of AI cameras, drones, and smoke sensors across Limburg, Antwerp, and Flemish Brabant, with a decision on province-wide expansion due in early 2027. On Vancouver Island, a Canadian detection network built by SenseNet just caught its first five real fires ahead of ground crews near Nanaimo and Sidney Island, proof the pitch survived contact with an actual fire season. Meanwhile Maine's busiest 911 center is routing non-emergency calls to AI so dispatchers can stay focused on live emergencies, and Kenya's Supreme Court is telling every digitizing institution to name a person responsible for accessibility, not a policy. Today's signal: wildfire-detection AI is moving from pilot claims to budget lines and camera counts, while the smaller stories test whether AI implementations hold up once real people, not demos, are on the other end. --- Top Stories **1. Flanders Puts a 3.3-Million-Euro Price Tag on an AI Wildfire Camera Shield** The Flemish government is testing a network of 12 smart camera systems plus drones and AI-based smoke and heat detection across Flanders this autumn, backed by a 3.3 million euro budget. Eleven initial sites span Limburg, Antwerp, and Flemish Brabant. Environment Minister Jo Brouns says the goal is catching ignitions before they spread in the region'…</description>
       <link>https://impactsignals.ai/episodes/126-flanders-3-3m-euro-wildfire-camera-shield-sensenet-s-first-real-fire-catches-maine-911/</link>
       <guid isPermaLink="false">impact-signal-126</guid>
       <pubDate>Fri, 11 Sep 2026 14:00:00 +0000</pubDate>

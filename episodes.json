@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 127,
+  "nextEpisode": 128,
   "episodes": [
     {
       "number": 1,
@@ -3869,10 +3869,43 @@
       ],
       "youtube_id": "WHLXMVLNIJM",
       "youtube_url": "https://www.youtube.com/watch?v=WHLXMVLNIJM"
+    },
+    {
+      "number": 127,
+      "date": "2026-09-12",
+      "title": "Impact Signals #127 \u2014 Monday.com's Foundation Runs Quake-Zone Coordination, ETH Zurich Speeds Disaster Forecasting With NASA Data, Canada Bets $13M on National AI Literacy",
+      "headline": "Monday.com's Foundation Runs Quake-Zone Coordination, ETH Zurich Speeds Disaster Forecasting With NASA Data, Canada Bets $13M on National AI Literacy",
+      "slug": "127-monday-com-s-foundation-runs-quake-zone-coordination-eth-zurich-speeds-disaster-foreca",
+      "description": "Impact Signals #127: Monday.com's Foundation Runs Quake-Zone Coordination, ETH Zurich Speeds Disaster Forecasting With NASA Data, Canada Bets $13M on National AI Literacy A workplace-productivity company's philanthropic arm, not a dedicated disaster-tech vendor, has spent two years running field data coordination for earthquake response in Venezuela and Colombia, using Monday.com's own work-management platform to cut the days-long lag between scattered relief reports and a usable operating picture. In Switzerland, ETH Zurich and the Swiss National Supercomputing Centre have spent about a year moving 100 petabytes of NASA Earth-observation data next to the Alps supercomputer, aiming to cut disaster-forecast generation down to about a minute instead of running case by case. Canada's government put CAD $13 million behind a free national AI-literacy program reaching up to a million students and 50,000 teachers, while Seattle's city council is now demanding oversight of an AI 911-triage system that ran undisclosed for two years. Today's throughline: AI infrastructure for disaster response is maturing fast, from field coordination to forecasting to the public accountability that comes once these systems are found to already be touching people's lives. --- Top Stories **1. Monday.com's Philanthropic Foundation Became the Field Coordination Layer for the Venezuela and Colombia Earthquakes** Monday.com, the Israeli work-management software company, runs a philanthropic Emergency Resp\u2026",
+      "rss_description": "Impact Signals #127: Monday.com's Foundation Runs Quake-Zone Coordination, ETH Zurich Speeds Disaster Forecasting With NASA Data, Canada Bets $13M on National AI Literacy A workplace-productivity company's philanthropic arm, not a dedicated disaster-tech vendor, has spent two years running field data coordination for earthquake response in Venezuela and Colombia, using Monday.com's own work-management platform to cut the days-long lag between scattered relief reports and a usable operating picture. In Switzerland, ETH Zurich and the Swiss National Supercomputing Centre have spent about a year moving 100 petabytes of NASA Earth-observation data next to the Alps supercomputer, aiming to cut disaster-forecast generation down to about a minute instead of running case by case. Canada's government put CAD $13 million behind a free national AI-literacy program reaching up to a million students and 50,000 teachers, while Seattle's city council is now demanding oversight of an AI 911-triage system that ran undisclosed for two years. Today's throughline: AI infrastructure for disaster response is maturing fast, from field coordination to forecasting to the public accountability that comes once these systems are found to already be touching people's lives. --- Top Stories **1. Monday.com's Philanthropic Foundation Became the Field Coordination Layer for the Venezuela and Colombia Earthquakes** Monday.com, the Israeli work-management software company, runs a philanthropic Emergency Resp\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-127/episode-127.mp3",
+      "mp3_bytes": 6452497,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-127/impact-signal-127.mp4",
+      "mp4_bytes": 41293118,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 403,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Nepal (Nepal-Tibet border floods):** Ongoing since early September 2026; Nepal's National Disaster Risk Reduction and Management Authority put the death toll at 1,385 as of September 11 (Chitwan 364, Nawalparasi East 228, Nawalparasi West 222, Nuwakot 199, Rasuwa 185, plus Gorkha, Dhading, Tanahun, Kathmandu), with 5,130 still reported missing and 13,676 rescued. 21,022 security personnel are mobilized (Nepal Army, Nepal Police, Armed Police Force); a temporary bridge at Devighat, Nuwakot, has been restored to improve relief access.",
+        "[timesofisrael.com](https://www.timesofisrael.com/how-an-israeli-workplace-productivity-company-wound-up-on-the-front-lines-of-quake-relief/)",
+        "[france24.com](https://www.france24.com/en/video/20260912-swiss-researchers-use-ai-to-detect-early-warning-signs-of-natural-disasters)",
+        "[malaymail.com](https://www.malaymail.com/news/life/2026/09/11/swiss-researchers-harness-ai-and-vast-nasa-data-to-speed-up-natural-disaster-forecasting/234827)",
+        "[canada.ca](https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/government-of-canada-launches-national-ai-literacy-initiative.html)",
+        "[cbc.ca](https://www.cbc.ca/news/politics/ai-essentials-government-courses-solomon-9.7337417)",
+        "[ems1.com](https://www.ems1.com/artificial-intelligence/seattle-officials-question-fd-over-ambulance-contractor-ai-assisted-911-triage)",
+        "[geekwire.com](https://www.geekwire.com/2026/report-seattle-using-ai-to-route-certain-911-calls-without-caller-knowledge-or-public-review/)"
+      ],
+      "youtube_id": "cVwyDcOpHWU",
+      "youtube_url": "https://www.youtube.com/watch?v=cVwyDcOpHWU"
     }
   ],
-  "lastEpisode": 126,
-  "lastUpdated": "2026-09-11T12:40:56.735253+00:00",
-  "lastPublicEpisode": 126,
+  "lastEpisode": 127,
+  "lastUpdated": "2026-09-12T12:42:29.897333+00:00",
+  "lastPublicEpisode": 127,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
