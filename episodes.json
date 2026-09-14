@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 129,
+  "nextEpisode": 130,
   "episodes": [
     {
       "number": 1,
@@ -3935,10 +3935,43 @@
       ],
       "youtube_id": "GSk8f1bqAE0",
       "youtube_url": "https://www.youtube.com/watch?v=GSk8f1bqAE0"
+    },
+    {
+      "number": 129,
+      "date": "2026-09-14",
+      "title": "Impact Signals #129 \u2014 California Opens AskCA Beta, Humanity AI Puts $10M Into Community-Led AI, Calabria Drones Log 73 Fires",
+      "headline": "California Opens AskCA Beta, Humanity AI Puts $10M Into Community-Led AI, Calabria Drones Log 73 Fires",
+      "slug": "129-california-opens-askca-beta-humanity-ai-puts-10m-into-community-led-ai-calabria-drones",
+      "description": "Impact Signals #129: California Opens AskCA Beta, Humanity AI Puts $10M Into Community-Led AI, Calabria Drones Log 73 Fires California opened beta signups for AskCA, a Claude-based state-services assistant that grew out of the January 2025 Los Angeles wildfires and was tested on more than 140 Altadena survivors and recovery leaders before going public. Ten US foundations behind the $500 million Humanity AI fund opened a $10 million call for community-led AI, with grants from $75,000 to $1 million due October 21. In Italy, Enav published the closing numbers from Calabria's summer drone patrol: 4,899 flights, all 361 municipalities covered, 73 fires spotted in August and every sighting routed into the regional control room. The day's signal is public institutions moving from AI announcements to shipped services, funded calls and audited season counts. --- Top Stories **1. California Opens Beta Signups for AskCA, a State-Services Assistant Born in Wildfire Recovery** On September 9, 2026, Governor Gavin Newsom announced AskCA, an AI assistant built by the state's Office of Data and Innovation to route Californians to state and local services through a single entry point organized around life events: finding a job, starting a business, accessing family services and recovering from a disaster. It runs on Anthropic's Claude, and the state says answers draw on verified state sources validated by state subject-matter experts rather than open-ended chatbot replies. The prototype came\u2026",
+      "rss_description": "Impact Signals #129: California Opens AskCA Beta, Humanity AI Puts $10M Into Community-Led AI, Calabria Drones Log 73 Fires California opened beta signups for AskCA, a Claude-based state-services assistant that grew out of the January 2025 Los Angeles wildfires and was tested on more than 140 Altadena survivors and recovery leaders before going public. Ten US foundations behind the $500 million Humanity AI fund opened a $10 million call for community-led AI, with grants from $75,000 to $1 million due October 21. In Italy, Enav published the closing numbers from Calabria's summer drone patrol: 4,899 flights, all 361 municipalities covered, 73 fires spotted in August and every sighting routed into the regional control room. The day's signal is public institutions moving from AI announcements to shipped services, funded calls and audited season counts. --- Top Stories **1. California Opens Beta Signups for AskCA, a State-Services Assistant Born in Wildfire Recovery** On September 9, 2026, Governor Gavin Newsom announced AskCA, an AI assistant built by the state's Office of Data and Innovation to route Californians to state and local services through a single entry point organized around life events: finding a job, starting a business, accessing family services and recovering from a disaster. It runs on Anthropic's Claude, and the state says answers draw on verified state sources validated by state subject-matter experts rather than open-ended chatbot replies. The prototype came\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-129/episode-129.mp3",
+      "mp3_bytes": 10122179,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-129/impact-signal-129.mp4",
+      "mp4_bytes": 59900776,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 632,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "September 15 to 16, 2026",
+        "Location: Manila, Philippines",
+        "Hosted by the Office of Civil Defense under the Philippines' 2026 ASEAN chairmanship; invitation-based for ministers, development partners and civil society",
+        "Coverage: [mb.com.ph](https://mb.com.ph/2026/09/14/asean-ministers-to-tackle-regions-mounting-disaster-risks-in-manila)",
+        "Dates: not yet confirmed (PreventionWeb listing dated September 10, 2026)",
+        "Location: Virtual",
+        "UNDRR series on where AI helps and where it does not in disaster management",
+        "Register: [undrr.org](https://www.undrr.org/event/webinar-series-artificial-intelligence-disaster-management-scope-and-limitations)"
+      ],
+      "youtube_id": "3-FdPU7vKs4",
+      "youtube_url": "https://www.youtube.com/watch?v=3-FdPU7vKs4"
     }
   ],
-  "lastEpisode": 128,
-  "lastUpdated": "2026-09-13T20:26:57.676904+00:00",
-  "lastPublicEpisode": 128,
+  "lastEpisode": 129,
+  "lastUpdated": "2026-09-14T12:44:18.150441+00:00",
+  "lastPublicEpisode": 129,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }

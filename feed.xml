@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#128: ARPA-H Funds Autonomous Heart-Failure AI, California Licenses AI Auditors, Brazil Measures the Early-Warning Institution Gap</title>
+      <title>#129: California Opens AskCA Beta, Humanity AI Puts $10M Into Community-Led AI, Calabria Drones Log 73 Fires</title>
       <description />
+      <link>https://impactsignals.ai/episodes/129-california-opens-askca-beta-humanity-ai-puts-10m-into-community-led-ai-calabria-drones/</link>
+      <guid isPermaLink="false">impact-signal-129</guid>
+      <pubDate>Mon, 14 Sep 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-129/episode-129.mp3" length="10122179" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#128: ARPA-H Funds Autonomous Heart-Failure AI, California Licenses AI Auditors, Brazil Measures the Early-Warning Institution Gap</title>
+      <description>Impact Signals #128: ARPA-H Funds Autonomous Heart-Failure AI, California Licenses AI Auditors, Brazil Measures the Early-Warning Institution Gap ARPA-H, the US health research agency, named six teams and committed $33.7 million in first-year funding to build AI agents that adjust heart-failure medication on their own, with a second AI system watching the first for safety. In Sacramento, Governor Newsom signed two bills that make California the first state to license the firms that audit AI, with a registry that locks out unregistered auditors from January 1, 2029. And a survey of 2,289 Brazilian municipalities, led by the country's national warning center, puts hard numbers on the one-person, no-budget civil-defense offices that every early-warning model routes through. Today's signal is autonomy with a supervisor: the systems are getting permission to act, and the question in each story is who, or what, checks them. --- Top Stories **1. ARPA-H Names Six Teams and Commits $33.7 Million to AI Agents That Adjust Heart-Failure Medication Without a Clinician in the Loop** The Advanced Research Projects Agency for Health (ARPA-H), the US federal agency modeled on DARPA, announced on September 9, 2026 the first awardees of its ADVOCATE program (Agentic AI-Enabled Cardiovascular Care Transformation): Atman Health, UpDoc, Tempus AI, and teams from Stanford University, Duke University and Kaiser Permanente. STAT News reports a total commitment of $62.7 million, with $33.7 million co…</description>
       <link>https://impactsignals.ai/episodes/128-arpa-h-funds-autonomous-heart-failure-ai-california-licenses-ai-auditors-brazil-measur/</link>
       <guid isPermaLink="false">impact-signal-128</guid>
       <pubDate>Sun, 13 Sep 2026 14:00:00 +0000</pubDate>
