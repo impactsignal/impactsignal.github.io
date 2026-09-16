@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 130,
+  "nextEpisode": 131,
   "episodes": [
     {
       "number": 1,
@@ -3968,10 +3968,43 @@
       ],
       "youtube_id": "3-FdPU7vKs4",
       "youtube_url": "https://www.youtube.com/watch?v=3-FdPU7vKs4"
+    },
+    {
+      "number": 130,
+      "date": "2026-09-16",
+      "title": "Impact Signals #130 \u2014 Hong Kong's AI City Brain, a $60M Forecasting Push for 100 Million Farmers, Ghana's One-Million-Learner AI Target",
+      "headline": "Hong Kong's AI City Brain, a $60M Forecasting Push for 100 Million Farmers, Ghana's One-Million-Learner AI Target",
+      "slug": "130-hong-kong-s-ai-city-brain-a-60m-forecasting-push-for-100-million-farmers-ghana-s-one-m",
+      "description": "Impact Signals #130: Hong Kong's AI City Brain, a $60M Forecasting Push for 100 Million Farmers, Ghana's One-Million-Learner AI Target Hong Kong Chief Executive John Lee used today's Policy Address to put disaster response, traffic and major-incident data under a single \"AI City Brain\", chaired by the Chief Secretary and backed by a new AI commissioner post. Notre Dame's AIM for Scale took $10 million of a $60 million OpenAI Foundation package aimed at putting weather and crop-disease forecasts in front of 100 million smallholder farmers, and UNESCO signed Ghana's TVET service and its domestic education trust fund onto a one-million-learner AI training target. Pakistan's national telco put an AI sign-language agent on the counter in three cities, and Liverpool City Region named a 15-member task force under the UK's first regional chief AI officer. The thread today is naming the desk: each of these announcements attaches AI to a specific office, budget line or service counter that can be asked, later, what it did. --- Top Stories **1. Hong Kong Puts Disaster Response Under One \"AI City Brain\" With a Chief Secretary Task Force and a New AI Commissioner** In his Policy Address to the Legislative Council on September 16, 2026, Chief Executive John Lee said Hong Kong will build an \"AI City Brain\", an integrated platform for disaster prevention, emergency response and urban resilience drawing on AI, big data and Internet-of-Things sensing. A task force led by the Chief Secretary f\u2026",
+      "rss_description": "Impact Signals #130: Hong Kong's AI City Brain, a $60M Forecasting Push for 100 Million Farmers, Ghana's One-Million-Learner AI Target Hong Kong Chief Executive John Lee used today's Policy Address to put disaster response, traffic and major-incident data under a single \"AI City Brain\", chaired by the Chief Secretary and backed by a new AI commissioner post. Notre Dame's AIM for Scale took $10 million of a $60 million OpenAI Foundation package aimed at putting weather and crop-disease forecasts in front of 100 million smallholder farmers, and UNESCO signed Ghana's TVET service and its domestic education trust fund onto a one-million-learner AI training target. Pakistan's national telco put an AI sign-language agent on the counter in three cities, and Liverpool City Region named a 15-member task force under the UK's first regional chief AI officer. The thread today is naming the desk: each of these announcements attaches AI to a specific office, budget line or service counter that can be asked, later, what it did. --- Top Stories **1. Hong Kong Puts Disaster Response Under One \"AI City Brain\" With a Chief Secretary Task Force and a New AI Commissioner** In his Policy Address to the Legislative Council on September 16, 2026, Chief Executive John Lee said Hong Kong will build an \"AI City Brain\", an integrated platform for disaster prevention, emergency response and urban resilience drawing on AI, big data and Internet-of-Things sensing. A task force led by the Chief Secretary f\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-130/episode-130.mp3",
+      "mp3_bytes": 9937441,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-130/impact-signal-130.mp4",
+      "mp4_bytes": 61175123,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 621,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Amount: $10 million total, individual grants $75,000 to $1,000,000, projects up to three years",
+        "Deadline: October 21, 2026, 4:59 pm US Pacific / 7:59 pm US Eastern",
+        "Focus areas: education, labor and economy, and the humanities, arts and culture",
+        "Eligibility: lead applicants must be US-based and every eligible proposal must serve US communities; non-US organisations may join as collaborators",
+        "Apply: [humanityai.ai](https://humanityai.ai/open-call/)",
+        "Foresight Institute, AI for Science and Safety Nodes 2026** (reported September 15, 2026): reported at up to $100,000 per award. Not confirmed against the Foresight Institute's own page; verify at [foresight.org](https://foresight.org).",
+        "GitLab Foundation, AI for Economic Opportunity Fund**: run with OpenAI and supported by the Annie E. Casey Foundation and Ballmer Group; the most recent round committed $4 million across 16 US nonprofits. No open application deadline confirmed. Check [gitlabfoundation.org](https://www.gitlabfoundation.org/futureofwork).",
+        "Indonesia:** M6.5 earthquake 126 km NNE of Teluknaga, September 11, 2026 at 21:23 UTC, offshore in the Java Sea. Source: [earthquake.usgs.gov](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgrk) (USGS)."
+      ],
+      "youtube_id": "0ROi2s7etis",
+      "youtube_url": "https://www.youtube.com/watch?v=0ROi2s7etis"
     }
   ],
-  "lastEpisode": 129,
-  "lastUpdated": "2026-09-14T12:44:18.150441+00:00",
-  "lastPublicEpisode": 129,
+  "lastEpisode": 130,
+  "lastUpdated": "2026-09-16T15:29:17.377861+00:00",
+  "lastPublicEpisode": 130,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }

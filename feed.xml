@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#129: California Opens AskCA Beta, Humanity AI Puts $10M Into Community-Led AI, Calabria Drones Log 73 Fires</title>
+      <title>#130: Hong Kong's AI City Brain, a $60M Forecasting Push for 100 Million Farmers, Ghana's One-Million-Learner AI Target</title>
       <description />
+      <link>https://impactsignals.ai/episodes/130-hong-kong-s-ai-city-brain-a-60m-forecasting-push-for-100-million-farmers-ghana-s-one-m/</link>
+      <guid isPermaLink="false">impact-signal-130</guid>
+      <pubDate>Wed, 16 Sep 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-130/episode-130.mp3" length="9937441" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#129: California Opens AskCA Beta, Humanity AI Puts $10M Into Community-Led AI, Calabria Drones Log 73 Fires</title>
+      <description>Impact Signals #129: California Opens AskCA Beta, Humanity AI Puts $10M Into Community-Led AI, Calabria Drones Log 73 Fires California opened beta signups for AskCA, a Claude-based state-services assistant that grew out of the January 2025 Los Angeles wildfires and was tested on more than 140 Altadena survivors and recovery leaders before going public. Ten US foundations behind the $500 million Humanity AI fund opened a $10 million call for community-led AI, with grants from $75,000 to $1 million due October 21. In Italy, Enav published the closing numbers from Calabria's summer drone patrol: 4,899 flights, all 361 municipalities covered, 73 fires spotted in August and every sighting routed into the regional control room. The day's signal is public institutions moving from AI announcements to shipped services, funded calls and audited season counts. --- Top Stories **1. California Opens Beta Signups for AskCA, a State-Services Assistant Born in Wildfire Recovery** On September 9, 2026, Governor Gavin Newsom announced AskCA, an AI assistant built by the state's Office of Data and Innovation to route Californians to state and local services through a single entry point organized around life events: finding a job, starting a business, accessing family services and recovering from a disaster. It runs on Anthropic's Claude, and the state says answers draw on verified state sources validated by state subject-matter experts rather than open-ended chatbot replies. The prototype came…</description>
       <link>https://impactsignals.ai/episodes/129-california-opens-askca-beta-humanity-ai-puts-10m-into-community-led-ai-calabria-drones/</link>
       <guid isPermaLink="false">impact-signal-129</guid>
       <pubDate>Mon, 14 Sep 2026 14:00:00 +0000</pubDate>
