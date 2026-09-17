@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 131,
+  "nextEpisode": 132,
   "episodes": [
     {
       "number": 1,
@@ -4001,10 +4001,43 @@
       ],
       "youtube_id": "0ROi2s7etis",
       "youtube_url": "https://www.youtube.com/watch?v=0ROi2s7etis"
+    },
+    {
+      "number": 131,
+      "date": "2026-09-17",
+      "title": "Impact Signals #131 \u2014 Gates Foundation Pledges $1 Billion for Equitable AI, Hurricane Helene's Outage Was Backhaul Not Towers, Missouri Caps Plate-Reader Data at 30 Days",
+      "headline": "Gates Foundation Pledges $1 Billion for Equitable AI, Hurricane Helene's Outage Was Backhaul Not Towers, Missouri Caps Plate-Reader Data at 30 Days",
+      "slug": "131-gates-foundation-pledges-1-billion-for-equitable-ai-hurricane-helene-s-outage-was-back",
+      "description": "Impact Signals #131: Gates Foundation Pledges $1 Billion for Equitable AI, Hurricane Helene's Outage Was Backhaul Not Towers, Missouri Caps Plate-Reader Data at 30 Days The Gates Foundation committed at least $1 billion over two years to equitable AI and, unusually, published the split: 40 percent education, 40 percent health, 10 percent agriculture, 10 percent language data. The rest of today is the arithmetic of landing money like that. AI-assisted ultrasound arrived in 32 clinics across every council of Tanzania's Dodoma region, a Tajik computer-vision model is now running on a GPU in orbit over the Pamirs, and a new study of FCC filings found that cell-site damage explains 1.1 percent of Hurricane Helene's record outage while severed backhaul and lost commercial power explain nearly all of it. Today's signal is that the constraint is almost never the model: it is the language a dataset was collected in, the fibre under a mountain road, and how long a camera is allowed to remember. --- Top Stories **1. Gates Foundation Commits $1 Billion Over Two Years to Equitable AI and Publishes the Allocation** The Gates Foundation announced on September 15, 2026 that it will spend at least $1 billion over two years expanding access to AI and AI-enabled services for people the market is likely to reach last, alongside its tenth annual Goalkeepers Report, \"Make This Matter: AI, Equity, and the Choice We Can't Delay\". The foundation put the allocation in writing: 40 percent to education\u2026",
+      "rss_description": "Impact Signals #131: Gates Foundation Pledges $1 Billion for Equitable AI, Hurricane Helene's Outage Was Backhaul Not Towers, Missouri Caps Plate-Reader Data at 30 Days The Gates Foundation committed at least $1 billion over two years to equitable AI and, unusually, published the split: 40 percent education, 40 percent health, 10 percent agriculture, 10 percent language data. The rest of today is the arithmetic of landing money like that. AI-assisted ultrasound arrived in 32 clinics across every council of Tanzania's Dodoma region, a Tajik computer-vision model is now running on a GPU in orbit over the Pamirs, and a new study of FCC filings found that cell-site damage explains 1.1 percent of Hurricane Helene's record outage while severed backhaul and lost commercial power explain nearly all of it. Today's signal is that the constraint is almost never the model: it is the language a dataset was collected in, the fibre under a mountain road, and how long a camera is allowed to remember. --- Top Stories **1. Gates Foundation Commits $1 Billion Over Two Years to Equitable AI and Publishes the Allocation** The Gates Foundation announced on September 15, 2026 that it will spend at least $1 billion over two years expanding access to AI and AI-enabled services for people the market is likely to reach last, alongside its tenth annual Goalkeepers Report, \"Make This Matter: AI, Equity, and the Choice We Can't Delay\". The foundation put the allocation in writing: 40 percent to education\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-131/episode-131.mp3",
+      "mp3_bytes": 11072618,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-131/impact-signal-131.mp4",
+      "mp4_bytes": 66847666,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 691,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Amount: $10 million total; individual grants $75,000 to $1,000,000, projects up to three years",
+        "Deadline: October 21, 2026, 4:59 pm US Pacific / 7:59 pm US Eastern",
+        "Eligibility: lead applicants must be US-based and every eligible proposal must serve US communities; non-US organisations may join as collaborators",
+        "Focus areas: education, labor and economy, and the humanities, arts and culture",
+        "Apply: [humanityai.ai](https://humanityai.ai/open-call/)",
+        "September 20, 2026",
+        "Location: Lake Pshart and surrounding high-altitude basins, Tajikistan",
+        "First in-orbit pass for the ARGUS glacial-hazard model (Story 5); the test of whether on-satellite inference produces an actionable alert"
+      ],
+      "youtube_id": "4onrHDeTgE0",
+      "youtube_url": "https://www.youtube.com/watch?v=4onrHDeTgE0"
     }
   ],
-  "lastEpisode": 130,
-  "lastUpdated": "2026-09-16T15:29:17.377861+00:00",
-  "lastPublicEpisode": 130,
+  "lastEpisode": 131,
+  "lastUpdated": "2026-09-17T13:13:41.151193+00:00",
+  "lastPublicEpisode": 131,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
