@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#131: Gates Foundation Pledges $1 Billion for Equitable AI, Hurricane Helene's Outage Was Backhaul Not Towers, Missouri Caps Plate-Reader Data at 30 Days</title>
+      <title>#132: A Trafficking-Advert Classifier at 0.97 AUC, California Wildfire Drones at 5 Percent of Prevention Spending, GE HealthCare's 72-Hour Bed Forecast, Ghana's Million-Learner AI Target</title>
       <description />
+      <link>https://impactsignals.ai/episodes/132-a-trafficking-advert-classifier-at-0-97-auc-california-wildfire-drones-at-5-percent-of/</link>
+      <guid isPermaLink="false">impact-signal-132</guid>
+      <pubDate>Fri, 18 Sep 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-132/episode-132.mp3" length="9046770" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#131: Gates Foundation Pledges $1 Billion for Equitable AI, Hurricane Helene's Outage Was Backhaul Not Towers, Missouri Caps Plate-Reader Data at 30 Days</title>
+      <description>Impact Signals #131: Gates Foundation Pledges $1 Billion for Equitable AI, Hurricane Helene's Outage Was Backhaul Not Towers, Missouri Caps Plate-Reader Data at 30 Days The Gates Foundation committed at least $1 billion over two years to equitable AI and, unusually, published the split: 40 percent education, 40 percent health, 10 percent agriculture, 10 percent language data. The rest of today is the arithmetic of landing money like that. AI-assisted ultrasound arrived in 32 clinics across every council of Tanzania's Dodoma region, a Tajik computer-vision model is now running on a GPU in orbit over the Pamirs, and a new study of FCC filings found that cell-site damage explains 1.1 percent of Hurricane Helene's record outage while severed backhaul and lost commercial power explain nearly all of it. Today's signal is that the constraint is almost never the model: it is the language a dataset was collected in, the fibre under a mountain road, and how long a camera is allowed to remember. --- Top Stories **1. Gates Foundation Commits $1 Billion Over Two Years to Equitable AI and Publishes the Allocation** The Gates Foundation announced on September 15, 2026 that it will spend at least $1 billion over two years expanding access to AI and AI-enabled services for people the market is likely to reach last, alongside its tenth annual Goalkeepers Report, "Make This Matter: AI, Equity, and the Choice We Can't Delay". The foundation put the allocation in writing: 40 percent to education…</description>
       <link>https://impactsignals.ai/episodes/131-gates-foundation-pledges-1-billion-for-equitable-ai-hurricane-helene-s-outage-was-back/</link>
       <guid isPermaLink="false">impact-signal-131</guid>
       <pubDate>Thu, 17 Sep 2026 14:00:00 +0000</pubDate>

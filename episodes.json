@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 132,
+  "nextEpisode": 133,
   "episodes": [
     {
       "number": 1,
@@ -4034,10 +4034,43 @@
       ],
       "youtube_id": "4onrHDeTgE0",
       "youtube_url": "https://www.youtube.com/watch?v=4onrHDeTgE0"
+    },
+    {
+      "number": 132,
+      "date": "2026-09-18",
+      "title": "Impact Signals #132 \u2014 A Trafficking-Advert Classifier at 0.97 AUC, California Wildfire Drones at 5 Percent of Prevention Spending, GE HealthCare's 72-Hour Bed Forecast, Ghana's Million-Learner AI Target",
+      "headline": "A Trafficking-Advert Classifier at 0.97 AUC, California Wildfire Drones at 5 Percent of Prevention Spending, GE HealthCare's 72-Hour Bed Forecast, Ghana's Million-Learner AI Target",
+      "slug": "132-a-trafficking-advert-classifier-at-0-97-auc-california-wildfire-drones-at-5-percent-of",
+      "description": "Impact Signals #132: A Trafficking-Advert Classifier at 0.97 AUC, California Wildfire Drones at 5 Percent of Prevention Spending, GE HealthCare's 72-Hour Bed Forecast, Ghana's Million-Learner AI Target Four stories today put a number on something the sector usually argues about with adjectives. A team working from 464 job adverts supplied by anti-slavery charities reports how well a machine can tell trafficking recruitment from legitimate hiring; an optimisation group at MIT prices out what it would cost California to see almost every fire early; GE HealthCare ships a capacity forecast to Duke Health and Queen's in Honolulu with a horizon measured in hours; and UNESCO publishes the gap between 3,300 certified learners in Ghana and a target of one million. The signal is the arithmetic of prevention: each of these makes a cost, a horizon or a shortfall countable, and countable claims are the ones that can later be checked. --- Top Stories **1. A Classifier Trained on 464 Charity-Verified Job Adverts Separates Trafficking Recruitment From Legitimate Hiring at 0.87 to 0.97 AUC** An arXiv preprint submitted September 17, 2026 by Sajid Siraj, Mahnaz Hosseinzadeh, Amin Vafadarnikjoo and Shuyang Li tackles the labelling problem that has kept this work stalled: rather than scraping job boards, the team obtained 464 verified advertisements from anti-slavery charities, 164 deceptive and 300 legitimate, spanning nine origin countries and 21 industry sectors. Framing the task through sig\u2026",
+      "rss_description": "Impact Signals #132: A Trafficking-Advert Classifier at 0.97 AUC, California Wildfire Drones at 5 Percent of Prevention Spending, GE HealthCare's 72-Hour Bed Forecast, Ghana's Million-Learner AI Target Four stories today put a number on something the sector usually argues about with adjectives. A team working from 464 job adverts supplied by anti-slavery charities reports how well a machine can tell trafficking recruitment from legitimate hiring; an optimisation group at MIT prices out what it would cost California to see almost every fire early; GE HealthCare ships a capacity forecast to Duke Health and Queen's in Honolulu with a horizon measured in hours; and UNESCO publishes the gap between 3,300 certified learners in Ghana and a target of one million. The signal is the arithmetic of prevention: each of these makes a cost, a horizon or a shortfall countable, and countable claims are the ones that can later be checked. --- Top Stories **1. A Classifier Trained on 464 Charity-Verified Job Adverts Separates Trafficking Recruitment From Legitimate Hiring at 0.87 to 0.97 AUC** An arXiv preprint submitted September 17, 2026 by Sajid Siraj, Mahnaz Hosseinzadeh, Amin Vafadarnikjoo and Shuyang Li tackles the labelling problem that has kept this work stalled: rather than scraping job boards, the team obtained 464 verified advertisements from anti-slavery charities, 164 deceptive and 300 legitimate, spanning nine origin countries and 21 industry sectors. Framing the task through sig\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-132/episode-132.mp3",
+      "mp3_bytes": 9046770,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-132/impact-signal-132.mp4",
+      "mp4_bytes": 55448588,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 565,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Amount: $75,000 to $1,000,000 per award, for up to three years, out of a $10 million call",
+        "Deadline: October 21, 2026, 8:00 pm ET",
+        "Eligibility: US-based 501(c)(3) organisations, collaborations, and individuals working with a fiscal sponsor or intermediary. Proposals must focus on US-based communities. Non-US organisations may join a collaboration but may not be lead applicant.",
+        "Issue areas: education, labor and economy, and the humanities, arts and culture",
+        "Apply: [humanityai.ai](https://humanityai.ai/open-call/)",
+        "Announced September 16, 2026: \u00a34 million over several years for UK organisations working on young people, AI, mental health, wellbeing and learning, part of a $15 million Groundwork initiative across the US and UK over three years",
+        "Funding begins Spring 2027; there is no open call yet and the current stage is a Youth Listening Tour",
+        "Details: [edtechinnovationhub.com](https://www.edtechinnovationhub.com/news/young-futures-and-bukhman-philanthropies-launch-groundwork-uk)"
+      ],
+      "youtube_id": "S1FZOV8SOpI",
+      "youtube_url": "https://www.youtube.com/watch?v=S1FZOV8SOpI"
     }
   ],
-  "lastEpisode": 131,
-  "lastUpdated": "2026-09-17T13:13:41.151193+00:00",
-  "lastPublicEpisode": 131,
+  "lastEpisode": 132,
+  "lastUpdated": "2026-09-18T12:56:38.999642+00:00",
+  "lastPublicEpisode": 132,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
