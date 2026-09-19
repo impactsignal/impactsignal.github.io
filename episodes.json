@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 133,
+  "nextEpisode": 134,
   "episodes": [
     {
       "number": 1,
@@ -4067,10 +4067,43 @@
       ],
       "youtube_id": "S1FZOV8SOpI",
       "youtube_url": "https://www.youtube.com/watch?v=S1FZOV8SOpI"
+    },
+    {
+      "number": 133,
+      "date": "2026-09-19",
+      "title": "Impact Signals #133 \u2014 Jacaranda Health's 15,000 Daily Pregnancy Questions, Argentina's Teen-Built Fire Detector, California's Kill-Switch Order",
+      "headline": "Jacaranda Health's 15,000 Daily Pregnancy Questions, Argentina's Teen-Built Fire Detector, California's Kill-Switch Order",
+      "slug": "133-jacaranda-health-s-15-000-daily-pregnancy-questions-argentina-s-teen-built-fire-detect",
+      "description": "Impact Signals #133: Jacaranda Health's 15,000 Daily Pregnancy Questions, Argentina's Teen-Built Fire Detector, California's Kill-Switch Order In Nairobi, the nonprofit Jacaranda Health now fields about 15,000 maternal health questions a day through an AI text service, and routes the 7 percent it marks urgent to a team of 18 nurses. In Cordoba, a wildfire detection company three 16-year-olds started as a school project is an Earthshot Prize finalist on the strength of alerts it says run 35 minutes ahead of NASA's. And in Sacramento and Islamabad, two governments spent this week writing down what AI is not allowed to do, one for frontier labs and one for civil servants. The thread today is the human layer: who reads the flagged message, who tests the shutdown switch, who is accountable when the model is wrong. --- Top Stories **1. Jacaranda Health's Kenyan Pregnancy Service Handles 15,000 Questions a Day, With 18 Nurses Behind the Model** NPR reported on September 17, 2026 on PROMPTS, the AI-assisted text service run by the Nairobi-based nonprofit Jacaranda Health. It began as plain SMS appointment reminders and now takes about 15,000 questions a day, up from fewer than 100 at launch, reaching an estimated 700,000 women a year across 24 Kenyan counties with operations extending to Ghana, Nigeria and Tanzania. The model classifies incoming messages, ranks urgency, and routes roughly 7 percent as urgent to 18 nurses who answer in the mother's own words, at a cost of about $2 pe\u2026",
+      "rss_description": "Impact Signals #133: Jacaranda Health's 15,000 Daily Pregnancy Questions, Argentina's Teen-Built Fire Detector, California's Kill-Switch Order In Nairobi, the nonprofit Jacaranda Health now fields about 15,000 maternal health questions a day through an AI text service, and routes the 7 percent it marks urgent to a team of 18 nurses. In Cordoba, a wildfire detection company three 16-year-olds started as a school project is an Earthshot Prize finalist on the strength of alerts it says run 35 minutes ahead of NASA's. And in Sacramento and Islamabad, two governments spent this week writing down what AI is not allowed to do, one for frontier labs and one for civil servants. The thread today is the human layer: who reads the flagged message, who tests the shutdown switch, who is accountable when the model is wrong. --- Top Stories **1. Jacaranda Health's Kenyan Pregnancy Service Handles 15,000 Questions a Day, With 18 Nurses Behind the Model** NPR reported on September 17, 2026 on PROMPTS, the AI-assisted text service run by the Nairobi-based nonprofit Jacaranda Health. It began as plain SMS appointment reminders and now takes about 15,000 questions a day, up from fewer than 100 at launch, reaching an estimated 700,000 women a year across 24 Kenyan counties with operations extending to Ghana, Nigeria and Tanzania. The model classifies incoming messages, ranks urgency, and routes roughly 7 percent as urgent to 18 nurses who answer in the mother's own words, at a cost of about $2 pe\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-133/episode-133.mp3",
+      "mp3_bytes": 9477686,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-133/impact-signal-133.mp4",
+      "mp4_bytes": 56619787,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 592,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Amount: US$500,000 per organisation, up to 50 organisations, US$25 million total, paid in two equal annual instalments over 24 months, with funding starting no sooner than June 1, 2027",
+        "Deadline: October 6, 2026, 12:00 New York time",
+        "Eligibility: Registered nonprofits serving low-income people, running programmes that prepare low-income young people for work in an AI-driven economy, in geographies where Citi has a presence",
+        "Apply: [citigroup.com](https://www.citigroup.com/global/foundation/news/press-release/2026/citi-foundation-launches-fourth-global-innovation-challenge-committing-25-million-preparing-youth-ai)",
+        "November 17, 2026",
+        "Location: Mumbai, India",
+        "Not an open-entry event; the 15 finalists were announced September 18, 2026, and five prizes of one million pounds each are awarded on the night",
+        "Register: [earthshotprize.org](https://earthshotprize.org/winners-finalists/2026/)"
+      ],
+      "youtube_id": "mCRut2CK63o",
+      "youtube_url": "https://www.youtube.com/watch?v=mCRut2CK63o"
     }
   ],
-  "lastEpisode": 132,
-  "lastUpdated": "2026-09-18T12:56:38.999642+00:00",
-  "lastPublicEpisode": 132,
+  "lastEpisode": 133,
+  "lastUpdated": "2026-09-19T12:37:49.311402+00:00",
+  "lastPublicEpisode": 133,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }

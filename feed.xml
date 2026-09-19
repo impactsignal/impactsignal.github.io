@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#132: A Trafficking-Advert Classifier at 0.97 AUC, California Wildfire Drones at 5 Percent of Prevention Spending, GE HealthCare's 72-Hour Bed Forecast, Ghana's Million-Learner AI Target</title>
+      <title>#133: Jacaranda Health's 15,000 Daily Pregnancy Questions, Argentina's Teen-Built Fire Detector, California's Kill-Switch Order</title>
       <description />
+      <link>https://impactsignals.ai/episodes/133-jacaranda-health-s-15-000-daily-pregnancy-questions-argentina-s-teen-built-fire-detect/</link>
+      <guid isPermaLink="false">impact-signal-133</guid>
+      <pubDate>Sat, 19 Sep 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-133/episode-133.mp3" length="9477686" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#132: A Trafficking-Advert Classifier at 0.97 AUC, California Wildfire Drones at 5 Percent of Prevention Spending, GE HealthCare's 72-Hour Bed Forecast, Ghana's Million-Learner AI Target</title>
+      <description>Impact Signals #132: A Trafficking-Advert Classifier at 0.97 AUC, California Wildfire Drones at 5 Percent of Prevention Spending, GE HealthCare's 72-Hour Bed Forecast, Ghana's Million-Learner AI Target Four stories today put a number on something the sector usually argues about with adjectives. A team working from 464 job adverts supplied by anti-slavery charities reports how well a machine can tell trafficking recruitment from legitimate hiring; an optimisation group at MIT prices out what it would cost California to see almost every fire early; GE HealthCare ships a capacity forecast to Duke Health and Queen's in Honolulu with a horizon measured in hours; and UNESCO publishes the gap between 3,300 certified learners in Ghana and a target of one million. The signal is the arithmetic of prevention: each of these makes a cost, a horizon or a shortfall countable, and countable claims are the ones that can later be checked. --- Top Stories **1. A Classifier Trained on 464 Charity-Verified Job Adverts Separates Trafficking Recruitment From Legitimate Hiring at 0.87 to 0.97 AUC** An arXiv preprint submitted September 17, 2026 by Sajid Siraj, Mahnaz Hosseinzadeh, Amin Vafadarnikjoo and Shuyang Li tackles the labelling problem that has kept this work stalled: rather than scraping job boards, the team obtained 464 verified advertisements from anti-slavery charities, 164 deceptive and 300 legitimate, spanning nine origin countries and 21 industry sectors. Framing the task through sig…</description>
       <link>https://impactsignals.ai/episodes/132-a-trafficking-advert-classifier-at-0-97-auc-california-wildfire-drones-at-5-percent-of/</link>
       <guid isPermaLink="false">impact-signal-132</guid>
       <pubDate>Fri, 18 Sep 2026 14:00:00 +0000</pubDate>
