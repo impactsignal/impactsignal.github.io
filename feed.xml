@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#133: Jacaranda Health's 15,000 Daily Pregnancy Questions, Argentina's Teen-Built Fire Detector, California's Kill-Switch Order</title>
+      <title>#134: A 243,539-Image Tanzanian Maize Dataset, CAD 300 Million for LawZero, Wildfire Cameras at $45,000</title>
       <description />
+      <link>https://impactsignals.ai/episodes/134-a-243-539-image-tanzanian-maize-dataset-cad-300-million-for-lawzero-wildfire-cameras-a/</link>
+      <guid isPermaLink="false">impact-signal-134</guid>
+      <pubDate>Sun, 20 Sep 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-134/episode-134.mp3" length="7412968" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#133: Jacaranda Health's 15,000 Daily Pregnancy Questions, Argentina's Teen-Built Fire Detector, California's Kill-Switch Order</title>
+      <description>Impact Signals #133: Jacaranda Health's 15,000 Daily Pregnancy Questions, Argentina's Teen-Built Fire Detector, California's Kill-Switch Order In Nairobi, the nonprofit Jacaranda Health now fields about 15,000 maternal health questions a day through an AI text service, and routes the 7 percent it marks urgent to a team of 18 nurses. In Cordoba, a wildfire detection company three 16-year-olds started as a school project is an Earthshot Prize finalist on the strength of alerts it says run 35 minutes ahead of NASA's. And in Sacramento and Islamabad, two governments spent this week writing down what AI is not allowed to do, one for frontier labs and one for civil servants. The thread today is the human layer: who reads the flagged message, who tests the shutdown switch, who is accountable when the model is wrong. --- Top Stories **1. Jacaranda Health's Kenyan Pregnancy Service Handles 15,000 Questions a Day, With 18 Nurses Behind the Model** NPR reported on September 17, 2026 on PROMPTS, the AI-assisted text service run by the Nairobi-based nonprofit Jacaranda Health. It began as plain SMS appointment reminders and now takes about 15,000 questions a day, up from fewer than 100 at launch, reaching an estimated 700,000 women a year across 24 Kenyan counties with operations extending to Ghana, Nigeria and Tanzania. The model classifies incoming messages, ranks urgency, and routes roughly 7 percent as urgent to 18 nurses who answer in the mother's own words, at a cost of about $2 pe…</description>
       <link>https://impactsignals.ai/episodes/133-jacaranda-health-s-15-000-daily-pregnancy-questions-argentina-s-teen-built-fire-detect/</link>
       <guid isPermaLink="false">impact-signal-133</guid>
       <pubDate>Sat, 19 Sep 2026 14:00:00 +0000</pubDate>

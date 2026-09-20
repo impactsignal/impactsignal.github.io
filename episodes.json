@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 134,
+  "nextEpisode": 135,
   "episodes": [
     {
       "number": 1,
@@ -4100,10 +4100,43 @@
       ],
       "youtube_id": "mCRut2CK63o",
       "youtube_url": "https://www.youtube.com/watch?v=mCRut2CK63o"
+    },
+    {
+      "number": 134,
+      "date": "2026-09-20",
+      "title": "Impact Signals #134 \u2014 A 243,539-Image Tanzanian Maize Dataset, CAD 300 Million for LawZero, Wildfire Cameras at $45,000",
+      "headline": "A 243,539-Image Tanzanian Maize Dataset, CAD 300 Million for LawZero, Wildfire Cameras at $45,000",
+      "slug": "134-a-243-539-image-tanzanian-maize-dataset-cad-300-million-for-lawzero-wildfire-cameras-a",
+      "description": "Impact Signals #134: A 243,539-Image Tanzanian Maize Dataset, CAD 300 Million for LawZero, Wildfire Cameras at $45,000 Two Tanzanian researchers, Neema Mduma and Lilian Laizer, put 243,539 labelled maize-leaf images into the open record this week, a set roughly ten times larger than the Tanzanian maize data that existed before it. Canada and Germany jointly committed up to CAD 300 million to LawZero, the non-profit Yoshua Bengio founded to build AI oversight tools outside the commercial race. In Teton County, Wyoming, a fire department that serves 23,000 people switched on public live feeds from two AI wildfire cameras it bought for $45,000. Today the money and the data both moved before the deployments did: what shipped was the raw material, not the result. --- Top Stories **1. Tanzanian Researchers Publish 243,539 Labelled Maize-Leaf Images in Scientific Data** Neema Mduma and Lilian Laizer published a labelled image dataset of healthy and diseased maize leaves collected in Tanzania in Scientific Data on September 17, 2026. The set carries 243,539 images across three states: healthy leaves, leaves with Maize Lethal Necrosis, and leaves with Maize Streak Virus, the two diseases the paper names as among the most significant threats to Tanzanian maize. The images were collected across multiple growing seasons, which separates this from a single-season snapshot, and every image is annotated for three separate machine-learning tasks: classification, object detection, and segmen\u2026",
+      "rss_description": "Impact Signals #134: A 243,539-Image Tanzanian Maize Dataset, CAD 300 Million for LawZero, Wildfire Cameras at $45,000 Two Tanzanian researchers, Neema Mduma and Lilian Laizer, put 243,539 labelled maize-leaf images into the open record this week, a set roughly ten times larger than the Tanzanian maize data that existed before it. Canada and Germany jointly committed up to CAD 300 million to LawZero, the non-profit Yoshua Bengio founded to build AI oversight tools outside the commercial race. In Teton County, Wyoming, a fire department that serves 23,000 people switched on public live feeds from two AI wildfire cameras it bought for $45,000. Today the money and the data both moved before the deployments did: what shipped was the raw material, not the result. --- Top Stories **1. Tanzanian Researchers Publish 243,539 Labelled Maize-Leaf Images in Scientific Data** Neema Mduma and Lilian Laizer published a labelled image dataset of healthy and diseased maize leaves collected in Tanzania in Scientific Data on September 17, 2026. The set carries 243,539 images across three states: healthy leaves, leaves with Maize Lethal Necrosis, and leaves with Maize Streak Virus, the two diseases the paper names as among the most significant threats to Tanzanian maize. The images were collected across multiple growing seasons, which separates this from a single-season snapshot, and every image is annotated for three separate machine-learning tasks: classification, object detection, and segmen\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-134/episode-134.mp3",
+      "mp3_bytes": 7412968,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-134/impact-signal-134.mp4",
+      "mp4_bytes": 46422720,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 463,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Saturdays beginning October 31, 2026, then November 7, 2026",
+        "Deadline: September 30, 2026",
+        "Location: Allegheny County, Pennsylvania (with KINBER and Penn State Greater Allegheny)",
+        "Free, grades 9-12, no prior programming experience required; six tracks including healthcare and ecology/food security. A Boston cohort with SL2 runs October 31, November 7 and November 14.",
+        "Register: [markcubanai.org](https://markcubanai.org/students)",
+        "Amount: $10 million total, grants of $75,000 to $1 million",
+        "Deadline: reported as October 21, 2026 when this show covered the call on September 14; not re-verified against the funder page, so confirm before relying on it",
+        "Apply: [humanityai.ai](https://humanityai.ai/press-release-open-call-for-grants/)"
+      ],
+      "youtube_id": "d7SvzQ4Awgw",
+      "youtube_url": "https://www.youtube.com/watch?v=d7SvzQ4Awgw"
     }
   ],
-  "lastEpisode": 133,
-  "lastUpdated": "2026-09-19T12:37:49.311402+00:00",
-  "lastPublicEpisode": 133,
+  "lastEpisode": 134,
+  "lastUpdated": "2026-09-20T12:35:54.564103+00:00",
+  "lastPublicEpisode": 134,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
