@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#134: A 243,539-Image Tanzanian Maize Dataset, CAD 300 Million for LawZero, Wildfire Cameras at $45,000</title>
+      <title>#135: Athens Hospital Reports 40 Percent Drop in Under-Triage, Google Adds 100 Million Dollars to Gates Farm AI, Texas Counts 8 of 160 Wildfire Plans</title>
       <description />
+      <link>https://impactsignals.ai/episodes/135-athens-hospital-reports-40-percent-drop-in-under-triage-google-adds-100-million-dollar/</link>
+      <guid isPermaLink="false">impact-signal-135</guid>
+      <pubDate>Mon, 21 Sep 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-135/episode-135.mp3" length="9856775" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#134: A 243,539-Image Tanzanian Maize Dataset, CAD 300 Million for LawZero, Wildfire Cameras at $45,000</title>
+      <description>Impact Signals #134: A 243,539-Image Tanzanian Maize Dataset, CAD 300 Million for LawZero, Wildfire Cameras at $45,000 Two Tanzanian researchers, Neema Mduma and Lilian Laizer, put 243,539 labelled maize-leaf images into the open record this week, a set roughly ten times larger than the Tanzanian maize data that existed before it. Canada and Germany jointly committed up to CAD 300 million to LawZero, the non-profit Yoshua Bengio founded to build AI oversight tools outside the commercial race. In Teton County, Wyoming, a fire department that serves 23,000 people switched on public live feeds from two AI wildfire cameras it bought for $45,000. Today the money and the data both moved before the deployments did: what shipped was the raw material, not the result. --- Top Stories **1. Tanzanian Researchers Publish 243,539 Labelled Maize-Leaf Images in Scientific Data** Neema Mduma and Lilian Laizer published a labelled image dataset of healthy and diseased maize leaves collected in Tanzania in Scientific Data on September 17, 2026. The set carries 243,539 images across three states: healthy leaves, leaves with Maize Lethal Necrosis, and leaves with Maize Streak Virus, the two diseases the paper names as among the most significant threats to Tanzanian maize. The images were collected across multiple growing seasons, which separates this from a single-season snapshot, and every image is annotated for three separate machine-learning tasks: classification, object detection, and segmen…</description>
       <link>https://impactsignals.ai/episodes/134-a-243-539-image-tanzanian-maize-dataset-cad-300-million-for-lawzero-wildfire-cameras-a/</link>
       <guid isPermaLink="false">impact-signal-134</guid>
       <pubDate>Sun, 20 Sep 2026 14:00:00 +0000</pubDate>
