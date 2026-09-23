@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#136: China Hands Nepal an AI Early-Warning Platform, Google.org Funds AI Inside Free Tax Filing, IGAD Braces for a Forecast El Nino</title>
+      <title>#137: Google and Gates Foundation Put $100 Million Behind AI Tools for 200 Million Farmers, Microsoft's Open-Source AI Maps Venezuela's Earthquake Overnight, Colorado Springs AI Agent Handles Half of Non-Emergency Calls</title>
       <description />
+      <link>https://impactsignals.ai/episodes/137-google-and-gates-foundation-put-100-million-behind-ai-tools-for-200-million-farmers-mi/</link>
+      <guid isPermaLink="false">impact-signal-137</guid>
+      <pubDate>Wed, 23 Sep 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-137/episode-137.mp3" length="6377265" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#136: China Hands Nepal an AI Early-Warning Platform, Google.org Funds AI Inside Free Tax Filing, IGAD Braces for a Forecast El Nino</title>
+      <description>Impact Signals #136: China Hands Nepal an AI Early-Warning Platform, Google.org Funds AI Inside Free Tax Filing, IGAD Braces for a Forecast El Nino China's Meteorological Administration handed Nepal a customized version of its MAZU early-warning platform this week, built for Nepal's terrain and triggered by a fatal mudslide at the China-Nepal border. In Washington, Google.org funded Code for America to put an AI document-screener inside GetYourRefund, the free tax-filing service that has already returned nearly $657 million to low-income American filers. And in Addis Ababa, the Intergovernmental Authority on Development bolted an AI briefing assistant onto its regional early-warning system, trying to get member states to act on a forecast El Nino that could push 49 million people into hunger before the October rains arrive. Today's signal: the AI showing up in humanitarian and public-benefit systems this week isn't being built in-house — it's arriving as someone else's platform, wrapped around an old coordination problem. --- Top Stories **1. China Hands Nepal a Customized AI Early-Warning Platform After the Gyirong-Rasuwa Mudslide** The China Meteorological Administration delivered a Nepal-specific version of MAZU, its AI-driven multi-hazard early-warning platform, to Nepal's meteorological department, announced September 22. China first offered Nepal cloud-based trial use of the platform on August 29, after a deadly mudslide at the Gyirong-Rasuwa border crossing between th…</description>
       <link>https://impactsignals.ai/episodes/136-china-hands-nepal-an-ai-early-warning-platform-google-org-funds-ai-inside-free-tax-fil/</link>
       <guid isPermaLink="false">impact-signal-136</guid>
       <pubDate>Tue, 22 Sep 2026 14:00:00 +0000</pubDate>
