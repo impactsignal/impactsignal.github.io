@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 138,
+  "nextEpisode": 139,
   "episodes": [
     {
       "number": 1,
@@ -4232,10 +4232,43 @@
       ],
       "youtube_id": "Z1TvoiSmd64",
       "youtube_url": "https://www.youtube.com/watch?v=Z1TvoiSmd64"
+    },
+    {
+      "number": 138,
+      "date": "2026-09-24",
+      "title": "Impact Signals #138 \u2014 OpenEvidence Goes Free in 100 Countries, MTN and Gates Target Nigeria's Maternal Deaths, Indiana Clears Flood Debris With Drones",
+      "headline": "OpenEvidence Goes Free in 100 Countries, MTN and Gates Target Nigeria's Maternal Deaths, Indiana Clears Flood Debris With Drones",
+      "slug": "138-openevidence-goes-free-in-100-countries-mtn-and-gates-target-nigeria-s-maternal-deaths",
+      "description": "Impact Signals #138: OpenEvidence Goes Free in 100 Countries, MTN and Gates Target Nigeria's Maternal Deaths, Indiana Clears Flood Debris With Drones OpenEvidence and Anthropic are making a clinical-evidence tool that US doctors consulted 42 million times in August free to clinicians in about 100 lower-income countries, from Uganda to Haiti. In Nigeria, which carries nearly 30 percent of the world's maternal deaths, the MTN Group Foundation and the Gates Foundation are pairing AI decision support with phones and data bundles for 5,000 health workers. Indiana says its flood-debris task force is running on under half its usual staff, and new reporting shows what a $500 million Gates anti-poverty program delivered before it was closed to fund an AI bet. Today's signal is who gets the medical and economic AI, and who pays when a funder changes its mind. --- Top Stories **1. OpenEvidence and Anthropic Make a Clinical-Evidence AI Free to Clinicians in About 100 Lower-Income Countries** OpenEvidence, a platform that answers doctors' questions from peer-reviewed research and treatment guidelines, announced with Anthropic on September 23 that a specialised version will be free to healthcare providers in about 100 low- and middle-income countries, including Uganda, Angola, Sudan, Haiti and Mongolia. Anthropic supplies the models; OpenEvidence says it will tailor the system to each region's health infrastructure. The existing product is already free to clinicians in the US and Europe,\u2026",
+      "rss_description": "Impact Signals #138: OpenEvidence Goes Free in 100 Countries, MTN and Gates Target Nigeria's Maternal Deaths, Indiana Clears Flood Debris With Drones OpenEvidence and Anthropic are making a clinical-evidence tool that US doctors consulted 42 million times in August free to clinicians in about 100 lower-income countries, from Uganda to Haiti. In Nigeria, which carries nearly 30 percent of the world's maternal deaths, the MTN Group Foundation and the Gates Foundation are pairing AI decision support with phones and data bundles for 5,000 health workers. Indiana says its flood-debris task force is running on under half its usual staff, and new reporting shows what a $500 million Gates anti-poverty program delivered before it was closed to fund an AI bet. Today's signal is who gets the medical and economic AI, and who pays when a funder changes its mind. --- Top Stories **1. OpenEvidence and Anthropic Make a Clinical-Evidence AI Free to Clinicians in About 100 Lower-Income Countries** OpenEvidence, a platform that answers doctors' questions from peer-reviewed research and treatment guidelines, announced with Anthropic on September 23 that a specialised version will be free to healthcare providers in about 100 low- and middle-income countries, including Uganda, Angola, Sudan, Haiti and Mongolia. Anthropic supplies the models; OpenEvidence says it will tailor the system to each region's health infrastructure. The existing product is already free to clinicians in the US and Europe,\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-138/episode-138.mp3",
+      "mp3_bytes": 7321853,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-138/impact-signal-138.mp4",
+      "mp4_bytes": 46283412,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 457,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Session dates not yet confirmed on the UNDRR page",
+        "Location: Virtual",
+        "A UN disaster-risk-reduction series on where AI helps and where it falls short in disaster management",
+        "Register: [undrr.org](https://www.undrr.org/event/webinar-series-artificial-intelligence-disaster-management-scope-and-limitations)",
+        "Deadline and amounts not yet confirmed",
+        "Funds public-interest AI work, prioritising open-weight and open-source models where AI is core to the work; call published September 10",
+        "Apply: [humanityai.ai](https://humanityai.ai/press-release-open-call-for-grants/)",
+        "India / North Indian Ocean:** Tropical cyclone ONE-26, GDACS Orange notification, tropical-storm strength (max 83 km/h), vulnerability listed as high; ongoing September 22 to 24, watch for rainfall and flooding. Source: [gdacs.org](https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001326)."
+      ],
+      "youtube_id": "_F5qC4ixqn0",
+      "youtube_url": "https://www.youtube.com/watch?v=_F5qC4ixqn0"
     }
   ],
-  "lastEpisode": 137,
-  "lastUpdated": "2026-09-23T12:35:58.468385+00:00",
-  "lastPublicEpisode": 137,
+  "lastEpisode": 138,
+  "lastUpdated": "2026-09-24T12:33:46.747913+00:00",
+  "lastPublicEpisode": 138,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
