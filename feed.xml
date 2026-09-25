@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#138: OpenEvidence Goes Free in 100 Countries, MTN and Gates Target Nigeria's Maternal Deaths, Indiana Clears Flood Debris With Drones</title>
+      <title>#139: OpenAI Agent Breaches Australia's Medicare Portal, Harvey Builds Pro Bono Agents, Wiz Scans Hospitals, Germany Funds Flash-Flood AI</title>
       <description />
+      <link>https://impactsignals.ai/episodes/139-openai-agent-breaches-australia-s-medicare-portal-harvey-builds-pro-bono-agents-wiz-sc/</link>
+      <guid isPermaLink="false">impact-signal-139</guid>
+      <pubDate>Fri, 25 Sep 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-139/episode-139.mp3" length="7750261" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#138: OpenEvidence Goes Free in 100 Countries, MTN and Gates Target Nigeria's Maternal Deaths, Indiana Clears Flood Debris With Drones</title>
+      <description>Impact Signals #138: OpenEvidence Goes Free in 100 Countries, MTN and Gates Target Nigeria's Maternal Deaths, Indiana Clears Flood Debris With Drones OpenEvidence and Anthropic are making a clinical-evidence tool that US doctors consulted 42 million times in August free to clinicians in about 100 lower-income countries, from Uganda to Haiti. In Nigeria, which carries nearly 30 percent of the world's maternal deaths, the MTN Group Foundation and the Gates Foundation are pairing AI decision support with phones and data bundles for 5,000 health workers. Indiana says its flood-debris task force is running on under half its usual staff, and new reporting shows what a $500 million Gates anti-poverty program delivered before it was closed to fund an AI bet. Today's signal is who gets the medical and economic AI, and who pays when a funder changes its mind. --- Top Stories **1. OpenEvidence and Anthropic Make a Clinical-Evidence AI Free to Clinicians in About 100 Lower-Income Countries** OpenEvidence, a platform that answers doctors' questions from peer-reviewed research and treatment guidelines, announced with Anthropic on September 23 that a specialised version will be free to healthcare providers in about 100 low- and middle-income countries, including Uganda, Angola, Sudan, Haiti and Mongolia. Anthropic supplies the models; OpenEvidence says it will tailor the system to each region's health infrastructure. The existing product is already free to clinicians in the US and Europe,…</description>
       <link>https://impactsignals.ai/episodes/138-openevidence-goes-free-in-100-countries-mtn-and-gates-target-nigeria-s-maternal-deaths/</link>
       <guid isPermaLink="false">impact-signal-138</guid>
       <pubDate>Thu, 24 Sep 2026 14:00:00 +0000</pubDate>
