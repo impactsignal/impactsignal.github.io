@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 140,
+  "nextEpisode": 141,
   "episodes": [
     {
       "number": 1,
@@ -4298,10 +4298,43 @@
       ],
       "youtube_id": "vQaKy3Bgnco",
       "youtube_url": "https://www.youtube.com/watch?v=vQaKy3Bgnco"
+    },
+    {
+      "number": 140,
+      "date": "2026-09-26",
+      "title": "Impact Signals #140 \u2014 XPRIZE Pays for 10-Minute Wildfire Response, Sindh Wires AI Into Maternal Care, US Government Web Accessibility Handed to Automation",
+      "headline": "XPRIZE Pays for 10-Minute Wildfire Response, Sindh Wires AI Into Maternal Care, US Government Web Accessibility Handed to Automation",
+      "slug": "140-xprize-pays-for-10-minute-wildfire-response-sindh-wires-ai-into-maternal-care-us-gover",
+      "description": "Impact Signals #140: XPRIZE Pays for 10-Minute Wildfire Response, Sindh Wires AI Into Maternal Care, US Government Web Accessibility Handed to Automation XPRIZE paid out $4.55 million to wildfire systems that were tested in the Alaskan wilderness on a hard bar: find a fire and put it out within 10 minutes of ignition. Pakistan's Sindh province signed a three-year deal to bring AI risk scoring and voice records into its public maternal clinics, with Aga Khan University running the safety trials and the tools limited to decision support. Meanwhile in Washington, the design system behind US government websites is being steered toward automated accessibility testing, which a former engineering lead says can reliably catch about 30 percent of problems. Today's signal is who checks the machine, and whether that check happens before the system reaches people or after. --- Top Stories **1. XPRIZE Wildfire Pays $4.55 Million to Systems That Had to Detect and Suppress a Fire Within 10 Minutes in Alaska** On September 23 XPRIZE named the awardees of XPRIZE Wildfire, an $11 million competition launched in 2023 and sponsored by PG&E, the Gordon and Betty Moore Foundation, the Minderoo Foundation and Lockheed Martin. The autonomous-response track, tested in June in the Alaskan wilderness, required teams to autonomously detect and fully suppress a high-risk fire within 10 minutes of ignition anywhere across 1,000 square kilometres. That track paid $3.5 million: $1.2 million to Anduril Indu\u2026",
+      "rss_description": "Impact Signals #140: XPRIZE Pays for 10-Minute Wildfire Response, Sindh Wires AI Into Maternal Care, US Government Web Accessibility Handed to Automation XPRIZE paid out $4.55 million to wildfire systems that were tested in the Alaskan wilderness on a hard bar: find a fire and put it out within 10 minutes of ignition. Pakistan's Sindh province signed a three-year deal to bring AI risk scoring and voice records into its public maternal clinics, with Aga Khan University running the safety trials and the tools limited to decision support. Meanwhile in Washington, the design system behind US government websites is being steered toward automated accessibility testing, which a former engineering lead says can reliably catch about 30 percent of problems. Today's signal is who checks the machine, and whether that check happens before the system reaches people or after. --- Top Stories **1. XPRIZE Wildfire Pays $4.55 Million to Systems That Had to Detect and Suppress a Fire Within 10 Minutes in Alaska** On September 23 XPRIZE named the awardees of XPRIZE Wildfire, an $11 million competition launched in 2023 and sponsored by PG&E, the Gordon and Betty Moore Foundation, the Minderoo Foundation and Lockheed Martin. The autonomous-response track, tested in June in the Alaskan wilderness, required teams to autonomously detect and fully suppress a high-risk fire within 10 minutes of ignition anywhere across 1,000 square kilometres. That track paid $3.5 million: $1.2 million to Anduril Indu\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-140/episode-140.mp3",
+      "mp3_bytes": 8664755,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-140/impact-signal-140.mp4",
+      "mp4_bytes": 52800724,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 541,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "India:** Monsoon floods since August 9, GDACS Orange; 42 deaths and 260,529 displaced as of the September 22 update; ongoing. Source: [gdacs.org](https://www.gdacs.org/).",
+        "Nepal:** Bhotekoshi glacial flash flood of August 26, listed as ongoing by ReliefWeb; at the UN General Assembly this week Nepal cited roughly $5 billion in losses and sought grant-based recovery finance and a Himalayan early-warning data-sharing arrangement. Source: [reliefweb.int](https://reliefweb.int/disasters).",
+        "Greater Horn of Africa and Central America/Caribbean:** GDACS Orange drought notifications ongoing since July 3 across Djibouti, Eritrea, Ethiopia, Kenya, Sudan, Somalia, South Sudan and Uganda, and across Central America and the Caribbean. Source: [gdacs.org](https://www.gdacs.org/).",
+        "New Caledonia:** M6.6 earthquake 80 km ENE of Tadine on September 25, USGS PAGER green; no major damage reported. Source: [usgs.gov](https://earthquake.usgs.gov/earthquakes/map/).",
+        "[renewableenergyworld.com](https://www.renewableenergyworld.com/power-grid/outage-management/wildfire-detection-from-space-xprize-competition-awards-promising-emerging-resilience-tech/)",
+        "[dronelife.com](https://dronelife.com/2026/09/24/fire-foresight-wins-500000-xprize-wildfire-award/)",
+        "[prnewswire.com](https://www.prnewswire.com/news-releases/xprize-wildfire-awards-4-55m-to-innovators-advancing-wildfire-detection-and-response-302887858.html)",
+        "[biztoday.news](https://www.biztoday.news/2026/09/25/sindh-health-department-lums-and-aga-khan-university-sign-historic-agreement/)"
+      ],
+      "youtube_id": "RoGKrNws5Us",
+      "youtube_url": "https://www.youtube.com/watch?v=RoGKrNws5Us"
     }
   ],
-  "lastEpisode": 139,
-  "lastUpdated": "2026-09-25T12:32:06.937246+00:00",
-  "lastPublicEpisode": 139,
+  "lastEpisode": 140,
+  "lastUpdated": "2026-09-26T12:27:46.282258+00:00",
+  "lastPublicEpisode": 140,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
