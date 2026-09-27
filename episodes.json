@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 141,
+  "nextEpisode": 142,
   "episodes": [
     {
       "number": 1,
@@ -4331,10 +4331,43 @@
       ],
       "youtube_id": "RoGKrNws5Us",
       "youtube_url": "https://www.youtube.com/watch?v=RoGKrNws5Us"
+    },
+    {
+      "number": 141,
+      "date": "2026-09-27",
+      "title": "Impact Signals #141 \u2014 Who Gets Reached, WHO Africa's Outbreak Call, Project TRACE, Maryland Medicaid",
+      "headline": "Who Gets Reached, WHO Africa's Outbreak Call, Project TRACE, Maryland Medicaid",
+      "slug": "141-who-gets-reached-who-africa-s-outbreak-call-project-trace-maryland-medicaid",
+      "description": "Impact Signals #141: Who Gets Reached, WHO Africa's Outbreak Call, Project TRACE, Maryland Medicaid On the margins of the UN General Assembly, African leaders adopted a New York Call to Action that names AI-assisted outbreak intelligence as part of cross-border preparedness, with countries keeping control of their own data. In Cambridge, a US-Cameroon team won a 77-country city climate hackathon with a tool that listens to recorded conversations in languages like Zulu to find the flood survivors nobody has reached, while Maryland brought in three civic-tech groups to rewrite the Medicaid notices that will decide whether 320,000 people keep coverage. This week's signal is reach: the stories turn on who gets counted, contacted and kept in the system, not on the models themselves. --- Top Stories **1. African Leaders Adopt a New York Call to Action on AI-Assisted Cross-Border Outbreak Intelligence** On 25 September 2026, at a Presidential Dialogue on High-Threat Pathogens convened by the WHO African Region, Dure Technologies and Central African Republic President Faustin-Archange Touad\u00e9ra, African leaders, health ministers and partners adopted the New York Call to Action on Cross-Border Preparedness Intelligence in Africa. It builds on an August 2026 memorandum signed by health ministers from 10 African countries and on WHO Africa's Preparedness Data Exchange (PDX), running since March 2026, which pools preparedness and risk information with AI-enabled capabilities while each c\u2026",
+      "rss_description": "Impact Signals #141: Who Gets Reached, WHO Africa's Outbreak Call, Project TRACE, Maryland Medicaid On the margins of the UN General Assembly, African leaders adopted a New York Call to Action that names AI-assisted outbreak intelligence as part of cross-border preparedness, with countries keeping control of their own data. In Cambridge, a US-Cameroon team won a 77-country city climate hackathon with a tool that listens to recorded conversations in languages like Zulu to find the flood survivors nobody has reached, while Maryland brought in three civic-tech groups to rewrite the Medicaid notices that will decide whether 320,000 people keep coverage. This week's signal is reach: the stories turn on who gets counted, contacted and kept in the system, not on the models themselves. --- Top Stories **1. African Leaders Adopt a New York Call to Action on AI-Assisted Cross-Border Outbreak Intelligence** On 25 September 2026, at a Presidential Dialogue on High-Threat Pathogens convened by the WHO African Region, Dure Technologies and Central African Republic President Faustin-Archange Touad\u00e9ra, African leaders, health ministers and partners adopted the New York Call to Action on Cross-Border Preparedness Intelligence in Africa. It builds on an August 2026 memorandum signed by health ministers from 10 African countries and on WHO Africa's Preparedness Data Exchange (PDX), running since March 2026, which pools preparedness and risk information with AI-enabled capabilities while each c\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-141/episode-141.mp3",
+      "mp3_bytes": 7293013,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-141/impact-signal-141.mp4",
+      "mp4_bytes": 45488159,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 455,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "November 3, 2026",
+        "Location: Viladecans, Spain",
+        "The AI x City Climate Action winners (Project TRACE, I-AdapT, FloodFactAI) present here; registration page not yet verified",
+        "Deadline: October 9, 2026, per an opportunities aggregator; not yet confirmed on nethope.org, and NetHope may select before the deadline",
+        "Part-time, remote, internationally open fellowship on AI adoption and governance in humanitarian organizations",
+        "Apply: [globalsouthopportunities.com](https://www.globalsouthopportunities.com/2026/09/26/humanitarian-7/)",
+        "New Caledonia:** M6.6 earthquake 80 km ENE of Tadine on September 25 (USGS); PAGER alert green, no major damage reported. Source: [usgs.gov](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txpi).",
+        "North Indian Ocean:** Tropical cyclone ONE-26, active September 22 to 24, GDACS Orange, maximum sustained wind 83 km/h; event concluded per GDACS. Source: [gdacs.org](https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001326)."
+      ],
+      "youtube_id": "iPnR53OyM2M",
+      "youtube_url": "https://www.youtube.com/watch?v=iPnR53OyM2M"
     }
   ],
-  "lastEpisode": 140,
-  "lastUpdated": "2026-09-26T12:27:46.282258+00:00",
-  "lastPublicEpisode": 140,
+  "lastEpisode": 141,
+  "lastUpdated": "2026-09-27T12:27:37.218838+00:00",
+  "lastPublicEpisode": 141,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }

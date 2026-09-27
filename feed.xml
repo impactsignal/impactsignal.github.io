@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#140: XPRIZE Pays for 10-Minute Wildfire Response, Sindh Wires AI Into Maternal Care, US Government Web Accessibility Handed to Automation</title>
+      <title>#141: Who Gets Reached, WHO Africa's Outbreak Call, Project TRACE, Maryland Medicaid</title>
       <description />
+      <link>https://impactsignals.ai/episodes/141-who-gets-reached-who-africa-s-outbreak-call-project-trace-maryland-medicaid/</link>
+      <guid isPermaLink="false">impact-signal-141</guid>
+      <pubDate>Sun, 27 Sep 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-141/episode-141.mp3" length="7293013" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#140: XPRIZE Pays for 10-Minute Wildfire Response, Sindh Wires AI Into Maternal Care, US Government Web Accessibility Handed to Automation</title>
+      <description>Impact Signals #140: XPRIZE Pays for 10-Minute Wildfire Response, Sindh Wires AI Into Maternal Care, US Government Web Accessibility Handed to Automation XPRIZE paid out $4.55 million to wildfire systems that were tested in the Alaskan wilderness on a hard bar: find a fire and put it out within 10 minutes of ignition. Pakistan's Sindh province signed a three-year deal to bring AI risk scoring and voice records into its public maternal clinics, with Aga Khan University running the safety trials and the tools limited to decision support. Meanwhile in Washington, the design system behind US government websites is being steered toward automated accessibility testing, which a former engineering lead says can reliably catch about 30 percent of problems. Today's signal is who checks the machine, and whether that check happens before the system reaches people or after. --- Top Stories **1. XPRIZE Wildfire Pays $4.55 Million to Systems That Had to Detect and Suppress a Fire Within 10 Minutes in Alaska** On September 23 XPRIZE named the awardees of XPRIZE Wildfire, an $11 million competition launched in 2023 and sponsored by PG&amp;E, the Gordon and Betty Moore Foundation, the Minderoo Foundation and Lockheed Martin. The autonomous-response track, tested in June in the Alaskan wilderness, required teams to autonomously detect and fully suppress a high-risk fire within 10 minutes of ignition anywhere across 1,000 square kilometres. That track paid $3.5 million: $1.2 million to Anduril Indu…</description>
       <link>https://impactsignals.ai/episodes/140-xprize-pays-for-10-minute-wildfire-response-sindh-wires-ai-into-maternal-care-us-gover/</link>
       <guid isPermaLink="false">impact-signal-140</guid>
       <pubDate>Sat, 26 Sep 2026 14:00:00 +0000</pubDate>
