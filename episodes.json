@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 142,
+  "nextEpisode": 143,
   "episodes": [
     {
       "number": 1,
@@ -4364,10 +4364,43 @@
       ],
       "youtube_id": "iPnR53OyM2M",
       "youtube_url": "https://www.youtube.com/watch?v=iPnR53OyM2M"
+    },
+    {
+      "number": 142,
+      "date": "2026-09-29",
+      "title": "Impact Signals #142 \u2014 South Korea's $692M AI Disaster Plan, Google-Mexico Flood Alerts, and a National AI Chatbot for US Government Services",
+      "headline": "South Korea's $692M AI Disaster Plan, Google-Mexico Flood Alerts, and a National AI Chatbot for US Government Services",
+      "slug": "142-south-korea-s-692m-ai-disaster-plan-google-mexico-flood-alerts-and-a-national-ai-chatb",
+      "description": "Impact Signals #142: South Korea's $692M AI Disaster Plan, Google-Mexico Flood Alerts, and a National AI Chatbot for US Government Services South Korea's Ministry of the Interior and Safety committed roughly $692 million through 2030 to build AI systems that predict disaster risk and drive evacuation decisions, starting with pilots in Busan, Yeongcheon, and Inje County. Mexico's national water commission and weather service partnered with Google to route AI-generated flood and hurricane forecasts directly into Android, Search, and Maps, pushing flash-flood warnings out with up to 24 hours' lead time. In Washington, the Trump administration launched America.gov, an AI chatbot meant to consolidate roughly 29,000 federal service sites into one entry point, while a new $50 million fund and a Singapore hospital rollout show the same AI-as-infrastructure pattern reaching accessibility investing and frontline healthcare. Today's through-line: governments and capital are backing AI disaster and access systems with real budgets and real distribution, not strategy papers. --- Top Stories **1. South Korea Commits $692 Million to AI-Driven Disaster Evacuation and Risk Prediction by 2030** South Korea's Ministry of the Interior and Safety unveiled a government-wide plan to spend roughly $692 million (940 billion won) through 2030 building AI systems that predict disaster risk and support evacuation and emergency decisions during floods and typhoons. The plan bundles 50 separate projects\u2026",
+      "rss_description": "Impact Signals #142: South Korea's $692M AI Disaster Plan, Google-Mexico Flood Alerts, and a National AI Chatbot for US Government Services South Korea's Ministry of the Interior and Safety committed roughly $692 million through 2030 to build AI systems that predict disaster risk and drive evacuation decisions, starting with pilots in Busan, Yeongcheon, and Inje County. Mexico's national water commission and weather service partnered with Google to route AI-generated flood and hurricane forecasts directly into Android, Search, and Maps, pushing flash-flood warnings out with up to 24 hours' lead time. In Washington, the Trump administration launched America.gov, an AI chatbot meant to consolidate roughly 29,000 federal service sites into one entry point, while a new $50 million fund and a Singapore hospital rollout show the same AI-as-infrastructure pattern reaching accessibility investing and frontline healthcare. Today's through-line: governments and capital are backing AI disaster and access systems with real budgets and real distribution, not strategy papers. --- Top Stories **1. South Korea Commits $692 Million to AI-Driven Disaster Evacuation and Risk Prediction by 2030** South Korea's Ministry of the Interior and Safety unveiled a government-wide plan to spend roughly $692 million (940 billion won) through 2030 building AI systems that predict disaster risk and support evacuation and emergency decisions during floods and typhoons. The plan bundles 50 separate projects\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-142/episode-142.mp3",
+      "mp3_bytes": 7987244,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-142/impact-signal-142.mp4",
+      "mp4_bytes": 50903442,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 499,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Amount: $75,000-$1,000,000 (grant periods up to 3 years)",
+        "Deadline: October 21, 2026",
+        "Eligibility: U.S.-based organizations, collaborations, and individuals working on community-led AI governance or use in education, labor and the economy, or humanities/arts/culture",
+        "Apply: [humanityai.ai](https://humanityai.ai/open-call/)",
+        "December 13, 2026, JW Marriott Marquis, Miami, on the eve of the G20 Leaders' Summit",
+        "Nomination deadline: November 10, 2026 (free to enter)",
+        "Includes an \"AI for Social Good\" category",
+        "Register: [awards.knowledgenetworks.org](https://awards.knowledgenetworks.org/region/miami/)"
+      ],
+      "youtube_id": "fJFm0A-ufgQ",
+      "youtube_url": "https://www.youtube.com/watch?v=fJFm0A-ufgQ"
     }
   ],
-  "lastEpisode": 141,
-  "lastUpdated": "2026-09-27T12:27:37.218838+00:00",
-  "lastPublicEpisode": 141,
+  "lastEpisode": 142,
+  "lastUpdated": "2026-09-29T21:31:42.582035+00:00",
+  "lastPublicEpisode": 142,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
