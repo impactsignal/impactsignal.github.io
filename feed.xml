@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#142: South Korea's $692M AI Disaster Plan, Google-Mexico Flood Alerts, and a National AI Chatbot for US Government Services</title>
+      <title>#143: UT San Antonio's $150 Flood Sensor, Bangkok's One Map Under Scrutiny, a Florida Sheriff Draws a Line Around 911</title>
       <description />
+      <link>https://impactsignals.ai/episodes/143-ut-san-antonio-s-150-flood-sensor-bangkok-s-one-map-under-scrutiny-a-florida-sheriff-d/</link>
+      <guid isPermaLink="false">impact-signal-143</guid>
+      <pubDate>Wed, 30 Sep 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-143/episode-143.mp3" length="6531910" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#142: South Korea's $692M AI Disaster Plan, Google-Mexico Flood Alerts, and a National AI Chatbot for US Government Services</title>
+      <description>Impact Signals #142: South Korea's $692M AI Disaster Plan, Google-Mexico Flood Alerts, and a National AI Chatbot for US Government Services South Korea's Ministry of the Interior and Safety committed roughly $692 million through 2030 to build AI systems that predict disaster risk and drive evacuation decisions, starting with pilots in Busan, Yeongcheon, and Inje County. Mexico's national water commission and weather service partnered with Google to route AI-generated flood and hurricane forecasts directly into Android, Search, and Maps, pushing flash-flood warnings out with up to 24 hours' lead time. In Washington, the Trump administration launched America.gov, an AI chatbot meant to consolidate roughly 29,000 federal service sites into one entry point, while a new $50 million fund and a Singapore hospital rollout show the same AI-as-infrastructure pattern reaching accessibility investing and frontline healthcare. Today's through-line: governments and capital are backing AI disaster and access systems with real budgets and real distribution, not strategy papers. --- Top Stories **1. South Korea Commits $692 Million to AI-Driven Disaster Evacuation and Risk Prediction by 2030** South Korea's Ministry of the Interior and Safety unveiled a government-wide plan to spend roughly $692 million (940 billion won) through 2030 building AI systems that predict disaster risk and support evacuation and emergency decisions during floods and typhoons. The plan bundles 50 separate projects…</description>
       <link>https://impactsignals.ai/episodes/142-south-korea-s-692m-ai-disaster-plan-google-mexico-flood-alerts-and-a-national-ai-chatb/</link>
       <guid isPermaLink="false">impact-signal-142</guid>
       <pubDate>Tue, 29 Sep 2026 14:00:00 +0000</pubDate>

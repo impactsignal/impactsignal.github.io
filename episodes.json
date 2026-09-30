@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 143,
+  "nextEpisode": 144,
   "episodes": [
     {
       "number": 1,
@@ -4397,10 +4397,43 @@
       ],
       "youtube_id": "fJFm0A-ufgQ",
       "youtube_url": "https://www.youtube.com/watch?v=fJFm0A-ufgQ"
+    },
+    {
+      "number": 143,
+      "date": "2026-09-30",
+      "title": "Impact Signals #143 \u2014 UT San Antonio's $150 Flood Sensor, Bangkok's One Map Under Scrutiny, a Florida Sheriff Draws a Line Around 911",
+      "headline": "UT San Antonio's $150 Flood Sensor, Bangkok's One Map Under Scrutiny, a Florida Sheriff Draws a Line Around 911",
+      "slug": "143-ut-san-antonio-s-150-flood-sensor-bangkok-s-one-map-under-scrutiny-a-florida-sheriff-d",
+      "description": "Impact Signals #143: UT San Antonio's $150 Flood Sensor, Bangkok's One Map Under Scrutiny, a Florida Sheriff Draws a Line Around 911 A University of Texas at San Antonio team built a street-level flood sensor that runs its prediction model on the device itself, so it keeps working when storms knock out power and cell signal, the two things that usually take a flood-warning network down first. In Bangkok, roughly 300 millimeters of rain in 48 hours flooded all 50 city districts and handed the first real test to Thailand's AI-fused \"One Map\" warning system, with the scrutiny landing on whether the data reached responders fast enough, not on the forecast itself. In Citrus County, Florida, the sheriff's office moved non-emergency 911 traffic to an AI system while drawing a hard line: every active emergency call still goes straight to a human. Today's throughline is instrumentation discipline: a sensor, a warning system and a call-triage tool all work only when the deployment respects a firm boundary around what has to stay local, fast, or human. --- Top Stories **1. UT San Antonio's Solar-Powered Flood Sensor Runs Its AI On-Device, No Cell Signal Required** A team led by Dr. Chen Pan at UT San Antonio's College of AI, Cyber and Computing, with collaborators at Texas A&M University-Corpus Christi, built a self-sustaining street-level flood sensor that runs a compressed machine-learning model (TinyML) directly on a low-power microcontroller, predicting imminent local flood risk wi\u2026",
+      "rss_description": "Impact Signals #143: UT San Antonio's $150 Flood Sensor, Bangkok's One Map Under Scrutiny, a Florida Sheriff Draws a Line Around 911 A University of Texas at San Antonio team built a street-level flood sensor that runs its prediction model on the device itself, so it keeps working when storms knock out power and cell signal, the two things that usually take a flood-warning network down first. In Bangkok, roughly 300 millimeters of rain in 48 hours flooded all 50 city districts and handed the first real test to Thailand's AI-fused \"One Map\" warning system, with the scrutiny landing on whether the data reached responders fast enough, not on the forecast itself. In Citrus County, Florida, the sheriff's office moved non-emergency 911 traffic to an AI system while drawing a hard line: every active emergency call still goes straight to a human. Today's throughline is instrumentation discipline: a sensor, a warning system and a call-triage tool all work only when the deployment respects a firm boundary around what has to stay local, fast, or human. --- Top Stories **1. UT San Antonio's Solar-Powered Flood Sensor Runs Its AI On-Device, No Cell Signal Required** A team led by Dr. Chen Pan at UT San Antonio's College of AI, Cyber and Computing, with collaborators at Texas A&M University-Corpus Christi, built a self-sustaining street-level flood sensor that runs a compressed machine-learning model (TinyML) directly on a low-power microcontroller, predicting imminent local flood risk wi\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-143/episode-143.mp3",
+      "mp3_bytes": 6531910,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-143/impact-signal-143.mp4",
+      "mp4_bytes": 39982426,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 408,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Sunday, December 13, 2026 (eve of the G20 Miami Summit, Dec 14-15)",
+        "Nominations open through November 10, 2026",
+        "Location: JW Marriott Marquis, Miami, FL",
+        "Register: [awards.knowledgenetworks.org](https://awards.knowledgenetworks.org/region/miami/)",
+        "Amount: $75,000-$1,000,000, up to a 3-year grant period",
+        "Eligibility: US-based organizations, collaborations and individuals working on community-led AI governance",
+        "Deadline: October 21, 2026, 8:00 PM ET",
+        "Apply: [humanityai.ai](https://humanityai.ai/open-call/)"
+      ],
+      "youtube_id": "I1HasO5SodQ",
+      "youtube_url": "https://www.youtube.com/watch?v=I1HasO5SodQ"
     }
   ],
-  "lastEpisode": 142,
-  "lastUpdated": "2026-09-29T21:31:42.582035+00:00",
-  "lastPublicEpisode": 142,
+  "lastEpisode": 143,
+  "lastUpdated": "2026-09-30T12:43:22.853496+00:00",
+  "lastPublicEpisode": 143,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
