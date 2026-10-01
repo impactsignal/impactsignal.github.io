@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 144,
+  "nextEpisode": 145,
   "episodes": [
     {
       "number": 1,
@@ -4430,10 +4430,40 @@
       ],
       "youtube_id": "I1HasO5SodQ",
       "youtube_url": "https://www.youtube.com/watch?v=I1HasO5SodQ"
+    },
+    {
+      "number": 144,
+      "date": "2026-10-01",
+      "title": "Impact Signals #144 \u2014 AudioEye's Accessibility Audit, Ontario's Fairness Theatre, Lake County 911 Reviews",
+      "headline": "AudioEye's Accessibility Audit, Ontario's Fairness Theatre, Lake County 911 Reviews",
+      "slug": "144-audioeye-s-accessibility-audit-ontario-s-fairness-theatre-lake-county-911-reviews",
+      "description": "Impact Signals #144: AudioEye's Accessibility Audit, Ontario's Fairness Theatre, Lake County 911 Reviews AudioEye asked five leading AI tools to build three websites each to accessibility standards, and all 15 sites failed even the most basic tier of the guidelines. A new Ontario college study finds that the fairness fixes available to institutions buying closed early-warning systems tend to move disparities around rather than remove them. And in Lake County, Ohio, a roughly $190,000 contract is taking 911 medical call review from a 2 percent sample to every call. Today's signal is the gap between what AI tools are said to deliver and what audits of real deployments actually find. --- Top Stories **1. AI coding tools built 15 test sites for AudioEye, and all 15 failed basic accessibility** AudioEye tasked five AI tools from OpenAI, Anthropic, Google, xAI, and Lovable with building three websites each to the WCAG AA standard. All 15 sites failed even WCAG Level A, the most basic tier, averaging 55 issues per page, with about 91 percent of those issues rated medium or high severity. In AudioEye's 2026 Digital Accessibility Index, 81 percent of teams using an AI tool said they were confident their AI-generated code met accessibility guidelines, while half of that group reported more accessibility complaints since adopting AI. AudioEye also reports that 46 percent of organizations using AI-generated code received an accessibility complaint or lawsuit within 24 months. **Why it m\u2026",
+      "rss_description": "Impact Signals #144: AudioEye's Accessibility Audit, Ontario's Fairness Theatre, Lake County 911 Reviews AudioEye asked five leading AI tools to build three websites each to accessibility standards, and all 15 sites failed even the most basic tier of the guidelines. A new Ontario college study finds that the fairness fixes available to institutions buying closed early-warning systems tend to move disparities around rather than remove them. And in Lake County, Ohio, a roughly $190,000 contract is taking 911 medical call review from a 2 percent sample to every call. Today's signal is the gap between what AI tools are said to deliver and what audits of real deployments actually find. --- Top Stories **1. AI coding tools built 15 test sites for AudioEye, and all 15 failed basic accessibility** AudioEye tasked five AI tools from OpenAI, Anthropic, Google, xAI, and Lovable with building three websites each to the WCAG AA standard. All 15 sites failed even WCAG Level A, the most basic tier, averaging 55 issues per page, with about 91 percent of those issues rated medium or high severity. In AudioEye's 2026 Digital Accessibility Index, 81 percent of teams using an AI tool said they were confident their AI-generated code met accessibility guidelines, while half of that group reported more accessibility complaints since adopting AI. AudioEye also reports that 46 percent of organizations using AI-generated code received an accessibility complaint or lawsuit within 24 months. **Why it m\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-144/episode-144.mp3",
+      "mp3_bytes": 5686796,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-144/impact-signal-144.mp4",
+      "mp4_bytes": 34598416,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 355,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "New Caledonia (Loyalty Islands):** M6.6 earthquake on September 25, 80 km ENE of Tadine at 10 km depth. USGS PAGER rated it green and the Pacific Tsunami Warning Center found no tsunami threat. No damage or injuries reported at last check. Source: [earthquake.usgs.gov](https://earthquake.usgs.gov/earthquakes/eventpage/pt26268000).",
+        "Mexico (Baja California Sur):** Hurricane Polo peaked at Category 5 on September 22, the second most intense Pacific hurricane on record by central pressure after Patricia in 2015. It made landfall as a Category 2 on September 28 and is now a tropical depression with about 35 mph winds. GDACS issued a Red alert on September 21. Source: [science.nasa.gov](https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/).",
+        "[VentureBeat](https://venturebeat.com/technology/we-asked-five-ai-tools-to-build-accessible-websites-all-15-sites-failed)",
+        "[arXiv](https://arxiv.org/abs/2609.38552)",
+        "[GovTech](https://www.govtech.com/em/preparedness/lake-county-ohio-adds-ai-to-emergency-medical-dispatch)"
+      ],
+      "youtube_id": "XtQPdu5Ddi0",
+      "youtube_url": "https://www.youtube.com/watch?v=XtQPdu5Ddi0"
     }
   ],
-  "lastEpisode": 143,
-  "lastUpdated": "2026-09-30T12:43:22.853496+00:00",
-  "lastPublicEpisode": 143,
+  "lastEpisode": 144,
+  "lastUpdated": "2026-10-01T12:38:07.688217+00:00",
+  "lastPublicEpisode": 144,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }

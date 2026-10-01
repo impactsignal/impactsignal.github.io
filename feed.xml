@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#143: UT San Antonio's $150 Flood Sensor, Bangkok's One Map Under Scrutiny, a Florida Sheriff Draws a Line Around 911</title>
+      <title>#144: AudioEye's Accessibility Audit, Ontario's Fairness Theatre, Lake County 911 Reviews</title>
       <description />
+      <link>https://impactsignals.ai/episodes/144-audioeye-s-accessibility-audit-ontario-s-fairness-theatre-lake-county-911-reviews/</link>
+      <guid isPermaLink="false">impact-signal-144</guid>
+      <pubDate>Thu, 01 Oct 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-144/episode-144.mp3" length="5686796" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#143: UT San Antonio's $150 Flood Sensor, Bangkok's One Map Under Scrutiny, a Florida Sheriff Draws a Line Around 911</title>
+      <description>Impact Signals #143: UT San Antonio's $150 Flood Sensor, Bangkok's One Map Under Scrutiny, a Florida Sheriff Draws a Line Around 911 A University of Texas at San Antonio team built a street-level flood sensor that runs its prediction model on the device itself, so it keeps working when storms knock out power and cell signal, the two things that usually take a flood-warning network down first. In Bangkok, roughly 300 millimeters of rain in 48 hours flooded all 50 city districts and handed the first real test to Thailand's AI-fused "One Map" warning system, with the scrutiny landing on whether the data reached responders fast enough, not on the forecast itself. In Citrus County, Florida, the sheriff's office moved non-emergency 911 traffic to an AI system while drawing a hard line: every active emergency call still goes straight to a human. Today's throughline is instrumentation discipline: a sensor, a warning system and a call-triage tool all work only when the deployment respects a firm boundary around what has to stay local, fast, or human. --- Top Stories **1. UT San Antonio's Solar-Powered Flood Sensor Runs Its AI On-Device, No Cell Signal Required** A team led by Dr. Chen Pan at UT San Antonio's College of AI, Cyber and Computing, with collaborators at Texas A&amp;M University-Corpus Christi, built a self-sustaining street-level flood sensor that runs a compressed machine-learning model (TinyML) directly on a low-power microcontroller, predicting imminent local flood risk wi…</description>
       <link>https://impactsignals.ai/episodes/143-ut-san-antonio-s-150-flood-sensor-bangkok-s-one-map-under-scrutiny-a-florida-sheriff-d/</link>
       <guid isPermaLink="false">impact-signal-143</guid>
       <pubDate>Wed, 30 Sep 2026 14:00:00 +0000</pubDate>
