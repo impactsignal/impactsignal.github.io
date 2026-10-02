@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 145,
+  "nextEpisode": 146,
   "episodes": [
     {
       "number": 1,
@@ -4460,10 +4460,40 @@
       ],
       "youtube_id": "XtQPdu5Ddi0",
       "youtube_url": "https://www.youtube.com/watch?v=XtQPdu5Ddi0"
+    },
+    {
+      "number": 145,
+      "date": "2026-10-02",
+      "title": "Impact Signals #145 \u2014 CAL FIRE's Fire Innovation Unit, Malaysia's Agri-Tech Scaling Gap, Kerala's Dengue Early Warning System",
+      "headline": "CAL FIRE's Fire Innovation Unit, Malaysia's Agri-Tech Scaling Gap, Kerala's Dengue Early Warning System",
+      "slug": "145-cal-fire-s-fire-innovation-unit-malaysia-s-agri-tech-scaling-gap-kerala-s-dengue-early",
+      "description": "Impact Signals #145: CAL FIRE's Fire Innovation Unit, Malaysia's Agri-Tech Scaling Gap, Kerala's Dengue Early Warning System California's wildfire agency has created a Fire Innovation Unit to test AI smoke-detection cameras, drones and satellite tools, with a formal launch set for January 2027. A World Economic Forum report on Malaysian agriculture finds the constraint is coordinating deployment, not technology readiness. In Kerala, virologists have built a machine-learning system that issues weekly dengue risk tiers for each district. The common thread today is the unglamorous work around the models: standing test pipelines, shared data standards and local surveillance records. --- Top Stories **1. California's Wildfire Agency Creates a Fire Innovation Unit to Test AI Cameras, Drones and Satellite Tools** CAL FIRE has created a Fire Innovation Unit, a dedicated team for researching and testing emerging wildfire technology across prevention, detection, response, suppression, evacuation and recovery. Per StateScoop, the unit is based in Sacramento and mixes fire chiefs, research specialists and IT staff. The department protects more than 31 million acres and already runs 1,260 mountaintop AlertCalifornia cameras, 915 of them AI-enabled, with 200 more planned this year. Candidate tools named include AI smoke detection, drones for mapping, satellite imagery with predictive fire modeling, and lidar for vegetation. **Why it matters:** California's fire agency is turning ad hoc te\u2026",
+      "rss_description": "Impact Signals #145: CAL FIRE's Fire Innovation Unit, Malaysia's Agri-Tech Scaling Gap, Kerala's Dengue Early Warning System California's wildfire agency has created a Fire Innovation Unit to test AI smoke-detection cameras, drones and satellite tools, with a formal launch set for January 2027. A World Economic Forum report on Malaysian agriculture finds the constraint is coordinating deployment, not technology readiness. In Kerala, virologists have built a machine-learning system that issues weekly dengue risk tiers for each district. The common thread today is the unglamorous work around the models: standing test pipelines, shared data standards and local surveillance records. --- Top Stories **1. California's Wildfire Agency Creates a Fire Innovation Unit to Test AI Cameras, Drones and Satellite Tools** CAL FIRE has created a Fire Innovation Unit, a dedicated team for researching and testing emerging wildfire technology across prevention, detection, response, suppression, evacuation and recovery. Per StateScoop, the unit is based in Sacramento and mixes fire chiefs, research specialists and IT staff. The department protects more than 31 million acres and already runs 1,260 mountaintop AlertCalifornia cameras, 915 of them AI-enabled, with 200 more planned this year. Candidate tools named include AI smoke detection, drones for mapping, satellite imagery with predictive fire modeling, and lidar for vegetation. **Why it matters:** California's fire agency is turning ad hoc te\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-145/episode-145.mp3",
+      "mp3_bytes": 3889154,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-145/impact-signal-145.mp4",
+      "mp4_bytes": 25364154,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 243,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "New Caledonia:** M6.6 earthquake on September 25, 80 km ENE of Tadine, per USGS. No casualty report is confirmed, and the populated-region check was not performed. Source: [earthquake.usgs.gov](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txpi).",
+        "Note: only major or ongoing-major disasters are featured; nothing else met the Orange/Red or M6.0+ bar inside the past seven days.",
+        "[statescoop.com](https://statescoop.com/cal-fire-creates-new-unit-to-test-emerging-wildfire-technology/)",
+        "[Eco-Business](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMWVCWEh2cGctQlhtcXJUM2dCSE9rUEhFRTdpZlN6OWlNaE8yWFJiNHFRNC01WmNkdFVnSERNc3VYVk5JdjY0YndFaHJ5SEpjSlpjUmdfY1paZXBpaWhRbTdCSTdnV2JXcWdJV3hNdzI0Mk5TR3lwNHN0aTVWekxfcmFpQkd5c014VDU3QW9OQkRvZTBKVEhBMXYzZmZMX3o0MlBtb1o0WG0zLV9VQXRIQXZB?oc=5)",
+        "[Usthadian / Adda247](https://news.google.com/rss/articles/CBMihgFBVV95cUxQWjNSY0g5Qy1WLS1jQzlWcEZaN2JlNlpTQVJ3ODRuamtIbjItbktUSUZxNGJyUHg2OF8xMHRIR1RKeWhWMXdYWkFKa2NjeVhkUGVYdTRsa0tPLU5HOVlQQ3FaTUpEY2lCM3RYeGFGWUxZd2ZLV3hkeF9mT3J3eGstb0lTX25HUQ?oc=5)"
+      ],
+      "youtube_id": "rAe0hOZDs-Q",
+      "youtube_url": "https://www.youtube.com/watch?v=rAe0hOZDs-Q"
     }
   ],
-  "lastEpisode": 144,
-  "lastUpdated": "2026-10-01T12:38:07.688217+00:00",
-  "lastPublicEpisode": 144,
+  "lastEpisode": 145,
+  "lastUpdated": "2026-10-02T12:24:33.801119+00:00",
+  "lastPublicEpisode": 145,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }

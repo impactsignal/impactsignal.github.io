@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#144: AudioEye's Accessibility Audit, Ontario's Fairness Theatre, Lake County 911 Reviews</title>
+      <title>#145: CAL FIRE's Fire Innovation Unit, Malaysia's Agri-Tech Scaling Gap, Kerala's Dengue Early Warning System</title>
       <description />
+      <link>https://impactsignals.ai/episodes/145-cal-fire-s-fire-innovation-unit-malaysia-s-agri-tech-scaling-gap-kerala-s-dengue-early/</link>
+      <guid isPermaLink="false">impact-signal-145</guid>
+      <pubDate>Fri, 02 Oct 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-145/episode-145.mp3" length="3889154" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#144: AudioEye's Accessibility Audit, Ontario's Fairness Theatre, Lake County 911 Reviews</title>
+      <description>Impact Signals #144: AudioEye's Accessibility Audit, Ontario's Fairness Theatre, Lake County 911 Reviews AudioEye asked five leading AI tools to build three websites each to accessibility standards, and all 15 sites failed even the most basic tier of the guidelines. A new Ontario college study finds that the fairness fixes available to institutions buying closed early-warning systems tend to move disparities around rather than remove them. And in Lake County, Ohio, a roughly $190,000 contract is taking 911 medical call review from a 2 percent sample to every call. Today's signal is the gap between what AI tools are said to deliver and what audits of real deployments actually find. --- Top Stories **1. AI coding tools built 15 test sites for AudioEye, and all 15 failed basic accessibility** AudioEye tasked five AI tools from OpenAI, Anthropic, Google, xAI, and Lovable with building three websites each to the WCAG AA standard. All 15 sites failed even WCAG Level A, the most basic tier, averaging 55 issues per page, with about 91 percent of those issues rated medium or high severity. In AudioEye's 2026 Digital Accessibility Index, 81 percent of teams using an AI tool said they were confident their AI-generated code met accessibility guidelines, while half of that group reported more accessibility complaints since adopting AI. AudioEye also reports that 46 percent of organizations using AI-generated code received an accessibility complaint or lawsuit within 24 months. **Why it m…</description>
       <link>https://impactsignals.ai/episodes/144-audioeye-s-accessibility-audit-ontario-s-fairness-theatre-lake-county-911-reviews/</link>
       <guid isPermaLink="false">impact-signal-144</guid>
       <pubDate>Thu, 01 Oct 2026 14:00:00 +0000</pubDate>
