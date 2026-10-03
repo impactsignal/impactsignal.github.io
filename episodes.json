@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 146,
+  "nextEpisode": 147,
   "episodes": [
     {
       "number": 1,
@@ -4490,10 +4490,42 @@
       ],
       "youtube_id": "rAe0hOZDs-Q",
       "youtube_url": "https://www.youtube.com/watch?v=rAe0hOZDs-Q"
+    },
+    {
+      "number": 146,
+      "date": "2026-10-03",
+      "title": "Impact Signals #146 \u2014 Dutch Retailers Pull Meta Glasses, Corn Disease Detector, Landslide Runout Ensemble \u2014 Weekend Light",
+      "headline": "Dutch Retailers Pull Meta Glasses, Corn Disease Detector, Landslide Runout Ensemble \u2014 Weekend Light",
+      "slug": "146-dutch-retailers-pull-meta-glasses-corn-disease-detector-landslide-runout-ensemble-week",
+      "description": "Impact Signals #146: Dutch Retailers Pull Meta Glasses, Corn Disease Detector, Landslide Runout Ensemble \u2014 Weekend Light Two Dutch retailers, Hans Anders and Wehkamp, have paused sales of Meta's camera-equipped AI glasses after press reports of covert filming, with only six formal reports on file at the Dutch Data Protection Authority. In the field, China Agricultural University researchers built a corn disease detector that runs on a phone with no connection, and Chinese Academy of Sciences researchers trained an ensemble on 32,714 global records to predict how far a landslide travels. It is a thin day, and each story comes with a stated limit: unconfirmed claims, extrapolated forecasts, accuracy that varies by landslide type. --- Top Stories **1. Dutch Retailers Hans Anders and Wehkamp Pause Meta AI Glasses as Privacy Groups Threaten Court Action** Dutch eyewear chain Hans Anders and online retailer Wehkamp have paused sales of Meta's camera-equipped AI smart glasses after the Dutch newspaper AD reported people, especially women, being filmed in public without knowing it. Offlimits, an anti-online-abuse group, asked Meta and EssilorLuxottica to pull the glasses until covert recording is technically impossible. Consumentenbond, the Dutch consumer-rights group, asked the government for a ban in September and has warned Meta of court action. The Dutch Data Protection Authority has received 6 reports and 1 complaint, warned that filming other people is nearly always prohibited\u2026",
+      "rss_description": "Impact Signals #146: Dutch Retailers Pull Meta Glasses, Corn Disease Detector, Landslide Runout Ensemble \u2014 Weekend Light Two Dutch retailers, Hans Anders and Wehkamp, have paused sales of Meta's camera-equipped AI glasses after press reports of covert filming, with only six formal reports on file at the Dutch Data Protection Authority. In the field, China Agricultural University researchers built a corn disease detector that runs on a phone with no connection, and Chinese Academy of Sciences researchers trained an ensemble on 32,714 global records to predict how far a landslide travels. It is a thin day, and each story comes with a stated limit: unconfirmed claims, extrapolated forecasts, accuracy that varies by landslide type. --- Top Stories **1. Dutch Retailers Hans Anders and Wehkamp Pause Meta AI Glasses as Privacy Groups Threaten Court Action** Dutch eyewear chain Hans Anders and online retailer Wehkamp have paused sales of Meta's camera-equipped AI smart glasses after the Dutch newspaper AD reported people, especially women, being filmed in public without knowing it. Offlimits, an anti-online-abuse group, asked Meta and EssilorLuxottica to pull the glasses until covert recording is technically impossible. Consumentenbond, the Dutch consumer-rights group, asked the government for a ban in September and has warned Meta of court action. The Dutch Data Protection Authority has received 6 reports and 1 complaint, warned that filming other people is nearly always prohibited\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-146/episode-146.mp3",
+      "mp3_bytes": 5189425,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-146/impact-signal-146.mp4",
+      "mp4_bytes": 32981382,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 324,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Amount: up to 50 nonprofits receive US$500,000 each (US$25 million total, paid over two years)",
+        "Deadline: Letter of Inquiry due October 6, 2026",
+        "Focus: programs preparing low-income young people, mostly ages 15 to 24, for an AI-shaped labor market. Registered nonprofits only; audited financials required at full application.",
+        "Apply: [Menterprise Africa report](https://news.google.com/rss/articles/CBMilAFBVV95cUxQaUZoclpOeGxnT1Nod1RQRnpWMmN0dmM5V3FCcjV1b1pSUVpvaGl5Y1dKSVpEd3BGVFYtR3BQNkVKWC0ybXhySEhSWWUyN0dsYlZhUFRMYXdLZkZ6b3dzd0hPLUpOdERvaGtwZk9QOE1UNzNkbzY3NDhMejFhWnNMcmpSc2szLTlsOG1QM2trRUx2TjVP?oc=5)",
+        "[news.google.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa2I5QklfZEJpeWtxUlkwbFhvTjhLVFg5M0U5Z1A3NC0tQms2T0tBRG4yQ3d0eXlzTi1QUVlKcnhHNlNJM1RkYmJPT1ZSRGtsY0F2SGRySE14d3JzMXZzT3VrM09EM0xDdkxnTkN1R2ZsQ3AtWFZYQWI3WFZWR3ZNbEd3dUZhcmRxRFQ0XzVnZFg2ZFRsMF9vd1VLZnVmeXFfLWdYc2JRaFZzZWN1S09JU2lkejJkdG1nNE43ZVlvMnJFVEE?oc=5)",
+        "[news.google.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNcnB1aW1Sb29QTjE4SFF1eHA0eGlhNWpIZ1Z4UmlIRk1oQWlwTjI3a2VsbTZ0eTkzc29TWkpfSWZ6c2JQSFhtSFBzcGtvbTBWdExYbngzX09JT3JKeEgwMzgxZHhtOFlIX204NGxzcTRybHlZbzB5M1BGeE91M0M0bzRtU0Q3dWQ2dFVUMUdUSVBTVG5Vc2xYd0dkVWZOY0htNUhsYQ?oc=5)",
+        "[news.google.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWNrZGZTS3hiTm9FUUlUbmlZQ2pocWgwdVJLNEE5aGwxaFd0U0dyUTh3QzVNUmNSVFVnbDJsUEZoWV9tRDJaYkxldEVSYzNjYmgwOVVCZDBUbzRaa1ZVdnRsUnFyd2FIUEtVSjZVelBBb0QzSlFWWVJwbnNaWUhPckd3NTVpLVRzcjRTeUdjLUtvZ1IweEdCR05sWm9IUDA?oc=5)"
+      ],
+      "youtube_id": "NW5RjPDtqpU",
+      "youtube_url": "https://www.youtube.com/watch?v=NW5RjPDtqpU"
     }
   ],
-  "lastEpisode": 145,
-  "lastUpdated": "2026-10-02T12:24:33.801119+00:00",
-  "lastPublicEpisode": 145,
+  "lastEpisode": 146,
+  "lastUpdated": "2026-10-03T12:28:21.802348+00:00",
+  "lastPublicEpisode": 146,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
