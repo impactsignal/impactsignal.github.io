@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 149,
+  "nextEpisode": 150,
   "episodes": [
     {
       "number": 1,
@@ -4588,10 +4588,43 @@
       ],
       "youtube_id": "SpPJbR3Vydc",
       "youtube_url": "https://www.youtube.com/watch?v=SpPJbR3Vydc"
+    },
+    {
+      "number": 149,
+      "date": "2026-10-06",
+      "title": "Impact Signals #149 \u2014 Utah's AI Health Sandbox, OpenAI Foundation's Colorado Grant, Vermont's Ballot Proofing, China's Weather Models",
+      "headline": "Utah's AI Health Sandbox, OpenAI Foundation's Colorado Grant, Vermont's Ballot Proofing, China's Weather Models",
+      "slug": "149-utah-s-ai-health-sandbox-openai-foundation-s-colorado-grant-vermont-s-ballot-proofing",
+      "description": "Impact Signals #149: Utah's AI Health Sandbox, OpenAI Foundation's Colorado Grant, Vermont's Ballot Proofing, China's Weather Models Utah has opened a health care AI sandbox with five approved providers, outside evaluators and a human required in every clinical process, while a $494,000 OpenAI Foundation grant is putting a Southwest Colorado disability-services agency's paperwork to the test. Vermont reports a ballot-proofing job that finished in three hours instead of running into overtime, and Eco-Business details how China's AI weather models, already used in Pakistan, are weakest on the record-breaking storms that matter most for warnings. The signal today is that AI money and rules are moving into the institutions that deliver services, and the accountability questions are arriving with them. --- Top Stories **1. Utah opens an AI sandbox for health care with five approved providers, six outside evaluators and a human in every clinical process** Utah has expanded its state AI pilot program into health care, approving five providers to run clinical AI pilots under a temporary exception to state licensing rules. Named providers are Intermountain Health, University of Utah Health, Nolla Health (an AI dermatology startup) and August Labs (an AI chatbot service), plus one unnamed company. The pilots cover prescription renewals for chronic illnesses, visual evaluation for acne medication, initial physical therapy recommendations, and automatic refills of routine, non-controlle\u2026",
+      "rss_description": "Impact Signals #149: Utah's AI Health Sandbox, OpenAI Foundation's Colorado Grant, Vermont's Ballot Proofing, China's Weather Models Utah has opened a health care AI sandbox with five approved providers, outside evaluators and a human required in every clinical process, while a $494,000 OpenAI Foundation grant is putting a Southwest Colorado disability-services agency's paperwork to the test. Vermont reports a ballot-proofing job that finished in three hours instead of running into overtime, and Eco-Business details how China's AI weather models, already used in Pakistan, are weakest on the record-breaking storms that matter most for warnings. The signal today is that AI money and rules are moving into the institutions that deliver services, and the accountability questions are arriving with them. --- Top Stories **1. Utah opens an AI sandbox for health care with five approved providers, six outside evaluators and a human in every clinical process** Utah has expanded its state AI pilot program into health care, approving five providers to run clinical AI pilots under a temporary exception to state licensing rules. Named providers are Intermountain Health, University of Utah Health, Nolla Health (an AI dermatology startup) and August Labs (an AI chatbot service), plus one unnamed company. The pilots cover prescription renewals for chronic illnesses, visual evaluation for acne medication, initial physical therapy recommendations, and automatic refills of routine, non-controlle\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-149/episode-149.mp3",
+      "mp3_bytes": 6584573,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-149/impact-signal-149.mp4",
+      "mp4_bytes": 40158994,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 411,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "October 20 to 21, 2026 (dates from a search result, not confirmed on the organizer page)",
+        "Location: Santiago, Chile",
+        "Tracks: Education, Health & Biotech, Business",
+        "Register: [riseaisummit.ai](https://www.riseaisummit.ai/)",
+        "[Deseret News](https://www.deseret.com/politics/2026/10/05/utah-announces-partnership-with-major-healthcare-providers-to-create-artificial-intelligence-clinical-pilot-programs/)",
+        "[Durango Herald](https://www.durangoherald.com/articles/news/durango-nonprofit-receives-nearly-half-a-million-from-openai-grant/)",
+        "[OpenAI Foundation](https://openaifoundation.org/news/2026-people-first-ai-fund-grantees)",
+        "[EdTech Innovation Hub](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVGh3STlSMHd2cVlIQWRyTkkzdGZPWmRJa0ZTVWdkWGxkN1FUYlNJMWJ0T1hRMW4zcUhuYWhqRkxZWDFZdHZGUVM2Z3R4dWhvZVl5SjcxMnhvZ2ZPQWhRS3JmamZiMEFJS3N0SERIY2lzZUZzeDh6OGRTN3FzcERSVXU2VlMyVGx6R0FEcGE3VzVvWEZqcHFVaGczSEJ5eHoweEk5aldSald4ZEVEaDRKb3FRS2V2aEFZZ0laNnRR?oc=5)"
+      ],
+      "youtube_id": "294qwpc-SRs",
+      "youtube_url": "https://www.youtube.com/watch?v=294qwpc-SRs"
     }
   ],
-  "lastEpisode": 148,
-  "lastUpdated": "2026-10-05T12:27:48.940581+00:00",
-  "lastPublicEpisode": 148,
+  "lastEpisode": 149,
+  "lastUpdated": "2026-10-06T12:27:54.467040+00:00",
+  "lastPublicEpisode": 149,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }

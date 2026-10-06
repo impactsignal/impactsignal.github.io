@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#148: Huế AI Flood Model, UT System Health AI Disclosure Gap, IIT Mandi Shimla Landslide Exposure</title>
+      <title>#149: Utah's AI Health Sandbox, OpenAI Foundation's Colorado Grant, Vermont's Ballot Proofing, China's Weather Models</title>
       <description />
+      <link>https://impactsignals.ai/episodes/149-utah-s-ai-health-sandbox-openai-foundation-s-colorado-grant-vermont-s-ballot-proofing/</link>
+      <guid isPermaLink="false">impact-signal-149</guid>
+      <pubDate>Tue, 06 Oct 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-149/episode-149.mp3" length="6584573" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#148: Huế AI Flood Model, UT System Health AI Disclosure Gap, IIT Mandi Shimla Landslide Exposure</title>
+      <description>Impact Signals #148: Huế AI Flood Model, UT System Health AI Disclosure Gap, IIT Mandi Shimla Landslide Exposure Huế, Vietnam is piloting an AI flood model trained on 300,000 simulated data points that is meant to produce a scenario in under three minutes, though its 70 percent accuracy figure is still only a target. In Texas, the University of Texas System has counted 571 health AI use cases under a $25 million program while vendor names and error-handling terms remain unpublished. In India, IIT Mandi researchers used machine learning and building footprints to estimate that about 35 percent of Shimla's buildings sit in landslide-susceptible zones. Today's signal is the distance between what AI systems promise and what has been measured or disclosed so far. --- Top Stories **1. Huế Trains an AI Flood Model on 300,000 Simulated Data Points and Promises a Forecast in Under Three Minutes** Vietnam News Service reported on October 5, 2026 that the central Vietnamese city of Huế is piloting a real-time AI flood simulation model. The Telemac-2D hydraulic model simulated historical floods across more than 300,000 data points, and that dataset trains an AI model that can produce a flood scenario in under three minutes. It covers prediction windows from 15 minutes to 24 hours, targets accuracy above 70 percent, and generates 12 flood maps for different reservoir scenarios. The model sits on a sensor network of 52 automatic rain gauges, three wind speed sensors, eight flood monitorin…</description>
       <link>https://impactsignals.ai/episodes/148-hu-ai-flood-model-ut-system-health-ai-disclosure-gap-iit-mandi-shimla-landslide-exposu/</link>
       <guid isPermaLink="false">impact-signal-148</guid>
       <pubDate>Mon, 05 Oct 2026 14:00:00 +0000</pubDate>
