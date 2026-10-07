@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 150,
+  "nextEpisode": 151,
   "episodes": [
     {
       "number": 1,
@@ -4621,10 +4621,43 @@
       ],
       "youtube_id": "294qwpc-SRs",
       "youtube_url": "https://www.youtube.com/watch?v=294qwpc-SRs"
+    },
+    {
+      "number": 150,
+      "date": "2026-10-07",
+      "title": "Impact Signals #150 \u2014 Epic Pediatric Sepsis Alert Audit, Biohub's $1.8 Billion Open Biology Push, Humanity AI at One Year",
+      "headline": "Epic Pediatric Sepsis Alert Audit, Biohub's $1.8 Billion Open Biology Push, Humanity AI at One Year",
+      "slug": "150-epic-pediatric-sepsis-alert-audit-biohub-s-1-8-billion-open-biology-push-humanity-ai-a",
+      "description": "Impact Signals #150: Epic Pediatric Sepsis Alert Audit, Biohub's $1.8 Billion Open Biology Push, Humanity AI at One Year An independent study in JAMA Pediatrics found that Epic's pediatric sepsis alert caught only 36% of children who had sepsis across eight New York emergency departments, and just 22% of Black children. The same day, the US government, Google DeepMind and Meta joined Biohub in a $1.8 billion effort to build open datasets for AI biology, while Humanity AI published its first-year ledger of 403 grants. Today's signal is accountability: the deployed tools get audited, and the money behind them finally gets counted. --- Top Stories **1. An independent test finds Epic's pediatric sepsis alert caught only 36% of children with sepsis, and 22% of Black children** A retrospective multicenter cohort study published October 5, 2026 in JAMA Pediatrics evaluated the Epic Systems Pediatric Sepsis Early Detection Model across eight emergency departments in one New York health system. It covered 166,943 pediatric ED encounters from January 2024 through June 2025, with 189 confirmed sepsis cases under the Phoenix sepsis criteria. The alert identified 36% of children who met the criteria and fired before sepsis onset in 30% of cases. Positive predictive value was 3%, so most alerts were false alarms, while negative predictive value was above 99%. Sensitivity was 22% for Black children, 20% for children under 5, and 25% in hospitals that were not pediatric-only. The authors co\u2026",
+      "rss_description": "Impact Signals #150: Epic Pediatric Sepsis Alert Audit, Biohub's $1.8 Billion Open Biology Push, Humanity AI at One Year An independent study in JAMA Pediatrics found that Epic's pediatric sepsis alert caught only 36% of children who had sepsis across eight New York emergency departments, and just 22% of Black children. The same day, the US government, Google DeepMind and Meta joined Biohub in a $1.8 billion effort to build open datasets for AI biology, while Humanity AI published its first-year ledger of 403 grants. Today's signal is accountability: the deployed tools get audited, and the money behind them finally gets counted. --- Top Stories **1. An independent test finds Epic's pediatric sepsis alert caught only 36% of children with sepsis, and 22% of Black children** A retrospective multicenter cohort study published October 5, 2026 in JAMA Pediatrics evaluated the Epic Systems Pediatric Sepsis Early Detection Model across eight emergency departments in one New York health system. It covered 166,943 pediatric ED encounters from January 2024 through June 2025, with 189 confirmed sepsis cases under the Phoenix sepsis criteria. The alert identified 36% of children who met the criteria and fired before sepsis onset in 30% of cases. Positive predictive value was 3%, so most alerts were false alarms, while negative predictive value was above 99%. Sensitivity was 22% for Black children, 20% for children under 5, and 25% in hospitals that were not pediatric-only. The authors co\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-150/episode-150.mp3",
+      "mp3_bytes": 7125830,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-150/impact-signal-150.mp4",
+      "mp4_bytes": 43261206,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 445,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Eastern Pacific:** Tropical cyclone TWENTY-E-26, GDACS Orange notification dated October 7, 2026. Population affected counts were not read from the feed; response status not verified. Source: [gdacs.org](https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001335).",
+        "[JAMA Pediatrics](https://jamanetwork.com/journals/jamapediatrics/article-abstract/2854867)",
+        "[Medical Daily](https://www.medicaldaily.com/epic-pediatric-sepsis-alert-new-york-er-study-479579)",
+        "[inkl](https://www.inkl.com/news/widely-used-epic-sepsis-alert-flagged-only-36-of-children-with-sepsis-across-eight-new-york-emergency-departments)",
+        "[Google News](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMGN4YlBqLUc1QkhSQVcyeWR3cDVUWE9YVEc0aFdyczJGQnU4VlNnRzI3dDBGVm1vUUl6SkEyRWJkb0Y3MTd6S2drQVpnVk5JZkdWT25XaDRFaTlTdXRCSS1FU1FrTU9RTGgwZWt6bThWSENlcElUYmFDSTFzWVA2dXlHT001a1It?oc=5)",
+        "[Axios](https://www.axios.com/2026/10/07/zuckerberg-biohub-ai-biology-data)",
+        "[The Star (Reuters syndication)](https://www.thestar.com.my/tech/tech-news/2026/10/07/us-government-google-join-zuckerberg-backed-biohub-in-18-billion-push-for-ai-biology-data)",
+        "[Google News](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWTdsWTdFWVdPWUFDRjN1RGd6el9PR3NQNFN5blFINGVqVUNRcXMtaW5JcDQ0OV9IejBJa0stOHFnaG9Kd0Q3N3BObTEtQWFXYW9ad2JCS09oQV9iWlB6dU1RSktCSnExdWVUdnRXQmE3aTNCdm5LV01TTW9vbG9sRkctZFhoNm1wdGlqcGtRd3RhRFlzUWt1dElpV0NocGtvYlgyenBlUG5ZV0N6eHUzTXVYSDhzWWROWUhDNlJRYnhwc3Q0SVZzUjUxQUp0OFNkbmFrZEpiNDZweEdRbG9nLUgtZw?oc=5)"
+      ],
+      "youtube_id": "wsE9cGrjmKM",
+      "youtube_url": "https://www.youtube.com/watch?v=wsE9cGrjmKM"
     }
   ],
-  "lastEpisode": 149,
-  "lastUpdated": "2026-10-06T12:27:54.467040+00:00",
-  "lastPublicEpisode": 149,
+  "lastEpisode": 150,
+  "lastUpdated": "2026-10-07T16:32:28.521112+00:00",
+  "lastPublicEpisode": 150,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
