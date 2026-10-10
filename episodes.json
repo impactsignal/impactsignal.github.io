@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 151,
+  "nextEpisode": 152,
   "episodes": [
     {
       "number": 1,
@@ -4654,10 +4654,43 @@
       ],
       "youtube_id": "wsE9cGrjmKM",
       "youtube_url": "https://www.youtube.com/watch?v=wsE9cGrjmKM"
+    },
+    {
+      "number": 151,
+      "date": "2026-10-10",
+      "title": "Impact Signals #151 \u2014 Kenya's Open Sign-Language Dataset, Philadelphia's Coding Reset, California's Satellite Radar, Venezuela's Late Quake Alerts",
+      "headline": "Kenya's Open Sign-Language Dataset, Philadelphia's Coding Reset, California's Satellite Radar, Venezuela's Late Quake Alerts",
+      "slug": "151-kenya-s-open-sign-language-dataset-philadelphia-s-coding-reset-california-s-satellite",
+      "description": "Impact Signals #151: Kenya's Open Sign-Language Dataset, Philadelphia's Coding Reset, California's Satellite Radar, Venezuela's Late Quake Alerts Signvrse, the Kenyan team behind the Terp360 app, has released nearly 12,000 Kenyan Sign Language motion sequences as an open dataset, while in Philadelphia, Launchpad Philly is rebuilding its youth coding program after only 3 of its first 12 graduates landed full-time work in an AI-reshaped job market. California has reopened its State Operations Center with statewide ICEYE satellite radar ahead of a forecast very strong El Ni\u00f1o, and a new assessment finds that most respondents to Venezuela's 11.4 million quake alerts were warned during or after the shaking. Today's signal is who technology actually reaches: disabled users, young job seekers and people in the path of a quake, each measured against a number rather than a promise. --- Top Stories **1. Signvrse Releases a 12,000-Sequence Open Kenyan Sign Language Dataset as African Assistive AI Reaches Patients** Kenya News Agency reported on October 7 that Signvrse, the team behind engineer Elly Savatia's Terp360 app, has released what it describes as the largest open African sign-language motion dataset and benchmark: nearly 12,000 Kenyan Sign Language motion sequences and almost nine million motion frames, published with baseline models and an open evaluation framework. Working with deaf and hard-of-hearing Kenyans, the team motion-captured more than 2,300 signs and cut the time t\u2026",
+      "rss_description": "Impact Signals #151: Kenya's Open Sign-Language Dataset, Philadelphia's Coding Reset, California's Satellite Radar, Venezuela's Late Quake Alerts Signvrse, the Kenyan team behind the Terp360 app, has released nearly 12,000 Kenyan Sign Language motion sequences as an open dataset, while in Philadelphia, Launchpad Philly is rebuilding its youth coding program after only 3 of its first 12 graduates landed full-time work in an AI-reshaped job market. California has reopened its State Operations Center with statewide ICEYE satellite radar ahead of a forecast very strong El Ni\u00f1o, and a new assessment finds that most respondents to Venezuela's 11.4 million quake alerts were warned during or after the shaking. Today's signal is who technology actually reaches: disabled users, young job seekers and people in the path of a quake, each measured against a number rather than a promise. --- Top Stories **1. Signvrse Releases a 12,000-Sequence Open Kenyan Sign Language Dataset as African Assistive AI Reaches Patients** Kenya News Agency reported on October 7 that Signvrse, the team behind engineer Elly Savatia's Terp360 app, has released what it describes as the largest open African sign-language motion dataset and benchmark: nearly 12,000 Kenyan Sign Language motion sequences and almost nine million motion frames, published with baseline models and an open evaluation framework. Working with deaf and hard-of-hearing Kenyans, the team motion-captured more than 2,300 signs and cut the time t\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-151/episode-151.mp3",
+      "mp3_bytes": 9631913,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-151/impact-signal-151.mp4",
+      "mp4_bytes": 59592053,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 601,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Deadline: October 30, 2026, 11:59 pm AEDT",
+        "Amount: Up to US$1 million per partnership over two years, from a US$8 million pool, plus a learning cohort and non-financial support",
+        "Eligibility: Registered nonprofits anywhere in the world, for multi-organization initiatives that directly relieve disadvantage for a clearly identified group and help education evolve in the AI era",
+        "Apply: [atlassian.com](https://www.atlassian.com/blog/company-news/atlassian-foundation-open-call-for-proposals-2026)",
+        "Starting November 23, 2026 (registration deadline not yet confirmed)",
+        "Location: Faridabad, India",
+        "India's first time hosting the forum, per The New Indian Express",
+        "Reported: [news.google.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTWtsbGowYUZqUHJkY291aDB6eG1RdWthSzBqTldIOVJKaFhfa1RUTnpXUFhMcThSazlONHJSZjRMclVFUTU0Yk9rczlEbFVObmRNMjg2TXQ0ZXdEaVNMbFZiTnJrNmxQOWZzZXRjZW5fWmwwQmtZZEY0c2V2SDBKY2JiT0FMSjU4bWJxbUVVTlh6Q1VMU0Y0LUdQdUlOZGFqRWJidGtmRkJjaVNjR2hSS0xqeHdWN2ZDNVJzcElrZjRYQmfSAdABQVVfeXFMUFNhemFMOFA1Rnh3aWwtQU42RlZxZG5nUmtQbWM1RFpyY0t6Wjdpc05mTWprMVE4ZHNhazQzUmI1NW00NlQ0UW96RlpVZngyTWtsQUczTGtoZU9NbnI1SnZnV2prV3lBYmJMWFEtMnktZXE1dkp6b1VvQlE1dkVlMjBxRlMwcl84d3dWNURVVU96MFVSTzJkaVpmdTZ6LTdXU1VyWGRHRDlOenVneEk3LThnUG94UmE5N21LUkp4bTZOdHNqLVl3bXpCdWhxSDd3SA?oc=5)"
+      ],
+      "youtube_id": "UgYg6pClbEs",
+      "youtube_url": "https://www.youtube.com/watch?v=UgYg6pClbEs"
     }
   ],
-  "lastEpisode": 150,
-  "lastUpdated": "2026-10-07T16:32:28.521112+00:00",
-  "lastPublicEpisode": 150,
+  "lastEpisode": 151,
+  "lastUpdated": "2026-10-10T13:43:51.436593+00:00",
+  "lastPublicEpisode": 151,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }

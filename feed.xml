@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#150: Epic Pediatric Sepsis Alert Audit, Biohub's $1.8 Billion Open Biology Push, Humanity AI at One Year</title>
+      <title>#151: Kenya's Open Sign-Language Dataset, Philadelphia's Coding Reset, California's Satellite Radar, Venezuela's Late Quake Alerts</title>
       <description />
+      <link>https://impactsignals.ai/episodes/151-kenya-s-open-sign-language-dataset-philadelphia-s-coding-reset-california-s-satellite/</link>
+      <guid isPermaLink="false">impact-signal-151</guid>
+      <pubDate>Sat, 10 Oct 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-151/episode-151.mp3" length="9631913" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#150: Epic Pediatric Sepsis Alert Audit, Biohub's $1.8 Billion Open Biology Push, Humanity AI at One Year</title>
+      <description>Impact Signals #150: Epic Pediatric Sepsis Alert Audit, Biohub's $1.8 Billion Open Biology Push, Humanity AI at One Year An independent study in JAMA Pediatrics found that Epic's pediatric sepsis alert caught only 36% of children who had sepsis across eight New York emergency departments, and just 22% of Black children. The same day, the US government, Google DeepMind and Meta joined Biohub in a $1.8 billion effort to build open datasets for AI biology, while Humanity AI published its first-year ledger of 403 grants. Today's signal is accountability: the deployed tools get audited, and the money behind them finally gets counted. --- Top Stories **1. An independent test finds Epic's pediatric sepsis alert caught only 36% of children with sepsis, and 22% of Black children** A retrospective multicenter cohort study published October 5, 2026 in JAMA Pediatrics evaluated the Epic Systems Pediatric Sepsis Early Detection Model across eight emergency departments in one New York health system. It covered 166,943 pediatric ED encounters from January 2024 through June 2025, with 189 confirmed sepsis cases under the Phoenix sepsis criteria. The alert identified 36% of children who met the criteria and fired before sepsis onset in 30% of cases. Positive predictive value was 3%, so most alerts were false alarms, while negative predictive value was above 99%. Sensitivity was 22% for Black children, 20% for children under 5, and 25% in hospitals that were not pediatric-only. The authors co…</description>
       <link>https://impactsignals.ai/episodes/150-epic-pediatric-sepsis-alert-audit-biohub-s-1-8-billion-open-biology-push-humanity-ai-a/</link>
       <guid isPermaLink="false">impact-signal-150</guid>
       <pubDate>Wed, 07 Oct 2026 14:00:00 +0000</pubDate>
