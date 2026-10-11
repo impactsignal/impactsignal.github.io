@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 152,
+  "nextEpisode": 153,
   "episodes": [
     {
       "number": 1,
@@ -4687,10 +4687,43 @@
       ],
       "youtube_id": "UgYg6pClbEs",
       "youtube_url": "https://www.youtube.com/watch?v=UgYg6pClbEs"
+    },
+    {
+      "number": 152,
+      "date": "2026-10-11",
+      "title": "Impact Signals #152 \u2014 Bihar Tiger Reserve AI Cameras, Minnesota Medicaid AI Flags, Nevada Night Wildfire Detection, Malaysia Free AI Access",
+      "headline": "Bihar Tiger Reserve AI Cameras, Minnesota Medicaid AI Flags, Nevada Night Wildfire Detection, Malaysia Free AI Access",
+      "slug": "152-bihar-tiger-reserve-ai-cameras-minnesota-medicaid-ai-flags-nevada-night-wildfire-detec",
+      "description": "Impact Signals #152: Bihar Tiger Reserve AI Cameras, Minnesota Medicaid AI Flags, Nevada Night Wildfire Detection, Malaysia Free AI Access On the edge of Bihar's Valmiki Tiger Reserve, 35 AI cameras logged 26 tigers and 68 bears in two months, and the forest department is now extending them to the division where four people were killed. In Minnesota, the state's Medicaid commissioner is asking federal regulators to disclose the AI behind fraud flags on 870 providers, while Nevada's ALERTWildfire network passes 140 public cameras with AI scanning for smoke at night. Today's signal is AI watching the edges, and the open question of who gets to see how it decides. --- Top Stories **1. Valmiki Tiger Reserve's 35 AI Cameras Log 26 Tigers and 68 Bears, Now Extending to the Deadlier Division** The Times of India reported on October 10 that Valmiki Tiger Reserve (VTR) in Bihar installed 35 AI-enabled smart cameras on the eastern periphery of Division I between May and August. Over the past two months the dashboard recorded 68 bear, 26 tiger, 23 human and three leopard detections. The cameras feed an integrated control room that sends real-time alerts when animals approach settlements or people enter forest-boundary areas. On the camera-covered eastern side, four sloth bear attacks caused injuries in that period; on the western side, in Division II, four people were killed in tiger attacks in recent months. The forest department has begun installing cameras on the edge of Division II\u2026",
+      "rss_description": "Impact Signals #152: Bihar Tiger Reserve AI Cameras, Minnesota Medicaid AI Flags, Nevada Night Wildfire Detection, Malaysia Free AI Access On the edge of Bihar's Valmiki Tiger Reserve, 35 AI cameras logged 26 tigers and 68 bears in two months, and the forest department is now extending them to the division where four people were killed. In Minnesota, the state's Medicaid commissioner is asking federal regulators to disclose the AI behind fraud flags on 870 providers, while Nevada's ALERTWildfire network passes 140 public cameras with AI scanning for smoke at night. Today's signal is AI watching the edges, and the open question of who gets to see how it decides. --- Top Stories **1. Valmiki Tiger Reserve's 35 AI Cameras Log 26 Tigers and 68 Bears, Now Extending to the Deadlier Division** The Times of India reported on October 10 that Valmiki Tiger Reserve (VTR) in Bihar installed 35 AI-enabled smart cameras on the eastern periphery of Division I between May and August. Over the past two months the dashboard recorded 68 bear, 26 tiger, 23 human and three leopard detections. The cameras feed an integrated control room that sends real-time alerts when animals approach settlements or people enter forest-boundary areas. On the camera-covered eastern side, four sloth bear attacks caused injuries in that period; on the western side, in Division II, four people were killed in tiger attacks in recent months. The forest department has begun installing cameras on the edge of Division II\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-152/episode-152.mp3",
+      "mp3_bytes": 8068328,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-152/impact-signal-152.mp4",
+      "mp4_bytes": 50080517,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 504,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "October 15, 2026",
+        "Register: [health.org.uk](https://www.health.org.uk/events/ai-in-the-nhs-2026)",
+        "Starts November 23, 2026",
+        "Location: Faridabad, India",
+        "India's first hosting of the World Landslide Forum",
+        "Amount: Up to US$1 million per partnership over two years (US$8 million total)",
+        "Deadline: October 30, 2026, 11:59 pm AEDT",
+        "Registered nonprofits worldwide working through multi-stakeholder collective action for learners from under-resourced communities, focused on education in the AI era"
+      ],
+      "youtube_id": "Yy54NX60xnE",
+      "youtube_url": "https://www.youtube.com/watch?v=Yy54NX60xnE"
     }
   ],
-  "lastEpisode": 151,
-  "lastUpdated": "2026-10-10T13:43:51.436593+00:00",
-  "lastPublicEpisode": 151,
+  "lastEpisode": 152,
+  "lastUpdated": "2026-10-11T13:50:29.477172+00:00",
+  "lastPublicEpisode": 152,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }

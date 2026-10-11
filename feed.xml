@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#151: Kenya's Open Sign-Language Dataset, Philadelphia's Coding Reset, California's Satellite Radar, Venezuela's Late Quake Alerts</title>
+      <title>#152: Bihar Tiger Reserve AI Cameras, Minnesota Medicaid AI Flags, Nevada Night Wildfire Detection, Malaysia Free AI Access</title>
       <description />
+      <link>https://impactsignals.ai/episodes/152-bihar-tiger-reserve-ai-cameras-minnesota-medicaid-ai-flags-nevada-night-wildfire-detec/</link>
+      <guid isPermaLink="false">impact-signal-152</guid>
+      <pubDate>Sun, 11 Oct 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-152/episode-152.mp3" length="8068328" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#151: Kenya's Open Sign-Language Dataset, Philadelphia's Coding Reset, California's Satellite Radar, Venezuela's Late Quake Alerts</title>
+      <description>Impact Signals #151: Kenya's Open Sign-Language Dataset, Philadelphia's Coding Reset, California's Satellite Radar, Venezuela's Late Quake Alerts Signvrse, the Kenyan team behind the Terp360 app, has released nearly 12,000 Kenyan Sign Language motion sequences as an open dataset, while in Philadelphia, Launchpad Philly is rebuilding its youth coding program after only 3 of its first 12 graduates landed full-time work in an AI-reshaped job market. California has reopened its State Operations Center with statewide ICEYE satellite radar ahead of a forecast very strong El Niño, and a new assessment finds that most respondents to Venezuela's 11.4 million quake alerts were warned during or after the shaking. Today's signal is who technology actually reaches: disabled users, young job seekers and people in the path of a quake, each measured against a number rather than a promise. --- Top Stories **1. Signvrse Releases a 12,000-Sequence Open Kenyan Sign Language Dataset as African Assistive AI Reaches Patients** Kenya News Agency reported on October 7 that Signvrse, the team behind engineer Elly Savatia's Terp360 app, has released what it describes as the largest open African sign-language motion dataset and benchmark: nearly 12,000 Kenyan Sign Language motion sequences and almost nine million motion frames, published with baseline models and an open evaluation framework. Working with deaf and hard-of-hearing Kenyans, the team motion-captured more than 2,300 signs and cut the time t…</description>
       <link>https://impactsignals.ai/episodes/151-kenya-s-open-sign-language-dataset-philadelphia-s-coding-reset-california-s-satellite/</link>
       <guid isPermaLink="false">impact-signal-151</guid>
       <pubDate>Sat, 10 Oct 2026 14:00:00 +0000</pubDate>
