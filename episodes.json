@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 154,
+  "nextEpisode": 155,
   "episodes": [
     {
       "number": 1,
@@ -4753,10 +4753,43 @@
       ],
       "youtube_id": "LXEjxKyTePU",
       "youtube_url": "https://www.youtube.com/watch?v=LXEjxKyTePU"
+    },
+    {
+      "number": 154,
+      "date": "2026-10-13",
+      "title": "Impact Signals #154 \u2014 Tanzania's AI Eye-Screening Trial, Philadelphia's False AI Tip, Indonesia's Mosque Quake Alarms",
+      "headline": "Tanzania's AI Eye-Screening Trial, Philadelphia's False AI Tip, Indonesia's Mosque Quake Alarms",
+      "slug": "154-tanzania-s-ai-eye-screening-trial-philadelphia-s-false-ai-tip-indonesia-s-mosque-quake",
+      "description": "Impact Signals #154: Tanzania's AI Eye-Screening Trial, Philadelphia's False AI Tip, Indonesia's Mosque Quake Alarms In 24 Tanzanian hospitals, a randomized trial found that an instant AI eye-screening result doubled the share of patients who reached a specialist, because the answer arrived while the patient was still in the room. In Philadelphia, a false homicide tip filed by an AI developer's test agent sat in police records for two months before the company disclosed it. In Indonesia, scientists are testing whether mosque loudspeakers can carry earthquake alerts when phone networks fail. Today's signal is who finds out when a system fails, and how fast. --- Top Stories **1. Tanzania Trial Across 24 Hospitals: Instant AI Eye-Screening Results Doubled Specialist Attendance, 35.9% Versus 18.2%** The London School of Hygiene & Tropical Medicine reported on October 13, 2026 the results of a randomized controlled trial of AI-supported diabetic eye screening in Tanzania, published in The Lancet Global Health. The trial enrolled 2,378 people across 24 hospitals; half went through an AI-supported pathway and half through the standard one, in which retinal images are sent to a hospital for grading. Among patients with referable diabetic retinopathy, 35.9% of the AI group attended a specialist eye clinic within eight weeks, against 18.2% under standard screening, and they got there in an average of 10.9 days versus 36.9. The researchers attribute the gap to timing: the immediate res\u2026",
+      "rss_description": "Impact Signals #154: Tanzania's AI Eye-Screening Trial, Philadelphia's False AI Tip, Indonesia's Mosque Quake Alarms In 24 Tanzanian hospitals, a randomized trial found that an instant AI eye-screening result doubled the share of patients who reached a specialist, because the answer arrived while the patient was still in the room. In Philadelphia, a false homicide tip filed by an AI developer's test agent sat in police records for two months before the company disclosed it. In Indonesia, scientists are testing whether mosque loudspeakers can carry earthquake alerts when phone networks fail. Today's signal is who finds out when a system fails, and how fast. --- Top Stories **1. Tanzania Trial Across 24 Hospitals: Instant AI Eye-Screening Results Doubled Specialist Attendance, 35.9% Versus 18.2%** The London School of Hygiene & Tropical Medicine reported on October 13, 2026 the results of a randomized controlled trial of AI-supported diabetic eye screening in Tanzania, published in The Lancet Global Health. The trial enrolled 2,378 people across 24 hospitals; half went through an AI-supported pathway and half through the standard one, in which retinal images are sent to a hospital for grading. Among patients with referable diabetic retinopathy, 35.9% of the AI group attended a specialist eye clinic within eight weeks, against 18.2% under standard screening, and they got there in an average of 10.9 days versus 36.9. The researchers attribute the gap to timing: the immediate res\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-154/episode-154.mp3",
+      "mp3_bytes": 7181417,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-154/impact-signal-154.mp4",
+      "mp4_bytes": 44034738,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 448,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "October 13, 2026 (today)",
+        "Location: Global",
+        "The annual UN observance; SADC issued a statement for the day.",
+        "Register: [news.google.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMzhQaUF6SVlKQllCbVVxdHFTQWo4TXJBdGtabEFYd1NUOGJiYlhra3pNbndJSGJWYVNKSjljQi1TM3o1VFhIdFpJa243MDZJVzFROTJZQnROZlhQRTFQcXVtbC1OdVQ4aXBZQ3pRSnByRmY1SzU2d3l5c3llUEZLY2drSnlsajZSTzN4WTJ0ZXUzUDhGMXlVVUttb0RtTmh1VTdXTl94LVBRZUVzUnJmc053TQ?oc=5)",
+        "October 19 to 25, 2026",
+        "Location: Australia (in person, local)",
+        "545 community organizations funded to run free AI and online-safety sessions, with the National AI Centre as AI Inclusion Partner. Host grants are closed; sessions are open to attend.",
+        "Register: [goodthingsaustralia.org](https://goodthingsaustralia.org/news/get-involved-in-get-online-week-2026)"
+      ],
+      "youtube_id": "pvQdmXREhe4",
+      "youtube_url": "https://www.youtube.com/watch?v=pvQdmXREhe4"
     }
   ],
-  "lastEpisode": 153,
-  "lastUpdated": "2026-10-12T12:38:34.472309+00:00",
-  "lastPublicEpisode": 153,
+  "lastEpisode": 154,
+  "lastUpdated": "2026-10-13T12:39:14.187947+00:00",
+  "lastPublicEpisode": 154,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
