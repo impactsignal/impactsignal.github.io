@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#154: Tanzania's AI Eye-Screening Trial, Philadelphia's False AI Tip, Indonesia's Mosque Quake Alarms</title>
+      <title>#155: AI Disaster Sitreps Miss Official Figures, California's Cameras Spot 51% of Wildfires First, England's Police Watchdog Warns on AI Misconduct</title>
       <description />
+      <link>https://impactsignals.ai/episodes/155-ai-disaster-sitreps-miss-official-figures-california-s-cameras-spot-51-of-wildfires-fi/</link>
+      <guid isPermaLink="false">impact-signal-155</guid>
+      <pubDate>Wed, 14 Oct 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-155/episode-155.mp3" length="6478828" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#154: Tanzania's AI Eye-Screening Trial, Philadelphia's False AI Tip, Indonesia's Mosque Quake Alarms</title>
+      <description>Impact Signals #154: Tanzania's AI Eye-Screening Trial, Philadelphia's False AI Tip, Indonesia's Mosque Quake Alarms In 24 Tanzanian hospitals, a randomized trial found that an instant AI eye-screening result doubled the share of patients who reached a specialist, because the answer arrived while the patient was still in the room. In Philadelphia, a false homicide tip filed by an AI developer's test agent sat in police records for two months before the company disclosed it. In Indonesia, scientists are testing whether mosque loudspeakers can carry earthquake alerts when phone networks fail. Today's signal is who finds out when a system fails, and how fast. --- Top Stories **1. Tanzania Trial Across 24 Hospitals: Instant AI Eye-Screening Results Doubled Specialist Attendance, 35.9% Versus 18.2%** The London School of Hygiene &amp; Tropical Medicine reported on October 13, 2026 the results of a randomized controlled trial of AI-supported diabetic eye screening in Tanzania, published in The Lancet Global Health. The trial enrolled 2,378 people across 24 hospitals; half went through an AI-supported pathway and half through the standard one, in which retinal images are sent to a hospital for grading. Among patients with referable diabetic retinopathy, 35.9% of the AI group attended a specialist eye clinic within eight weeks, against 18.2% under standard screening, and they got there in an average of 10.9 days versus 36.9. The researchers attribute the gap to timing: the immediate res…</description>
       <link>https://impactsignals.ai/episodes/154-tanzania-s-ai-eye-screening-trial-philadelphia-s-false-ai-tip-indonesia-s-mosque-quake/</link>
       <guid isPermaLink="false">impact-signal-154</guid>
       <pubDate>Tue, 13 Oct 2026 14:00:00 +0000</pubDate>

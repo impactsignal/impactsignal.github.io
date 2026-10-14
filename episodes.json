@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 155,
+  "nextEpisode": 156,
   "episodes": [
     {
       "number": 1,
@@ -4786,10 +4786,43 @@
       ],
       "youtube_id": "pvQdmXREhe4",
       "youtube_url": "https://www.youtube.com/watch?v=pvQdmXREhe4"
+    },
+    {
+      "number": 155,
+      "date": "2026-10-14",
+      "title": "Impact Signals #155 \u2014 AI Disaster Sitreps Miss Official Figures, California's Cameras Spot 51% of Wildfires First, England's Police Watchdog Warns on AI Misconduct",
+      "headline": "AI Disaster Sitreps Miss Official Figures, California's Cameras Spot 51% of Wildfires First, England's Police Watchdog Warns on AI Misconduct",
+      "slug": "155-ai-disaster-sitreps-miss-official-figures-california-s-cameras-spot-51-of-wildfires-fi",
+      "description": "Impact Signals #155: AI Disaster Sitreps Miss Official Figures, California's Cameras Spot 51% of Wildfires First, England's Police Watchdog Warns on AI Misconduct A new evaluation of 261 machine-written disaster situation reports finds they can look as complete as the ones humanitarian staff write while carrying only about one official figure in ten. In California, the ALERTCalifornia camera network now says its AI is the first to detect about half of the state's wildfires, and in England the police complaints watchdog has told forces that vague AI rules could leave officers facing misconduct proceedings. Today's signal is accountability for the machine's output: what it gets right, what it misses, and who answers for it. --- Top Stories **1. AI-Written Disaster Situation Reports Look Complete but Carry Only 5 to 11 Percent of Official Figures, Preprint Finds** A preprint posted to arXiv on October 13, 2026, \"Looking Complete Is Not Being Grounded,\" compares 121 human-authored humanitarian situation reports with 261 LLM-generated ones across five disasters and three hazard types, using a 15-slot information schema drawn from professional sitreps. On completeness the machines look competitive: the best machine report on Cyclone Idai scored 0.827 against a human ceiling of 0.821, a difference that is not statistically significant and did not replicate with a second model. On grounding they fall short: same-day machine reports reproduced only 5.4 to 11.0 percent of official fig\u2026",
+      "rss_description": "Impact Signals #155: AI Disaster Sitreps Miss Official Figures, California's Cameras Spot 51% of Wildfires First, England's Police Watchdog Warns on AI Misconduct A new evaluation of 261 machine-written disaster situation reports finds they can look as complete as the ones humanitarian staff write while carrying only about one official figure in ten. In California, the ALERTCalifornia camera network now says its AI is the first to detect about half of the state's wildfires, and in England the police complaints watchdog has told forces that vague AI rules could leave officers facing misconduct proceedings. Today's signal is accountability for the machine's output: what it gets right, what it misses, and who answers for it. --- Top Stories **1. AI-Written Disaster Situation Reports Look Complete but Carry Only 5 to 11 Percent of Official Figures, Preprint Finds** A preprint posted to arXiv on October 13, 2026, \"Looking Complete Is Not Being Grounded,\" compares 121 human-authored humanitarian situation reports with 261 LLM-generated ones across five disasters and three hazard types, using a 15-slot information schema drawn from professional sitreps. On completeness the machines look competitive: the best machine report on Cyclone Idai scored 0.827 against a human ceiling of 0.821, a difference that is not statistically significant and did not replicate with a second model. On grounding they fall short: same-day machine reports reproduced only 5.4 to 11.0 percent of official fig\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-155/episode-155.mp3",
+      "mp3_bytes": 6478828,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-155/impact-signal-155.mp4",
+      "mp4_bytes": 40271254,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 404,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Deadline: November 4, 2026 (time zone not stated on the funder page)",
+        "Amount: Up to US$100,000, plus 12 months of technical mentorship",
+        "For startups registered in a UNICEF programme country with a working prototype, committed to open-source licensing and using frontier tech such as AI, ML, blockchain or data science; women-led startups and founders under 35 strongly encouraged.",
+        "Apply: [unicef.org](https://www.unicef.org/innovation/FemTechCall)",
+        "Thursday, October 29, 2026, 15:00 GMT (11:00 EDT), 60 minutes plus Q&A",
+        "Location: Virtual (Zoom)",
+        "Register: [smartcitiesworld.net](https://www.smartcitiesworld.net/webinars/webinar-ai-for-citizen-first-resilience-ready-local-governments)",
+        "Panama:** M7.7 earthquake on October 9 in western Panama, followed by aftershocks up to M6.6 through October 12; USGS PAGER alert ORANGE, and ReliefWeb has opened a disaster page. Source: [earthquake.usgs.gov](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k)."
+      ],
+      "youtube_id": "DIPfB4PtrCQ",
+      "youtube_url": "https://www.youtube.com/watch?v=DIPfB4PtrCQ"
     }
   ],
-  "lastEpisode": 154,
-  "lastUpdated": "2026-10-13T12:39:14.187947+00:00",
-  "lastPublicEpisode": 154,
+  "lastEpisode": 155,
+  "lastUpdated": "2026-10-14T12:37:06.525442+00:00",
+  "lastPublicEpisode": 155,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
