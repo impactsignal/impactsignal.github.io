@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 156,
+  "nextEpisode": 157,
   "episodes": [
     {
       "number": 1,
@@ -4819,10 +4819,43 @@
       ],
       "youtube_id": "DIPfB4PtrCQ",
       "youtube_url": "https://www.youtube.com/watch?v=DIPfB4PtrCQ"
+    },
+    {
+      "number": 156,
+      "date": "2026-10-15",
+      "title": "Impact Signals #156 \u2014 Rockefeller and OpenAI Foundations' $50M City AI Fund, an Open-Source Fix for Six-Week Forecasts, Google's Earth AI Agents After the Ebola Mapping",
+      "headline": "Rockefeller and OpenAI Foundations' $50M City AI Fund, an Open-Source Fix for Six-Week Forecasts, Google's Earth AI Agents After the Ebola Mapping",
+      "slug": "156-rockefeller-and-openai-foundations-50m-city-ai-fund-an-open-source-fix-for-six-week-fo",
+      "description": "Impact Signals #156: Rockefeller and OpenAI Foundations' $50M City AI Fund, an Open-Source Fix for Six-Week Forecasts, Google's Earth AI Agents After the Ebola Mapping The Rockefeller Foundation and the OpenAI Foundation opened a $50 million fund for city AI projects on October 14, and no applicant gets a dollar without a city government signed on as a partner. The same day, an MIT and Microsoft team showed in Nature that an open-source correction layer doubles an AI weather model's skill three to six weeks out, and Google opened the geospatial agents a WHO team used to find 45,500 people in Ebola's path in DR Congo. Today's signal: the money and the models are moving toward the institutions that have to adopt them, the city hall, the weather office and the clinic. --- Top Stories **1. Rockefeller and OpenAI Foundations Open a $50 Million City AI Fund That Requires a City Government Partner on Every Project** The Rockefeller Foundation and the OpenAI Foundation announced \"Cities Deliver: AI Solutions for Public Services\" on October 14, 2026, a $50 million program managed by RF Catalytic Capital. Grants run from $500,000 to $2 million over 24 months in two tracks: Seed ($500,000 to under $1 million) for concepts ready for a first city pilot, and Scale ($1 million to $2 million) for solutions already piloted. Governments cannot apply directly, but every project needs a committed city government partner and a \"meaningful frontier AI component\" from any provider; per Unite.AI, O\u2026",
+      "rss_description": "Impact Signals #156: Rockefeller and OpenAI Foundations' $50M City AI Fund, an Open-Source Fix for Six-Week Forecasts, Google's Earth AI Agents After the Ebola Mapping The Rockefeller Foundation and the OpenAI Foundation opened a $50 million fund for city AI projects on October 14, and no applicant gets a dollar without a city government signed on as a partner. The same day, an MIT and Microsoft team showed in Nature that an open-source correction layer doubles an AI weather model's skill three to six weeks out, and Google opened the geospatial agents a WHO team used to find 45,500 people in Ebola's path in DR Congo. Today's signal: the money and the models are moving toward the institutions that have to adopt them, the city hall, the weather office and the clinic. --- Top Stories **1. Rockefeller and OpenAI Foundations Open a $50 Million City AI Fund That Requires a City Government Partner on Every Project** The Rockefeller Foundation and the OpenAI Foundation announced \"Cities Deliver: AI Solutions for Public Services\" on October 14, 2026, a $50 million program managed by RF Catalytic Capital. Grants run from $500,000 to $2 million over 24 months in two tracks: Seed ($500,000 to under $1 million) for concepts ready for a first city pilot, and Scale ($1 million to $2 million) for solutions already piloted. Governments cannot apply directly, but every project needs a committed city government partner and a \"meaningful frontier AI component\" from any provider; per Unite.AI, O\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-156/episode-156.mp3",
+      "mp3_bytes": 9246554,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-156/impact-signal-156.mp4",
+      "mp4_bytes": 57567932,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 577,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Deadline: November 29, 2026, 11:59 p.m. US Eastern (Round 1); questions due October 31, 2026",
+        "Amount: $500,000 to $2 million over 24 months (Seed: $500,000 to under $1 million; Scale: $1 million to $2 million), from a $50 million program",
+        "Eligibility: Nonprofits (including university labs and fiscally sponsored organizations), public benefit corporations, and some for-profits for charitable projects; governments may not apply directly; a committed city government partner and a frontier AI component (any provider) are required",
+        "Apply: [rockefellerfoundation.org](https://www.rockefellerfoundation.org/cities-deliver-ai-solutions-for-public-services/)",
+        "October 28, 2026 (date per The Respondents; confirm with the Royal Academy of Engineering)",
+        "Location: Johannesburg, South Africa",
+        "Final of the Royal Academy of Engineering's prize for African engineering innovators",
+        "Details: [therespondents.co.tz](https://www.therespondents.co.tz/2026/10/tanzania-turns-to-ai-3d-printing-to.html)"
+      ],
+      "youtube_id": "jHkWtWI-GfI",
+      "youtube_url": "https://www.youtube.com/watch?v=jHkWtWI-GfI"
     }
   ],
-  "lastEpisode": 155,
-  "lastUpdated": "2026-10-14T12:37:06.525442+00:00",
-  "lastPublicEpisode": 155,
+  "lastEpisode": 156,
+  "lastUpdated": "2026-10-15T12:34:03.869792+00:00",
+  "lastPublicEpisode": 156,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }

@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#155: AI Disaster Sitreps Miss Official Figures, California's Cameras Spot 51% of Wildfires First, England's Police Watchdog Warns on AI Misconduct</title>
+      <title>#156: Rockefeller and OpenAI Foundations' $50M City AI Fund, an Open-Source Fix for Six-Week Forecasts, Google's Earth AI Agents After the Ebola Mapping</title>
       <description />
+      <link>https://impactsignals.ai/episodes/156-rockefeller-and-openai-foundations-50m-city-ai-fund-an-open-source-fix-for-six-week-fo/</link>
+      <guid isPermaLink="false">impact-signal-156</guid>
+      <pubDate>Thu, 15 Oct 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-156/episode-156.mp3" length="9246554" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#155: AI Disaster Sitreps Miss Official Figures, California's Cameras Spot 51% of Wildfires First, England's Police Watchdog Warns on AI Misconduct</title>
+      <description>Impact Signals #155: AI Disaster Sitreps Miss Official Figures, California's Cameras Spot 51% of Wildfires First, England's Police Watchdog Warns on AI Misconduct A new evaluation of 261 machine-written disaster situation reports finds they can look as complete as the ones humanitarian staff write while carrying only about one official figure in ten. In California, the ALERTCalifornia camera network now says its AI is the first to detect about half of the state's wildfires, and in England the police complaints watchdog has told forces that vague AI rules could leave officers facing misconduct proceedings. Today's signal is accountability for the machine's output: what it gets right, what it misses, and who answers for it. --- Top Stories **1. AI-Written Disaster Situation Reports Look Complete but Carry Only 5 to 11 Percent of Official Figures, Preprint Finds** A preprint posted to arXiv on October 13, 2026, "Looking Complete Is Not Being Grounded," compares 121 human-authored humanitarian situation reports with 261 LLM-generated ones across five disasters and three hazard types, using a 15-slot information schema drawn from professional sitreps. On completeness the machines look competitive: the best machine report on Cyclone Idai scored 0.827 against a human ceiling of 0.821, a difference that is not statistically significant and did not replicate with a second model. On grounding they fall short: same-day machine reports reproduced only 5.4 to 11.0 percent of official fig…</description>
       <link>https://impactsignals.ai/episodes/155-ai-disaster-sitreps-miss-official-figures-california-s-cameras-spot-51-of-wildfires-fi/</link>
       <guid isPermaLink="false">impact-signal-155</guid>
       <pubDate>Wed, 14 Oct 2026 14:00:00 +0000</pubDate>
