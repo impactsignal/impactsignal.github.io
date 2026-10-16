@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 157,
+  "nextEpisode": 158,
   "episodes": [
     {
       "number": 1,
@@ -4852,10 +4852,43 @@
       ],
       "youtube_id": "jHkWtWI-GfI",
       "youtube_url": "https://www.youtube.com/watch?v=jHkWtWI-GfI"
+    },
+    {
+      "number": 157,
+      "date": "2026-10-16",
+      "title": "Impact Signals #157 \u2014 Baroness Campbell's AI Voice in the Lords, Japan's False M9.9 Quake Alert, AfDB and UNDP's AI 10 Billion, Himachal's Glacial-Lake Warning",
+      "headline": "Baroness Campbell's AI Voice in the Lords, Japan's False M9.9 Quake Alert, AfDB and UNDP's AI 10 Billion, Himachal's Glacial-Lake Warning",
+      "slug": "157-baroness-campbell-s-ai-voice-in-the-lords-japan-s-false-m9-9-quake-alert-afdb-and-undp",
+      "description": "Impact Signals #157: Baroness Campbell's AI Voice in the Lords, Japan's False M9.9 Quake Alert, AfDB and UNDP's AI 10 Billion, Himachal's Glacial-Lake Warning Baroness Jane Campbell of Surbiton, who has spinal muscular atrophy, addressed the House of Lords this week in an AI clone of the voice she had before her illness, built by ElevenLabs from old recordings and cleared in advance by the Lords' procedure committee. On the same day the record showed what happens when the machine speaks with false authority: Japan's Meteorological Agency pushed a magnitude 9.9 earthquake warning to phones and trains across Hokkaido and Tohoku, then retracted it eight minutes later. Meanwhile the African Development Bank and UNDP put a country count and a deadline on their $10 billion AI plan for the first time. Today's signal is that automated voices now carry real public weight, which makes who checks them as important as what they say. --- Top Stories **1. Baroness Campbell Addresses the House of Lords in an AI Clone of the Voice She Used to Have** On October 13, 2026, Baroness Jane Campbell of Surbiton, a 67-year-old crossbench peer with spinal muscular atrophy, delivered a speech she wrote herself during a Lords health debate, read aloud by an AI-generated version of her own earlier voice. She introduced it as \"Baroness Campbell Mark 2.\" Coverage describes it as the first time a UK parliamentarian has addressed Parliament with an AI-generated voice. ElevenLabs built the clone from old re\u2026",
+      "rss_description": "Impact Signals #157: Baroness Campbell's AI Voice in the Lords, Japan's False M9.9 Quake Alert, AfDB and UNDP's AI 10 Billion, Himachal's Glacial-Lake Warning Baroness Jane Campbell of Surbiton, who has spinal muscular atrophy, addressed the House of Lords this week in an AI clone of the voice she had before her illness, built by ElevenLabs from old recordings and cleared in advance by the Lords' procedure committee. On the same day the record showed what happens when the machine speaks with false authority: Japan's Meteorological Agency pushed a magnitude 9.9 earthquake warning to phones and trains across Hokkaido and Tohoku, then retracted it eight minutes later. Meanwhile the African Development Bank and UNDP put a country count and a deadline on their $10 billion AI plan for the first time. Today's signal is that automated voices now carry real public weight, which makes who checks them as important as what they say. --- Top Stories **1. Baroness Campbell Addresses the House of Lords in an AI Clone of the Voice She Used to Have** On October 13, 2026, Baroness Jane Campbell of Surbiton, a 67-year-old crossbench peer with spinal muscular atrophy, delivered a speech she wrote herself during a Lords health debate, read aloud by an AI-generated version of her own earlier voice. She introduced it as \"Baroness Campbell Mark 2.\" Coverage describes it as the first time a UK parliamentarian has addressed Parliament with an AI-generated voice. ElevenLabs built the clone from old re\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-157/episode-157.mp3",
+      "mp3_bytes": 7802087,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-157/impact-signal-157.mp4",
+      "mp4_bytes": 48271891,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 487,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "October 29, 2026 (date per the event listing)",
+        "Location: Virtual",
+        "A session on AI in local-government services and resilience planning.",
+        "Register: [news.google.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd2IyTDlEXzRVaFFibGZkQVBEcGJESHYxeFJaQTdyTXN5eXBTOW9pb3drTE8xaDV3UEJXM21OajNvQmlsdnVRNjZaMU9Yb1JoaURhNFFlZ3l0TjZlTnNFOFctMFBzdnV3MEwzYjdvemdfZHBuTlF5ZlZLLUdpb3prT2pQQzVoMjF6Mll3U21wZldiOEhOOUlXOWIxMWpRa2ltTk5WaFlUU0w?oc=5)",
+        "November 19, 2026 (date per the announcement)",
+        "Location: Malaysia",
+        "A public, nationwide test of a new disaster alert system; no registration required.",
+        "Details: [news.google.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWF6RWwzOW5SS1pWNGd0Y0pnWFZhcXhhWjlCZmxOZndDRF9CNGlMX2xYR3gwbmRjWS1sMmlORVJCZ1hZSk1Qd01PZkVTMkw3UndabkVaS2t1bnNKQWtSOUZrWklUT1JQdkk2UjRpQWQyU2FsN3ZNQlZzTkZ3QUViVmU0eGZhb01QakF2TEcxOTBGZlFndFlz?oc=5)"
+      ],
+      "youtube_id": "0wZ4oRsY-lk",
+      "youtube_url": "https://www.youtube.com/watch?v=0wZ4oRsY-lk"
     }
   ],
-  "lastEpisode": 156,
-  "lastUpdated": "2026-10-15T12:34:03.869792+00:00",
-  "lastPublicEpisode": 156,
+  "lastEpisode": 157,
+  "lastUpdated": "2026-10-16T12:41:52.324635+00:00",
+  "lastPublicEpisode": 157,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
