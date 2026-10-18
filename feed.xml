@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#158: Zimbabwe's DawaMom AI Midwife, UNAM's Regresa for Mexico's Missing Children, Georgetown's 53 Percent Budget Error, Disability AI Studies Without Disabled People</title>
+      <title>#159: Phone Quake Alerts Reach 200+ Countries, CERT-In Flags Rogue AI Agents, Odisha Plans for Lightning</title>
       <description />
+      <link>https://impactsignals.ai/episodes/159-phone-quake-alerts-reach-200-countries-cert-in-flags-rogue-ai-agents-odisha-plans-for/</link>
+      <guid isPermaLink="false">impact-signal-159</guid>
+      <pubDate>Sun, 18 Oct 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-159/episode-159.mp3" length="6821554" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#158: Zimbabwe's DawaMom AI Midwife, UNAM's Regresa for Mexico's Missing Children, Georgetown's 53 Percent Budget Error, Disability AI Studies Without Disabled People</title>
+      <description>Impact Signals #158: Zimbabwe's DawaMom AI Midwife, UNAM's Regresa for Mexico's Missing Children, Georgetown's 53 Percent Budget Error, Disability AI Studies Without Disabled People In Zimbabwe, a WhatsApp chatbot called DawaMom has answered pregnancy questions for more than 20,000 women, and it is allowed to answer only from Health Ministry and WHO guidance, in Shona, Ndebele and Tonga. In Mexico City, a UNAM team built its own bank of Mexican faces so its Regresa tool can age the photos of missing children, because imported software misreads them. In the United States, a Georgetown report found ChatGPT put a California county's public safety spending 53 percent above the county's own budget, and a ten-year review counted only 6 of 93 disability-health AI studies that involved disabled people. Today's signal is that an AI answer is only as good as the source it is allowed to read, and the people it was checked against. --- Top Stories **1. DawaMom, a WhatsApp AI Midwife Grounded in Health Ministry and WHO Guidance, Reaches 20,000 Women in Zimbabwe** RFI reported on October 17, 2026 that DawaMom, an AI-powered WhatsApp chatbot for pregnancy information built by Zambia-based startup DawaHealth, has supported more than 20,000 users in Zimbabwe and aims for 50,000 by the end of 2026. It uses retrieval-augmented generation and answers only from a verified database of Health Ministry guidelines, WHO recommendations, medical school curricula and hospital protocols. More than 25 he…</description>
       <link>https://impactsignals.ai/episodes/158-zimbabwe-s-dawamom-ai-midwife-unam-s-regresa-for-mexico-s-missing-children-georgetown/</link>
       <guid isPermaLink="false">impact-signal-158</guid>
       <pubDate>Sat, 17 Oct 2026 14:00:00 +0000</pubDate>

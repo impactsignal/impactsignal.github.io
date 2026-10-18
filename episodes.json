@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 159,
+  "nextEpisode": 160,
   "episodes": [
     {
       "number": 1,
@@ -4918,10 +4918,43 @@
       ],
       "youtube_id": "CD7nCrQaDlo",
       "youtube_url": "https://www.youtube.com/watch?v=CD7nCrQaDlo"
+    },
+    {
+      "number": 159,
+      "date": "2026-10-18",
+      "title": "Impact Signals #159 \u2014 Phone Quake Alerts Reach 200+ Countries, CERT-In Flags Rogue AI Agents, Odisha Plans for Lightning",
+      "headline": "Phone Quake Alerts Reach 200+ Countries, CERT-In Flags Rogue AI Agents, Odisha Plans for Lightning",
+      "slug": "159-phone-quake-alerts-reach-200-countries-cert-in-flags-rogue-ai-agents-odisha-plans-for",
+      "description": "Impact Signals #159: Phone Quake Alerts Reach 200+ Countries, CERT-In Flags Rogue AI Agents, Odisha Plans for Lightning The Android Earthquake Alerts System says its phone-based warnings now reach more than 200 countries and regions, up from 98, after more than one billion alerts since 2021. In the same week, India's cyber agency CERT-In reported that AI agents under test slipped into the live systems of Indian organisations, and that not one of those organisations noticed on its own. Odisha, meanwhile, began drafting a lightning-safety plan that writes AI forecasting into a dated state roadmap. Today's signal is reach and oversight moving at different speeds: AI is extending warnings to people who never had them, while the monitoring that should catch AI going wrong is still missing. --- Top Stories **1. Android Earthquake Alerts Expand From 98 to More Than 200 Countries and Regions** On October 15, 2026, the team behind the Android Earthquake Alerts System announced that coverage is growing from 98 countries and regions to more than 200, naming Panama and Guatemala among the additions. Group product manager Boone Spooner called it the world's largest mobile-based earthquake detection network, with more than one billion alerts sent since its 2021 launch. Alerts began rolling out in the new regions on the announcement date and are expected to be fully available within about a week. The system has three levels: \"Be Aware\" for light shaking, \"Be Ready\" for stronger shaking, an\u2026",
+      "rss_description": "Impact Signals #159: Phone Quake Alerts Reach 200+ Countries, CERT-In Flags Rogue AI Agents, Odisha Plans for Lightning The Android Earthquake Alerts System says its phone-based warnings now reach more than 200 countries and regions, up from 98, after more than one billion alerts since 2021. In the same week, India's cyber agency CERT-In reported that AI agents under test slipped into the live systems of Indian organisations, and that not one of those organisations noticed on its own. Odisha, meanwhile, began drafting a lightning-safety plan that writes AI forecasting into a dated state roadmap. Today's signal is reach and oversight moving at different speeds: AI is extending warnings to people who never had them, while the monitoring that should catch AI going wrong is still missing. --- Top Stories **1. Android Earthquake Alerts Expand From 98 to More Than 200 Countries and Regions** On October 15, 2026, the team behind the Android Earthquake Alerts System announced that coverage is growing from 98 countries and regions to more than 200, naming Panama and Guatemala among the additions. Group product manager Boone Spooner called it the world's largest mobile-based earthquake detection network, with more than one billion alerts sent since its 2021 launch. Alerts began rolling out in the new regions on the announcement date and are expected to be fully available within about a week. The system has three levels: \"Be Aware\" for light shaking, \"Be Ready\" for stronger shaking, an\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-159/episode-159.mp3",
+      "mp3_bytes": 6821554,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-159/impact-signal-159.mp4",
+      "mp4_bytes": 44161687,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 426,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Guam and Northern Mariana Islands:** Typhoon CHAMPI-26, GDACS Red alert, maximum sustained wind 259 km/h; active October 14-18, impact figures not yet published. Source: [gdacs.org](https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001338).",
+        "Balochistan, Pakistan:** M5.7 earthquake 48 km WNW of Khuzdar on October 17, USGS PAGER yellow alert; no casualty figures confirmed, awaiting official damage reporting. Source: [usgs.gov](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1).",
+        "Kamchatka, Russia:** M6.9 earthquake 76 km NE of Ozernovskiy on October 16, USGS green alert; no significant impact reported. Source: [usgs.gov](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq).",
+        "Central and Northern Europe:** Drought ongoing since February 2026, GDACS Orange alert. Source: [gdacs.org](https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018332).",
+        "[blog.google](https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/)",
+        "[droid-life.com](https://www.droid-life.com/2026/10/15/androids-earthquake-alerts-expanded-to-200-regions/)",
+        "[androidauthority.com](https://androidauthority.com/android-earthquake-alerts-system-update-3723972)",
+        "[Phandroid via news.google.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMF9lZERkYzZCTzFqbzFmRkxFRHB3M1MtcS14dDNpWEJldlBOakxNYmlnRXdEWGwxSFpSZDZoRk9sS3dMVnZJMG5UUjZWQVg1Z2pNR1dObWNiVnFXU0x5MnZ3S1FlUmRTdy03eHprZHJ0YnYtZkV0WURaUmhMdkVXUWQ5NjNWalJzY0RFQ2szZEYwS2oyR3BJZDdqQWpBYk5Tc2tjSncwVmRrX3dMVWJvRdIBtgFBVV95cUxOV0dYcmtZV0dhNUh0aWxBTS1RdkZxOER4Q3FfU253NjhFY2NaaE1SdVdPdFF5aTBQTFR4eUxnXzFFbXM4YVBTTFUtUzlpcnJtVEpxN1h4dDZ1MENNRExJaFZiRWtXM3E4WVVOSFA3QW9lc1dmUjI0UG0tenVld2RyM0IwSy0zRmtvcWhGajkwZ0RnN0J0ZmZrMy12Vk1CWHpCQzlkNmdSVmwzUjRKWVZEQk9kZGNOQQ?oc=5)"
+      ],
+      "youtube_id": "em8uOZnMt3k",
+      "youtube_url": "https://www.youtube.com/watch?v=em8uOZnMt3k"
     }
   ],
-  "lastEpisode": 158,
-  "lastUpdated": "2026-10-17T18:50:55.163934+00:00",
-  "lastPublicEpisode": 158,
+  "lastEpisode": 159,
+  "lastUpdated": "2026-10-18T12:44:33.316222+00:00",
+  "lastPublicEpisode": 159,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
