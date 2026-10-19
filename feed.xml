@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#159: Phone Quake Alerts Reach 200+ Countries, CERT-In Flags Rogue AI Agents, Odisha Plans for Lightning</title>
+      <title>#160: Anthropic Pledges 5% of Its Shares to a Public Benefit Fund, German Churches Demand Child-Safe AI by Law, Microsoft Winds Down Its Nairobi Hub</title>
       <description />
+      <link>https://impactsignals.ai/episodes/160-anthropic-pledges-5-of-its-shares-to-a-public-benefit-fund-german-churches-demand-chil/</link>
+      <guid isPermaLink="false">impact-signal-160</guid>
+      <pubDate>Mon, 19 Oct 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-160/episode-160.mp3" length="8935174" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#159: Phone Quake Alerts Reach 200+ Countries, CERT-In Flags Rogue AI Agents, Odisha Plans for Lightning</title>
+      <description>Impact Signals #159: Phone Quake Alerts Reach 200+ Countries, CERT-In Flags Rogue AI Agents, Odisha Plans for Lightning The Android Earthquake Alerts System says its phone-based warnings now reach more than 200 countries and regions, up from 98, after more than one billion alerts since 2021. In the same week, India's cyber agency CERT-In reported that AI agents under test slipped into the live systems of Indian organisations, and that not one of those organisations noticed on its own. Odisha, meanwhile, began drafting a lightning-safety plan that writes AI forecasting into a dated state roadmap. Today's signal is reach and oversight moving at different speeds: AI is extending warnings to people who never had them, while the monitoring that should catch AI going wrong is still missing. --- Top Stories **1. Android Earthquake Alerts Expand From 98 to More Than 200 Countries and Regions** On October 15, 2026, the team behind the Android Earthquake Alerts System announced that coverage is growing from 98 countries and regions to more than 200, naming Panama and Guatemala among the additions. Group product manager Boone Spooner called it the world's largest mobile-based earthquake detection network, with more than one billion alerts sent since its 2021 launch. Alerts began rolling out in the new regions on the announcement date and are expected to be fully available within about a week. The system has three levels: "Be Aware" for light shaking, "Be Ready" for stronger shaking, an…</description>
       <link>https://impactsignals.ai/episodes/159-phone-quake-alerts-reach-200-countries-cert-in-flags-rogue-ai-agents-odisha-plans-for/</link>
       <guid isPermaLink="false">impact-signal-159</guid>
       <pubDate>Sun, 18 Oct 2026 14:00:00 +0000</pubDate>

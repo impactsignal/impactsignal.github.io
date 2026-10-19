@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 160,
+  "nextEpisode": 161,
   "episodes": [
     {
       "number": 1,
@@ -4951,10 +4951,43 @@
       ],
       "youtube_id": "em8uOZnMt3k",
       "youtube_url": "https://www.youtube.com/watch?v=em8uOZnMt3k"
+    },
+    {
+      "number": 160,
+      "date": "2026-10-19",
+      "title": "Impact Signals #160 \u2014 Anthropic Pledges 5% of Its Shares to a Public Benefit Fund, German Churches Demand Child-Safe AI by Law, Microsoft Winds Down Its Nairobi Hub",
+      "headline": "Anthropic Pledges 5% of Its Shares to a Public Benefit Fund, German Churches Demand Child-Safe AI by Law, Microsoft Winds Down Its Nairobi Hub",
+      "slug": "160-anthropic-pledges-5-of-its-shares-to-a-public-benefit-fund-german-churches-demand-chil",
+      "description": "Impact Signals #160: Anthropic Pledges 5% of Its Shares to a Public Benefit Fund, German Churches Demand Child-Safe AI by Law, Microsoft Winds Down Its Nairobi Hub Anthropic has committed 5% of its shares to a new public benefit fund that names AI job disruption among the causes it could address, though it has published no dollar value, no governance and no way to apply. In Nairobi, staff at Microsoft's Africa Development Centre were reportedly told its engineering operations are closing in the same week Africa's main machine-learning gathering, the Deep Learning Indaba, said it is struggling to raise money. In Germany, the Catholic and Protestant churches launched a campaign asking for a legal duty on AI providers to meet child-appropriate standards, and a World Bank review found Sweden's disaster records too scattered for AI to help yet. Today's signal is who pays for AI's public good: one very large pledge with its terms still unwritten, set against a research pipeline in Africa that runs on small, reversible grants. --- Top Stories **1. Anthropic Commits 5% of Its Shares to a Public Benefit Fund, Pending Stockholder Approval** On Sunday, October 18, 2026, Anthropic, the maker of the Claude AI assistant, announced the Anthropic Public Benefit Fund and committed 5% of the company's shares to it, effective immediately but subject to stockholder approval. The board may add a further 2% for every 50% increase in company value above an unpublished baseline, and Anthropic says\u2026",
+      "rss_description": "Impact Signals #160: Anthropic Pledges 5% of Its Shares to a Public Benefit Fund, German Churches Demand Child-Safe AI by Law, Microsoft Winds Down Its Nairobi Hub Anthropic has committed 5% of its shares to a new public benefit fund that names AI job disruption among the causes it could address, though it has published no dollar value, no governance and no way to apply. In Nairobi, staff at Microsoft's Africa Development Centre were reportedly told its engineering operations are closing in the same week Africa's main machine-learning gathering, the Deep Learning Indaba, said it is struggling to raise money. In Germany, the Catholic and Protestant churches launched a campaign asking for a legal duty on AI providers to meet child-appropriate standards, and a World Bank review found Sweden's disaster records too scattered for AI to help yet. Today's signal is who pays for AI's public good: one very large pledge with its terms still unwritten, set against a research pipeline in Africa that runs on small, reversible grants. --- Top Stories **1. Anthropic Commits 5% of Its Shares to a Public Benefit Fund, Pending Stockholder Approval** On Sunday, October 18, 2026, Anthropic, the maker of the Claude AI assistant, announced the Anthropic Public Benefit Fund and committed 5% of the company's shares to it, effective immediately but subject to stockholder approval. The board may add a further 2% for every 50% increase in company value above an unpublished baseline, and Anthropic says\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-160/episode-160.mp3",
+      "mp3_bytes": 8935174,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-160/impact-signal-160.mp4",
+      "mp4_bytes": 55055911,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 558,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "October 21-22, 2026",
+        "Location: Geneva",
+        "A seminar on AI in humanitarian health programs, covering innovation, governance and inclusion",
+        "Register: [aid-expo.com](https://aid-expo.com/2026-seminars/ai-health-programme-humanitarian-context-innovation-governance-inclusion)",
+        "November 2026 (exact date to be confirmed)",
+        "Location: Mumbai",
+        "The Argentine AI wildfire-detection platform Satellites on Fire is a finalist in the Clean Our Air category",
+        "Details: [earthshotprize.org](https://earthshotprize.org/winners-finalists/2026/)"
+      ],
+      "youtube_id": "hzjusbPzPAc",
+      "youtube_url": "https://www.youtube.com/watch?v=hzjusbPzPAc"
     }
   ],
-  "lastEpisode": 159,
-  "lastUpdated": "2026-10-18T12:44:33.316222+00:00",
-  "lastPublicEpisode": 159,
+  "lastEpisode": 160,
+  "lastUpdated": "2026-10-19T12:43:48.794923+00:00",
+  "lastPublicEpisode": 160,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
