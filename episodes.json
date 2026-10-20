@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 161,
+  "nextEpisode": 162,
   "episodes": [
     {
       "number": 1,
@@ -4984,10 +4984,43 @@
       ],
       "youtube_id": "hzjusbPzPAc",
       "youtube_url": "https://www.youtube.com/watch?v=hzjusbPzPAc"
+    },
+    {
+      "number": 161,
+      "date": "2026-10-20",
+      "title": "Impact Signals #161 \u2014 Dallas Rewrites Its AI Code-Camera Program, Norfolk's AI Line Takes 40% of Calls, Untested AI in English-Learner Classrooms",
+      "headline": "Dallas Rewrites Its AI Code-Camera Program, Norfolk's AI Line Takes 40% of Calls, Untested AI in English-Learner Classrooms",
+      "slug": "161-dallas-rewrites-its-ai-code-camera-program-norfolk-s-ai-line-takes-40-of-calls-unteste",
+      "description": "Impact Signals #161: Dallas Rewrites Its AI Code-Camera Program, Norfolk's AI Line Takes 40% of Calls, Untested AI in English-Learner Classrooms Dallas is blurring whole bodies in its trash-truck camera images and retiring its AI \"blight score\" after NBC 5 pulled the photos through an open records request. In Norfolk, Virginia, an AI voice system now answers more than 40 percent of police and fire non-emergency calls for under $2,000 a month, and a coalition of more than 150 education groups says the federal capacity to test classroom AI serving 5 million English learners has been gutted. Today's signal is accountability: AI answering to the people it is pointed at, and to the reporters, councils and committees asking who checked it first. --- Top Stories **1. Dallas Blurs Whole Bodies and Retires Its AI \"Blight Score\" After an NBC 5 Investigation** Dallas uses AI cameras on city trash trucks, run by contractor City Detect, to flag possible property code violations. On October 19, city officials and the vendor told the council's Quality of Life Committee that City Detect now blurs entire bodies, not just faces, after NBC 5 obtained images through an open records request showing people's bodies and clothing stamped with date, time and location. The 1-to-4 \"blight score\" the city used to prioritize human review is being renamed an \"image index\"; CEO Gavin Baum-Blake acknowledged the old name was a loaded term. More than 3,000 homeowners have received \"courtesy notices,\" which\u2026",
+      "rss_description": "Impact Signals #161: Dallas Rewrites Its AI Code-Camera Program, Norfolk's AI Line Takes 40% of Calls, Untested AI in English-Learner Classrooms Dallas is blurring whole bodies in its trash-truck camera images and retiring its AI \"blight score\" after NBC 5 pulled the photos through an open records request. In Norfolk, Virginia, an AI voice system now answers more than 40 percent of police and fire non-emergency calls for under $2,000 a month, and a coalition of more than 150 education groups says the federal capacity to test classroom AI serving 5 million English learners has been gutted. Today's signal is accountability: AI answering to the people it is pointed at, and to the reporters, councils and committees asking who checked it first. --- Top Stories **1. Dallas Blurs Whole Bodies and Retires Its AI \"Blight Score\" After an NBC 5 Investigation** Dallas uses AI cameras on city trash trucks, run by contractor City Detect, to flag possible property code violations. On October 19, city officials and the vendor told the council's Quality of Life Committee that City Detect now blurs entire bodies, not just faces, after NBC 5 obtained images through an open records request showing people's bodies and clothing stamped with date, time and location. The 1-to-4 \"blight score\" the city used to prioritize human review is being renamed an \"image index\"; CEO Gavin Baum-Blake acknowledged the old name was a loaded term. More than 3,000 homeowners have received \"courtesy notices,\" which\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-161/episode-161.mp3",
+      "mp3_bytes": 8960252,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-161/impact-signal-161.mp4",
+      "mp4_bytes": 55533334,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 559,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "November 17, 2026",
+        "Location: Mumbai, India",
+        "Fifteen finalists, including Argentina's Satellites on Fire in the Clean Our Air category.",
+        "Finalists: [sustainabilitymag.com](https://sustainabilitymag.com/news/who-are-the-15-finalists-for-the-earthshot-prize-2026)",
+        "Guam and Northern Mariana Islands:** Typhoon CHAMPI-26, GDACS Red alert, maximum winds 287 km/h, about 273,000 people in the Category 1 or stronger wind zone; ongoing. Source: [gdacs.org](https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001338).",
+        "Northern Vanuatu:** M6.6, M6.3 and M6.0 offshore earthquakes within about a day, October 19-20; USGS PAGER green where assessed, no casualty reports. Source: [earthquake.usgs.gov](https://earthquake.usgs.gov/earthquakes/eventpage/pt26293000).",
+        "Balochistan, Pakistan:** M5.7 earthquake 48 km WNW of Khuzdar in a populated area, October 17; USGS PAGER yellow, monitoring. Source: [earthquake.usgs.gov](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1).",
+        "Kamchatka, Russia:** M6.9 offshore earthquake, October 16; USGS PAGER green, no significant impact reported. Source: [earthquake.usgs.gov](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq)."
+      ],
+      "youtube_id": "IdDBUTEV4d8",
+      "youtube_url": "https://www.youtube.com/watch?v=IdDBUTEV4d8"
     }
   ],
-  "lastEpisode": 160,
-  "lastUpdated": "2026-10-19T12:43:48.794923+00:00",
-  "lastPublicEpisode": 160,
+  "lastEpisode": 161,
+  "lastUpdated": "2026-10-20T12:38:14.873462+00:00",
+  "lastPublicEpisode": 161,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
