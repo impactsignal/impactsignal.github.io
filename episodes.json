@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 163,
+  "nextEpisode": 164,
   "episodes": [
     {
       "number": 1,
@@ -5050,10 +5050,43 @@
       ],
       "youtube_id": "a9smRG2j04w",
       "youtube_url": "https://www.youtube.com/watch?v=a9smRG2j04w"
+    },
+    {
+      "number": 163,
+      "date": "2026-10-22",
+      "title": "Impact Signals #163 \u2014 When the Warning Has to Arrive \u2014 WHO's PDX in the DR Congo, Nepal's Silent Hydropower Alarm, Massachusetts' 800,000 AI Conversations",
+      "headline": "When the Warning Has to Arrive \u2014 WHO's PDX in the DR Congo, Nepal's Silent Hydropower Alarm, Massachusetts' 800,000 AI Conversations",
+      "slug": "163-when-the-warning-has-to-arrive-who-s-pdx-in-the-dr-congo-nepal-s-silent-hydropower-ala",
+      "description": "Impact Signals #163: When the Warning Has to Arrive \u2014 WHO's PDX in the DR Congo, Nepal's Silent Hydropower Alarm, Massachusetts' 800,000 AI Conversations WHO has switched on its AI preparedness platform in the DR Congo first, as an Ebola outbreak of more than 9,200 confirmed cases reaches a fifth country through air travel. In Nepal, a disclosure to Korea's National Assembly shows the warning system at a hydropower site never fired, because the debris flow it was built for destroyed its own sensors, and a resident's phone call started the evacuation. Massachusetts reports up to 800,000 resident conversations with its AI assistant, while its digital chief warns that residents increasingly get state information without ever reaching the state's website. Today's signal: an early warning system only helps if the signal actually arrives. --- Top Stories **1. WHO Deploys Its AI Preparedness Platform in the DR Congo First as Ebola Passes 9,200 Confirmed Cases** The WHO Regional Office for Africa has deployed its Preparedness Data Exchange (PDX) platform in the Democratic Republic of the Congo, the first country to receive it (WHO release dated October 18 per news-index metadata; independent coverage October 20). PDX uses AI to combine health and risk information so countries can spot threats early, linking national teams to a regional platform serving all 47 Member States of the WHO African Region. Alongside it, Dure Technologies and WHO installed Voyage Sant\u00e9, a digital points-of-\u2026",
+      "rss_description": "Impact Signals #163: When the Warning Has to Arrive \u2014 WHO's PDX in the DR Congo, Nepal's Silent Hydropower Alarm, Massachusetts' 800,000 AI Conversations WHO has switched on its AI preparedness platform in the DR Congo first, as an Ebola outbreak of more than 9,200 confirmed cases reaches a fifth country through air travel. In Nepal, a disclosure to Korea's National Assembly shows the warning system at a hydropower site never fired, because the debris flow it was built for destroyed its own sensors, and a resident's phone call started the evacuation. Massachusetts reports up to 800,000 resident conversations with its AI assistant, while its digital chief warns that residents increasingly get state information without ever reaching the state's website. Today's signal: an early warning system only helps if the signal actually arrives. --- Top Stories **1. WHO Deploys Its AI Preparedness Platform in the DR Congo First as Ebola Passes 9,200 Confirmed Cases** The WHO Regional Office for Africa has deployed its Preparedness Data Exchange (PDX) platform in the Democratic Republic of the Congo, the first country to receive it (WHO release dated October 18 per news-index metadata; independent coverage October 20). PDX uses AI to combine health and risk information so countries can spot threats early, linking national teams to a regional platform serving all 47 Member States of the WHO African Region. Alongside it, Dure Technologies and WHO installed Voyage Sant\u00e9, a digital points-of-\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-163/episode-163.mp3",
+      "mp3_bytes": 7335226,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-163/impact-signal-163.mp4",
+      "mp4_bytes": 45542725,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 458,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "DR Congo and region (Ebola, Bundibugyo virus):** 9,235 confirmed cases and 4,444 confirmed deaths as of October 15 (CDC), 9,212 of them in the DRC across 7 provinces; no vaccine or treatment exists for the variant. Nigeria confirmed its first case October 20 and activated its incident management system; WHO says Nigeria is the fifth country to detect the virus. Source: [contagionlive.com](https://www.contagionlive.com/view/ebola-outbreak-in-drc-tops-9235-confirmed-cases-cdc-reports).",
+        "Northwest Pacific (Typhoon CHAMPI-26):** GDACS Red alert, maximum wind speed 296 km/h, about 231,000 people exposed to Category 1 or stronger winds across the Philippines, Guam, the Northern Mariana Islands, Japan and Taiwan; rainbands forecast to reach Taiwan early October 23, where the Premier urged the public to avoid creeks, beaches and mountain areas. Source: [gdacs.org](http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001338).",
+        "Balochistan, Pakistan:** M5.7 shallow earthquake 48 km WNW of Khuzdar on October 17, USGS PAGER yellow alert; one rockfall death reported by a single outlet, unconfirmed by officials. Source: [earthquake.usgs.gov](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1).",
+        "Note: only major or ongoing-major disasters are featured; low-severity USGS/GDACS green alerts (Vanuatu offshore sequence, Kamchatka M6.9) are excluded per the major-only bar.",
+        "[afro.who.int](https://afro.who.int/countries/kenya/news/who-deploys-pdx-preparedness-intelligence-platform-democratic-republic-congo)",
+        "[developingtelecoms.com](https://developingtelecoms.com/telecom-business/humanitarian-communications/20994-who-uses-ai-to-provide-health-risk-information-for-drc.html)",
+        "[contagionlive.com](https://www.contagionlive.com/view/ebola-outbreak-in-drc-tops-9235-confirmed-cases-cdc-reports)",
+        "[abcnews.com](https://abcnews.com/Health/nigeria-confirms-1st-ebola-case-kenya-reports-9th/story?id=137443202)"
+      ],
+      "youtube_id": "S9vkwuulexQ",
+      "youtube_url": "https://www.youtube.com/watch?v=S9vkwuulexQ"
     }
   ],
-  "lastEpisode": 162,
-  "lastUpdated": "2026-10-21T12:32:55.656084+00:00",
-  "lastPublicEpisode": 162,
+  "lastEpisode": 163,
+  "lastUpdated": "2026-10-22T12:44:32.814220+00:00",
+  "lastPublicEpisode": 163,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
