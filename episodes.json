@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 164,
+  "nextEpisode": 165,
   "episodes": [
     {
       "number": 1,
@@ -5083,10 +5083,43 @@
       ],
       "youtube_id": "S9vkwuulexQ",
       "youtube_url": "https://www.youtube.com/watch?v=S9vkwuulexQ"
+    },
+    {
+      "number": 164,
+      "date": "2026-10-23",
+      "title": "Impact Signals #164 \u2014 UK AI Wildfire Unit in the Crisis Center, Oklahoma and Virginia AI Workforce Grant, Sharjah Fire-Alarm Drones",
+      "headline": "UK AI Wildfire Unit in the Crisis Center, Oklahoma and Virginia AI Workforce Grant, Sharjah Fire-Alarm Drones",
+      "slug": "164-uk-ai-wildfire-unit-in-the-crisis-center-oklahoma-and-virginia-ai-workforce-grant-shar",
+      "description": "Impact Signals #164: UK AI Wildfire Unit in the Crisis Center, Oklahoma and Virginia AI Workforce Grant, Sharjah Fire-Alarm Drones Britain is putting an AI wildfire unit inside its National Situation Centre after 1,132 wildfires in England and Wales this year, yet the money in the package goes to firefighter kit and rewetted peat, not to the unit. In the US, a $1.1 million grant pays Holly and 17A to map which Oklahoma and Virginia state jobs AI changes, and New York routes $10 million into a Queens AI Jobs Institute run by a nonprofit that trains adults without degrees. Today's signal: the AI is the easy part, and the budgets are going to the people who have to work beside it. --- Top Stories **1. UK Creates an AI Wildfire Unit Inside the National Situation Centre After 1,132 Fires in England and Wales** The UK government is creating an AI unit to spot and fight wildfires, housed in the National Situation Centre within the Cabinet Office Briefing Rooms (COBR) complex, The Guardian reported on October 22. Google, Airbus and VodafoneThree were expected at the government's first wildfire resilience summit on October 23 to discuss satellite monitoring, space-based early warning and \"network-as-a-sensor\" technology, with the Met Office working on forecasts and public warnings. The unit has no stated budget of its own; the package, up to \u00a370 million per IBTimes UK, funds \u00a345 million in wildfire protective equipment (more than half of the 29 fire and rescue services that answered\u2026",
+      "rss_description": "Impact Signals #164: UK AI Wildfire Unit in the Crisis Center, Oklahoma and Virginia AI Workforce Grant, Sharjah Fire-Alarm Drones Britain is putting an AI wildfire unit inside its National Situation Centre after 1,132 wildfires in England and Wales this year, yet the money in the package goes to firefighter kit and rewetted peat, not to the unit. In the US, a $1.1 million grant pays Holly and 17A to map which Oklahoma and Virginia state jobs AI changes, and New York routes $10 million into a Queens AI Jobs Institute run by a nonprofit that trains adults without degrees. Today's signal: the AI is the easy part, and the budgets are going to the people who have to work beside it. --- Top Stories **1. UK Creates an AI Wildfire Unit Inside the National Situation Centre After 1,132 Fires in England and Wales** The UK government is creating an AI unit to spot and fight wildfires, housed in the National Situation Centre within the Cabinet Office Briefing Rooms (COBR) complex, The Guardian reported on October 22. Google, Airbus and VodafoneThree were expected at the government's first wildfire resilience summit on October 23 to discuss satellite monitoring, space-based early warning and \"network-as-a-sensor\" technology, with the Met Office working on forecasts and public warnings. The unit has no stated budget of its own; the package, up to \u00a370 million per IBTimes UK, funds \u00a345 million in wildfire protective equipment (more than half of the 29 fire and rescue services that answered\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-164/episode-164.mp3",
+      "mp3_bytes": 9306322,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-164/impact-signal-164.mp4",
+      "mp4_bytes": 56693079,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 581,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Deadline: Monday, October 26, 2026",
+        "Amount: US$1,500 prize plus trophy per winner",
+        "Eligibility: public or community libraries running AI literacy training in developing and transition economy countries",
+        "Apply: [eifl.net](https://www.eifl.net/programme/public-library-innovation-programme/eifl-public-library-innovation-award-20)",
+        "China (Tibet Autonomous Region):** M7.0 earthquake 191 km ENE of Nagqu on October 22, depth 18 km; GDACS Red alert with about 10,000 people potentially exposed to strong shaking, USGS PAGER Orange, no tsunami. Casualty and damage figures not yet confirmed. Source: [gdacs.org](http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573141).",
+        "Vanuatu:** M6.0, M6.6 and M6.3 offshore earthquake sequence NW of Port-Olry, October 19 to 20; USGS PAGER Green, no damage reported, monitoring. Source: [earthquake.usgs.gov](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jl).",
+        "[aol.com (The Guardian)](https://www.aol.com/articles/burnham-reveal-plans-ai-unit-213050000.html)",
+        "[ibtimes.co.uk](https://www.ibtimes.co.uk/uk-raf-ai-wildfire-action-plan-1827336)"
+      ],
+      "youtube_id": "OtoD4c5fTWE",
+      "youtube_url": "https://www.youtube.com/watch?v=OtoD4c5fTWE"
     }
   ],
-  "lastEpisode": 163,
-  "lastUpdated": "2026-10-22T12:44:32.814220+00:00",
-  "lastPublicEpisode": 163,
+  "lastEpisode": 164,
+  "lastUpdated": "2026-10-23T12:35:48.382436+00:00",
+  "lastPublicEpisode": 164,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
