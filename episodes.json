@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 165,
+  "nextEpisode": 166,
   "episodes": [
     {
       "number": 1,
@@ -5116,10 +5116,43 @@
       ],
       "youtube_id": "OtoD4c5fTWE",
       "youtube_url": "https://www.youtube.com/watch?v=OtoD4c5fTWE"
+    },
+    {
+      "number": 165,
+      "date": "2026-10-24",
+      "title": "Impact Signals #165 \u2014 North Carolina Tests AI on SNAP Recertification, Governments Pull Sites Offline Over an AI-Found PHP Flaw, Britain Funds a \u00a3100 Million AI Biosecurity Lab",
+      "headline": "North Carolina Tests AI on SNAP Recertification, Governments Pull Sites Offline Over an AI-Found PHP Flaw, Britain Funds a \u00a3100 Million AI Biosecurity Lab",
+      "slug": "165-north-carolina-tests-ai-on-snap-recertification-governments-pull-sites-offline-over-an",
+      "description": "Impact Signals #165: North Carolina Tests AI on SNAP Recertification, Governments Pull Sites Offline Over an AI-Found PHP Flaw, Britain Funds a \u00a3100 Million AI Biosecurity Lab An $11 million round from the Public Benefit Innovation Fund will have North Carolina test AI on SNAP recertification and Stanford RegLab work with Maryland and Colorado on unemployment claims, just as new federal rules make that paperwork heavier and its errors costlier for states. In Europe and Japan, governments took their own websites offline after AI agents helped uncover two critical flaws in PHP, the language under about 70 percent of the web, while Britain committed \u00a3100 million to an independent lab that will use AI to spot biological threats earlier. Today's signal is about who keeps public systems working once AI is inside them, on both sides of the risk. --- Top Stories **1. North Carolina Will Test AI on SNAP Recertification as an $11 Million Round Funds 11 State Benefits Projects** The Public Benefit Innovation Fund, run by the Center for Civic Futures (a program of Renaissance Philanthropy), has awarded $11 million across 11 projects that apply AI to the machinery behind Medicaid, SNAP and unemployment insurance, StateScoop reported on October 23. North Carolina will test an AI-assisted SNAP recertification process, starting on synthetic data before touching real cases, and Stanford RegLab will work with Maryland and Colorado on unemployment insurance applications. Other projects flag SN\u2026",
+      "rss_description": "Impact Signals #165: North Carolina Tests AI on SNAP Recertification, Governments Pull Sites Offline Over an AI-Found PHP Flaw, Britain Funds a \u00a3100 Million AI Biosecurity Lab An $11 million round from the Public Benefit Innovation Fund will have North Carolina test AI on SNAP recertification and Stanford RegLab work with Maryland and Colorado on unemployment claims, just as new federal rules make that paperwork heavier and its errors costlier for states. In Europe and Japan, governments took their own websites offline after AI agents helped uncover two critical flaws in PHP, the language under about 70 percent of the web, while Britain committed \u00a3100 million to an independent lab that will use AI to spot biological threats earlier. Today's signal is about who keeps public systems working once AI is inside them, on both sides of the risk. --- Top Stories **1. North Carolina Will Test AI on SNAP Recertification as an $11 Million Round Funds 11 State Benefits Projects** The Public Benefit Innovation Fund, run by the Center for Civic Futures (a program of Renaissance Philanthropy), has awarded $11 million across 11 projects that apply AI to the machinery behind Medicaid, SNAP and unemployment insurance, StateScoop reported on October 23. North Carolina will test an AI-assisted SNAP recertification process, starting on synthetic data before touching real cases, and Stanford RegLab will work with Maryland and Colorado on unemployment insurance applications. Other projects flag SN\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-165/episode-165.mp3",
+      "mp3_bytes": 7068986,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-165/impact-signal-165.mp4",
+      "mp4_bytes": 43844636,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 441,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Deadline: Monday, October 26, 2026",
+        "Eligibility: public libraries running AI literacy programs",
+        "Amount: not stated on the call page",
+        "Apply: [eifl.net](https://www.eifl.net/programme/public-library-innovation-programme/eifl-public-library-innovation-award-20)",
+        "China (Nagqu, Tibet):** M7.0 earthquake in Baq\u00ean County on October 22, GDACS Red alert, about 10,000 people exposed to strong shaking. At least 16 dead, 54 to 76 injured, at least 339 homes collapsed (Xinhua); China raised its national response to Level III and sent 350 rescuers. Figures may rise. Source: [gdacs.org](http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573141).",
+        "Vanuatu (offshore, NW of Port-Olry):** active sequence of at least five M6.0+ earthquakes since October 19, latest M6.9 on October 24, about 190 km offshore. USGS PAGER green; no casualty reports. Source: [usgs.gov](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2).",
+        "Northwest Pacific:** Typhoon CHAMPI-26, GDACS Red notification, maximum winds 296 km/h, about 181,000 people in Category 1 or higher winds; national impact figures not yet confirmed. Source: [gdacs.org](http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001338).",
+        "[statescoop.com](https://statescoop.com/11m-in-ai-grants-aim-to-help-states-modernize-public-benefits/)"
+      ],
+      "youtube_id": "LcJkABLXNRg",
+      "youtube_url": "https://www.youtube.com/watch?v=LcJkABLXNRg"
     }
   ],
-  "lastEpisode": 164,
-  "lastUpdated": "2026-10-23T12:35:48.382436+00:00",
-  "lastPublicEpisode": 164,
+  "lastEpisode": 165,
+  "lastUpdated": "2026-10-24T12:29:48.460414+00:00",
+  "lastPublicEpisode": 165,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
