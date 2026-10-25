@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#165: North Carolina Tests AI on SNAP Recertification, Governments Pull Sites Offline Over an AI-Found PHP Flaw, Britain Funds a £100 Million AI Biosecurity Lab</title>
+      <title>#166: Virginia Orders an AI Cyberattack Plan After Fake Records Requests, Nepal Puts AI at the Center of Forecasting, DHS Lets One Official Waive Its AI Limits</title>
       <description />
+      <link>https://impactsignals.ai/episodes/166-virginia-orders-an-ai-cyberattack-plan-after-fake-records-requests-nepal-puts-ai-at-th/</link>
+      <guid isPermaLink="false">impact-signal-166</guid>
+      <pubDate>Sun, 25 Oct 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-166/episode-166.mp3" length="5957215" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#165: North Carolina Tests AI on SNAP Recertification, Governments Pull Sites Offline Over an AI-Found PHP Flaw, Britain Funds a £100 Million AI Biosecurity Lab</title>
+      <description>Impact Signals #165: North Carolina Tests AI on SNAP Recertification, Governments Pull Sites Offline Over an AI-Found PHP Flaw, Britain Funds a £100 Million AI Biosecurity Lab An $11 million round from the Public Benefit Innovation Fund will have North Carolina test AI on SNAP recertification and Stanford RegLab work with Maryland and Colorado on unemployment claims, just as new federal rules make that paperwork heavier and its errors costlier for states. In Europe and Japan, governments took their own websites offline after AI agents helped uncover two critical flaws in PHP, the language under about 70 percent of the web, while Britain committed £100 million to an independent lab that will use AI to spot biological threats earlier. Today's signal is about who keeps public systems working once AI is inside them, on both sides of the risk. --- Top Stories **1. North Carolina Will Test AI on SNAP Recertification as an $11 Million Round Funds 11 State Benefits Projects** The Public Benefit Innovation Fund, run by the Center for Civic Futures (a program of Renaissance Philanthropy), has awarded $11 million across 11 projects that apply AI to the machinery behind Medicaid, SNAP and unemployment insurance, StateScoop reported on October 23. North Carolina will test an AI-assisted SNAP recertification process, starting on synthetic data before touching real cases, and Stanford RegLab will work with Maryland and Colorado on unemployment insurance applications. Other projects flag SN…</description>
       <link>https://impactsignals.ai/episodes/165-north-carolina-tests-ai-on-snap-recertification-governments-pull-sites-offline-over-an/</link>
       <guid isPermaLink="false">impact-signal-165</guid>
       <pubDate>Sat, 24 Oct 2026 14:00:00 +0000</pubDate>

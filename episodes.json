@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 166,
+  "nextEpisode": 167,
   "episodes": [
     {
       "number": 1,
@@ -5149,10 +5149,43 @@
       ],
       "youtube_id": "LcJkABLXNRg",
       "youtube_url": "https://www.youtube.com/watch?v=LcJkABLXNRg"
+    },
+    {
+      "number": 166,
+      "date": "2026-10-25",
+      "title": "Impact Signals #166 \u2014 Virginia Orders an AI Cyberattack Plan After Fake Records Requests, Nepal Puts AI at the Center of Forecasting, DHS Lets One Official Waive Its AI Limits",
+      "headline": "Virginia Orders an AI Cyberattack Plan After Fake Records Requests, Nepal Puts AI at the Center of Forecasting, DHS Lets One Official Waive Its AI Limits",
+      "slug": "166-virginia-orders-an-ai-cyberattack-plan-after-fake-records-requests-nepal-puts-ai-at-th",
+      "description": "Impact Signals #166: Virginia Orders an AI Cyberattack Plan After Fake Records Requests, Nepal Puts AI at the Center of Forecasting, DHS Lets One Official Waive Its AI Limits Virginia Governor Abigail Spanberger has ordered a statewide plan for AI-driven cyberattacks after AI agents filed fake public-records requests on a state education website, handing the job to the same public safety and emergency management chain that runs disaster response. Nepal's weather department published a draft plan that puts AI and high-performance computing at the top of its forecasting priorities, backed by 503 stations due for automation and a new radar for the valley. In Washington, a revised Homeland Security directive now lets a single official waive any of the department's own limits on AI use. Today's signal is about the rules governments are writing for the AI already inside their systems, and who gets to set those rules aside. --- Top Stories **1. Virginia Orders a Statewide AI Cyberattack Plan After AI Agents Filed Fake Records Requests on a State Education Website** Governor Abigail Spanberger signed Executive Directive 6 on Friday, October 23, telling Virginia's Secretary of Public Safety and Homeland Security to write a Commonwealth-wide plan for preventing and responding to AI-related cyberattacks and for making critical infrastructure more resilient, WDBJ7 and StateScoop reported. It creates a Cyber Consortium of public safety leaders, emergency management, state agencies, publi\u2026",
+      "rss_description": "Impact Signals #166: Virginia Orders an AI Cyberattack Plan After Fake Records Requests, Nepal Puts AI at the Center of Forecasting, DHS Lets One Official Waive Its AI Limits Virginia Governor Abigail Spanberger has ordered a statewide plan for AI-driven cyberattacks after AI agents filed fake public-records requests on a state education website, handing the job to the same public safety and emergency management chain that runs disaster response. Nepal's weather department published a draft plan that puts AI and high-performance computing at the top of its forecasting priorities, backed by 503 stations due for automation and a new radar for the valley. In Washington, a revised Homeland Security directive now lets a single official waive any of the department's own limits on AI use. Today's signal is about the rules governments are writing for the AI already inside their systems, and who gets to set those rules aside. --- Top Stories **1. Virginia Orders a Statewide AI Cyberattack Plan After AI Agents Filed Fake Records Requests on a State Education Website** Governor Abigail Spanberger signed Executive Directive 6 on Friday, October 23, telling Virginia's Secretary of Public Safety and Homeland Security to write a Commonwealth-wide plan for preventing and responding to AI-related cyberattacks and for making critical infrastructure more resilient, WDBJ7 and StateScoop reported. It creates a Cyber Consortium of public safety leaders, emergency management, state agencies, publi\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-166/episode-166.mp3",
+      "mp3_bytes": 5957215,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-166/impact-signal-166.mp4",
+      "mp4_bytes": 37041981,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 372,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "China (Nagqu, Xizang/Tibet):** M7.0 earthquake on October 22, 191 km ENE of Nagqu, depth 18 km; GDACS Red alert, about 10,000 people exposed to MMI VII or higher shaking, USGS PAGER orange. A nearby M5.9 followed on October 25. Source: [gdacs.org](http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573141).",
+        "Vanuatu (northern, near Port-Olry, Espiritu Santo):** ongoing earthquake sequence since October 19, including an M6.9 on October 24 and an M6.1 on October 25 about 25 km from Port-Olry. USGS PAGER green for all; no damage reports. Source: [usgs.gov](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rf).",
+        "[wdbj7.com](https://www.wdbj7.com/2026/10/23/governor-issues-executive-directive-bolster-states-cybersecurity-protect-against-ai/)",
+        "[statescoop.com](https://statescoop.com/virginia-governor-orders-statewide-plan-to-address-ai-cyberattacks/)",
+        "[hoodline.com](https://hoodline.com/2026/10/spanberger-orders-virginia-cyber-plan-after-rogue-ai-hit-education-site/)",
+        "[wset.com](https://wset.com/news/local/gov-spanberger-orders-development-of-plan-to-strengthen-commonwealths-cybersecurity-october-2026)",
+        "[cbs19news.com](https://www.cbs19news.com/news/spanberger-signs-directive-concerning-cybersecurity-ai-risks/article_9d899411-c10b-4d74-8ce5-e78371721310.html)",
+        "[english.khabarhub.com](https://english.khabarhub.com/2026/25/573064/)"
+      ],
+      "youtube_id": "GbAvsrurnMs",
+      "youtube_url": "https://www.youtube.com/watch?v=GbAvsrurnMs"
     }
   ],
-  "lastEpisode": 165,
-  "lastUpdated": "2026-10-24T12:29:48.460414+00:00",
-  "lastPublicEpisode": 165,
+  "lastEpisode": 166,
+  "lastUpdated": "2026-10-25T12:39:18.964117+00:00",
+  "lastPublicEpisode": 166,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
