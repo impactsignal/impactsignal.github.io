@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 167,
+  "nextEpisode": 168,
   "episodes": [
     {
       "number": 1,
@@ -5182,10 +5182,43 @@
       ],
       "youtube_id": "GbAvsrurnMs",
       "youtube_url": "https://www.youtube.com/watch?v=GbAvsrurnMs"
+    },
+    {
+      "number": 167,
+      "date": "2026-10-26",
+      "title": "Impact Signals #167 \u2014 DeepMind Hurricane Model Calls Isaias Landfall, Japan Disaster Alerts Go Dark, Vietnam Plans AI Landslide Warnings",
+      "headline": "DeepMind Hurricane Model Calls Isaias Landfall, Japan Disaster Alerts Go Dark, Vietnam Plans AI Landslide Warnings",
+      "slug": "167-deepmind-hurricane-model-calls-isaias-landfall-japan-disaster-alerts-go-dark-vietnam-p",
+      "description": "Impact Signals #167: DeepMind Hurricane Model Calls Isaias Landfall, Japan Disaster Alerts Go Dark, Vietnam Plans AI Landslide Warnings When Hurricane Isaias came ashore near Destin, Florida, Google DeepMind's AI model had the landfall right while conventional models pointed at Louisiana, and NPR reports the National Hurricane Center now builds that model into its official forecasts. In Japan, a security patch for a decade-old web flaw found by an AI-assisted check switched off carrier disaster alerts for days, evacuation orders included. Vietnam's road authority is planning an AI and digital-twin landslide warning system for a mountain highway where a slide killed three people last year. Today's signal: AI is moving into the warning chain itself, and the record now shows both what it gets right and what happens when the channel around it goes quiet. --- Top Stories **1. Google DeepMind's AI Model Called Hurricane Isaias's Florida Panhandle Landfall as Conventional Models Pointed at Louisiana** Hurricane Isaias made landfall near Destin, Florida, in early October as a Category 2 storm, NPR reported on October 26. Conventional forecast models initially sent it west toward southeastern Louisiana; Google DeepMind's AI weather model correctly predicted the western Florida Panhandle landfall. The National Hurricane Center began incorporating the model into official forecasts in 2025, and by the end of that season it ranked among the best at predicting path and strength. On Isaias\u2026",
+      "rss_description": "Impact Signals #167: DeepMind Hurricane Model Calls Isaias Landfall, Japan Disaster Alerts Go Dark, Vietnam Plans AI Landslide Warnings When Hurricane Isaias came ashore near Destin, Florida, Google DeepMind's AI model had the landfall right while conventional models pointed at Louisiana, and NPR reports the National Hurricane Center now builds that model into its official forecasts. In Japan, a security patch for a decade-old web flaw found by an AI-assisted check switched off carrier disaster alerts for days, evacuation orders included. Vietnam's road authority is planning an AI and digital-twin landslide warning system for a mountain highway where a slide killed three people last year. Today's signal: AI is moving into the warning chain itself, and the record now shows both what it gets right and what happens when the channel around it goes quiet. --- Top Stories **1. Google DeepMind's AI Model Called Hurricane Isaias's Florida Panhandle Landfall as Conventional Models Pointed at Louisiana** Hurricane Isaias made landfall near Destin, Florida, in early October as a Category 2 storm, NPR reported on October 26. Conventional forecast models initially sent it west toward southeastern Louisiana; Google DeepMind's AI weather model correctly predicted the western Florida Panhandle landfall. The National Hurricane Center began incorporating the model into official forecasts in 2025, and by the end of that season it ranked among the best at predicting path and strength. On Isaias\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-167/episode-167.mp3",
+      "mp3_bytes": 7231990,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-167/impact-signal-167.mp4",
+      "mp4_bytes": 44504594,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 451,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Deadline: November 29, 2026, 11:59 p.m. Eastern",
+        "Amount: $500,000 to $2 million per grant over 24 months, from a $50 million program",
+        "Eligibility: nonprofit and civil society institutions helping city governments use AI in public health, economic mobility, environmental resilience and civic engagement",
+        "Apply: [rockefellerfoundation.org](https://www.rockefellerfoundation.org/cities-deliver-ai-solutions-for-public-services/)",
+        "India (North Indian Ocean):** Tropical cyclone ARNAB-26, GDACS Red alert issued October 26; maximum sustained winds 204 km/h (Category 3 per JTWC), about 3.049 million people estimated in Category 1 or stronger winds. Landfall location not specified. Source: [gdacs.org](http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001345).",
+        "China (Tibet):** M7.0 earthquake 191 km ENE of Nagqu on October 22, depth 18 km; GDACS Red alert with about 10,000 people in shaking of MMI VII or higher, USGS PAGER orange. Source: [earthquake.usgs.gov](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g).",
+        "Vanuatu (Espiritu Santo):** Earthquake sequence northwest of Port-Olry, October 20 to 25, including M6.9 on October 24 and M6.1 on October 25; USGS PAGER green, no major damage reported in the feeds. Source: [earthquake.usgs.gov](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2).",
+        "Japan (Bonin Islands):** M7.0 and M6.5 earthquakes, October 24 and 25, remote island region; no PAGER alert issued for the M7.0. Source: [earthquake.usgs.gov](https://earthquake.usgs.gov/earthquakes/eventpage/pt26297050)."
+      ],
+      "youtube_id": "gipbXrRMkvo",
+      "youtube_url": "https://www.youtube.com/watch?v=gipbXrRMkvo"
     }
   ],
-  "lastEpisode": 166,
-  "lastUpdated": "2026-10-25T12:39:18.964117+00:00",
-  "lastPublicEpisode": 166,
+  "lastEpisode": 167,
+  "lastUpdated": "2026-10-26T12:40:47.865841+00:00",
+  "lastPublicEpisode": 167,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
