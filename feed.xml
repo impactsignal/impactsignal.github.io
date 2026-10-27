@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#167: DeepMind Hurricane Model Calls Isaias Landfall, Japan Disaster Alerts Go Dark, Vietnam Plans AI Landslide Warnings</title>
+      <title>#168: 25,000 Small Nonprofits on Claude, Victoria's AI Fire Cameras Watch 1.4 Million Hectares, Ghana Weighs AI Outbreak Forecasts, Microsoft's Diagnosis Panel Heads to a Boston ER</title>
       <description />
+      <link>https://impactsignals.ai/episodes/168-25-000-small-nonprofits-on-claude-victoria-s-ai-fire-cameras-watch-1-4-million-hectare/</link>
+      <guid isPermaLink="false">impact-signal-168</guid>
+      <pubDate>Tue, 27 Oct 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-168/episode-168.mp3" length="7150488" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#167: DeepMind Hurricane Model Calls Isaias Landfall, Japan Disaster Alerts Go Dark, Vietnam Plans AI Landslide Warnings</title>
+      <description>Impact Signals #167: DeepMind Hurricane Model Calls Isaias Landfall, Japan Disaster Alerts Go Dark, Vietnam Plans AI Landslide Warnings When Hurricane Isaias came ashore near Destin, Florida, Google DeepMind's AI model had the landfall right while conventional models pointed at Louisiana, and NPR reports the National Hurricane Center now builds that model into its official forecasts. In Japan, a security patch for a decade-old web flaw found by an AI-assisted check switched off carrier disaster alerts for days, evacuation orders included. Vietnam's road authority is planning an AI and digital-twin landslide warning system for a mountain highway where a slide killed three people last year. Today's signal: AI is moving into the warning chain itself, and the record now shows both what it gets right and what happens when the channel around it goes quiet. --- Top Stories **1. Google DeepMind's AI Model Called Hurricane Isaias's Florida Panhandle Landfall as Conventional Models Pointed at Louisiana** Hurricane Isaias made landfall near Destin, Florida, in early October as a Category 2 storm, NPR reported on October 26. Conventional forecast models initially sent it west toward southeastern Louisiana; Google DeepMind's AI weather model correctly predicted the western Florida Panhandle landfall. The National Hurricane Center began incorporating the model into official forecasts in 2025, and by the end of that season it ranked among the best at predicting path and strength. On Isaias…</description>
       <link>https://impactsignals.ai/episodes/167-deepmind-hurricane-model-calls-isaias-landfall-japan-disaster-alerts-go-dark-vietnam-p/</link>
       <guid isPermaLink="false">impact-signal-167</guid>
       <pubDate>Mon, 26 Oct 2026 14:00:00 +0000</pubDate>

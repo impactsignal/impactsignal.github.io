@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 168,
+  "nextEpisode": 169,
   "episodes": [
     {
       "number": 1,
@@ -5215,10 +5215,43 @@
       ],
       "youtube_id": "gipbXrRMkvo",
       "youtube_url": "https://www.youtube.com/watch?v=gipbXrRMkvo"
+    },
+    {
+      "number": 168,
+      "date": "2026-10-27",
+      "title": "Impact Signals #168 \u2014 25,000 Small Nonprofits on Claude, Victoria's AI Fire Cameras Watch 1.4 Million Hectares, Ghana Weighs AI Outbreak Forecasts, Microsoft's Diagnosis Panel Heads to a Boston ER",
+      "headline": "25,000 Small Nonprofits on Claude, Victoria's AI Fire Cameras Watch 1.4 Million Hectares, Ghana Weighs AI Outbreak Forecasts, Microsoft's Diagnosis Panel Heads to a Boston ER",
+      "slug": "168-25-000-small-nonprofits-on-claude-victoria-s-ai-fire-cameras-watch-1-4-million-hectare",
+      "description": "Impact Signals #168: 25,000 Small Nonprofits on Claude, Victoria's AI Fire Cameras Watch 1.4 Million Hectares, Ghana Weighs AI Outbreak Forecasts, Microsoft's Diagnosis Panel Heads to a Boston ER Anthropic told the Associated Press that about 25,000 nonprofits now use Claude for Nonprofits, most with fewer than 10 staff, and shipped a plugin it built with 30 of them on the same day it filed to go public. In Victoria, the state government is putting $3.8 million into growing its AI bushfire camera network from 7 to 18 cameras, with 85 percent of the 1.4 million hectares they watch sitting outside the plantations that host them. Ghana's health service, with no Ebola case of its own but Nigeria and Kenya now reporting infections, says it is exploring AI to forecast outbreaks, and Microsoft's AI diagnosis panel cleared peer review in Science and moves next into a live study at a Boston hospital. Today's signal is who actually gets the tools: tiny organizations, regional towns next to timber country, a preparedness center in Accra, and soon consenting patients in an emergency department. --- Top Stories **1. About 25,000 Nonprofits, Most Under 10 Staff, Now Use Claude for Nonprofits; Anthropic Adds a Plugin Built With 30 of Them** The Associated Press reported on Monday, October 26 that Anthropic expanded its nonprofit support on the same day it filed to sell shares to the public. About 25,000 nonprofits use Claude for Nonprofits, and most have fewer than 10 staff members. The ne\u2026",
+      "rss_description": "Impact Signals #168: 25,000 Small Nonprofits on Claude, Victoria's AI Fire Cameras Watch 1.4 Million Hectares, Ghana Weighs AI Outbreak Forecasts, Microsoft's Diagnosis Panel Heads to a Boston ER Anthropic told the Associated Press that about 25,000 nonprofits now use Claude for Nonprofits, most with fewer than 10 staff, and shipped a plugin it built with 30 of them on the same day it filed to go public. In Victoria, the state government is putting $3.8 million into growing its AI bushfire camera network from 7 to 18 cameras, with 85 percent of the 1.4 million hectares they watch sitting outside the plantations that host them. Ghana's health service, with no Ebola case of its own but Nigeria and Kenya now reporting infections, says it is exploring AI to forecast outbreaks, and Microsoft's AI diagnosis panel cleared peer review in Science and moves next into a live study at a Boston hospital. Today's signal is who actually gets the tools: tiny organizations, regional towns next to timber country, a preparedness center in Accra, and soon consenting patients in an emergency department. --- Top Stories **1. About 25,000 Nonprofits, Most Under 10 Staff, Now Use Claude for Nonprofits; Anthropic Adds a Plugin Built With 30 of Them** The Associated Press reported on Monday, October 26 that Anthropic expanded its nonprofit support on the same day it filed to sell shares to the public. About 25,000 nonprofits use Claude for Nonprofits, and most have fewer than 10 staff members. The ne\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-168/episode-168.mp3",
+      "mp3_bytes": 7150488,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-168/impact-signal-168.mp4",
+      "mp4_bytes": 43952073,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 446,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "October 27 to 31, 2026, followed by a training course November 2 to 6, 2026",
+        "Deadline: registration listed as TBA on the UN-SPIDER page",
+        "Location: Islamabad, Pakistan (hosted by SUPARCO, organized with UNOOSA)",
+        "Space-based early warning and climate action for national disaster agencies and space offices",
+        "Register: [suparco.gov.pk](https://suparco.gov.pk/unoosa/), [unoosa.org](https://www.unoosa.org/oosa/en/ourwork/psa/schedule/2026/un-pakistan.html)",
+        "Amount: up to US$200,000 in scaling grants plus technical support for African-led or Africa-based climate innovations using AI, pilot stage or beyond",
+        "Deadline: expressions of interest on a rolling basis with no fixed deadline, per aggregator listings; the official page was not confirmed for this briefing",
+        "Apply: [africa.ai4d.ai](https://africa.ai4d.ai/calls/climate-action-hub/)"
+      ],
+      "youtube_id": "jKsrpICJPxY",
+      "youtube_url": "https://www.youtube.com/watch?v=jKsrpICJPxY"
     }
   ],
-  "lastEpisode": 167,
-  "lastUpdated": "2026-10-26T12:40:47.865841+00:00",
-  "lastPublicEpisode": 167,
+  "lastEpisode": 168,
+  "lastUpdated": "2026-10-27T12:39:54.614832+00:00",
+  "lastPublicEpisode": 168,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
