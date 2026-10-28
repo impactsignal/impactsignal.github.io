@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 169,
+  "nextEpisode": 170,
   "episodes": [
     {
       "number": 1,
@@ -5248,10 +5248,43 @@
       ],
       "youtube_id": "jKsrpICJPxY",
       "youtube_url": "https://www.youtube.com/watch?v=jKsrpICJPxY"
+    },
+    {
+      "number": 169,
+      "date": "2026-10-28",
+      "title": "Impact Signals #169 \u2014 US Emergency Managers Draft Disaster Alerts With Chatbots, NOAA Funds $1.2M Pacific Cell Broadcast Rollout, Half of US School Districts Report a Cyber Incident",
+      "headline": "US Emergency Managers Draft Disaster Alerts With Chatbots, NOAA Funds $1.2M Pacific Cell Broadcast Rollout, Half of US School Districts Report a Cyber Incident",
+      "slug": "169-us-emergency-managers-draft-disaster-alerts-with-chatbots-noaa-funds-1-2m-pacific-cell",
+      "description": "Impact Signals #169: US Emergency Managers Draft Disaster Alerts With Chatbots, NOAA Funds $1.2M Pacific Cell Broadcast Rollout, Half of US School Districts Report a Cyber Incident Grist and WIRED report that emergency management offices across the United States are drafting public disaster warnings with ChatGPT, Gemini and Claude on personal and free accounts, mostly without agency approval, and an Alabama county has already produced a chatbot hurricane graphic that a meteorologist judged not meteorologically accurate. The same morning, the GSMA confirmed a US$1.2 million NOAA subaward to build cell broadcast alerting across nine Pacific island countries, and the Center for Internet Security published a K-12 report showing 51 percent of US school districts had a cyber incident last year while adopting AI faster than they write rules for it. Today's signal is the distance between where AI is being formally built into public warning systems and where it is already being used informally inside them. --- Top Stories **1. US Emergency Managers Are Drafting Disaster Alerts With Chatbots on Personal Accounts, and an Alabama County Already Sent an AI Hurricane Graphic That Was Not Meteorologically Accurate** Grist staff writer Jake Bittle reported on October 28, 2026, in a story co-published with WIRED, that emergency management offices across the United States are using general-purpose chatbots (ChatGPT, Gemini and Claude are named) to draft public warnings, even though most agenc\u2026",
+      "rss_description": "Impact Signals #169: US Emergency Managers Draft Disaster Alerts With Chatbots, NOAA Funds $1.2M Pacific Cell Broadcast Rollout, Half of US School Districts Report a Cyber Incident Grist and WIRED report that emergency management offices across the United States are drafting public disaster warnings with ChatGPT, Gemini and Claude on personal and free accounts, mostly without agency approval, and an Alabama county has already produced a chatbot hurricane graphic that a meteorologist judged not meteorologically accurate. The same morning, the GSMA confirmed a US$1.2 million NOAA subaward to build cell broadcast alerting across nine Pacific island countries, and the Center for Internet Security published a K-12 report showing 51 percent of US school districts had a cyber incident last year while adopting AI faster than they write rules for it. Today's signal is the distance between where AI is being formally built into public warning systems and where it is already being used informally inside them. --- Top Stories **1. US Emergency Managers Are Drafting Disaster Alerts With Chatbots on Personal Accounts, and an Alabama County Already Sent an AI Hurricane Graphic That Was Not Meteorologically Accurate** Grist staff writer Jake Bittle reported on October 28, 2026, in a story co-published with WIRED, that emergency management offices across the United States are using general-purpose chatbots (ChatGPT, Gemini and Claude are named) to draft public warnings, even though most agenc\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-169/episode-169.mp3",
+      "mp3_bytes": 10500431,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-169/impact-signal-169.mp4",
+      "mp4_bytes": 64715637,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 656,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "November 4, 2026, 2:00 PM ET",
+        "Location: Virtual",
+        "Walkthrough of the report behind story 3, including the 51 percent incident rate and the AI policy gap",
+        "Register: [cisecurity.org](https://www.cisecurity.org/insights/webinar/2026-k12-cybersecurity-report-key-takeaways-school-leaders)",
+        "November 9 to 20, 2026",
+        "Location: Antalya Expo Center, Antalya, T\u00fcrkiye",
+        "Accreditation via UNFCCC; the main annual venue for climate adaptation and early warning finance",
+        "Register: [unccd.int](https://www.unccd.int/index.php/events/other/2026-un-climate-change-conference-cop31)"
+      ],
+      "youtube_id": "EwWzr6S5xRs",
+      "youtube_url": "https://www.youtube.com/watch?v=EwWzr6S5xRs"
     }
   ],
-  "lastEpisode": 168,
-  "lastUpdated": "2026-10-27T12:39:54.614832+00:00",
-  "lastPublicEpisode": 168,
+  "lastEpisode": 169,
+  "lastUpdated": "2026-10-28T12:46:27.842476+00:00",
+  "lastPublicEpisode": 169,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
