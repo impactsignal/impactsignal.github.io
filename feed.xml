@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#169: US Emergency Managers Draft Disaster Alerts With Chatbots, NOAA Funds $1.2M Pacific Cell Broadcast Rollout, Half of US School Districts Report a Cyber Incident</title>
+      <title>#170: Korea's 25.4 Trillion Won Prevention Budget, China's Fengyun Storm AI, Florida's CLARKE Drone Assessments, GoFundMe in Federal Court</title>
       <description />
+      <link>https://impactsignals.ai/episodes/170-korea-s-25-4-trillion-won-prevention-budget-china-s-fengyun-storm-ai-florida-s-clarke/</link>
+      <guid isPermaLink="false">impact-signal-170</guid>
+      <pubDate>Thu, 29 Oct 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-170/episode-170.mp3" length="13399814" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#169: US Emergency Managers Draft Disaster Alerts With Chatbots, NOAA Funds $1.2M Pacific Cell Broadcast Rollout, Half of US School Districts Report a Cyber Incident</title>
+      <description>Impact Signals #169: US Emergency Managers Draft Disaster Alerts With Chatbots, NOAA Funds $1.2M Pacific Cell Broadcast Rollout, Half of US School Districts Report a Cyber Incident Grist and WIRED report that emergency management offices across the United States are drafting public disaster warnings with ChatGPT, Gemini and Claude on personal and free accounts, mostly without agency approval, and an Alabama county has already produced a chatbot hurricane graphic that a meteorologist judged not meteorologically accurate. The same morning, the GSMA confirmed a US$1.2 million NOAA subaward to build cell broadcast alerting across nine Pacific island countries, and the Center for Internet Security published a K-12 report showing 51 percent of US school districts had a cyber incident last year while adopting AI faster than they write rules for it. Today's signal is the distance between where AI is being formally built into public warning systems and where it is already being used informally inside them. --- Top Stories **1. US Emergency Managers Are Drafting Disaster Alerts With Chatbots on Personal Accounts, and an Alabama County Already Sent an AI Hurricane Graphic That Was Not Meteorologically Accurate** Grist staff writer Jake Bittle reported on October 28, 2026, in a story co-published with WIRED, that emergency management offices across the United States are using general-purpose chatbots (ChatGPT, Gemini and Claude are named) to draft public warnings, even though most agenc…</description>
       <link>https://impactsignals.ai/episodes/169-us-emergency-managers-draft-disaster-alerts-with-chatbots-noaa-funds-1-2m-pacific-cell/</link>
       <guid isPermaLink="false">impact-signal-169</guid>
       <pubDate>Wed, 28 Oct 2026 14:00:00 +0000</pubDate>
