@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 171,
+  "nextEpisode": 172,
   "episodes": [
     {
       "number": 1,
@@ -5314,10 +5314,43 @@
       ],
       "youtube_id": "9dDlPh497S0",
       "youtube_url": "https://www.youtube.com/watch?v=9dDlPh497S0"
+    },
+    {
+      "number": 171,
+      "date": "2026-10-30",
+      "title": "Impact Signals #171 \u2014 Tamil Nadu's AI Prosthesis Subsidy, the 62-Member Bangkok Declaration, Salt Lake County's AI Non-Emergency Line, Dewas's Keypad-Phone Maternal Calls",
+      "headline": "Tamil Nadu's AI Prosthesis Subsidy, the 62-Member Bangkok Declaration, Salt Lake County's AI Non-Emergency Line, Dewas's Keypad-Phone Maternal Calls",
+      "slug": "171-tamil-nadu-s-ai-prosthesis-subsidy-the-62-member-bangkok-declaration-salt-lake-county",
+      "description": "Impact Signals #171: Tamil Nadu's AI Prosthesis Subsidy, the 62-Member Bangkok Declaration, Salt Lake County's AI Non-Emergency Line, Dewas's Keypad-Phone Maternal Calls Tamil Nadu has issued the government order that turns a budget promise into a claimable benefit: half the cost of an AI-based prosthesis or cochlear implant battery, up to Rs 30,000, for a first 1,000 people with disabilities. In Madhya Pradesh, Dewas district now phones every registered pregnant woman on a basic keypad handset and routes danger answers to her ASHA, while Salt Lake County's dispatch center will hand 600,000 routine non-emergency calls a year to an AI agent that speaks 30 languages, keeping 911 human. Around them, 62 ESCAP members adopted a Bangkok Declaration that names AI as a disaster tool through 2030, and a Johannesburg team published an emergency-room suicide-risk model built for a nurse triaging 30 patients alone. Today's signal is AI reaching people through the channels they already have: a welfare claim, a phone call, a triage form. --- Top Stories **1. Tamil Nadu Orders a 50 Percent Subsidy, Up to Rs 30,000, on AI-Based Prostheses and Cochlear Batteries for a First 1,000 People With Disabilities** The Hindu reported on October 30, 2026 that Tamil Nadu's Welfare of the Differently-Abled department has issued a government order covering \"advanced new aids based on AI,\" including sports prostheses, myoelectric upper-limb prostheses and cochlear implant batteries, at 50 percent of cost\u2026",
+      "rss_description": "Impact Signals #171: Tamil Nadu's AI Prosthesis Subsidy, the 62-Member Bangkok Declaration, Salt Lake County's AI Non-Emergency Line, Dewas's Keypad-Phone Maternal Calls Tamil Nadu has issued the government order that turns a budget promise into a claimable benefit: half the cost of an AI-based prosthesis or cochlear implant battery, up to Rs 30,000, for a first 1,000 people with disabilities. In Madhya Pradesh, Dewas district now phones every registered pregnant woman on a basic keypad handset and routes danger answers to her ASHA, while Salt Lake County's dispatch center will hand 600,000 routine non-emergency calls a year to an AI agent that speaks 30 languages, keeping 911 human. Around them, 62 ESCAP members adopted a Bangkok Declaration that names AI as a disaster tool through 2030, and a Johannesburg team published an emergency-room suicide-risk model built for a nurse triaging 30 patients alone. Today's signal is AI reaching people through the channels they already have: a welfare claim, a phone call, a triage form. --- Top Stories **1. Tamil Nadu Orders a 50 Percent Subsidy, Up to Rs 30,000, on AI-Based Prostheses and Cochlear Batteries for a First 1,000 People With Disabilities** The Hindu reported on October 30, 2026 that Tamil Nadu's Welfare of the Differently-Abled department has issued a government order covering \"advanced new aids based on AI,\" including sports prostheses, myoelectric upper-limb prostheses and cochlear implant batteries, at 50 percent of cost\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-171/episode-171.mp3",
+      "mp3_bytes": 8795158,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-171/impact-signal-171.mp4",
+      "mp4_bytes": 53886292,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 549,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "October 27 to 31, 2026 (conference, in progress), November 2 to 6, 2026 (training course)",
+        "Location: Islamabad, Pakistan",
+        "Co-organized by UNOOSA, SUPARCO, ISNET and APSCO, with AI and GeoAI sessions; about 250 participants from 20 countries",
+        "Register: [suparco.gov.pk](https://suparco.gov.pk/unoosa/)",
+        "November 19, 2026, 1 to 5 pm MT; the agent launches December 4, 2026",
+        "Location: 5360 S. Ridge Village Drive, West Valley City, Utah",
+        "Residents can test the non-emergency agent and help choose its voice (see Story 3)",
+        "Register: [ksl.com](https://www.ksl.com/article/51642078/ai-agent-coming-to-salt-lake-county-non-emergency-line)"
+      ],
+      "youtube_id": "js_uEpoHx5M",
+      "youtube_url": "https://www.youtube.com/watch?v=js_uEpoHx5M"
     }
   ],
-  "lastEpisode": 170,
-  "lastUpdated": "2026-10-29T12:51:26.949267+00:00",
-  "lastPublicEpisode": 170,
+  "lastEpisode": 171,
+  "lastUpdated": "2026-10-30T12:52:17.336463+00:00",
+  "lastPublicEpisode": 171,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
