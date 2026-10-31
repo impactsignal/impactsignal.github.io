@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 172,
+  "nextEpisode": 173,
   "episodes": [
     {
       "number": 1,
@@ -5347,10 +5347,43 @@
       ],
       "youtube_id": "js_uEpoHx5M",
       "youtube_url": "https://www.youtube.com/watch?v=js_uEpoHx5M"
+    },
+    {
+      "number": 172,
+      "date": "2026-10-31",
+      "title": "Impact Signals #172 \u2014 New York's Child Chatbot Law, Gangneung's Five-Minute Ambulances, Durban's Landslide Map",
+      "headline": "New York's Child Chatbot Law, Gangneung's Five-Minute Ambulances, Durban's Landslide Map",
+      "slug": "172-new-york-s-child-chatbot-law-gangneung-s-five-minute-ambulances-durban-s-landslide-map",
+      "description": "Impact Signals #172: New York's Child Chatbot Law, Gangneung's Five-Minute Ambulances, Durban's Landslide Map Governor Kathy Hochul signed a law on October 28 that strips companion chatbots of a dozen features for anyone under 18, from posing as a friend to assisting with self-harm, backed by fines of up to $25,000 per violation. In Gangneung, South Korea, the city says AI-coordinated traffic signals have cut average emergency-vehicle arrival times from 13 minutes to five, and in South Africa, researchers have turned satellite data from the deadly 2022 floods into a map of where eThekwini's hillsides are most likely to fail next. Today's signal is AI being held to account for what it does to people, in a statute, a dispatch log and a hazard map. --- Top Stories **1. New York Bans 12 Kinds of Companion-Chatbot Features for Minors, With Fines Up to $25,000 per Violation** New York Governor Kathy Hochul signed Senate Bill 9051B / Assembly Bill 10379C on Wednesday, October 28, 2026, after it passed both chambers unanimously in June. The law, carried by State Senator Kristen Gonzalez and Assemblymember Alex Bores, bans 12 categories of \"unsafe\" features in companion chatbots for anyone under 18 and for any user whose age has not been confirmed: a chatbot may not claim human emotions, act as a friend, romantic partner or therapist, use flattery designed to keep a child engaged, reuse health details shared more than 12 hours earlier, promote suicide, self-harm or eating disorders,\u2026",
+      "rss_description": "Impact Signals #172: New York's Child Chatbot Law, Gangneung's Five-Minute Ambulances, Durban's Landslide Map Governor Kathy Hochul signed a law on October 28 that strips companion chatbots of a dozen features for anyone under 18, from posing as a friend to assisting with self-harm, backed by fines of up to $25,000 per violation. In Gangneung, South Korea, the city says AI-coordinated traffic signals have cut average emergency-vehicle arrival times from 13 minutes to five, and in South Africa, researchers have turned satellite data from the deadly 2022 floods into a map of where eThekwini's hillsides are most likely to fail next. Today's signal is AI being held to account for what it does to people, in a statute, a dispatch log and a hazard map. --- Top Stories **1. New York Bans 12 Kinds of Companion-Chatbot Features for Minors, With Fines Up to $25,000 per Violation** New York Governor Kathy Hochul signed Senate Bill 9051B / Assembly Bill 10379C on Wednesday, October 28, 2026, after it passed both chambers unanimously in June. The law, carried by State Senator Kristen Gonzalez and Assemblymember Alex Bores, bans 12 categories of \"unsafe\" features in companion chatbots for anyone under 18 and for any user whose age has not been confirmed: a chatbot may not claim human emotions, act as a friend, romantic partner or therapist, use flattery designed to keep a child engaged, reuse health details shared more than 12 hours earlier, promote suicide, self-harm or eating disorders,\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-172/episode-172.mp3",
+      "mp3_bytes": 7349437,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-172/impact-signal-172.mp4",
+      "mp4_bytes": 44882517,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 459,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Tuesday, November 17, 2026, about 2:20 pm Eastern; backup date December 3, 2026",
+        "Location: all US broadcast, cable and satellite EAS participants (TV and radio only)",
+        "A public test of the national alerting backbone; no registration required.",
+        "Details: [fcc.gov](https://www.fcc.gov/document/fema-fcc-nationwide-test-emergency-alert-system)",
+        "November 19, 2026, 1 to 5 pm MT; the agent launches December 4, 2026",
+        "Location: West Valley City, Utah",
+        "Residents can try the AI agent that will answer the county's non-emergency line before it goes live.",
+        "Details: [ksl.com](https://www.ksl.com/article/51642078/ai-agent-coming-to-salt-lake-county-non-emergency-line)"
+      ],
+      "youtube_id": "fSdHtRynHI4",
+      "youtube_url": "https://www.youtube.com/watch?v=fSdHtRynHI4"
     }
   ],
-  "lastEpisode": 171,
-  "lastUpdated": "2026-10-30T12:52:17.336463+00:00",
-  "lastPublicEpisode": 171,
+  "lastEpisode": 172,
+  "lastUpdated": "2026-10-31T12:42:41.679128+00:00",
+  "lastPublicEpisode": 172,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
