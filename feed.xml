@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#173: Democracy Works Under the Chatbots, Medicare's AI Pre-Approval Records, Japan's Disaster Agency, CodeYogi</title>
+      <title>#174: Google's AI Default for Schools, Nurse-Run Rural Heart Scans, 911 Dispatch AI With No Public Error Data</title>
       <description />
+      <link>https://impactsignals.ai/episodes/174-google-s-ai-default-for-schools-nurse-run-rural-heart-scans-911-dispatch-ai-with-no-pu/</link>
+      <guid isPermaLink="false">impact-signal-174</guid>
+      <pubDate>Wed, 04 Nov 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-174/episode-174.mp3" length="10571484" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#173: Democracy Works Under the Chatbots, Medicare's AI Pre-Approval Records, Japan's Disaster Agency, CodeYogi</title>
+      <description>Impact Signals #173: Democracy Works Under the Chatbots, Medicare's AI Pre-Approval Records, Japan's Disaster Agency, CodeYogi On US election day, the voting answers that ChatGPT, Claude and Gemini give millions of Americans trace back to Democracy Works, a 46-person Brooklyn nonprofit that told NBC News it is not sure it will survive to 2028. A week of new records puts Medicare's AI pre-approval pilot under fresh scrutiny, with four of six vendors drawing compliance actions in its first months and a JAMA study measuring a 15 to 20 percent drop in targeted care. Japan, meanwhile, stood up a 352-person national disaster agency with leverage over other ministries' budgets, and a phone-only AI course has reached 350,000 rural students in India. Today's signal is about the institutions underneath the technology: who funds them, who audits them, and who answers when they fall short. --- Top Stories **1. Democracy Works, a 46-Person Brooklyn Nonprofit, Supplies the Voting Answers for ChatGPT, Claude and Gemini, and Is Unsure It Can Fund Itself Through 2028** NBC News reported on November 2, 2026 that Democracy Works, founded in 2010 to make voting easier through technology, has become the primary source of voting logistics for the largest AI chatbots in the midterms. Anthropic, Google and OpenAI have each said they will route the nonprofit's information on how, where and when to vote into their products' answers; Democracy Works' own announcements confirm the OpenAI and Anthropic…</description>
       <link>https://impactsignals.ai/episodes/173-democracy-works-under-the-chatbots-medicare-s-ai-pre-approval-records-japan-s-disaster/</link>
       <guid isPermaLink="false">impact-signal-173</guid>
       <pubDate>Tue, 03 Nov 2026 14:00:00 +0000</pubDate>

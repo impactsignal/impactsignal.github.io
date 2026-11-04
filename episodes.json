@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 174,
+  "nextEpisode": 175,
   "episodes": [
     {
       "number": 1,
@@ -5413,10 +5413,43 @@
       ],
       "youtube_id": "n_ldjBwt-J0",
       "youtube_url": "https://www.youtube.com/watch?v=n_ldjBwt-J0"
+    },
+    {
+      "number": 174,
+      "date": "2026-11-04",
+      "title": "Impact Signals #174 \u2014 Google's AI Default for Schools, Nurse-Run Rural Heart Scans, 911 Dispatch AI With No Public Error Data",
+      "headline": "Google's AI Default for Schools, Nurse-Run Rural Heart Scans, 911 Dispatch AI With No Public Error Data",
+      "slug": "174-google-s-ai-default-for-schools-nurse-run-rural-heart-scans-911-dispatch-ai-with-no-pu",
+      "description": "Impact Signals #174: Google's AI Default for Schools, Nurse-Run Rural Heart Scans, 911 Dispatch AI With No Public Error Data Google spent Tuesday explaining what it had just told US schools: districts can refuse Gemini and keep Search, but no version of Search without AI will exist for their students. In four Southern states, nurses and technologists with two hours of training and AI prompts captured heart scans that off-site experts rated more than 99 percent usable, while AI agents now answering nonemergency dispatch lines in 20 or more states face no legal duty to report the emergencies they miss. Today's signal is who checks AI once it is inside a public service, and whether anyone outside the vendor can see the results. --- Top Stories **1. Google reverses its AI-on default for K-12 students, then concedes after a day of backlash that schools can refuse Gemini and keep Search, but no AI-free Search will exist** Google announced on November 3, 2026 that early next year Gemini and Google Search will be off by default on K-12 student accounts until an administrator turns them on. That reverses an August move that opened a Gemini tab in Google Classroom, which Google says 150 million students and teachers use worldwide, to students of all ages in districts already allowing its AI tools. Chris Phillips, Google's vice president for education, told The New York Times that a school banning AI \"will not have access to search\"; by that afternoon a spokesman told The Mercury News\u2026",
+      "rss_description": "Impact Signals #174: Google's AI Default for Schools, Nurse-Run Rural Heart Scans, 911 Dispatch AI With No Public Error Data Google spent Tuesday explaining what it had just told US schools: districts can refuse Gemini and keep Search, but no version of Search without AI will exist for their students. In four Southern states, nurses and technologists with two hours of training and AI prompts captured heart scans that off-site experts rated more than 99 percent usable, while AI agents now answering nonemergency dispatch lines in 20 or more states face no legal duty to report the emergencies they miss. Today's signal is who checks AI once it is inside a public service, and whether anyone outside the vendor can see the results. --- Top Stories **1. Google reverses its AI-on default for K-12 students, then concedes after a day of backlash that schools can refuse Gemini and keep Search, but no AI-free Search will exist** Google announced on November 3, 2026 that early next year Gemini and Google Search will be off by default on K-12 student accounts until an administrator turns them on. That reverses an August move that opened a Gemini tab in Google Classroom, which Google says 150 million students and teachers use worldwide, to students of all ages in districts already allowing its AI tools. Chris Phillips, Google's vice president for education, told The New York Times that a school banning AI \"will not have access to search\"; by that afternoon a spokesman told The Mercury News\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-174/episode-174.mp3",
+      "mp3_bytes": 10571484,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-174/impact-signal-174.mp4",
+      "mp4_bytes": 64517036,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 660,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "November 4 to 5, 2026",
+        "Location: Madrid, Spain",
+        "Heads-of-government summit with the new Ibero-American Network for Disaster Risk Reduction and Civil Protection on the agenda; not open registration",
+        "Details: [lamoncloa.gob.es](https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/exteriores/Paginas/2026/221026-red-iberoamericana-reduccion-riesgo.aspx)",
+        "November 6 to 9, 2026",
+        "Location: Chicago",
+        "The rural heart-scan abstract in Story 2 is poster MDP2290",
+        "Register: [newsroom.heart.org](https://newsroom.heart.org/events/scientific-sessions-2026-public-newsroom)"
+      ],
+      "youtube_id": "uXC76rpmKkA",
+      "youtube_url": "https://www.youtube.com/watch?v=uXC76rpmKkA"
     }
   ],
-  "lastEpisode": 173,
-  "lastUpdated": "2026-11-03T13:51:45.765464+00:00",
-  "lastPublicEpisode": 173,
+  "lastEpisode": 174,
+  "lastUpdated": "2026-11-04T13:52:20.086717+00:00",
+  "lastPublicEpisode": 174,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
