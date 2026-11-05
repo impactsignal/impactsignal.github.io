@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#174: Google's AI Default for Schools, Nurse-Run Rural Heart Scans, 911 Dispatch AI With No Public Error Data</title>
+      <title>#175: Taipei Emergency Records in One Operator's AI Attack Kit, AI Cervical Screening Across Nine Countries, Nigeria's Four-State Maternal Rollout</title>
       <description />
+      <link>https://impactsignals.ai/episodes/175-taipei-emergency-records-in-one-operator-s-ai-attack-kit-ai-cervical-screening-across/</link>
+      <guid isPermaLink="false">impact-signal-175</guid>
+      <pubDate>Thu, 05 Nov 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-175/episode-175.mp3" length="11450034" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#174: Google's AI Default for Schools, Nurse-Run Rural Heart Scans, 911 Dispatch AI With No Public Error Data</title>
+      <description>Impact Signals #174: Google's AI Default for Schools, Nurse-Run Rural Heart Scans, 911 Dispatch AI With No Public Error Data Google spent Tuesday explaining what it had just told US schools: districts can refuse Gemini and keep Search, but no version of Search without AI will exist for their students. In four Southern states, nurses and technologists with two hours of training and AI prompts captured heart scans that off-site experts rated more than 99 percent usable, while AI agents now answering nonemergency dispatch lines in 20 or more states face no legal duty to report the emergencies they miss. Today's signal is who checks AI once it is inside a public service, and whether anyone outside the vendor can see the results. --- Top Stories **1. Google reverses its AI-on default for K-12 students, then concedes after a day of backlash that schools can refuse Gemini and keep Search, but no AI-free Search will exist** Google announced on November 3, 2026 that early next year Gemini and Google Search will be off by default on K-12 student accounts until an administrator turns them on. That reverses an August move that opened a Gemini tab in Google Classroom, which Google says 150 million students and teachers use worldwide, to students of all ages in districts already allowing its AI tools. Chris Phillips, Google's vice president for education, told The New York Times that a school banning AI "will not have access to search"; by that afternoon a spokesman told The Mercury News…</description>
       <link>https://impactsignals.ai/episodes/174-google-s-ai-default-for-schools-nurse-run-rural-heart-scans-911-dispatch-ai-with-no-pu/</link>
       <guid isPermaLink="false">impact-signal-174</guid>
       <pubDate>Wed, 04 Nov 2026 14:00:00 +0000</pubDate>

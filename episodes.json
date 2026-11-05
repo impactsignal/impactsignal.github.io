@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 175,
+  "nextEpisode": 176,
   "episodes": [
     {
       "number": 1,
@@ -5446,10 +5446,43 @@
       ],
       "youtube_id": "uXC76rpmKkA",
       "youtube_url": "https://www.youtube.com/watch?v=uXC76rpmKkA"
+    },
+    {
+      "number": 175,
+      "date": "2026-11-05",
+      "title": "Impact Signals #175 \u2014 Taipei Emergency Records in One Operator's AI Attack Kit, AI Cervical Screening Across Nine Countries, Nigeria's Four-State Maternal Rollout",
+      "headline": "Taipei Emergency Records in One Operator's AI Attack Kit, AI Cervical Screening Across Nine Countries, Nigeria's Four-State Maternal Rollout",
+      "slug": "175-taipei-emergency-records-in-one-operator-s-ai-attack-kit-ai-cervical-screening-across",
+      "description": "Impact Signals #175: Taipei Emergency Records in One Operator's AI Attack Kit, AI Cervical Screening Across Nine Countries, Nigeria's Four-State Maternal Rollout The security firm Acronis looked inside one person's AI attack kit and found Taipei ambulance patient records and emergency dispatch case files among what it reached, while the agents failed wherever a login held. On the day that report came out, teams from more than 115 Illinois hospitals and health systems rehearsed an AI-driven attack on their own records and communications, and staff at one hospital talked through asking patients about their allergies at the bedside. A nine-country study of 49,074 women found that an AI cervical image reader added risk information beyond the HPV test, even as one in five women who tested positive never came back for triage. Today's signal is how much of AI's real effect, for harm or for help, turns on ordinary groundwork: a login, a plan for when records go dark, a follow-up visit. --- Top Stories **1. One person with 12 AI agents reached Taipei emergency dispatch records and old ambulance patient data, and the agents stalled wherever a login held** Acronis published an investigation on November 4, 2026 into a campaign it calls BOSSAI, built on more than 90,000 files and 9GB of logs, chat histories, exploit tools and victim data from what looked like a misconfigured development server. The company assesses with high confidence that one individual based in Taiwan ran 12 AI agents\u2026",
+      "rss_description": "Impact Signals #175: Taipei Emergency Records in One Operator's AI Attack Kit, AI Cervical Screening Across Nine Countries, Nigeria's Four-State Maternal Rollout The security firm Acronis looked inside one person's AI attack kit and found Taipei ambulance patient records and emergency dispatch case files among what it reached, while the agents failed wherever a login held. On the day that report came out, teams from more than 115 Illinois hospitals and health systems rehearsed an AI-driven attack on their own records and communications, and staff at one hospital talked through asking patients about their allergies at the bedside. A nine-country study of 49,074 women found that an AI cervical image reader added risk information beyond the HPV test, even as one in five women who tested positive never came back for triage. Today's signal is how much of AI's real effect, for harm or for help, turns on ordinary groundwork: a login, a plan for when records go dark, a follow-up visit. --- Top Stories **1. One person with 12 AI agents reached Taipei emergency dispatch records and old ambulance patient data, and the agents stalled wherever a login held** Acronis published an investigation on November 4, 2026 into a campaign it calls BOSSAI, built on more than 90,000 files and 9GB of logs, chat histories, exploit tools and victim data from what looked like a misconfigured development server. The company assesses with high confidence that one individual based in Taiwan ran 12 AI agents\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-175/episode-175.mp3",
+      "mp3_bytes": 11450034,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-175/impact-signal-175.mp4",
+      "mp4_bytes": 68723389,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 715,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "November 6 to 9, 2026",
+        "Location: Chicago",
+        "No registration deadline seen on source",
+        "Register: [newsroom.heart.org](https://newsroom.heart.org/events/scientific-sessions-2026-public-newsroom)",
+        "November 22 to 27, 2026, with pre-conference workshops on November 22",
+        "Location: Amrita Vishwa Vidyapeetham, Faridabad (Delhi NCR), India",
+        "The forum's first time in India; no registration deadline seen on source",
+        "Register: [wlf7.org](https://wlf7.org/about)"
+      ],
+      "youtube_id": "TVvIFF5GNzg",
+      "youtube_url": "https://www.youtube.com/watch?v=TVvIFF5GNzg"
     }
   ],
-  "lastEpisode": 174,
-  "lastUpdated": "2026-11-04T13:52:20.086717+00:00",
-  "lastPublicEpisode": 174,
+  "lastEpisode": 175,
+  "lastUpdated": "2026-11-05T13:49:01.051415+00:00",
+  "lastPublicEpisode": 175,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
