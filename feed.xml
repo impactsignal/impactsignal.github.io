@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#175: Taipei Emergency Records in One Operator's AI Attack Kit, AI Cervical Screening Across Nine Countries, Nigeria's Four-State Maternal Rollout</title>
+      <title>#176: A Year-Long Null Result for a Maternal-Health Chatbot, a Family Sues Google Over School-Laptop AI, Pano AI Hands Wildfire Coordinates to Drones</title>
       <description />
+      <link>https://impactsignals.ai/episodes/176-a-year-long-null-result-for-a-maternal-health-chatbot-a-family-sues-google-over-school/</link>
+      <guid isPermaLink="false">impact-signal-176</guid>
+      <pubDate>Fri, 06 Nov 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-176/episode-176.mp3" length="8613763" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#175: Taipei Emergency Records in One Operator's AI Attack Kit, AI Cervical Screening Across Nine Countries, Nigeria's Four-State Maternal Rollout</title>
+      <description>Impact Signals #175: Taipei Emergency Records in One Operator's AI Attack Kit, AI Cervical Screening Across Nine Countries, Nigeria's Four-State Maternal Rollout The security firm Acronis looked inside one person's AI attack kit and found Taipei ambulance patient records and emergency dispatch case files among what it reached, while the agents failed wherever a login held. On the day that report came out, teams from more than 115 Illinois hospitals and health systems rehearsed an AI-driven attack on their own records and communications, and staff at one hospital talked through asking patients about their allergies at the bedside. A nine-country study of 49,074 women found that an AI cervical image reader added risk information beyond the HPV test, even as one in five women who tested positive never came back for triage. Today's signal is how much of AI's real effect, for harm or for help, turns on ordinary groundwork: a login, a plan for when records go dark, a follow-up visit. --- Top Stories **1. One person with 12 AI agents reached Taipei emergency dispatch records and old ambulance patient data, and the agents stalled wherever a login held** Acronis published an investigation on November 4, 2026 into a campaign it calls BOSSAI, built on more than 90,000 files and 9GB of logs, chat histories, exploit tools and victim data from what looked like a misconfigured development server. The company assesses with high confidence that one individual based in Taiwan ran 12 AI agents…</description>
       <link>https://impactsignals.ai/episodes/175-taipei-emergency-records-in-one-operator-s-ai-attack-kit-ai-cervical-screening-across/</link>
       <guid isPermaLink="false">impact-signal-175</guid>
       <pubDate>Thu, 05 Nov 2026 14:00:00 +0000</pubDate>
