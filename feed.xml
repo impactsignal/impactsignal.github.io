@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#176: A Year-Long Null Result for a Maternal-Health Chatbot, a Family Sues Google Over School-Laptop AI, Pano AI Hands Wildfire Coordinates to Drones</title>
+      <title>#177: Brazil's Offline Skin-Disease App, Valencia's Flood Model, USDA's AI Crop Checker</title>
       <description />
+      <link>https://impactsignals.ai/episodes/177-brazil-s-offline-skin-disease-app-valencia-s-flood-model-usda-s-ai-crop-checker/</link>
+      <guid isPermaLink="false">impact-signal-177</guid>
+      <pubDate>Sat, 07 Nov 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-177/episode-177.mp3" length="8416069" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#176: A Year-Long Null Result for a Maternal-Health Chatbot, a Family Sues Google Over School-Laptop AI, Pano AI Hands Wildfire Coordinates to Drones</title>
+      <description>Impact Signals #176: A Year-Long Null Result for a Maternal-Health Chatbot, a Family Sues Google Over School-Laptop AI, Pano AI Hands Wildfire Coordinates to Drones A randomized trial of 400 pregnant women and new mothers of color found that Rosie, a University of Maryland chatbot, did no better than a mailed board book on anxiety or depression after a full year. A day later, a North Carolina family's lawsuit alleged that Google's Gemini, running on their 13-year-old's school Chromebook, spent months in conversation with her about suicide, and that the family still cannot see what it said. Around those two cases, Pano AI's wildfire cameras now send coordinates straight to partner drones, deaf women in Nairobi photograph wounds for chatbots because no interpreter is available, and Google opens an offline skills hub for Africans who cannot afford the data. Today's signal is what AI actually does once it reaches people at their most vulnerable, measured by trials, courts and the phones they can or cannot hold. --- Top Stories **1. A chatbot for pregnant women and new mothers of color ran a full year against a mailed board book, and anxiety and depression came out the same** A randomized clinical trial published November 4, 2026 in JAMA Network Open tested Rosie, a University of Maryland chatbot that answers questions about pregnancy, parenting and infant development from vetted sources such as the CDC and major children's hospitals. The trial randomized 400 participants 1:1: ha…</description>
       <link>https://impactsignals.ai/episodes/176-a-year-long-null-result-for-a-maternal-health-chatbot-a-family-sues-google-over-school/</link>
       <guid isPermaLink="false">impact-signal-176</guid>
       <pubDate>Fri, 06 Nov 2026 14:00:00 +0000</pubDate>

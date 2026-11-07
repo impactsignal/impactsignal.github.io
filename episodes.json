@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 177,
+  "nextEpisode": 178,
   "episodes": [
     {
       "number": 1,
@@ -5512,10 +5512,43 @@
       ],
       "youtube_id": "cgU1cysws4k",
       "youtube_url": "https://www.youtube.com/watch?v=cgU1cysws4k"
+    },
+    {
+      "number": 177,
+      "date": "2026-11-07",
+      "title": "Impact Signals #177 \u2014 Brazil's Offline Skin-Disease App, Valencia's Flood Model, USDA's AI Crop Checker",
+      "headline": "Brazil's Offline Skin-Disease App, Valencia's Flood Model, USDA's AI Crop Checker",
+      "slug": "177-brazil-s-offline-skin-disease-app-valencia-s-flood-model-usda-s-ai-crop-checker",
+      "description": "Impact Signals #177: Brazil's Offline Skin-Disease App, Valencia's Flood Model, USDA's AI Crop Checker Brazil's public health system is testing an offline phone app that screens for leprosy, leishmaniasis and sporotrichosis at about 80 percent accuracy, with a clinician still making every call. In Valencia, two years after the deadly floods, a local AI model replayed 36 hours of the 2024 disaster in 57 minutes and attaches an uncertainty estimate to each prediction, while USDA will run an in-house AI checker over its November 10 crop report after a file mix-up skewed Nebraska and Kansas corn yields. Add a Senegalese satellite farm platform backed by the World Bank's private-sector arm and a foundation capped at two human staff, and today's signal is the people running these tools putting in writing how far they trust them. --- Top Stories **1. Brazil's Health Ministry and Einstein Hospital Test an Offline App That Screens Neglected Skin Diseases, at About 80 Percent Accuracy Across 1,400 Patients** Brazil's Ministry of Health and the Hospital Israelita Albert Einstein have built CUTIS-AI, a tool that helps primary-care health workers triage skin diseases, Ag\u00eancia Brasil reported on November 4. It combines a photo of the lesion with clinical, epidemiological and sociodemographic data from the Brazilian population, and targets diseases that reach a rural clinic long before a dermatologist: sporotrichosis, cutaneous leishmaniasis, leprosy, chromoblastomycosis, lobomycosis, cuta\u2026",
+      "rss_description": "Impact Signals #177: Brazil's Offline Skin-Disease App, Valencia's Flood Model, USDA's AI Crop Checker Brazil's public health system is testing an offline phone app that screens for leprosy, leishmaniasis and sporotrichosis at about 80 percent accuracy, with a clinician still making every call. In Valencia, two years after the deadly floods, a local AI model replayed 36 hours of the 2024 disaster in 57 minutes and attaches an uncertainty estimate to each prediction, while USDA will run an in-house AI checker over its November 10 crop report after a file mix-up skewed Nebraska and Kansas corn yields. Add a Senegalese satellite farm platform backed by the World Bank's private-sector arm and a foundation capped at two human staff, and today's signal is the people running these tools putting in writing how far they trust them. --- Top Stories **1. Brazil's Health Ministry and Einstein Hospital Test an Offline App That Screens Neglected Skin Diseases, at About 80 Percent Accuracy Across 1,400 Patients** Brazil's Ministry of Health and the Hospital Israelita Albert Einstein have built CUTIS-AI, a tool that helps primary-care health workers triage skin diseases, Ag\u00eancia Brasil reported on November 4. It combines a photo of the lesion with clinical, epidemiological and sociodemographic data from the Brazilian population, and targets diseases that reach a rural clinic long before a dermatologist: sporotrichosis, cutaneous leishmaniasis, leprosy, chromoblastomycosis, lobomycosis, cuta\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-177/episode-177.mp3",
+      "mp3_bytes": 8416069,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-177/impact-signal-177.mp4",
+      "mp4_bytes": 51190407,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 525,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "November 23 to 27, 2026 (per ET Now and Moneycontrol coverage)",
+        "Location: India (venue not yet confirmed)",
+        "First time hosted in India; coverage cites 75+ countries and about 1,900 authors",
+        "Registration details not yet confirmed",
+        "Amount: Equity-free funding for frontier climate-and-health technology",
+        "Deadline: not confirmed on the source page",
+        "Apply: [unicef.org](https://www.unicef.org/innovation/call-for-application-climate-and-health-2026)",
+        "India (North Indian Ocean):** Tropical Cyclone MURASU-26, GDACS RED alert, active November 1 to 3; maximum wind 157 km/h, an estimated 1.506 million people exposed to Category 1 or stronger winds. System has dissipated; damage reporting from Indian authorities pending. Source: [gdacs.org](http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001346)."
+      ],
+      "youtube_id": "P3uH8N7T9ms",
+      "youtube_url": "https://www.youtube.com/watch?v=P3uH8N7T9ms"
     }
   ],
-  "lastEpisode": 176,
-  "lastUpdated": "2026-11-06T13:37:22.251053+00:00",
-  "lastPublicEpisode": 176,
+  "lastEpisode": 177,
+  "lastUpdated": "2026-11-07T13:37:15.687454+00:00",
+  "lastPublicEpisode": 177,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
