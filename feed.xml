@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#177: Brazil's Offline Skin-Disease App, Valencia's Flood Model, USDA's AI Crop Checker</title>
+      <title>#178: Seattle's Ignored 911 AI Warning, Korea's Human-Checked Flood Forecasts, Kifiya's Farm Credit, Commonwealth Youth AI Gap</title>
       <description />
+      <link>https://impactsignals.ai/episodes/178-seattle-s-ignored-911-ai-warning-korea-s-human-checked-flood-forecasts-kifiya-s-farm-c/</link>
+      <guid isPermaLink="false">impact-signal-178</guid>
+      <pubDate>Sun, 08 Nov 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-178/episode-178.mp3" length="7497812" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#177: Brazil's Offline Skin-Disease App, Valencia's Flood Model, USDA's AI Crop Checker</title>
+      <description>Impact Signals #177: Brazil's Offline Skin-Disease App, Valencia's Flood Model, USDA's AI Crop Checker Brazil's public health system is testing an offline phone app that screens for leprosy, leishmaniasis and sporotrichosis at about 80 percent accuracy, with a clinician still making every call. In Valencia, two years after the deadly floods, a local AI model replayed 36 hours of the 2024 disaster in 57 minutes and attaches an uncertainty estimate to each prediction, while USDA will run an in-house AI checker over its November 10 crop report after a file mix-up skewed Nebraska and Kansas corn yields. Add a Senegalese satellite farm platform backed by the World Bank's private-sector arm and a foundation capped at two human staff, and today's signal is the people running these tools putting in writing how far they trust them. --- Top Stories **1. Brazil's Health Ministry and Einstein Hospital Test an Offline App That Screens Neglected Skin Diseases, at About 80 Percent Accuracy Across 1,400 Patients** Brazil's Ministry of Health and the Hospital Israelita Albert Einstein have built CUTIS-AI, a tool that helps primary-care health workers triage skin diseases, Agência Brasil reported on November 4. It combines a photo of the lesion with clinical, epidemiological and sociodemographic data from the Brazilian population, and targets diseases that reach a rural clinic long before a dermatologist: sporotrichosis, cutaneous leishmaniasis, leprosy, chromoblastomycosis, lobomycosis, cuta…</description>
       <link>https://impactsignals.ai/episodes/177-brazil-s-offline-skin-disease-app-valencia-s-flood-model-usda-s-ai-crop-checker/</link>
       <guid isPermaLink="false">impact-signal-177</guid>
       <pubDate>Sat, 07 Nov 2026 14:00:00 +0000</pubDate>

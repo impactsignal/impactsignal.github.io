@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 178,
+  "nextEpisode": 179,
   "episodes": [
     {
       "number": 1,
@@ -5545,10 +5545,43 @@
       ],
       "youtube_id": "P3uH8N7T9ms",
       "youtube_url": "https://www.youtube.com/watch?v=P3uH8N7T9ms"
+    },
+    {
+      "number": 178,
+      "date": "2026-11-08",
+      "title": "Impact Signals #178 \u2014 Seattle's Ignored 911 AI Warning, Korea's Human-Checked Flood Forecasts, Kifiya's Farm Credit, Commonwealth Youth AI Gap",
+      "headline": "Seattle's Ignored 911 AI Warning, Korea's Human-Checked Flood Forecasts, Kifiya's Farm Credit, Commonwealth Youth AI Gap",
+      "slug": "178-seattle-s-ignored-911-ai-warning-korea-s-human-checked-flood-forecasts-kifiya-s-farm-c",
+      "description": "Impact Signals #178: Seattle's Ignored 911 AI Warning, Korea's Human-Checked Flood Forecasts, Kifiya's Farm Credit, Commonwealth Youth AI Gap Seattle's own privacy chief warned in 2019 that AI listening to 911 medical calls could serve callers unequally by accent, language and disability, and the Fire Department went on to run it on every live call without telling the public. South Korea took the opposite route this summer: its AI flood forecaster updated 223 river gauges every 10 minutes, and a human forecaster checked every prediction before it went out. In Ethiopia, Kifiya's credit models have already assessed five million loan applications from farmers no bank could score. Today's signal is who gets checked before the machine is trusted, and who gets told. --- Top Stories **1. Seattle's Privacy Chief Flagged Equity Risks of 911 Medical-Call AI in 2019; the Fire Department Put It on Every Live Call Without Telling Callers** The Seattle Times reported on November 4 that in 2019 the city's then chief privacy officer, Ginger Armbruster, warned in a privacy risk analysis that AI from the Danish company Corti could raise \"civil liberties concerns about equity of service provision and response dispatch,\" with decisions affected by language, accents and disabilities. She recommended a race and social justice assessment and public disclosure. The project was framed as a quality-assurance pilot on completed calls, so it skipped normal purchasing and a full technology review. Since\u2026",
+      "rss_description": "Impact Signals #178: Seattle's Ignored 911 AI Warning, Korea's Human-Checked Flood Forecasts, Kifiya's Farm Credit, Commonwealth Youth AI Gap Seattle's own privacy chief warned in 2019 that AI listening to 911 medical calls could serve callers unequally by accent, language and disability, and the Fire Department went on to run it on every live call without telling the public. South Korea took the opposite route this summer: its AI flood forecaster updated 223 river gauges every 10 minutes, and a human forecaster checked every prediction before it went out. In Ethiopia, Kifiya's credit models have already assessed five million loan applications from farmers no bank could score. Today's signal is who gets checked before the machine is trusted, and who gets told. --- Top Stories **1. Seattle's Privacy Chief Flagged Equity Risks of 911 Medical-Call AI in 2019; the Fire Department Put It on Every Live Call Without Telling Callers** The Seattle Times reported on November 4 that in 2019 the city's then chief privacy officer, Ginger Armbruster, warned in a privacy risk analysis that AI from the Danish company Corti could raise \"civil liberties concerns about equity of service provision and response dispatch,\" with decisions affected by language, accents and disabilities. She recommended a race and social justice assessment and public disclosure. The project was framed as a quality-assurance pilot on completed calls, so it skipped normal purchasing and a full technology review. Since\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-178/episode-178.mp3",
+      "mp3_bytes": 7497812,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-178/impact-signal-178.mp4",
+      "mp4_bytes": 45705745,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 468,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "December 7 to 12, 2026",
+        "Location: Pegasus Suites & Corporate Centre, Georgetown, Guyana",
+        "Convened by CDEMA with Guyana's Civil Defence Commission; 500+ delegates from CDEMA's 20 Participating States expected. Registration deadline not stated in the announcement.",
+        "Register: [sknvibes.com](https://www.sknvibes.com/news/newsdetails.cfm/128049) (announcement; confirm registration with CDEMA)",
+        "Applications open; deadline not published in the announcement",
+        "Location: Ghana",
+        "Six-month data science and AI fellowship on food security from Blossom Academy with WFP, supported by KOICA; cohort 1 graduated 70 fellows in June 2026, 63 percent of them women.",
+        "Apply: [citinewsroom.com](https://www.citinewsroom.com/2026/11/blossom-academy-opens-applications-for-second-code4food-security-fellowship-cohort/)"
+      ],
+      "youtube_id": "XX6xoUnnD60",
+      "youtube_url": "https://www.youtube.com/watch?v=XX6xoUnnD60"
     }
   ],
-  "lastEpisode": 177,
-  "lastUpdated": "2026-11-07T13:37:15.687454+00:00",
-  "lastPublicEpisode": 177,
+  "lastEpisode": 178,
+  "lastUpdated": "2026-11-08T13:45:08.601247+00:00",
+  "lastPublicEpisode": 178,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
