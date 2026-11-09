@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#178: Seattle's Ignored 911 AI Warning, Korea's Human-Checked Flood Forecasts, Kifiya's Farm Credit, Commonwealth Youth AI Gap</title>
+      <title>#179: NYU Langone's ER Story Test for PTSD, Vet-Checked Livestock AI in Uzbekistan, a UN Rulebook for City AI</title>
       <description />
+      <link>https://impactsignals.ai/episodes/179-nyu-langone-s-er-story-test-for-ptsd-vet-checked-livestock-ai-in-uzbekistan-a-un-ruleb/</link>
+      <guid isPermaLink="false">impact-signal-179</guid>
+      <pubDate>Mon, 09 Nov 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-179/episode-179.mp3" length="7304715" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#178: Seattle's Ignored 911 AI Warning, Korea's Human-Checked Flood Forecasts, Kifiya's Farm Credit, Commonwealth Youth AI Gap</title>
+      <description>Impact Signals #178: Seattle's Ignored 911 AI Warning, Korea's Human-Checked Flood Forecasts, Kifiya's Farm Credit, Commonwealth Youth AI Gap Seattle's own privacy chief warned in 2019 that AI listening to 911 medical calls could serve callers unequally by accent, language and disability, and the Fire Department went on to run it on every live call without telling the public. South Korea took the opposite route this summer: its AI flood forecaster updated 223 river gauges every 10 minutes, and a human forecaster checked every prediction before it went out. In Ethiopia, Kifiya's credit models have already assessed five million loan applications from farmers no bank could score. Today's signal is who gets checked before the machine is trusted, and who gets told. --- Top Stories **1. Seattle's Privacy Chief Flagged Equity Risks of 911 Medical-Call AI in 2019; the Fire Department Put It on Every Live Call Without Telling Callers** The Seattle Times reported on November 4 that in 2019 the city's then chief privacy officer, Ginger Armbruster, warned in a privacy risk analysis that AI from the Danish company Corti could raise "civil liberties concerns about equity of service provision and response dispatch," with decisions affected by language, accents and disabilities. She recommended a race and social justice assessment and public disclosure. The project was framed as a quality-assurance pilot on completed calls, so it skipped normal purchasing and a full technology review. Since…</description>
       <link>https://impactsignals.ai/episodes/178-seattle-s-ignored-911-ai-warning-korea-s-human-checked-flood-forecasts-kifiya-s-farm-c/</link>
       <guid isPermaLink="false">impact-signal-178</guid>
       <pubDate>Sun, 08 Nov 2026 14:00:00 +0000</pubDate>

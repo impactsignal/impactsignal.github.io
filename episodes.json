@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 179,
+  "nextEpisode": 180,
   "episodes": [
     {
       "number": 1,
@@ -5578,10 +5578,43 @@
       ],
       "youtube_id": "XX6xoUnnD60",
       "youtube_url": "https://www.youtube.com/watch?v=XX6xoUnnD60"
+    },
+    {
+      "number": 179,
+      "date": "2026-11-09",
+      "title": "Impact Signals #179 \u2014 NYU Langone's ER Story Test for PTSD, Vet-Checked Livestock AI in Uzbekistan, a UN Rulebook for City AI",
+      "headline": "NYU Langone's ER Story Test for PTSD, Vet-Checked Livestock AI in Uzbekistan, a UN Rulebook for City AI",
+      "slug": "179-nyu-langone-s-er-story-test-for-ptsd-vet-checked-livestock-ai-in-uzbekistan-a-un-ruleb",
+      "description": "Impact Signals #179: NYU Langone's ER Story Test for PTSD, Vet-Checked Livestock AI in Uzbekistan, a UN Rulebook for City AI Researchers at NYU Langone Health report that an AI reading a trauma patient's answer to \"What brought you to the ED?\" flagged all 30 people in a test group who went on to develop PTSD. In Uzbekistan, the Asian Development Bank documents a free livestock app with 9,000 active farmers whose AI advice is signed off by licensed vets, and the UN's new city toolbox says that deciding not to use AI can be the responsible outcome. Today's signal is AI earning its place inside a conversation that already happens, with a human still accountable for what it says. --- Top Stories **1. NYU Langone's PREVIA Reads One Routine ER Answer and Flags All 30 Patients Who Developed PTSD** Researchers at NYU Langone Health built PREVIA, an AI screener that reads the short story a trauma patient tells at intake (\"What brought you to the ED?\") and estimates their risk of PTSD a month later. The study, published online in Nature Communications and announced November 9, ran the tool on narratives from 145 emergency-department patients; the team reports its models identified more than 95.4 percent of at-risk patients. In a head-to-head test, PREVIA flagged all 30 patients who went on to develop PTSD, while an ED clinician who specializes in PTSD caught 89 percent. The pipeline layers open models (Llama to weigh risk signals, Mistral to surface protective context such as coping s\u2026",
+      "rss_description": "Impact Signals #179: NYU Langone's ER Story Test for PTSD, Vet-Checked Livestock AI in Uzbekistan, a UN Rulebook for City AI Researchers at NYU Langone Health report that an AI reading a trauma patient's answer to \"What brought you to the ED?\" flagged all 30 people in a test group who went on to develop PTSD. In Uzbekistan, the Asian Development Bank documents a free livestock app with 9,000 active farmers whose AI advice is signed off by licensed vets, and the UN's new city toolbox says that deciding not to use AI can be the responsible outcome. Today's signal is AI earning its place inside a conversation that already happens, with a human still accountable for what it says. --- Top Stories **1. NYU Langone's PREVIA Reads One Routine ER Answer and Flags All 30 Patients Who Developed PTSD** Researchers at NYU Langone Health built PREVIA, an AI screener that reads the short story a trauma patient tells at intake (\"What brought you to the ED?\") and estimates their risk of PTSD a month later. The study, published online in Nature Communications and announced November 9, ran the tool on narratives from 145 emergency-department patients; the team reports its models identified more than 95.4 percent of at-risk patients. In a head-to-head test, PREVIA flagged all 30 patients who went on to develop PTSD, while an ED clinician who specializes in PTSD caught 89 percent. The pipeline layers open models (Llama to weigh risk signals, Mistral to surface protective context such as coping s\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-179/episode-179.mp3",
+      "mp3_bytes": 7304715,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-179/impact-signal-179.mp4",
+      "mp4_bytes": 46046378,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 456,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Deadline: Round 1 proposals due November 29, 2026, 11:59 pm US Eastern",
+        "Amount: $500,000 to $2 million per grant over 24 months, from a $50 million open call managed by RF Catalytic Capital ($1 million to $2 million scale grants for solutions already piloted in a city)",
+        "Eligibility: led by an eligible nonprofit or civil society institution with a committed city government partner; public health, economic mobility, environmental resilience and civic engagement in underserved communities; any AI model allowed",
+        "Apply: [rockefellerfoundation.org](https://www.rockefellerfoundation.org/cities-deliver-ai-solutions-for-public-services/)",
+        "Deadline: Letter of Intent due December 17, 2026, 11:59 pm Pacific; full application (by invitation) due March 12, 2027",
+        "Amount: up to US$125,000 per third-party listings (not yet confirmed on Mozilla's page); 10 fellowships running June 1, 2027 to May 31, 2028",
+        "Eligibility: technologists and builders working toward a more human-centered technology future",
+        "Apply: [mozillafoundation.org](https://www.mozillafoundation.org/what-we-do/grantmaking/fellowship/2027-call-for-applications/)"
+      ],
+      "youtube_id": "rKBWO09_v7w",
+      "youtube_url": "https://www.youtube.com/watch?v=rKBWO09_v7w"
     }
   ],
-  "lastEpisode": 178,
-  "lastUpdated": "2026-11-08T13:45:08.601247+00:00",
-  "lastPublicEpisode": 178,
+  "lastEpisode": 179,
+  "lastUpdated": "2026-11-09T13:42:17.660463+00:00",
+  "lastPublicEpisode": 179,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
