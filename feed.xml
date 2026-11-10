@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#179: NYU Langone's ER Story Test for PTSD, Vet-Checked Livestock AI in Uzbekistan, a UN Rulebook for City AI</title>
+      <title>#180: AWS Commits $100 Million to Health Organizations, South Africa's Nine Asylum Officials, Australia's AI Regulator, IBM's First-Job Cohort</title>
       <description />
+      <link>https://impactsignals.ai/episodes/180-aws-commits-100-million-to-health-organizations-south-africa-s-nine-asylum-officials-a/</link>
+      <guid isPermaLink="false">impact-signal-180</guid>
+      <pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-180/episode-180.mp3" length="8306145" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#179: NYU Langone's ER Story Test for PTSD, Vet-Checked Livestock AI in Uzbekistan, a UN Rulebook for City AI</title>
+      <description>Impact Signals #179: NYU Langone's ER Story Test for PTSD, Vet-Checked Livestock AI in Uzbekistan, a UN Rulebook for City AI Researchers at NYU Langone Health report that an AI reading a trauma patient's answer to "What brought you to the ED?" flagged all 30 people in a test group who went on to develop PTSD. In Uzbekistan, the Asian Development Bank documents a free livestock app with 9,000 active farmers whose AI advice is signed off by licensed vets, and the UN's new city toolbox says that deciding not to use AI can be the responsible outcome. Today's signal is AI earning its place inside a conversation that already happens, with a human still accountable for what it says. --- Top Stories **1. NYU Langone's PREVIA Reads One Routine ER Answer and Flags All 30 Patients Who Developed PTSD** Researchers at NYU Langone Health built PREVIA, an AI screener that reads the short story a trauma patient tells at intake ("What brought you to the ED?") and estimates their risk of PTSD a month later. The study, published online in Nature Communications and announced November 9, ran the tool on narratives from 145 emergency-department patients; the team reports its models identified more than 95.4 percent of at-risk patients. In a head-to-head test, PREVIA flagged all 30 patients who went on to develop PTSD, while an ED clinician who specializes in PTSD caught 89 percent. The pipeline layers open models (Llama to weigh risk signals, Mistral to surface protective context such as coping s…</description>
       <link>https://impactsignals.ai/episodes/179-nyu-langone-s-er-story-test-for-ptsd-vet-checked-livestock-ai-in-uzbekistan-a-un-ruleb/</link>
       <guid isPermaLink="false">impact-signal-179</guid>
       <pubDate>Mon, 09 Nov 2026 14:00:00 +0000</pubDate>

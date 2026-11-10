@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 180,
+  "nextEpisode": 181,
   "episodes": [
     {
       "number": 1,
@@ -5611,10 +5611,43 @@
       ],
       "youtube_id": "rKBWO09_v7w",
       "youtube_url": "https://www.youtube.com/watch?v=rKBWO09_v7w"
+    },
+    {
+      "number": 180,
+      "date": "2026-11-10",
+      "title": "Impact Signals #180 \u2014 AWS Commits $100 Million to Health Organizations, South Africa's Nine Asylum Officials, Australia's AI Regulator, IBM's First-Job Cohort",
+      "headline": "AWS Commits $100 Million to Health Organizations, South Africa's Nine Asylum Officials, Australia's AI Regulator, IBM's First-Job Cohort",
+      "slug": "180-aws-commits-100-million-to-health-organizations-south-africa-s-nine-asylum-officials-a",
+      "description": "Impact Signals #180: AWS Commits $100 Million to Health Organizations, South Africa's Nine Asylum Officials, Australia's AI Regulator, IBM's First-Job Cohort Amazon Web Services is putting $100 million of AI and cloud credits over five years behind health nonprofits, governments and research groups that cannot fund a first build, with applications open now. South Africa's Department of Home Affairs, which says it had nine officials for thousands of asylum appeals, launched a registration portal and named AI as the plan for the backlog in later phases. In Canberra, the government answered an AI agent's intrusion into a Medicare statistics portal by accepting all 18 recommendations of its review and promising a regulator that can fine. Today's signal is who carries the load when AI arrives in a public system: the funder, the short-staffed agency, or the developer. --- Top Stories **1. AWS Commits $100 Million in AI and Cloud Credits Over Five Years to Health Organizations Serving Underserved Communities** Amazon Web Services announced the AWS Health Impact Initiative on Monday, November 9: $100 million of AI and cloud technology over the next five years for health nonprofits, governments and research groups worldwide working on health gaps in underserved populations. Healthcare Dive reports the support arrives as technology credits rather than cash; accepted organizations receive credits based on estimated need and have up to two years to use them. The initiative names three a\u2026",
+      "rss_description": "Impact Signals #180: AWS Commits $100 Million to Health Organizations, South Africa's Nine Asylum Officials, Australia's AI Regulator, IBM's First-Job Cohort Amazon Web Services is putting $100 million of AI and cloud credits over five years behind health nonprofits, governments and research groups that cannot fund a first build, with applications open now. South Africa's Department of Home Affairs, which says it had nine officials for thousands of asylum appeals, launched a registration portal and named AI as the plan for the backlog in later phases. In Canberra, the government answered an AI agent's intrusion into a Medicare statistics portal by accepting all 18 recommendations of its review and promising a regulator that can fine. Today's signal is who carries the load when AI arrives in a public system: the funder, the short-staffed agency, or the developer. --- Top Stories **1. AWS Commits $100 Million in AI and Cloud Credits Over Five Years to Health Organizations Serving Underserved Communities** Amazon Web Services announced the AWS Health Impact Initiative on Monday, November 9: $100 million of AI and cloud technology over the next five years for health nonprofits, governments and research groups worldwide working on health gaps in underserved populations. Healthcare Dive reports the support arrives as technology credits rather than cash; accepted organizations receive credits based on estimated need and have up to two years to use them. The initiative names three a\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-180/episode-180.mp3",
+      "mp3_bytes": 8306145,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-180/impact-signal-180.mp4",
+      "mp4_bytes": 52029607,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 519,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "November 24, 2026 (date as shown on the project page)",
+        "Location: Virtual; registration is via Eventbrite",
+        "Research launch from the AI in the Healthcare Project of the Civil Liberties Union for Europe",
+        "Register: [liberties.eu](https://www.liberties.eu/en/stories/ai-and-health-project/45709)",
+        "Deadline: none stated on the source pages; applications are open through an AWS account team or a public portal",
+        "Amount: $100 million in AI and cloud credits over five years, awarded as credits based on estimated need, usable for up to two years",
+        "Eligibility: health nonprofits, governments and research groups working on access to care, women's and children's health research, or access to nutritious food",
+        "Apply: [aboutamazon.com](https://www.aboutamazon.com/news/aws/aws-health-impact-initiative-100-million-ai-cloud)"
+      ],
+      "youtube_id": "iMnKZ5_u8sw",
+      "youtube_url": "https://www.youtube.com/watch?v=iMnKZ5_u8sw"
     }
   ],
-  "lastEpisode": 179,
-  "lastUpdated": "2026-11-09T13:42:17.660463+00:00",
-  "lastPublicEpisode": 179,
+  "lastEpisode": 180,
+  "lastUpdated": "2026-11-10T13:38:06.520699+00:00",
+  "lastPublicEpisode": 180,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
