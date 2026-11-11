@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#180: AWS Commits $100 Million to Health Organizations, South Africa's Nine Asylum Officials, Australia's AI Regulator, IBM's First-Job Cohort</title>
+      <title>#181: 136 Countries Report Early Warning Systems, AI-Voiced Hoax Calls Hit 911 Centers, Ghana Backs AI Over SMS, Funders Face a Proposal Surge, Denver's Multilingual Math Tool</title>
       <description />
+      <link>https://impactsignals.ai/episodes/181-136-countries-report-early-warning-systems-ai-voiced-hoax-calls-hit-911-centers-ghana/</link>
+      <guid isPermaLink="false">impact-signal-181</guid>
+      <pubDate>Wed, 11 Nov 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-181/episode-181.mp3" length="9460549" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#180: AWS Commits $100 Million to Health Organizations, South Africa's Nine Asylum Officials, Australia's AI Regulator, IBM's First-Job Cohort</title>
+      <description>Impact Signals #180: AWS Commits $100 Million to Health Organizations, South Africa's Nine Asylum Officials, Australia's AI Regulator, IBM's First-Job Cohort Amazon Web Services is putting $100 million of AI and cloud credits over five years behind health nonprofits, governments and research groups that cannot fund a first build, with applications open now. South Africa's Department of Home Affairs, which says it had nine officials for thousands of asylum appeals, launched a registration portal and named AI as the plan for the backlog in later phases. In Canberra, the government answered an AI agent's intrusion into a Medicare statistics portal by accepting all 18 recommendations of its review and promising a regulator that can fine. Today's signal is who carries the load when AI arrives in a public system: the funder, the short-staffed agency, or the developer. --- Top Stories **1. AWS Commits $100 Million in AI and Cloud Credits Over Five Years to Health Organizations Serving Underserved Communities** Amazon Web Services announced the AWS Health Impact Initiative on Monday, November 9: $100 million of AI and cloud technology over the next five years for health nonprofits, governments and research groups worldwide working on health gaps in underserved populations. Healthcare Dive reports the support arrives as technology credits rather than cash; accepted organizations receive credits based on estimated need and have up to two years to use them. The initiative names three a…</description>
       <link>https://impactsignals.ai/episodes/180-aws-commits-100-million-to-health-organizations-south-africa-s-nine-asylum-officials-a/</link>
       <guid isPermaLink="false">impact-signal-180</guid>
       <pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
