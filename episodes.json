@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 182,
+  "nextEpisode": 183,
   "episodes": [
     {
       "number": 1,
@@ -5677,10 +5677,43 @@
       ],
       "youtube_id": "6t1yQvNfAHE",
       "youtube_url": "https://www.youtube.com/watch?v=6t1yQvNfAHE"
+    },
+    {
+      "number": 182,
+      "date": "2026-11-12",
+      "title": "Impact Signals #182 \u2014 Rwanda's Smartphone Gap Behind an AI Banana-Disease App, Spain Tests Plain-Language Medical AI, a $2 Million Evacuation Project for Los Angeles, UK Wildfire Risk at the Edge of Towns",
+      "headline": "Rwanda's Smartphone Gap Behind an AI Banana-Disease App, Spain Tests Plain-Language Medical AI, a $2 Million Evacuation Project for Los Angeles, UK Wildfire Risk at the Edge of Towns",
+      "slug": "182-rwanda-s-smartphone-gap-behind-an-ai-banana-disease-app-spain-tests-plain-language-med",
+      "description": "Impact Signals #182: Rwanda's Smartphone Gap Behind an AI Banana-Disease App, Spain Tests Plain-Language Medical AI, a $2 Million Evacuation Project for Los Angeles, UK Wildfire Risk at the Edge of Towns A study of 357 banana farmers in Rwanda found that 24 percent of men and 6.5 percent of women own the smartphone an AI crop-disease app requires, and that among those who do own one, men and women are equally skilled at using it. In Madrid, researchers at Universidad Carlos III showed that small open language models can rewrite a medical report in plain Spanish, and that every model family they tested also dropped or invented clinical details along the way. In Los Angeles, a $2 million National Science Foundation award is funding an evacuation system that writes households with no car into the routing problem from the start. Today's signal is the distance between a tool that works and the people it was built to reach. --- Top Stories **1. In Rwanda, 24 Percent of Men and 6.5 Percent of Women Farmers Own the Smartphone an AI Banana-Disease App Needs, and a 357-Farmer Study Traces the Gap to Access** A study published on Monday, November 9, in Frontiers in Sustainable Food Systems examined who gets to use Tumaini, an AI app that identifies banana diseases and pests from a phone photo and gives management advice. Researchers led by Jean Paul Ndayizeye of the University of Rwanda surveyed 357 smallholder banana farmers in three districts (Gasabo, Karongi and Rusizi), ran 12 focu\u2026",
+      "rss_description": "Impact Signals #182: Rwanda's Smartphone Gap Behind an AI Banana-Disease App, Spain Tests Plain-Language Medical AI, a $2 Million Evacuation Project for Los Angeles, UK Wildfire Risk at the Edge of Towns A study of 357 banana farmers in Rwanda found that 24 percent of men and 6.5 percent of women own the smartphone an AI crop-disease app requires, and that among those who do own one, men and women are equally skilled at using it. In Madrid, researchers at Universidad Carlos III showed that small open language models can rewrite a medical report in plain Spanish, and that every model family they tested also dropped or invented clinical details along the way. In Los Angeles, a $2 million National Science Foundation award is funding an evacuation system that writes households with no car into the routing problem from the start. Today's signal is the distance between a tool that works and the people it was built to reach. --- Top Stories **1. In Rwanda, 24 Percent of Men and 6.5 Percent of Women Farmers Own the Smartphone an AI Banana-Disease App Needs, and a 357-Farmer Study Traces the Gap to Access** A study published on Monday, November 9, in Frontiers in Sustainable Food Systems examined who gets to use Tumaini, an AI app that identifies banana diseases and pests from a phone photo and gives management advice. Researchers led by Jean Paul Ndayizeye of the University of Rwanda surveyed 357 smallholder banana farmers in three districts (Gasabo, Karongi and Rusizi), ran 12 focu\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-182/episode-182.mp3",
+      "mp3_bytes": 9093998,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-182/impact-signal-182.mp4",
+      "mp4_bytes": 55296454,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 568,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Under way; ends November 20, 2026, per Reuters",
+        "Location: Antalya, T\u00fcrkiye",
+        "Register: [unfccc.int](https://www.unfccc.int/cop31/the-road-to-antalya)",
+        "November 24, 2026 (date as shown on the Liberties page)",
+        "Location: Virtual",
+        "Research launch from the Civil Liberties Union for Europe",
+        "Register: [liberties.eu](https://www.liberties.eu/en/stories/ai-european-healthcare-interview-julia-keseru/45814)",
+        "December 7 to 12, 2026, per search results (not confirmed on a CDEMA page)"
+      ],
+      "youtube_id": "PtcXMpScQyo",
+      "youtube_url": "https://www.youtube.com/watch?v=PtcXMpScQyo"
     }
   ],
-  "lastEpisode": 181,
-  "lastUpdated": "2026-11-11T13:39:35.761894+00:00",
-  "lastPublicEpisode": 181,
+  "lastEpisode": 182,
+  "lastUpdated": "2026-11-12T13:42:45.401809+00:00",
+  "lastPublicEpisode": 182,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
