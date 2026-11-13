@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#182: Rwanda's Smartphone Gap Behind an AI Banana-Disease App, Spain Tests Plain-Language Medical AI, a $2 Million Evacuation Project for Los Angeles, UK Wildfire Risk at the Edge of Towns</title>
+      <title>#183: AI Bots Hit Nonprofit Donation Platforms and DonorPerfect Stays Offline, Chicago Schools Weigh Leaving Google Search, NHS England Deletes a 137-Trust AI Claim, Georgia's 53-Page AI Playbook</title>
       <description />
+      <link>https://impactsignals.ai/episodes/183-ai-bots-hit-nonprofit-donation-platforms-and-donorperfect-stays-offline-chicago-school/</link>
+      <guid isPermaLink="false">impact-signal-183</guid>
+      <pubDate>Fri, 13 Nov 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-183/episode-183.mp3" length="10649225" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#182: Rwanda's Smartphone Gap Behind an AI Banana-Disease App, Spain Tests Plain-Language Medical AI, a $2 Million Evacuation Project for Los Angeles, UK Wildfire Risk at the Edge of Towns</title>
+      <description>Impact Signals #182: Rwanda's Smartphone Gap Behind an AI Banana-Disease App, Spain Tests Plain-Language Medical AI, a $2 Million Evacuation Project for Los Angeles, UK Wildfire Risk at the Edge of Towns A study of 357 banana farmers in Rwanda found that 24 percent of men and 6.5 percent of women own the smartphone an AI crop-disease app requires, and that among those who do own one, men and women are equally skilled at using it. In Madrid, researchers at Universidad Carlos III showed that small open language models can rewrite a medical report in plain Spanish, and that every model family they tested also dropped or invented clinical details along the way. In Los Angeles, a $2 million National Science Foundation award is funding an evacuation system that writes households with no car into the routing problem from the start. Today's signal is the distance between a tool that works and the people it was built to reach. --- Top Stories **1. In Rwanda, 24 Percent of Men and 6.5 Percent of Women Farmers Own the Smartphone an AI Banana-Disease App Needs, and a 357-Farmer Study Traces the Gap to Access** A study published on Monday, November 9, in Frontiers in Sustainable Food Systems examined who gets to use Tumaini, an AI app that identifies banana diseases and pests from a phone photo and gives management advice. Researchers led by Jean Paul Ndayizeye of the University of Rwanda surveyed 357 smallholder banana farmers in three districts (Gasabo, Karongi and Rusizi), ran 12 focu…</description>
       <link>https://impactsignals.ai/episodes/182-rwanda-s-smartphone-gap-behind-an-ai-banana-disease-app-spain-tests-plain-language-med/</link>
       <guid isPermaLink="false">impact-signal-182</guid>
       <pubDate>Thu, 12 Nov 2026 14:00:00 +0000</pubDate>
