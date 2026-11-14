@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 184,
+  "nextEpisode": 185,
   "episodes": [
     {
       "number": 1,
@@ -5743,10 +5743,43 @@
       ],
       "youtube_id": "DdRnS0w7C8A",
       "youtube_url": "https://www.youtube.com/watch?v=DdRnS0w7C8A"
+    },
+    {
+      "number": 184,
+      "date": "2026-11-14",
+      "title": "Impact Signals #184 \u2014 South Korea Links Public Hospitals to Shared Medical AI, Why Young People Confide in Chatbots, Experts Question the Mystic Alerts Act, IRS Pilots a Fraud-Case Agent",
+      "headline": "South Korea Links Public Hospitals to Shared Medical AI, Why Young People Confide in Chatbots, Experts Question the Mystic Alerts Act, IRS Pilots a Fraud-Case Agent",
+      "slug": "184-south-korea-links-public-hospitals-to-shared-medical-ai-why-young-people-confide-in-ch",
+      "description": "Impact Signals #184: South Korea Links Public Hospitals to Shared Medical AI, Why Young People Confide in Chatbots, Experts Question the Mystic Alerts Act, IRS Pilots a Fraud-Case Agent South Korea's health ministry switched on shared medical AI at two regional public hospitals this week, with a doctor signing every draft the software writes. In the United States, the IRS described an AI agent that assembles identity theft cases and stops before the decision, while the people who study emergency alerts told StateScoop that a new satellite alert law fixes the delivery channel and leaves untouched the humans who have to send the warning. A study of 16 to 24 year olds adds the uncomfortable mirror image: young people confide in chatbots because a chatbot feels less risky than a friend. Today's signal is where the human stays in the loop, and what happens at the points where nobody is. --- Top Stories **1. South Korea Starts Connecting Regional Public Hospitals to Shared Medical AI, With 72 Planned by 2029** South Korea's Ministry of Health and Welfare launched a pilot it calls the Public Healthcare AI Expressway on Wednesday, November 11, linking Kangwon National University Hospital in Chuncheon with Yeongwol Medical Center, a smaller regional hospital. The two demonstrated one full pathway online that day: a child Yeongwol cannot treat is transferred, has surgery, is discharged and is referred back. Three AI tools run inside both hospitals' electronic medical record screens, d\u2026",
+      "rss_description": "Impact Signals #184: South Korea Links Public Hospitals to Shared Medical AI, Why Young People Confide in Chatbots, Experts Question the Mystic Alerts Act, IRS Pilots a Fraud-Case Agent South Korea's health ministry switched on shared medical AI at two regional public hospitals this week, with a doctor signing every draft the software writes. In the United States, the IRS described an AI agent that assembles identity theft cases and stops before the decision, while the people who study emergency alerts told StateScoop that a new satellite alert law fixes the delivery channel and leaves untouched the humans who have to send the warning. A study of 16 to 24 year olds adds the uncomfortable mirror image: young people confide in chatbots because a chatbot feels less risky than a friend. Today's signal is where the human stays in the loop, and what happens at the points where nobody is. --- Top Stories **1. South Korea Starts Connecting Regional Public Hospitals to Shared Medical AI, With 72 Planned by 2029** South Korea's Ministry of Health and Welfare launched a pilot it calls the Public Healthcare AI Expressway on Wednesday, November 11, linking Kangwon National University Hospital in Chuncheon with Yeongwol Medical Center, a smaller regional hospital. The two demonstrated one full pathway online that day: a child Yeongwol cannot treat is transferred, has surgery, is discharged and is referred back. Three AI tools run inside both hospitals' electronic medical record screens, d\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-184/episode-184.mp3",
+      "mp3_bytes": 9500673,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-184/impact-signal-184.mp4",
+      "mp4_bytes": 57668143,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 593,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Under way; concludes November 20, 2026",
+        "Location: Antalya, T\u00fcrkiye",
+        "The UN, UNESCO and Brazil launched Priorities for Action on AI and Climate Information Integrity there on November 13, asking AI companies to publish how their systems affect climate information and to disclose energy, carbon, water and land footprints",
+        "Details: [news.un.org](https://news.un.org/en/story/2026/11/1168798)",
+        "November 24, 2026",
+        "Location: Virtual",
+        "A research launch on how health AI in the EU is funded, regulated and fed with patient data",
+        "Register: [liberties.eu](https://www.liberties.eu/en/stories/ai-european-healthcare-interview-julia-keseru/45814)"
+      ],
+      "youtube_id": "dhoI0hN2vmc",
+      "youtube_url": "https://www.youtube.com/watch?v=dhoI0hN2vmc"
     }
   ],
-  "lastEpisode": 183,
-  "lastUpdated": "2026-11-13T13:43:01.567190+00:00",
-  "lastPublicEpisode": 183,
+  "lastEpisode": 184,
+  "lastUpdated": "2026-11-14T13:39:49.779543+00:00",
+  "lastPublicEpisode": 184,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
