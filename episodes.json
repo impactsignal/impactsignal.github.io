@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 185,
+  "nextEpisode": 186,
   "episodes": [
     {
       "number": 1,
@@ -5776,10 +5776,43 @@
       ],
       "youtube_id": "dhoI0hN2vmc",
       "youtube_url": "https://www.youtube.com/watch?v=dhoI0hN2vmc"
+    },
+    {
+      "number": 185,
+      "date": "2026-11-15",
+      "title": "Impact Signals #185 \u2014 Kenya's High Court Puts a Six-Month Clock on an AI Law, South Korea's Top Exam Scorer Admits AI Cheating, Oakland City Workers Win an AI Retraining Clause",
+      "headline": "Kenya's High Court Puts a Six-Month Clock on an AI Law, South Korea's Top Exam Scorer Admits AI Cheating, Oakland City Workers Win an AI Retraining Clause",
+      "slug": "185-kenya-s-high-court-puts-a-six-month-clock-on-an-ai-law-south-korea-s-top-exam-scorer-a",
+      "description": "Impact Signals #185: Kenya's High Court Puts a Six-Month Clock on an AI Law, South Korea's Top Exam Scorer Admits AI Cheating, Oakland City Workers Win an AI Retraining Clause A Kenyan High Court judge has given the government and Parliament six months to finish a national AI law, while declining to switch off the public-sector systems already running, because no one could show him a specific harm. In South Korea, the top scorer on the national tax accountant exam admitted he used a hidden camera and an AI tool, after four proctors and the exam administrator had cleared him, and the presidential office ordered ministries to prepare before Thursday's college entrance exam. In the United States, Oakland city workers voted 94.1 percent to authorize a strike and came away with a contract clause requiring retraining or reassignment when AI displaces a job. Today's signal is who gets to write the rules once AI is already inside a public system: a court, a union contract, an exam hall, or the community left out of the hiring. --- Top Stories **1. Kenya's High Court Gives the Government Six Months to Finish an AI Law, but Declines to Halt Public-Sector AI Systems** Kenya's High Court, sitting in Kerugoya, gave the government and Parliament six months to finish a national policy and legal framework for artificial intelligence, in a ruling Justice Edward Muriithi delivered on Thursday, November 12, 2026. The court refused the petitioners' request to order legislation within 90 days, c\u2026",
+      "rss_description": "Impact Signals #185: Kenya's High Court Puts a Six-Month Clock on an AI Law, South Korea's Top Exam Scorer Admits AI Cheating, Oakland City Workers Win an AI Retraining Clause A Kenyan High Court judge has given the government and Parliament six months to finish a national AI law, while declining to switch off the public-sector systems already running, because no one could show him a specific harm. In South Korea, the top scorer on the national tax accountant exam admitted he used a hidden camera and an AI tool, after four proctors and the exam administrator had cleared him, and the presidential office ordered ministries to prepare before Thursday's college entrance exam. In the United States, Oakland city workers voted 94.1 percent to authorize a strike and came away with a contract clause requiring retraining or reassignment when AI displaces a job. Today's signal is who gets to write the rules once AI is already inside a public system: a court, a union contract, an exam hall, or the community left out of the hiring. --- Top Stories **1. Kenya's High Court Gives the Government Six Months to Finish an AI Law, but Declines to Halt Public-Sector AI Systems** Kenya's High Court, sitting in Kerugoya, gave the government and Parliament six months to finish a national policy and legal framework for artificial intelligence, in a ruling Justice Edward Muriithi delivered on Thursday, November 12, 2026. The court refused the petitioners' request to order legislation within 90 days, c\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-185/episode-185.mp3",
+      "mp3_bytes": 10877430,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-185/impact-signal-185.mp4",
+      "mp4_bytes": 66431198,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 679,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Under way; concludes November 20, 2026, per UN News on November 13",
+        "Location: Antalya, T\u00fcrkiye",
+        "Details: [news.un.org](https://news.un.org/en/story/2026/11/1168798)",
+        "November 24, 2026 (date as listed on the Civil Liberties Union for Europe page on November 12; not yet reconfirmed)",
+        "Location: Virtual",
+        "A research launch on how health AI is funded, regulated and fed with patient data in the EU",
+        "Details: [liberties.eu](https://www.liberties.eu/en/stories/ai-european-healthcare-interview-julia-keseru/45814)",
+        "December 7 to 12, 2026 (dates from earlier search results; not confirmed on a CDEMA page)"
+      ],
+      "youtube_id": "jffW5UhA4p0",
+      "youtube_url": "https://www.youtube.com/watch?v=jffW5UhA4p0"
     }
   ],
-  "lastEpisode": 184,
-  "lastUpdated": "2026-11-14T13:39:49.779543+00:00",
-  "lastPublicEpisode": 184,
+  "lastEpisode": 185,
+  "lastUpdated": "2026-11-15T13:41:01.859157+00:00",
+  "lastPublicEpisode": 185,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
