@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 186,
+  "nextEpisode": 187,
   "episodes": [
     {
       "number": 1,
@@ -5809,10 +5809,43 @@
       ],
       "youtube_id": "jffW5UhA4p0",
       "youtube_url": "https://www.youtube.com/watch?v=jffW5UhA4p0"
+    },
+    {
+      "number": 186,
+      "date": "2026-11-16",
+      "title": "Impact Signals #186 \u2014 Dublin Switches On an AI Flood Warning Pilot, Stanford Finds Classroom AI Helps Teachers More Than Students, Malaysia Tests Camera-Free Fall Detection in 50 Homes",
+      "headline": "Dublin Switches On an AI Flood Warning Pilot, Stanford Finds Classroom AI Helps Teachers More Than Students, Malaysia Tests Camera-Free Fall Detection in 50 Homes",
+      "slug": "186-dublin-switches-on-an-ai-flood-warning-pilot-stanford-finds-classroom-ai-helps-teacher",
+      "description": "Impact Signals #186: Dublin Switches On an AI Flood Warning Pilot, Stanford Finds Classroom AI Helps Teachers More Than Students, Malaysia Tests Camera-Free Fall Detection in 50 Homes Dublin City Council is switching on an AI flood warning pilot this week, ten months after Storm Chandra flooded the capital with no rainfall warning, and the 13 to 21 hours of notice it promises come from replays of past floods, with council staff reviewing every alert. Stanford's review of 52 causal studies finds that classroom AI helps teachers more than it helps students, and that students who lean on it to write or solve problems do worse once it is taken away. Malaysia will fit up to 50 homes of older people living alone with radar and thermal sensors, no cameras, and has said in advance that cost and privacy will decide whether the pilot expands. Today's signal is the distance between what an AI tool promises and what has been measured, and the people who chose to state that distance out loud. --- Top Stories **1. Dublin City Council Switches On an AI Flood Warning Pilot, With 13 to 21 Hours of Notice Shown Only on Past Floods and Staff Reviewing Every Alert** Dublin City Council is starting a pilot of an AI early warning system for major floods this week, The Journal, The Irish Times and Silicon Republic reported on Monday, November 16, 2026. The model was built by EMR Integrated Solutions, an engineering firm in Dunboyne, County Meath, that already runs the council's flood monitoring ne\u2026",
+      "rss_description": "Impact Signals #186: Dublin Switches On an AI Flood Warning Pilot, Stanford Finds Classroom AI Helps Teachers More Than Students, Malaysia Tests Camera-Free Fall Detection in 50 Homes Dublin City Council is switching on an AI flood warning pilot this week, ten months after Storm Chandra flooded the capital with no rainfall warning, and the 13 to 21 hours of notice it promises come from replays of past floods, with council staff reviewing every alert. Stanford's review of 52 causal studies finds that classroom AI helps teachers more than it helps students, and that students who lean on it to write or solve problems do worse once it is taken away. Malaysia will fit up to 50 homes of older people living alone with radar and thermal sensors, no cameras, and has said in advance that cost and privacy will decide whether the pilot expands. Today's signal is the distance between what an AI tool promises and what has been measured, and the people who chose to state that distance out loud. --- Top Stories **1. Dublin City Council Switches On an AI Flood Warning Pilot, With 13 to 21 Hours of Notice Shown Only on Past Floods and Staff Reviewing Every Alert** Dublin City Council is starting a pilot of an AI early warning system for major floods this week, The Journal, The Irish Times and Silicon Republic reported on Monday, November 16, 2026. The model was built by EMR Integrated Solutions, an engineering firm in Dunboyne, County Meath, that already runs the council's flood monitoring ne\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-186/episode-186.mp3",
+      "mp3_bytes": 8525992,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-186/impact-signal-186.mp4",
+      "mp4_bytes": 52620397,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 532,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Under way; ministers' meeting set to begin November 17, 2026 and the conference runs through November 20, per Kyodo News on November 16",
+        "Location: Antalya, T\u00fcrkiye",
+        "The ministers' meeting is where Japan's Asia-Pacific early warning network is expected to be unveiled",
+        "Details: [english.kyodonews.net](https://english.kyodonews.net/articles/-/91542)",
+        "November 24, 2026 (date as listed on the Civil Liberties Union for Europe page on November 12; not yet reconfirmed)",
+        "Location: Virtual",
+        "A research launch on how health AI is funded, regulated and fed with patient data in the EU",
+        "Details: [liberties.eu](https://www.liberties.eu/en/stories/ai-european-healthcare-interview-julia-keseru/45814)"
+      ],
+      "youtube_id": "U-6DmzEFQsk",
+      "youtube_url": "https://www.youtube.com/watch?v=U-6DmzEFQsk"
     }
   ],
-  "lastEpisode": 185,
-  "lastUpdated": "2026-11-15T13:41:01.859157+00:00",
-  "lastPublicEpisode": 185,
+  "lastEpisode": 186,
+  "lastUpdated": "2026-11-16T13:40:00.391503+00:00",
+  "lastPublicEpisode": 186,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
