@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 188,
+  "nextEpisode": 189,
   "episodes": [
     {
       "number": 1,
@@ -5875,10 +5875,43 @@
       ],
       "youtube_id": "yg7iKsI4CBA",
       "youtube_url": "https://www.youtube.com/watch?v=yg7iKsI4CBA"
+    },
+    {
+      "number": 188,
+      "date": "2026-11-18",
+      "title": "Impact Signals #188 \u2014 The Philippines' 15-Minute AI Screen for Grade 2 Learners, 46 US States With an AI Lead and No Budget, Malaysia's No-Internet Disaster Alerts, Chile's OpenAI Agreement",
+      "headline": "The Philippines' 15-Minute AI Screen for Grade 2 Learners, 46 US States With an AI Lead and No Budget, Malaysia's No-Internet Disaster Alerts, Chile's OpenAI Agreement",
+      "slug": "188-the-philippines-15-minute-ai-screen-for-grade-2-learners-46-us-states-with-an-ai-lead",
+      "description": "Impact Signals #188: The Philippines' 15-Minute AI Screen for Grade 2 Learners, 46 US States With an AI Lead and No Budget, Malaysia's No-Internet Disaster Alerts, Chile's OpenAI Agreement The Philippine education department showed an AI tool that lets a teacher screen a Grade 2 child for learning and speech difficulties in about 15 minutes, in a country where 109 developmental specialists serve about five million learners with disabilities. In the United States, a first survey of state AI officials found that at least 46 states have named someone to direct AI and 56 percent of those surveyed have no budget for it. Malaysia tests disaster alerts on Thursday that reach a phone without internet, SMS or a phone number, and Chile signed with OpenAI on terms that are free in the first phase and paid, at undisclosed prices, in the second. Each of the four puts a tool or a title on the record ahead of the specialists, money and authority needed to carry it. --- Top Stories **1. Philippines' Education Department Shows Project SABAY, a 15-Minute AI Screen for Learning and Speech Difficulties in Grade 2** The Philippine Department of Education (DepEd) presented Project SABAY, short for Screening using AI-Based Assistance for Young Children, on Wednesday, November 18, BusinessWorld and the Philippine News Agency reported the same day. It is a teacher-assisted application in which a Grade 2 learner works through story-driven, game-like speech tasks: naming pictures, word dictation, nons\u2026",
+      "rss_description": "Impact Signals #188: The Philippines' 15-Minute AI Screen for Grade 2 Learners, 46 US States With an AI Lead and No Budget, Malaysia's No-Internet Disaster Alerts, Chile's OpenAI Agreement The Philippine education department showed an AI tool that lets a teacher screen a Grade 2 child for learning and speech difficulties in about 15 minutes, in a country where 109 developmental specialists serve about five million learners with disabilities. In the United States, a first survey of state AI officials found that at least 46 states have named someone to direct AI and 56 percent of those surveyed have no budget for it. Malaysia tests disaster alerts on Thursday that reach a phone without internet, SMS or a phone number, and Chile signed with OpenAI on terms that are free in the first phase and paid, at undisclosed prices, in the second. Each of the four puts a tool or a title on the record ahead of the specialists, money and authority needed to carry it. --- Top Stories **1. Philippines' Education Department Shows Project SABAY, a 15-Minute AI Screen for Learning and Speech Difficulties in Grade 2** The Philippine Department of Education (DepEd) presented Project SABAY, short for Screening using AI-Based Assistance for Young Children, on Wednesday, November 18, BusinessWorld and the Philippine News Agency reported the same day. It is a teacher-assisted application in which a Grade 2 learner works through story-driven, game-like speech tasks: naming pictures, word dictation, nons\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-188/episode-188.mp3",
+      "mp3_bytes": 9487298,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-188/impact-signal-188.mp4",
+      "mp4_bytes": 58469587,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 592,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "November 19, 2026, per The Star on November 18",
+        "Location: Malaysia; the pilot was expected to focus on flood-risk areas including Selangor, Kuala Lumpur, Kelantan and Pahang",
+        "The end-to-end test ahead of nationwide operation expected by the end of 2026",
+        "Details: [thestar.com.my](https://www.thestar.com.my/news/nation/2026/11/18/disaster-alerts-coming-to-phones)",
+        "November 24, 2026 (date as listed by the Civil Liberties Union for Europe on November 12)",
+        "Location: Virtual",
+        "A European civil-society audit of how health AI is funded and governed",
+        "Details: [liberties.eu](https://www.liberties.eu/en/stories/ai-european-healthcare-interview-julia-keseru/45814)"
+      ],
+      "youtube_id": "0LBcQ8w-77Q",
+      "youtube_url": "https://www.youtube.com/watch?v=0LBcQ8w-77Q"
     }
   ],
-  "lastEpisode": 187,
-  "lastUpdated": "2026-11-17T13:44:24.470971+00:00",
-  "lastPublicEpisode": 187,
+  "lastEpisode": 188,
+  "lastUpdated": "2026-11-18T13:40:10.135965+00:00",
+  "lastPublicEpisode": 188,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }

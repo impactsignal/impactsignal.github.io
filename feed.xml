@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#187: OpenAI's Free Abuse-Image Classifier, the World Bank's Scorecard on AI Agents and National ID, Nigeria's 34 Million Learner Database</title>
+      <title>#188: The Philippines' 15-Minute AI Screen for Grade 2 Learners, 46 US States With an AI Lead and No Budget, Malaysia's No-Internet Disaster Alerts, Chile's OpenAI Agreement</title>
       <description />
+      <link>https://impactsignals.ai/episodes/188-the-philippines-15-minute-ai-screen-for-grade-2-learners-46-us-states-with-an-ai-lead/</link>
+      <guid isPermaLink="false">impact-signal-188</guid>
+      <pubDate>Wed, 18 Nov 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-188/episode-188.mp3" length="9487298" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#187: OpenAI's Free Abuse-Image Classifier, the World Bank's Scorecard on AI Agents and National ID, Nigeria's 34 Million Learner Database</title>
+      <description>Impact Signals #187: OpenAI's Free Abuse-Image Classifier, the World Bank's Scorecard on AI Agents and National ID, Nigeria's 34 Million Learner Database OpenAI is handing child-protection groups a free classifier for abuse images that have never been seen before, built with the US missing-children center, and the headline performance figure comes from the company's own early tests. The World Bank told governments that their national ID systems can prove who a person is but cannot yet prove what an AI agent is allowed to do on that person's behalf. Nigeria says a single federal database now holds 34 million learners, Los Angeles is surveying parents two months after banning student AI use, and the FAA's $875 million traffic-flow system went nationwide while an audit request sits pending. The thread through all five is who checks the machine, and in most of them the only numbers on record come from the party that built or bought it. --- Top Stories **1. OpenAI Gives Child-Safety Groups a Free Classifier for Abuse Images, Built With the US Missing-Children Center** OpenAI announced on Monday, November 16, a set of tools aimed at child sexual abuse material, TechCrunch reported the same day. The centerpiece is an image classifier that looks for visual signs of abuse in images that have never been seen before, including AI-generated ones, and scores each so human reviewers can decide what to look at first; most platforms rely instead on matching copies of images already in a dat…</description>
       <link>https://impactsignals.ai/episodes/187-openai-s-free-abuse-image-classifier-the-world-bank-s-scorecard-on-ai-agents-and-natio/</link>
       <guid isPermaLink="false">impact-signal-187</guid>
       <pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
