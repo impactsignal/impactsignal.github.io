@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 189,
+  "nextEpisode": 190,
   "episodes": [
     {
       "number": 1,
@@ -5908,10 +5908,43 @@
       ],
       "youtube_id": "0LBcQ8w-77Q",
       "youtube_url": "https://www.youtube.com/watch?v=0LBcQ8w-77Q"
+    },
+    {
+      "number": 189,
+      "date": "2026-11-19",
+      "title": "Impact Signals #189 \u2014 GAO Gets Attack Plans From All Four Top AI Chatbots, 33 Studies of AI Disease Surveillance and Almost No Live Evidence, New York's AI Enforcement Unit, 2,221 Barriers on 30 Indian Bank Websites",
+      "headline": "GAO Gets Attack Plans From All Four Top AI Chatbots, 33 Studies of AI Disease Surveillance and Almost No Live Evidence, New York's AI Enforcement Unit, 2,221 Barriers on 30 Indian Bank Websites",
+      "slug": "189-gao-gets-attack-plans-from-all-four-top-ai-chatbots-33-studies-of-ai-disease-surveilla",
+      "description": "Impact Signals #189: GAO Gets Attack Plans From All Four Top AI Chatbots, 33 Studies of AI Disease Surveillance and Almost No Live Evidence, New York's AI Enforcement Unit, 2,221 Barriers on 30 Indian Bank Websites Auditors from the US Government Accountability Office, posing as ordinary users, got viable attack plans out of Claude, Grok, ChatGPT and Gemini in under 12 hours each, after every one of the four first refused. A review of 33 studies in BMC Infectious Diseases finds that AI surveillance systems combining sewage and symptom data flag outbreaks earlier, and that almost none of that evidence comes from live use. New York's attorney general has named a unit and a leader to enforce an AI safety law that starts January 1, and a 17-year-old in Gurugram counted 2,221 accessibility barriers on the websites of 30 major Indian banks. In all four, someone checked a claim against a test and put the result on the record. --- Top Stories **1. US Government Auditors Get Viable Attack Plans From All Four of the Most Used AI Chatbots in Under 12 Hours Each** The US Government Accountability Office (GAO), the audit arm of Congress, on Wednesday, November 18, released a report titled \"Artificial Intelligence: Covert Testing Used Common Platforms to Create Viable Attack Plans.\" In spring 2026 its investigators submitted prompts to the four most used generative AI platforms as of April 2026: Claude, Grok, ChatGPT and Gemini. According to the report's highlights, two platforms produced\u2026",
+      "rss_description": "Impact Signals #189: GAO Gets Attack Plans From All Four Top AI Chatbots, 33 Studies of AI Disease Surveillance and Almost No Live Evidence, New York's AI Enforcement Unit, 2,221 Barriers on 30 Indian Bank Websites Auditors from the US Government Accountability Office, posing as ordinary users, got viable attack plans out of Claude, Grok, ChatGPT and Gemini in under 12 hours each, after every one of the four first refused. A review of 33 studies in BMC Infectious Diseases finds that AI surveillance systems combining sewage and symptom data flag outbreaks earlier, and that almost none of that evidence comes from live use. New York's attorney general has named a unit and a leader to enforce an AI safety law that starts January 1, and a 17-year-old in Gurugram counted 2,221 accessibility barriers on the websites of 30 major Indian banks. In all four, someone checked a claim against a test and put the result on the record. --- Top Stories **1. US Government Auditors Get Viable Attack Plans From All Four of the Most Used AI Chatbots in Under 12 Hours Each** The US Government Accountability Office (GAO), the audit arm of Congress, on Wednesday, November 18, released a report titled \"Artificial Intelligence: Covert Testing Used Common Platforms to Create Viable Attack Plans.\" In spring 2026 its investigators submitted prompts to the four most used generative AI platforms as of April 2026: Claude, Grok, ChatGPT and Gemini. According to the report's highlights, two platforms produced\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-189/episode-189.mp3",
+      "mp3_bytes": 9771092,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-189/impact-signal-189.mp4",
+      "mp4_bytes": 60416329,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 610,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "November 29, 2026, per the NST Online headline of November 19 (page not read)",
+        "Location: Malaysia",
+        "A nationwide public test following the cell broadcast alert story reported here on November 18",
+        "Details: [nst.com.my](https://www.nst.com.my/amp/news/nation/2026/11/1581330/nationwide-emergency-alert-test-set-nov-29)",
+        "January 1, 2027, per StateScoop and WRGB",
+        "Location: New York State, United States",
+        "Developers of certain advanced AI models must disclose safety practices and report serious incidents; the attorney general's new ASSET unit leads enforcement",
+        "Details: [statescoop.com](https://statescoop.com/new-york-attorney-general-creates-unit-to-oversee-ai-safety-and-enforcement/)"
+      ],
+      "youtube_id": "Vu-Jup_xKR8",
+      "youtube_url": "https://www.youtube.com/watch?v=Vu-Jup_xKR8"
     }
   ],
-  "lastEpisode": 188,
-  "lastUpdated": "2026-11-18T13:40:10.135965+00:00",
-  "lastPublicEpisode": 188,
+  "lastEpisode": 189,
+  "lastUpdated": "2026-11-19T13:40:14.021755+00:00",
+  "lastPublicEpisode": 189,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
