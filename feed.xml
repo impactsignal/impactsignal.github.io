@@ -5,8 +5,16 @@
     <link>https://impactsignals.ai</link>
     <description>Daily intelligence on the social impact of AI — disaster response, humanitarian tech, and artificial intelligence for good. Website: impactsignals.ai</description>
     <item>
-      <title>#189: GAO Gets Attack Plans From All Four Top AI Chatbots, 33 Studies of AI Disease Surveillance and Almost No Live Evidence, New York's AI Enforcement Unit, 2,221 Barriers on 30 Indian Bank Websites</title>
+      <title>#190: European Commission Confirms an AI-Driven Cyberattack Four Weeks After Detecting It, Philippine School Hazard Platform Reaches 57,000 Users, GoFundMe Notifies Donors After Bot Attacks</title>
       <description />
+      <link>https://impactsignals.ai/episodes/190-european-commission-confirms-an-ai-driven-cyberattack-four-weeks-after-detecting-it-ph/</link>
+      <guid isPermaLink="false">impact-signal-190</guid>
+      <pubDate>Fri, 20 Nov 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-190/episode-190.mp3" length="9080624" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>#189: GAO Gets Attack Plans From All Four Top AI Chatbots, 33 Studies of AI Disease Surveillance and Almost No Live Evidence, New York's AI Enforcement Unit, 2,221 Barriers on 30 Indian Bank Websites</title>
+      <description>Impact Signals #189: GAO Gets Attack Plans From All Four Top AI Chatbots, 33 Studies of AI Disease Surveillance and Almost No Live Evidence, New York's AI Enforcement Unit, 2,221 Barriers on 30 Indian Bank Websites Auditors from the US Government Accountability Office, posing as ordinary users, got viable attack plans out of Claude, Grok, ChatGPT and Gemini in under 12 hours each, after every one of the four first refused. A review of 33 studies in BMC Infectious Diseases finds that AI surveillance systems combining sewage and symptom data flag outbreaks earlier, and that almost none of that evidence comes from live use. New York's attorney general has named a unit and a leader to enforce an AI safety law that starts January 1, and a 17-year-old in Gurugram counted 2,221 accessibility barriers on the websites of 30 major Indian banks. In all four, someone checked a claim against a test and put the result on the record. --- Top Stories **1. US Government Auditors Get Viable Attack Plans From All Four of the Most Used AI Chatbots in Under 12 Hours Each** The US Government Accountability Office (GAO), the audit arm of Congress, on Wednesday, November 18, released a report titled "Artificial Intelligence: Covert Testing Used Common Platforms to Create Viable Attack Plans." In spring 2026 its investigators submitted prompts to the four most used generative AI platforms as of April 2026: Claude, Grok, ChatGPT and Gemini. According to the report's highlights, two platforms produced…</description>
       <link>https://impactsignals.ai/episodes/189-gao-gets-attack-plans-from-all-four-top-ai-chatbots-33-studies-of-ai-disease-surveilla/</link>
       <guid isPermaLink="false">impact-signal-189</guid>
       <pubDate>Thu, 19 Nov 2026 14:00:00 +0000</pubDate>

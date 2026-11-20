@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 190,
+  "nextEpisode": 191,
   "episodes": [
     {
       "number": 1,
@@ -5941,10 +5941,43 @@
       ],
       "youtube_id": "Vu-Jup_xKR8",
       "youtube_url": "https://www.youtube.com/watch?v=Vu-Jup_xKR8"
+    },
+    {
+      "number": 190,
+      "date": "2026-11-20",
+      "title": "Impact Signals #190 \u2014 European Commission Confirms an AI-Driven Cyberattack Four Weeks After Detecting It, Philippine School Hazard Platform Reaches 57,000 Users, GoFundMe Notifies Donors After Bot Attacks",
+      "headline": "European Commission Confirms an AI-Driven Cyberattack Four Weeks After Detecting It, Philippine School Hazard Platform Reaches 57,000 Users, GoFundMe Notifies Donors After Bot Attacks",
+      "slug": "190-european-commission-confirms-an-ai-driven-cyberattack-four-weeks-after-detecting-it-ph",
+      "description": "Impact Signals #190: European Commission Confirms an AI-Driven Cyberattack Four Weeks After Detecting It, Philippine School Hazard Platform Reaches 57,000 Users, GoFundMe Notifies Donors After Bot Attacks The European Commission confirmed on Thursday that a cyberattack built with a publicly available AI tool hit the systems its staff use for pay and medical claims, four weeks after detecting it and only once a news report had made it public. The Philippine education ministry put numbers on tools already in schools: 57,000 users of a hazard alert platform in about three months, and a dropout warning system headed to 300 schools in 2027. GoFundMe began notifying donors whose personal information was reached in the bot attacks on nonprofit fundraising platforms that this show reported on November 13. All three are accounts of what an institution says once an AI system has met the real world, and each one shows how much is still left unsaid. --- Top Stories **1. The European Commission Confirms an AI-Driven Cyberattack Four Weeks After Detecting It, With Staff Payroll and Medical-Claims Systems Taken Offline** The European Commission, the executive arm of the European Union, confirmed on Thursday, November 19, that it was the target of a cyberattack carried out with artificial intelligence tools. Spokesperson Thomas Regnier told reporters the attack was detected on October 22 and confirmed on October 26 after an initial investigation, Brussels Signal and Cyprus Inform both repor\u2026",
+      "rss_description": "Impact Signals #190: European Commission Confirms an AI-Driven Cyberattack Four Weeks After Detecting It, Philippine School Hazard Platform Reaches 57,000 Users, GoFundMe Notifies Donors After Bot Attacks The European Commission confirmed on Thursday that a cyberattack built with a publicly available AI tool hit the systems its staff use for pay and medical claims, four weeks after detecting it and only once a news report had made it public. The Philippine education ministry put numbers on tools already in schools: 57,000 users of a hazard alert platform in about three months, and a dropout warning system headed to 300 schools in 2027. GoFundMe began notifying donors whose personal information was reached in the bot attacks on nonprofit fundraising platforms that this show reported on November 13. All three are accounts of what an institution says once an AI system has met the real world, and each one shows how much is still left unsaid. --- Top Stories **1. The European Commission Confirms an AI-Driven Cyberattack Four Weeks After Detecting It, With Staff Payroll and Medical-Claims Systems Taken Offline** The European Commission, the executive arm of the European Union, confirmed on Thursday, November 19, that it was the target of a cyberattack carried out with artificial intelligence tools. Spokesperson Thomas Regnier told reporters the attack was detected on October 22 and confirmed on October 26 after an initial investigation, Brussels Signal and Cyprus Inform both repor\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-190/episode-190.mp3",
+      "mp3_bytes": 9080624,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-190/impact-signal-190.mp4",
+      "mp4_bytes": 56152213,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 567,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "November 24, 2026 (date as listed by the Civil Liberties Union for Europe on November 12; not re-checked today)",
+        "Location: Virtual",
+        "A European civil-society audit of how health AI is funded and governed",
+        "Details: [liberties.eu](https://www.liberties.eu/en/stories/ai-european-healthcare-interview-julia-keseru/45814)",
+        "November 29, 2026, per NST Online headlines of November 19 and 20 (page not read)",
+        "Location: Malaysia",
+        "A nationwide public test of the emergency alert system",
+        "Details: [nst.com.my](https://www.nst.com.my/amp/news/nation/2026/11/1581330/nationwide-emergency-alert-test-set-nov-29)"
+      ],
+      "youtube_id": "klAnQZwl6qQ",
+      "youtube_url": "https://www.youtube.com/watch?v=klAnQZwl6qQ"
     }
   ],
-  "lastEpisode": 189,
-  "lastUpdated": "2026-11-19T13:40:14.021755+00:00",
-  "lastPublicEpisode": 189,
+  "lastEpisode": 190,
+  "lastUpdated": "2026-11-20T13:38:35.295117+00:00",
+  "lastPublicEpisode": 190,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
