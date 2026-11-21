@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 191,
+  "nextEpisode": 192,
   "episodes": [
     {
       "number": 1,
@@ -5974,10 +5974,43 @@
       ],
       "youtube_id": "klAnQZwl6qQ",
       "youtube_url": "https://www.youtube.com/watch?v=klAnQZwl6qQ"
+    },
+    {
+      "number": 191,
+      "date": "2026-11-21",
+      "title": "Impact Signals #191 \u2014 New Mexico Seeks $1 Million for AI Wildfire Cameras, US Local Governments Told to Plan for Outages as Flaw Reports Quadruple, Common Space Names Its Humanitarian Satellite Builder, South Korea Sounds Its Disaster Alert on Exam Cheats",
+      "headline": "New Mexico Seeks $1 Million for AI Wildfire Cameras, US Local Governments Told to Plan for Outages as Flaw Reports Quadruple, Common Space Names Its Humanitarian Satellite Builder, South Korea Sounds Its Disaster Alert on Exam Cheats",
+      "slug": "191-new-mexico-seeks-1-million-for-ai-wildfire-cameras-us-local-governments-told-to-plan-f",
+      "description": "Impact Signals #191: New Mexico Seeks $1 Million for AI Wildfire Cameras, US Local Governments Told to Plan for Outages as Flaw Reports Quadruple, Common Space Names Its Humanitarian Satellite Builder, South Korea Sounds Its Disaster Alert on Exam Cheats New Mexico's state forester went before a budget committee this week and put a price on AI wildfire detection: $37,000 per camera per year, 59 cameras standing, 684 communities on the at-risk list, and a $1 million request to start closing that gap. The Center for Internet Security told US state and local governments to treat outages as routine now that AI-assisted flaw hunting has pushed monthly vulnerability disclosures from about 4,274 to 17,060 in a year. South Korea, meanwhile, sounded its national disaster alert three times in one day to flush hidden phones out of its college entrance exam. Today's signal is the unglamorous plumbing of warning and response, counted in cameras, patches, satellites and alert tones, with the limits of each figure stated alongside it. --- Top Stories **1. New Mexico's Forester Asks Lawmakers for $1 Million to Extend AI Smoke-Spotting Cameras Toward the State's 100 Most Fire-Prone Communities** New Mexico's Energy, Minerals and Natural Resources Department told the state's Legislative Finance Committee on Thursday, November 19, that it wants to expand a network of AI-enabled wildfire detection cameras to cover the state's 100 most wildfire-prone communities, Source New Mexico reported on Fr\u2026",
+      "rss_description": "Impact Signals #191: New Mexico Seeks $1 Million for AI Wildfire Cameras, US Local Governments Told to Plan for Outages as Flaw Reports Quadruple, Common Space Names Its Humanitarian Satellite Builder, South Korea Sounds Its Disaster Alert on Exam Cheats New Mexico's state forester went before a budget committee this week and put a price on AI wildfire detection: $37,000 per camera per year, 59 cameras standing, 684 communities on the at-risk list, and a $1 million request to start closing that gap. The Center for Internet Security told US state and local governments to treat outages as routine now that AI-assisted flaw hunting has pushed monthly vulnerability disclosures from about 4,274 to 17,060 in a year. South Korea, meanwhile, sounded its national disaster alert three times in one day to flush hidden phones out of its college entrance exam. Today's signal is the unglamorous plumbing of warning and response, counted in cameras, patches, satellites and alert tones, with the limits of each figure stated alongside it. --- Top Stories **1. New Mexico's Forester Asks Lawmakers for $1 Million to Extend AI Smoke-Spotting Cameras Toward the State's 100 Most Fire-Prone Communities** New Mexico's Energy, Minerals and Natural Resources Department told the state's Legislative Finance Committee on Thursday, November 19, that it wants to expand a network of AI-enabled wildfire detection cameras to cover the state's 100 most wildfire-prone communities, Source New Mexico reported on Fr\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-191/episode-191.mp3",
+      "mp3_bytes": 10323634,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-191/impact-signal-191.mp4",
+      "mp4_bytes": 62237116,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 645,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "November 24, 2026 (date as listed by the Civil Liberties Union for Europe on November 12; not re-checked today)",
+        "Location: Virtual",
+        "A European civil-society audit of how health AI is funded and governed",
+        "Details: [liberties.eu](https://www.liberties.eu/en/stories/ai-european-healthcare-interview-julia-keseru/45814)",
+        "November 29, 2026, per NST Online headlines of November 19 and 20 (page not read)",
+        "Location: Malaysia",
+        "A nationwide public test of the emergency alert system, ten days after South Korea's exam-day alerts",
+        "Details: [nst.com.my](https://www.nst.com.my/amp/news/nation/2026/11/1581330/nationwide-emergency-alert-test-set-nov-29)"
+      ],
+      "youtube_id": "6LNYZaLTl9U",
+      "youtube_url": "https://www.youtube.com/watch?v=6LNYZaLTl9U"
     }
   ],
-  "lastEpisode": 190,
-  "lastUpdated": "2026-11-20T13:38:35.295117+00:00",
-  "lastPublicEpisode": 190,
+  "lastEpisode": 191,
+  "lastUpdated": "2026-11-21T13:36:32.710301+00:00",
+  "lastPublicEpisode": 191,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
