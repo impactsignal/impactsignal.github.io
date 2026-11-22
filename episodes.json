@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 192,
+  "nextEpisode": 193,
   "episodes": [
     {
       "number": 1,
@@ -6007,10 +6007,43 @@
       ],
       "youtube_id": "6LNYZaLTl9U",
       "youtube_url": "https://www.youtube.com/watch?v=6LNYZaLTl9U"
+    },
+    {
+      "number": 192,
+      "date": "2026-11-22",
+      "title": "Impact Signals #192 \u2014 California's Expert Panel Recommends an Emergency AI Shutdown Power, Gates Foundation Puts $11.6 Million Into Offline AI Ultrasound, Anthropic's Listing Prices Its Giving Pledges, Somali Researchers Count What Happens After an Outbreak Alert",
+      "headline": "California's Expert Panel Recommends an Emergency AI Shutdown Power, Gates Foundation Puts $11.6 Million Into Offline AI Ultrasound, Anthropic's Listing Prices Its Giving Pledges, Somali Researchers Count What Happens After an Outbreak Alert",
+      "slug": "192-california-s-expert-panel-recommends-an-emergency-ai-shutdown-power-gates-foundation-p",
+      "description": "Impact Signals #192: California's Expert Panel Recommends an Emergency AI Shutdown Power, Gates Foundation Puts $11.6 Million Into Offline AI Ultrasound, Anthropic's Listing Prices Its Giving Pledges, Somali Researchers Count What Happens After an Outbreak Alert The expert panel California ordered in September has reported back, and its headline proposal is a power the state does not hold today: authority to order an AI system shut down in an emergency, with the window for reporting critical incidents cut from 15 days to 48 hours. The Gates Foundation put $11.6 million behind a handheld ultrasound whose AI runs on the device with no internet connection, and Anthropic's stock listing turned its founders' giving pledge into a figure, $112 billion at the offer price, that mostly cannot move until spring. From Mogadishu, a review paper counts what follows an outbreak warning: 13,737 alerts in Nigeria's Borno State, 16 of which needed a response. Today's signal is the distance between a commitment on paper and a result on the ground, measured in each case by what has not happened yet. --- Top Stories **1. California's Expert Panel Recommends Giving the State Power to Order an AI System Shut Down in an Emergency and Cutting Incident Reporting From 15 Days to 48 Hours** This is a new development in a story this show reported on September 19, when California's governor signed an executive order giving state officials and outside experts until November 16 to recommend changes to the\u2026",
+      "rss_description": "Impact Signals #192: California's Expert Panel Recommends an Emergency AI Shutdown Power, Gates Foundation Puts $11.6 Million Into Offline AI Ultrasound, Anthropic's Listing Prices Its Giving Pledges, Somali Researchers Count What Happens After an Outbreak Alert The expert panel California ordered in September has reported back, and its headline proposal is a power the state does not hold today: authority to order an AI system shut down in an emergency, with the window for reporting critical incidents cut from 15 days to 48 hours. The Gates Foundation put $11.6 million behind a handheld ultrasound whose AI runs on the device with no internet connection, and Anthropic's stock listing turned its founders' giving pledge into a figure, $112 billion at the offer price, that mostly cannot move until spring. From Mogadishu, a review paper counts what follows an outbreak warning: 13,737 alerts in Nigeria's Borno State, 16 of which needed a response. Today's signal is the distance between a commitment on paper and a result on the ground, measured in each case by what has not happened yet. --- Top Stories **1. California's Expert Panel Recommends Giving the State Power to Order an AI System Shut Down in an Emergency and Cutting Incident Reporting From 15 Days to 48 Hours** This is a new development in a story this show reported on September 19, when California's governor signed an executive order giving state officials and outside experts until November 16 to recommend changes to the\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-192/episode-192.mp3",
+      "mp3_bytes": 10548496,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-192/impact-signal-192.mp4",
+      "mp4_bytes": 63961977,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 659,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "[gov.ca.gov](https://www.gov.ca.gov/2026/11/18/governor-newsoms-nation-leading-ai-safety-framework-is-getting-even-stronger-as-california-releases-next-steps-on-mandatory-safety-standards-and-oversight/)",
+        "[lbpost.com](https://lbpost.com/news/state/ai-kill-switch-openai-anthropic-california-governor)",
+        "[aa.com.tr](https://aa.com.tr/en/americas/california-proposes-emergency-powers-to-shut-down-high-risk-ai-models/4132574)",
+        "[statescoop.com](https://statescoop.com/newsom-moves-to-speed-up-independent-ai-oversight-in-california-with-new-executive-order/)",
+        "[news.google.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPUm1VVHFzUzVTTXU4QUMtU21QeF9XYVkzcWhfblRvVzhFMFhrdWtJZmdaUWZtX2NyMmRnSnFCYVkwckE2bUNmY2FSUWgxLVNBN1lHQ1BUZmNHcS1LaFlsOG5EeGZJYi1EZ0tmSjI2RTJZRkJlZTRmMnFHejAtY0tBQlkyLTQwcHFUN1otTGVFWEpMMzJZUHZsdDY1ZEt3MHc2UW5jdEZ6dmJ3eWZoMGw0YQ?oc=5)",
+        "[medicaldevice-network.com](https://www.medicaldevice-network.com/news/exo-lands-11-m-gates-foundation-grant-to-expand-ultrasound-access/)",
+        "[insidephilanthropy.com](https://www.insidephilanthropy.com/home/the-philanthropy-wire-november-20-2026)",
+        "[financialcontent.com](https://www.financialcontent.com/article/bizwire-2026-11-19-exo-receives-116-million-grant-to-expand-access-to-ai-powered-ultrasound)"
+      ],
+      "youtube_id": "CMQ7NkhO494",
+      "youtube_url": "https://www.youtube.com/watch?v=CMQ7NkhO494"
     }
   ],
-  "lastEpisode": 191,
-  "lastUpdated": "2026-11-21T13:36:32.710301+00:00",
-  "lastPublicEpisode": 191,
+  "lastEpisode": 192,
+  "lastUpdated": "2026-11-22T16:10:57.896923+00:00",
+  "lastPublicEpisode": 192,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
