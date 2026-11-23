@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 193,
+  "nextEpisode": 194,
   "episodes": [
     {
       "number": 1,
@@ -6040,10 +6040,43 @@
       ],
       "youtube_id": "CMQ7NkhO494",
       "youtube_url": "https://www.youtube.com/watch?v=CMQ7NkhO494"
+    },
+    {
+      "number": 193,
+      "date": "2026-11-23",
+      "title": "Impact Signals #193 \u2014 Watch Duty's Gemini Radio Tool Flags a Fresh Fire Dispatch in Under 30 Seconds, South Korea's Education Minister Resigns Over AI Exam Cheating, AidFinder Pitches States an AI Layer for Disaster Aid, India's Cyber Agency Reports AI-Assisted Payment Fraud",
+      "headline": "Watch Duty's Gemini Radio Tool Flags a Fresh Fire Dispatch in Under 30 Seconds, South Korea's Education Minister Resigns Over AI Exam Cheating, AidFinder Pitches States an AI Layer for Disaster Aid, India's Cyber Agency Reports AI-Assisted Payment Fraud",
+      "slug": "193-watch-duty-s-gemini-radio-tool-flags-a-fresh-fire-dispatch-in-under-30-seconds-south-k",
+      "description": "Impact Signals #193: Watch Duty's Gemini Radio Tool Flags a Fresh Fire Dispatch in Under 30 Seconds, South Korea's Education Minister Resigns Over AI Exam Cheating, AidFinder Pitches States an AI Layer for Disaster Aid, India's Cyber Agency Reports AI-Assisted Payment Fraud Watch Duty, the volunteer-run wildfire alert nonprofit, now has published operating numbers for the AI that listens to its fire radio feeds: about 400 feeds transcribed, a fresh dispatch flagged in under 30 seconds, and a word error rate that still sits above 22 percent on bad audio. In Seoul, Education Minister Choi Kyo-jin resigned three days after the college entrance exam, saying the ministry was not prepared for AI cheating, after anti-cheating rules were announced two days before the test. In Miami, a Palisades fire survivor is pitching states an AI tool to match disaster survivors with aid programs, and it has no customer and no users yet. Today's signal is the distance between a tool that has been measured in use and a tool that has only been described. --- Top Stories **1. Watch Duty's Gemini Tool Turns Static-Filled Fire Radio Into Text and Flags a Fresh Dispatch in Under 30 Seconds, With More Than One Word in Five Still Wrong on Degraded Audio** Watch Duty is a US nonprofit wildfire alert app run by active and retired firefighters, dispatchers and first responders, whose volunteer reporters listen to public fire radio, verify what they hear and push alerts. On Friday, November 20, Google publis\u2026",
+      "rss_description": "Impact Signals #193: Watch Duty's Gemini Radio Tool Flags a Fresh Fire Dispatch in Under 30 Seconds, South Korea's Education Minister Resigns Over AI Exam Cheating, AidFinder Pitches States an AI Layer for Disaster Aid, India's Cyber Agency Reports AI-Assisted Payment Fraud Watch Duty, the volunteer-run wildfire alert nonprofit, now has published operating numbers for the AI that listens to its fire radio feeds: about 400 feeds transcribed, a fresh dispatch flagged in under 30 seconds, and a word error rate that still sits above 22 percent on bad audio. In Seoul, Education Minister Choi Kyo-jin resigned three days after the college entrance exam, saying the ministry was not prepared for AI cheating, after anti-cheating rules were announced two days before the test. In Miami, a Palisades fire survivor is pitching states an AI tool to match disaster survivors with aid programs, and it has no customer and no users yet. Today's signal is the distance between a tool that has been measured in use and a tool that has only been described. --- Top Stories **1. Watch Duty's Gemini Tool Turns Static-Filled Fire Radio Into Text and Flags a Fresh Dispatch in Under 30 Seconds, With More Than One Word in Five Still Wrong on Degraded Audio** Watch Duty is a US nonprofit wildfire alert app run by active and retired firefighters, dispatchers and first responders, whose volunteer reporters listen to public fire radio, verify what they hear and push alerts. On Friday, November 20, Google publis\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-193/episode-193.mp3",
+      "mp3_bytes": 11126534,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-193/impact-signal-193.mp4",
+      "mp4_bytes": 67609857,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 695,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Deadline: November 29, 2026 (the funder's release says applications \"close on November 29, 2026\")",
+        "Amount: $50 million program; grants of $500,000 to $2 million",
+        "Eligibility: nonprofit and civil society institutions working with city governments on public health, economic mobility, environmental resilience or civic engagement (global open call)",
+        "Launched October 14, 2026; listed here as a deadline six days out",
+        "Apply: [rockefellerfoundation.org](https://www.rockefellerfoundation.org/news/rockefeller-openai-50-million-partnership-cities-improve-public-services-ai)",
+        "December 11, 2026",
+        "The education ministry's examination misconduct committee is due to decide penalties for the 111 device cases before scores are released (The Korea Herald)",
+        "Source: [koreaherald.com](https://www.koreaherald.com/article/10945089)"
+      ],
+      "youtube_id": "khj9gnYm7vE",
+      "youtube_url": "https://www.youtube.com/watch?v=khj9gnYm7vE"
     }
   ],
-  "lastEpisode": 192,
-  "lastUpdated": "2026-11-22T16:10:57.896923+00:00",
-  "lastPublicEpisode": 192,
+  "lastEpisode": 193,
+  "lastUpdated": "2026-11-23T13:40:21.412414+00:00",
+  "lastPublicEpisode": 193,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
