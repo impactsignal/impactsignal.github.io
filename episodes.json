@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 194,
+  "nextEpisode": 195,
   "episodes": [
     {
       "number": 1,
@@ -6073,10 +6073,43 @@
       ],
       "youtube_id": "khj9gnYm7vE",
       "youtube_url": "https://www.youtube.com/watch?v=khj9gnYm7vE"
+    },
+    {
+      "number": 194,
+      "date": "2026-11-24",
+      "title": "Impact Signals #194 \u2014 A Raleigh Landlord's AI Agent Promised a Tenant More Time and She Was Evicted Anyway, Fifteen Countries Train to Check AI Weather Models Themselves, Morocco Tests a National Phone Alert System, FEMA Writes Limits Into an AI Fraud-Screening Request",
+      "headline": "A Raleigh Landlord's AI Agent Promised a Tenant More Time and She Was Evicted Anyway, Fifteen Countries Train to Check AI Weather Models Themselves, Morocco Tests a National Phone Alert System, FEMA Writes Limits Into an AI Fraud-Screening Request",
+      "slug": "194-a-raleigh-landlord-s-ai-agent-promised-a-tenant-more-time-and-she-was-evicted-anyway-f",
+      "description": "Impact Signals #194: A Raleigh Landlord's AI Agent Promised a Tenant More Time and She Was Evicted Anyway, Fifteen Countries Train to Check AI Weather Models Themselves, Morocco Tests a National Phone Alert System, FEMA Writes Limits Into an AI Fraud-Screening Request In Raleigh, North Carolina, a landlord's AI agent told a tenant in writing that she could pay $3,934.17 in back rent on November 30, and she was evicted on November 19; the leasing office, by her account, called the agent's answer a mistake. In Abu Dhabi, weather and agriculture agencies from 15 countries spent a week learning to run and verify AI forecast models themselves before any advisory reaches a farmer, and in Washington, FEMA asked vendors for AI fraud-screening tools while writing into the request that those tools may not decide anyone's eligibility. Morocco, meanwhile, begins field tests of a national phone alert system today and is telling residents of six provinces that the messages are only a test. Today's signal is who answers for what an automated system tells a person. --- Top Stories **1. A Raleigh Landlord's AI Agent Told a Tenant in Writing She Could Pay $3,934 in Back Rent on November 30, and She Was Evicted on November 19** Laura Mack rents at Colony Townhome Apartments in Raleigh, North Carolina, and was behind on rent. On November 8 she received an email signed \"Colony Townhome Apartments\" that asked, \"What date works for you to pay the full $3,934.17?\" She answered that she would like t\u2026",
+      "rss_description": "Impact Signals #194: A Raleigh Landlord's AI Agent Promised a Tenant More Time and She Was Evicted Anyway, Fifteen Countries Train to Check AI Weather Models Themselves, Morocco Tests a National Phone Alert System, FEMA Writes Limits Into an AI Fraud-Screening Request In Raleigh, North Carolina, a landlord's AI agent told a tenant in writing that she could pay $3,934.17 in back rent on November 30, and she was evicted on November 19; the leasing office, by her account, called the agent's answer a mistake. In Abu Dhabi, weather and agriculture agencies from 15 countries spent a week learning to run and verify AI forecast models themselves before any advisory reaches a farmer, and in Washington, FEMA asked vendors for AI fraud-screening tools while writing into the request that those tools may not decide anyone's eligibility. Morocco, meanwhile, begins field tests of a national phone alert system today and is telling residents of six provinces that the messages are only a test. Today's signal is who answers for what an automated system tells a person. --- Top Stories **1. A Raleigh Landlord's AI Agent Told a Tenant in Writing She Could Pay $3,934 in Back Rent on November 30, and She Was Evicted on November 19** Laura Mack rents at Colony Townhome Apartments in Raleigh, North Carolina, and was behind on rent. On November 8 she received an email signed \"Colony Townhome Apartments\" that asked, \"What date works for you to pay the full $3,934.17?\" She answered that she would like t\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-194/episode-194.mp3",
+      "mp3_bytes": 9065577,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-194/impact-signal-194.mp4",
+      "mp4_bytes": 56657939,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 566,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Deadline: November 29, 2026 (the funder's release says applications \"close on November 29, 2026\")",
+        "Amount: $50 million program; grants of $500,000 to $2 million",
+        "Eligibility: nonprofit and civil society institutions working with city governments on public health, economic mobility, environmental resilience or civic engagement (global open call)",
+        "Launched October 14, 2026; listed here as a deadline five days out",
+        "Apply: [rockefellerfoundation.org](https://www.rockefellerfoundation.org/news/rockefeller-openai-50-million-partnership-cities-improve-public-services-ai/)",
+        "November 24 to 26, 2026",
+        "Location: Midelt, El Jadida, Taourirt, Khenifra, El Hajeb and Ifrane provinces, Morocco",
+        "Test messages only, per the Ministry of Interior; the ministry expects the system in service in December after the results are assessed"
+      ],
+      "youtube_id": "i2gI_TgKBQs",
+      "youtube_url": "https://www.youtube.com/watch?v=i2gI_TgKBQs"
     }
   ],
-  "lastEpisode": 193,
-  "lastUpdated": "2026-11-23T13:40:21.412414+00:00",
-  "lastPublicEpisode": 193,
+  "lastEpisode": 194,
+  "lastUpdated": "2026-11-24T13:41:11.719484+00:00",
+  "lastPublicEpisode": 194,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
