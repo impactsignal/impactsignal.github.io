@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 195,
+  "nextEpisode": 196,
   "episodes": [
     {
       "number": 1,
@@ -6106,10 +6106,43 @@
       ],
       "youtube_id": "i2gI_TgKBQs",
       "youtube_url": "https://www.youtube.com/watch?v=i2gI_TgKBQs"
+    },
+    {
+      "number": 195,
+      "date": "2026-11-25",
+      "title": "Impact Signals #195 \u2014 England Enrolls the First Women in a 700,000-Person Trial of AI Breast Screening, India Shows AI Tuberculosis X-Rays at a Trade Fair Without a Screening Count, a Wildfire-Detection Company Raises $43 Million on Its Own Alert Figures, Kenyan Cancer Doctors Say Patient Records Come First",
+      "headline": "England Enrolls the First Women in a 700,000-Person Trial of AI Breast Screening, India Shows AI Tuberculosis X-Rays at a Trade Fair Without a Screening Count, a Wildfire-Detection Company Raises $43 Million on Its Own Alert Figures, Kenyan Cancer Doctors Say Patient Records Come First",
+      "slug": "195-england-enrolls-the-first-women-in-a-700-000-person-trial-of-ai-breast-screening-india",
+      "description": "Impact Signals #195: England Enrolls the First Women in a 700,000-Person Trial of AI Breast Screening, India Shows AI Tuberculosis X-Rays at a Trade Fair Without a Screening Count, a Wildfire-Detection Company Raises $43 Million on Its Own Alert Figures, Kenyan Cancer Doctors Say Patient Records Come First In Cambridgeshire, England, the first women have joined EDITH, a trial that will put an AI mammogram reader in front of nearly 700,000 women at 30 sites and report what it finds before the health service decides whether to adopt it. In New Delhi, India's health ministry is offering AI tuberculosis X-rays at a national trade fair and has published 12,189 stall visits, with no count of people scanned, flagged or confirmed. In Vancouver, the wildfire-detection company SenseNet raised $43 million on a figure of 10,000 early alerts that only the company has published, and in Mombasa, Kenyan cancer specialists said AI diagnosis will do little until a patient's record can travel from one hospital to the next. Today's signal is the distance between switching an AI screening tool on and publishing what it found. --- Top Stories **1. The First Women Join EDITH, the World's Largest Trial of AI in Breast Cancer Screening: Nearly 700,000 Expected Across 30 UK Sites, With a Human Radiologist on Every Scan and an Opt-Out in the Invitation Letter** Women invited for routine NHS breast screening in Cambridgeshire, England, became the first participants in a national trial called EDITH on M\u2026",
+      "rss_description": "Impact Signals #195: England Enrolls the First Women in a 700,000-Person Trial of AI Breast Screening, India Shows AI Tuberculosis X-Rays at a Trade Fair Without a Screening Count, a Wildfire-Detection Company Raises $43 Million on Its Own Alert Figures, Kenyan Cancer Doctors Say Patient Records Come First In Cambridgeshire, England, the first women have joined EDITH, a trial that will put an AI mammogram reader in front of nearly 700,000 women at 30 sites and report what it finds before the health service decides whether to adopt it. In New Delhi, India's health ministry is offering AI tuberculosis X-rays at a national trade fair and has published 12,189 stall visits, with no count of people scanned, flagged or confirmed. In Vancouver, the wildfire-detection company SenseNet raised $43 million on a figure of 10,000 early alerts that only the company has published, and in Mombasa, Kenyan cancer specialists said AI diagnosis will do little until a patient's record can travel from one hospital to the next. Today's signal is the distance between switching an AI screening tool on and publishing what it found. --- Top Stories **1. The First Women Join EDITH, the World's Largest Trial of AI in Breast Cancer Screening: Nearly 700,000 Expected Across 30 UK Sites, With a Human Radiologist on Every Scan and an Opt-Out in the Invitation Letter** Women invited for routine NHS breast screening in Cambridgeshire, England, became the first participants in a national trial called EDITH on M\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-195/episode-195.mp3",
+      "mp3_bytes": 9868059,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-195/impact-signal-195.mp4",
+      "mp4_bytes": 60660850,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 616,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "Through November 27, 2026 (per Medical Dialogues and Tech Times)",
+        "Location: Bharat Mandapam, New Delhi",
+        "Ticketed public entry; no registration deadline stated. The pavilion is the subject of story 2, and no screening count had been published as of November 22",
+        "Source: [techtimes.com](https://www.techtimes.com/articles/331277/20261122/indias-tb-stall-logged-12189-visits-published-no-ai-screening-count.htm)",
+        "Malaysia, nationwide test of the MySiren phone alert system:** November 29, 2026, per headlines from Malaysian outlets; not confirmed on a government page.",
+        "Meta AI Impact Grant (Africa, Middle East and T\u00fcrkiye):** $700,000 in total across seven countries (Nigeria, Egypt, Kenya, South Africa, Saudi Arabia, T\u00fcrkiye, UAE), announced November 24 in Istanbul, to start in 2027. Selection process, per-country split and application dates are not published in the coverage read. [techbuild.africa](https://techbuild.africa/meta-ai-impact-grant-africa-middle-east-turkiye/)",
+        "Gates Foundation AI Fellows, first Africa-based cohort:** a 12-month fellowship reported November 24 by Global South Opportunities; deadline and terms not confirmed on the foundation's page.",
+        "Mozilla Foundation Fellowship for Better Technology Futures:** open call listed by fundsforNGOs on November 24; deadline not confirmed on Mozilla's page."
+      ],
+      "youtube_id": "--EU86LuJcE",
+      "youtube_url": "https://www.youtube.com/watch?v=--EU86LuJcE"
     }
   ],
-  "lastEpisode": 194,
-  "lastUpdated": "2026-11-24T13:41:11.719484+00:00",
-  "lastPublicEpisode": 194,
+  "lastEpisode": 195,
+  "lastUpdated": "2026-11-25T13:37:50.915765+00:00",
+  "lastPublicEpisode": 195,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
