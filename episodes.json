@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 196,
+  "nextEpisode": 197,
   "episodes": [
     {
       "number": 1,
@@ -6139,10 +6139,43 @@
       ],
       "youtube_id": "--EU86LuJcE",
       "youtube_url": "https://www.youtube.com/watch?v=--EU86LuJcE"
+    },
+    {
+      "number": 196,
+      "date": "2026-11-26",
+      "title": "Impact Signals #196 \u2014 A Vancouver Company Says Its AI Has Mapped Disaster Risk for Every British Columbia Community While the Regional District It Names Says Nobody Called, Goa Plans an AI History-Taking Chatbot for Its Main Public Hospital Before the Agreement Is Signed, the University of Indianapolis Gets $8.5 Million to Bring AI Help to Nonprofits",
+      "headline": "A Vancouver Company Says Its AI Has Mapped Disaster Risk for Every British Columbia Community While the Regional District It Names Says Nobody Called, Goa Plans an AI History-Taking Chatbot for Its Main Public Hospital Before the Agreement Is Signed, the University of Indianapolis Gets $8.5 Million to Bring AI Help to Nonprofits",
+      "slug": "196-a-vancouver-company-says-its-ai-has-mapped-disaster-risk-for-every-british-columbia-co",
+      "description": "Impact Signals #196: A Vancouver Company Says Its AI Has Mapped Disaster Risk for Every British Columbia Community While the Regional District It Names Says Nobody Called, Goa Plans an AI History-Taking Chatbot for Its Main Public Hospital Before the Agreement Is Signed, the University of Indianapolis Gets $8.5 Million to Bring AI Help to Nonprofits In British Columbia, the Vancouver company UrbanLogiq says its AI has already mapped wildfire, flood and landslide risk for every community in the province, five weeks before a provincial assessment rule takes effect, and the regional district it names told Castanet Kamloops that nobody from the company has been in touch. In Goa, India, the health minister described a chatbot that would take a patient's history before the doctor does at the state's main public teaching hospital, with the agreement to run it still unsigned. In Indianapolis, a university received $8.5 million from Lilly Endowment to rebuild courses around AI and open a center offering AI consulting to small businesses and nonprofits that cannot staff it themselves. Today's signal is the gap between an AI tool being offered to a public institution and that institution saying yes. --- Top Stories **1. UrbanLogiq Says Its AI Has Mapped Disaster Risk for Every Community in British Columbia Ahead of a January 1 Assessment Rule; the Regional District It Names Says It Was Never Contacted, and Kamloops Says It Is Still Comparing Options** Castanet Kamloops reported on Wedn\u2026",
+      "rss_description": "Impact Signals #196: A Vancouver Company Says Its AI Has Mapped Disaster Risk for Every British Columbia Community While the Regional District It Names Says Nobody Called, Goa Plans an AI History-Taking Chatbot for Its Main Public Hospital Before the Agreement Is Signed, the University of Indianapolis Gets $8.5 Million to Bring AI Help to Nonprofits In British Columbia, the Vancouver company UrbanLogiq says its AI has already mapped wildfire, flood and landslide risk for every community in the province, five weeks before a provincial assessment rule takes effect, and the regional district it names told Castanet Kamloops that nobody from the company has been in touch. In Goa, India, the health minister described a chatbot that would take a patient's history before the doctor does at the state's main public teaching hospital, with the agreement to run it still unsigned. In Indianapolis, a university received $8.5 million from Lilly Endowment to rebuild courses around AI and open a center offering AI consulting to small businesses and nonprofits that cannot staff it themselves. Today's signal is the gap between an AI tool being offered to a public institution and that institution saying yes. --- Top Stories **1. UrbanLogiq Says Its AI Has Mapped Disaster Risk for Every Community in British Columbia Ahead of a January 1 Assessment Rule; the Regional District It Names Says It Was Never Contacted, and Kamloops Says It Is Still Comparing Options** Castanet Kamloops reported on Wedn\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-196/episode-196.mp3",
+      "mp3_bytes": 7065225,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-196/impact-signal-196.mp4",
+      "mp4_bytes": 44968977,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 441,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "December 1, 2026 (per the Detroit Free Press, November 18, 2026)",
+        "Location: selected men's prisons in Michigan; the department has not named them",
+        "The system, built with the nonprofit Recidiviz, scores security levels for about 32,000 incarcerated people. Recidiviz says it is a fixed points formula and that it is not AI, and two of three experts the Detroit Free Press interviewed questioned that claim",
+        "Source: [yahoo.com](https://www.yahoo.com/news/us/articles/mdoc-says-software-classify-prisoners-153016591.html)",
+        "January 1, 2027 (per Castanet Kamloops, November 25, 2026)",
+        "Location: British Columbia, Canada",
+        "Local governments have five years to comply; the rule is the subject of story 1, and the regional district quoted there is still waiting for the province to confirm what it will look like",
+        "Source: [castanetkamloops.net](https://www.castanetkamloops.net/news/Kamloops/638947/New-AI-disaster-mapping-tool-aims-to-help-B-C-local-governments-assess-hazards)"
+      ],
+      "youtube_id": "B_27GdhCcEA",
+      "youtube_url": "https://www.youtube.com/watch?v=B_27GdhCcEA"
     }
   ],
-  "lastEpisode": 195,
-  "lastUpdated": "2026-11-25T13:37:50.915765+00:00",
-  "lastPublicEpisode": 195,
+  "lastEpisode": 196,
+  "lastUpdated": "2026-11-26T13:35:03.893111+00:00",
+  "lastPublicEpisode": 196,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
