@@ -25,7 +25,7 @@
     "website": "https://impactsignals.ai",
     "copyright": "\u00a9 2026 Impact Signals AI"
   },
-  "nextEpisode": 197,
+  "nextEpisode": 198,
   "episodes": [
     {
       "number": 1,
@@ -6172,10 +6172,43 @@
       ],
       "youtube_id": "B_27GdhCcEA",
       "youtube_url": "https://www.youtube.com/watch?v=B_27GdhCcEA"
+    },
+    {
+      "number": 197,
+      "date": "2026-11-27",
+      "title": "Impact Signals #197 \u2014 AI Floods US Public Records Offices From Both Sides While States Pass Laws That Make It Easier to Say No, England Issues Its First National Guidance on AI in Social Care, Connecticut Police Have One Statewide AI Rule Between Them, North West Ambulance Service Extends Its AI Note-Taking Trial to May 2027",
+      "headline": "AI Floods US Public Records Offices From Both Sides While States Pass Laws That Make It Easier to Say No, England Issues Its First National Guidance on AI in Social Care, Connecticut Police Have One Statewide AI Rule Between Them, North West Ambulance Service Extends Its AI Note-Taking Trial to May 2027",
+      "slug": "197-ai-floods-us-public-records-offices-from-both-sides-while-states-pass-laws-that-make-i",
+      "description": "Impact Signals #197: AI Floods US Public Records Offices From Both Sides While States Pass Laws That Make It Easier to Say No, England Issues Its First National Guidance on AI in Social Care, Connecticut Police Have One Statewide AI Rule Between Them, North West Ambulance Service Extends Its AI Note-Taking Trial to May 2027 MIT Technology Review reports that US public records offices are being swamped from two directions, by startups that file thousands of requests a day to sell the results and by residents whose chatbots draft the requests and the appeals, and that more than 20 state and federal measures now give agencies new grounds to refuse. In England, two government departments published the first national guidance on AI in children's and adult social care, which says AI may draft a case record and should not make a decision about a person. In Connecticut, the only statewide control on police use of AI is a prosecutors' pause on AI-written criminal reports, and New Haven tested a report-drafting tool with no AI policy of its own. Today's signal is the written record: once software is writing one side of it, the safeguard on offer in every case is a person who reads the draft. --- Top Stories **1. AI Is Flooding America's Public Records Offices From Two Directions: Startups That Have Raised More Than $100 Million File Thousands of Requests a Day to Sell the Results, Pennsylvania's Appeals Have Doubled Since 2021, and States Are Answering With Laws That Make It Easier to\u2026",
+      "rss_description": "Impact Signals #197: AI Floods US Public Records Offices From Both Sides While States Pass Laws That Make It Easier to Say No, England Issues Its First National Guidance on AI in Social Care, Connecticut Police Have One Statewide AI Rule Between Them, North West Ambulance Service Extends Its AI Note-Taking Trial to May 2027 MIT Technology Review reports that US public records offices are being swamped from two directions, by startups that file thousands of requests a day to sell the results and by residents whose chatbots draft the requests and the appeals, and that more than 20 state and federal measures now give agencies new grounds to refuse. In England, two government departments published the first national guidance on AI in children's and adult social care, which says AI may draft a case record and should not make a decision about a person. In Connecticut, the only statewide control on police use of AI is a prosecutors' pause on AI-written criminal reports, and New Haven tested a report-drafting tool with no AI policy of its own. Today's signal is the written record: once software is writing one side of it, the safeguard on offer in every case is a person who reads the draft. --- Top Stories **1. AI Is Flooding America's Public Records Offices From Two Directions: Startups That Have Raised More Than $100 Million File Thousands of Requests a Day to Sell the Results, Pennsylvania's Appeals Have Doubled Since 2021, and States Are Answering With Laws That Make It Easier to\u2026",
+      "mp3_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-197/episode-197.mp3",
+      "mp3_bytes": 10914211,
+      "mp4_url": "https://github.com/impactsignal/impactsignal.github.io/releases/download/ep-197/impact-signal-197.mp4",
+      "mp4_bytes": 66387716,
+      "status": "published",
+      "pipeline_status": "published_by_canonical_daily_package",
+      "duration_seconds": 682,
+      "keywords": [
+        "ai for social impact",
+        "humanitarian ai",
+        "disaster response ai"
+      ],
+      "stories": [
+        "December 1, 2026 (per the Detroit Free Press, November 18, 2026; not re-verified today)",
+        "Location: selected men's prisons in Michigan",
+        "Starts December 2026 and runs three months (per Korea JoongAng Daily, November 27, 2026; no start day given)",
+        "Location: South Korea",
+        "The Personal Information Protection Commission logged 1,019 personal data breach reports from January to October (271 public sector, 748 private), against 447 in all of 2025",
+        "Source: [koreajoongangdaily.com](https://www.koreajoongangdaily.com/korea/korea-launches-emergency-response-as-aipowered-hacking-surges/12994712)",
+        "January 1, 2027 (per Castanet Kamloops, November 25, 2026)",
+        "Location: British Columbia, Canada"
+      ],
+      "youtube_id": "O7QzTFx4ZnQ",
+      "youtube_url": "https://www.youtube.com/watch?v=O7QzTFx4ZnQ"
     }
   ],
-  "lastEpisode": 196,
-  "lastUpdated": "2026-11-26T13:35:03.893111+00:00",
-  "lastPublicEpisode": 196,
+  "lastEpisode": 197,
+  "lastUpdated": "2026-11-27T13:37:38.985088+00:00",
+  "lastPublicEpisode": 197,
   "counter_reset_note": "Reset 20260510T214514Z: YouTube-visible latest is #55; local >=56 moved to unpublished ledger, not deleted."
 }
